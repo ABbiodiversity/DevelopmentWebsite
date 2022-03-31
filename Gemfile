@@ -15,3 +15,11 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+gem "sdbm", "~> 1.0"
+
+gem "webrick", "~> 1.7"
+
+gem "net-telnet", "~> 0.2.0"
+
+gem "xmlrpc", "~> 0.3.2"
