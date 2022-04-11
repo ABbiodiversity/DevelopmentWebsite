@@ -62,28 +62,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.abmi.ca/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ABbiodiversity"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ABbiodiversity"
 
 defaults:
   # _posts
@@ -111,3 +99,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Google Form comments  
+comment-post: https://forms.gle/HycX1Nxribj4pFtg7
+comment-read: https://docs.google.com/spreadsheets/d/1YS4cg2nUK7OmyQQOeXGQPOssctHxNfFM5O6IatZ4gTQ
+comment-post-fields: [ entry.1453197336, entry.1080694997, entry.1429969413]
