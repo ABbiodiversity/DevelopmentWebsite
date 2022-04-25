@@ -1,20 +1,27 @@
 # main links
 main:
   - title: "Amphibians"
-    url: /taxon/amphibians/
+    url: /amphibians/
   - title: "Birds"
-    url: /taxon/birds/birds.html
+    url: /birds/
   - title: "Bryophytes"
-    url: /taxon/bryophytes/
+    url: /bryophytes/
   - title: "Habitat Elements"
-    url: /taxon/habitats/
+    url: /habitats/
   - title: "Lichens"
-    url: /taxon/lichens/
+    url: /lichens/
   - title: "Mammals"
-    url: /taxon/mammals/
+    url: /mammals/
   - title: "Mites"
-    url: /taxon/mites/
+    url: /mites/
   - title: "Non-native Plants"
-    url: /taxon/nnplants/
+    url: /nnplants/
   - title: "Vascular Plants"
-    url: /taxon/plants/
+    url: /plants/
+
+amphibians:
+  - title: Species
+    children:
+      - title: "Canadian Toad"
+        url: /amphibians/species/cato
+ 

@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "ABMI Science Centre"
+  avatar : "/assets/images/ABMI-FullColour.jpg"
+  bio    : "Development website."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -99,8 +99,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Google Form comments  
-comment-read: https://docs.google.com/spreadsheets/d/1YS4cg2nUK7OmyQQOeXGQPOssctHxNfFM5O6IatZ4gTQ
-comment-post: https://docs.google.com/forms/d/e/1FAIpQLSckpIJxlf1fOX43zLTr3o19kU7psJw2NuX5TXkw-z_0F5FIog
-comment-post-fields: [ entry.1453197336, entry.1080694997, entry.1429969413]
