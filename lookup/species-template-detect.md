@@ -9,6 +9,6 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/TaxonLow/SpeciesID/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/TaxonLow/SpeciesID/det.jpg">
 
 {% include comment-section.html %}
