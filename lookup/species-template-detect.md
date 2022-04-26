@@ -1,6 +1,7 @@
 ---
 title: "SpeciesName"
 layout: single
+classes: wide
 permalink: /TaxonLow/species/SpeciesID
 author_profile: false
 sidebar:
