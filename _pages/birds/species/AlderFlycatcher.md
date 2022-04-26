@@ -39,4 +39,4 @@ sidebar:
 
 <img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AlderFlycatcher/map.jpg">
 
-{% include comment-section2.html %}
+{% include comment-section.html %}
