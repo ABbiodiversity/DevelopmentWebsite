@@ -1,6 +1,7 @@
 ---
 title: "House Finch"
 layout: single
+classes: wide
 permalink: /birds/species/HouseFinch
 author_profile: false
 sidebar:
@@ -9,6 +10,8 @@ sidebar:
 
 <h2>Detection</h2>
 
+<a href="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/HouseFinch/det.jpg">
 <img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/HouseFinch/det.jpg">
+</a>
 
 {% include comment-section.html %}

@@ -1,6 +1,7 @@
 ---
 title: "Blue-winged Teal"
 layout: single
+classes: wide
 permalink: /birds/species/BluewingedTeal
 author_profile: false
 sidebar:
@@ -9,6 +10,8 @@ sidebar:
 
 <h2>Detection</h2>
 
+<a href="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BluewingedTeal/det.jpg">
 <img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BluewingedTeal/det.jpg">
+</a>
 
 {% include comment-section.html %}
