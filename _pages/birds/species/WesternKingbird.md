@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/WesternKingbird/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/WesternKingbird/det.jpg">
 
 <h2>Soil coefficients</h2>
 
-![](/assets/images/birds/WesternKingbird/soilhf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/WesternKingbird/soilhf.jpg">
 
 <h2>Soil linear</h2>
 
-![](/assets/images/birds/WesternKingbird/lin-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/WesternKingbird/lin-south.jpg">
 
 <h2>Sector effects (south)</h2>
 
-![](/assets/images/birds/WesternKingbird/sector-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/WesternKingbird/sector-south.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/WesternKingbird/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/WesternKingbird/map.jpg">
 
 {% include comment-section.html %}

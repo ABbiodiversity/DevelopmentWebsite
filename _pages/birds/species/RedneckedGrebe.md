@@ -9,6 +9,6 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/RedneckedGrebe/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RedneckedGrebe/det.jpg">
 
 {% include comment-section.html %}

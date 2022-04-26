@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/SharptailedGrouse/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/SharptailedGrouse/det.jpg">
 
 <h2>Soil coefficients</h2>
 
-![](/assets/images/birds/SharptailedGrouse/soilhf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/SharptailedGrouse/soilhf.jpg">
 
 <h2>Soil linear</h2>
 
-![](/assets/images/birds/SharptailedGrouse/lin-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/SharptailedGrouse/lin-south.jpg">
 
 <h2>Sector effects (south)</h2>
 
-![](/assets/images/birds/SharptailedGrouse/sector-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/SharptailedGrouse/sector-south.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/SharptailedGrouse/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/SharptailedGrouse/map.jpg">
 
 {% include comment-section.html %}

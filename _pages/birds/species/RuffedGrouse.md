@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/RuffedGrouse/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RuffedGrouse/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-![](/assets/images/birds/RuffedGrouse/veghf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RuffedGrouse/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-![](/assets/images/birds/RuffedGrouse/lin-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RuffedGrouse/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-![](/assets/images/birds/RuffedGrouse/sector-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RuffedGrouse/sector-north.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/RuffedGrouse/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RuffedGrouse/map.jpg">
 
 {% include comment-section.html %}

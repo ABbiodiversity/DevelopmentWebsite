@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/YellowrumpedWarbler/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/YellowrumpedWarbler/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-![](/assets/images/birds/YellowrumpedWarbler/veghf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/YellowrumpedWarbler/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-![](/assets/images/birds/YellowrumpedWarbler/lin-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/YellowrumpedWarbler/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-![](/assets/images/birds/YellowrumpedWarbler/sector-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/YellowrumpedWarbler/sector-north.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/YellowrumpedWarbler/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/YellowrumpedWarbler/map.jpg">
 
 {% include comment-section.html %}

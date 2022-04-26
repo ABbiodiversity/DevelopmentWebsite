@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/GoldencrownedKinglet/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/GoldencrownedKinglet/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-![](/assets/images/birds/GoldencrownedKinglet/veghf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/GoldencrownedKinglet/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-![](/assets/images/birds/GoldencrownedKinglet/lin-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/GoldencrownedKinglet/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-![](/assets/images/birds/GoldencrownedKinglet/sector-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/GoldencrownedKinglet/sector-north.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/GoldencrownedKinglet/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/GoldencrownedKinglet/map.jpg">
 
 {% include comment-section.html %}

@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/TennesseeWarbler/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/TennesseeWarbler/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-![](/assets/images/birds/TennesseeWarbler/veghf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/TennesseeWarbler/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-![](/assets/images/birds/TennesseeWarbler/lin-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/TennesseeWarbler/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-![](/assets/images/birds/TennesseeWarbler/sector-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/TennesseeWarbler/sector-north.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/TennesseeWarbler/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/TennesseeWarbler/map.jpg">
 
 {% include comment-section.html %}

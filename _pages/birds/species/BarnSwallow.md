@@ -9,34 +9,34 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/BarnSwallow/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-![](/assets/images/birds/BarnSwallow/veghf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-![](/assets/images/birds/BarnSwallow/lin-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-![](/assets/images/birds/BarnSwallow/sector-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/sector-north.jpg">
 
 <h2>Soil coefficients</h2>
 
-![](/assets/images/birds/BarnSwallow/soilhf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/soilhf.jpg">
 
 <h2>Soil linear</h2>
 
-![](/assets/images/birds/BarnSwallow/lin-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/lin-south.jpg">
 
 <h2>Sector effects (south)</h2>
 
-![](/assets/images/birds/BarnSwallow/sector-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/sector-south.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/BarnSwallow/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/BarnSwallow/map.jpg">
 
 {% include comment-section.html %}

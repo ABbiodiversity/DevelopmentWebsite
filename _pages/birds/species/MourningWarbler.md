@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/MourningWarbler/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/MourningWarbler/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-![](/assets/images/birds/MourningWarbler/veghf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/MourningWarbler/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-![](/assets/images/birds/MourningWarbler/lin-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/MourningWarbler/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-![](/assets/images/birds/MourningWarbler/sector-north.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/MourningWarbler/sector-north.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/MourningWarbler/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/MourningWarbler/map.jpg">
 
 {% include comment-section.html %}

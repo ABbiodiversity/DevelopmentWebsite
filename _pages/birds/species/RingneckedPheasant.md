@@ -9,22 +9,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-![](/assets/images/birds/RingneckedPheasant/det.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RingneckedPheasant/det.jpg">
 
 <h2>Soil coefficients</h2>
 
-![](/assets/images/birds/RingneckedPheasant/soilhf.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RingneckedPheasant/soilhf.jpg">
 
 <h2>Soil linear</h2>
 
-![](/assets/images/birds/RingneckedPheasant/lin-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RingneckedPheasant/lin-south.jpg">
 
 <h2>Sector effects (south)</h2>
 
-![](/assets/images/birds/RingneckedPheasant/sector-south.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RingneckedPheasant/sector-south.jpg">
 
 <h2>Map</h2>
 
-![](/assets/images/birds/RingneckedPheasant/map.jpg)
+<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/RingneckedPheasant/map.jpg">
 
 {% include comment-section.html %}
