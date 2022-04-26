@@ -9,34 +9,34 @@ sidebar:
 
 <h2>Detection</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/det.jpg">
+<img src="assets/images/birds/AlderFlycatcher/det.jpg">
 
 <h2>Vegetation coefficients</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/veghf.jpg>
+<img src="assets/images/birds/AlderFlycatcher/veghf.jpg">
 
 <h2>Vegetation linear</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/lin-north.jpg>
+<img src="assets/images/birds/AlderFlycatcher/lin-north.jpg">
 
 <h2>Sector effects (north)</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/sector-north.jpg>
+<img src="assets/images/birds/AlderFlycatcher/sector-north.jpg">
 
 <h2>Soil coefficients</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/soilhf.jpg>
+<img src="assets/images/birds/AlderFlycatcher/soilhf.jpg">
 
 <h2>Soil linear</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/lin-south.jpg>
+<img src="assets/images/birds/AlderFlycatcher/lin-south.jpg">
 
 <h2>Sector effects (south)</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/sector-south.jpg>
+<img src="assets/images/birds/AlderFlycatcher/sector-south.jpg">
 
 <h2>Map</h2>
 
-<img src="/assets/images/birds/AlderFlycatcher/map.jpg>
+<img src="assets/images/birds/AlderFlycatcher/map.jpg">
 
 {% include comment-section.html %}
