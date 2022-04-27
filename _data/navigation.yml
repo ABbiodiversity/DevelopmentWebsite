@@ -19,6 +19,7 @@ main:
   - title: "Vascular Plants"
     url: /plants/
 
+
 # birds sidebar 
 birds:
   - title: Species 
@@ -29,3 +30,441 @@ birds:
         url: /birds/species/AmericanAvocet
       - title: "American Bittern"
         url: /birds/species/AmericanBittern
+      - title: "American Coot"
+        url: /birds/species/AmericanCoot
+      - title: "American Crow"
+        url: /birds/species/AmericanCrow
+      - title: "American Goldfinch"
+        url: /birds/species/AmericanGoldfinch
+      - title: "American Kestrel"
+        url: /birds/species/AmericanKestrel
+      - title: "American Redstart"
+        url: /birds/species/AmericanRedstart
+      - title: "American Robin"
+        url: /birds/species/AmericanRobin
+      - title: "American Wigeon"
+        url: /birds/species/AmericanWigeon
+      - title: "American Three-toed Woodpecker"
+        url: /birds/species/AmericanThreetoedWoodpecker
+      - title: "Barred Owl"
+        url: /birds/species/BarredOwl
+      - title: "Bald Eagle"
+        url: /birds/species/BaldEagle
+      - title: "Baird's Sparrow"
+        url: /birds/species/BairdsSparrow
+      - title: "Bank Swallow"
+        url: /birds/species/BankSwallow
+      - title: "Baltimore Oriole"
+        url: /birds/species/BaltimoreOriole
+      - title: "Barn Swallow"
+        url: /birds/species/BarnSwallow
+      - title: "Black-and-white Warbler"
+        url: /birds/species/BlackAndWhiteWarbler
+      - title: "Black-billed Cuckoo"
+        url: /birds/species/BlackbilledCuckoo
+      - title: "Black-billed Magpie"
+        url: /birds/species/BlackbilledMagpie
+      - title: "Bay-breasted Warbler"
+        url: /birds/species/BaybreastedWarbler
+      - title: "Black-backed Woodpecker"
+        url: /birds/species/BlackbackedWoodpecker
+      - title: "Black-capped Chickadee"
+        url: /birds/species/BlackcappedChickadee
+      - title: "Black-crowned Night-Heron"
+        url: /birds/species/BlackcrownedNightHeron
+      - title: "Belted Kingfisher"
+        url: /birds/species/BeltedKingfisher
+      - title: "Brown-headed Cowbird"
+        url: /birds/species/BrownheadedCowbird
+      - title: "Black-headed Grosbeak"
+        url: /birds/species/BlackheadedGrosbeak
+      - title: "Blue-headed Vireo"
+        url: /birds/species/BlueheadedVireo
+      - title: "Blackburnian Warbler"
+        url: /birds/species/BlackburnianWarbler
+      - title: "Blue Jay"
+        url: /birds/species/BlueJay
+      - title: "Blackpoll Warbler"
+        url: /birds/species/BlackpollWarbler
+      - title: "Black Tern"
+        url: /birds/species/BlackTern
+      - title: "Bobolink"
+        url: /birds/species/Bobolink
+      - title: "Boreal Chickadee"
+        url: /birds/species/BorealChickadee
+      - title: "Bonaparte's Gull"
+        url: /birds/species/BonapartesGull
+      - title: "Boreal Owl"
+        url: /birds/species/BorealOwl
+      - title: "Bohemian Waxwing"
+        url: /birds/species/BohemianWaxwing
+      - title: "Brewer's Blackbird"
+        url: /birds/species/BrewersBlackbird
+      - title: "Brown Creeper"
+        url: /birds/species/BrownCreeper
+      - title: "Brewer's Sparrow"
+        url: /birds/species/BrewersSparrow
+      - title: "Brown Thrasher"
+        url: /birds/species/BrownThrasher
+      - title: "Black-throated Green Warbler"
+        url: /birds/species/BlackthroatedGreenWarbler
+      - title: "Bufflehead"
+        url: /birds/species/Bufflehead
+      - title: "Burrowing Owl"
+        url: /birds/species/BurrowingOwl
+      - title: "Broad-winged Hawk"
+        url: /birds/species/BroadwingedHawk
+      - title: "Blue-winged Teal"
+        url: /birds/species/BluewingedTeal
+      - title: "California Gull"
+        url: /birds/species/CaliforniaGull
+      - title: "Canada Goose"
+        url: /birds/species/CanadaGoose
+      - title: "Canvasback"
+        url: /birds/species/Canvasback
+      - title: "Cassin's Vireo"
+        url: /birds/species/CassinsVireo
+      - title: "Canada Warbler"
+        url: /birds/species/CanadaWarbler
+      - title: "Chestnut-collared Longspur"
+        url: /birds/species/ChestnutcollaredLongspur
+      - title: "Clay-colored Sparrow"
+        url: /birds/species/ClaycoloredSparrow
+      - title: "Cedar Waxwing"
+        url: /birds/species/CedarWaxwing
+      - title: "Chipping Sparrow"
+        url: /birds/species/ChippingSparrow
+      - title: "Clark's Nutcracker"
+        url: /birds/species/ClarksNutcracker
+      - title: "Cliff Swallow"
+        url: /birds/species/CliffSwallow
+      - title: "Cape May Warbler"
+        url: /birds/species/CapeMayWarbler
+      - title: "Common Goldeneye"
+        url: /birds/species/CommonGoldeneye
+      - title: "Common Grackle"
+        url: /birds/species/CommonGrackle
+      - title: "Common Loon"
+        url: /birds/species/CommonLoon
+      - title: "Common Merganser"
+        url: /birds/species/CommonMerganser
+      - title: "Common Nighthawk"
+        url: /birds/species/CommonNighthawk
+      - title: "Connecticut Warbler"
+        url: /birds/species/ConnecticutWarbler
+      - title: "Common Raven"
+        url: /birds/species/CommonRaven
+      - title: "Common Redpoll"
+        url: /birds/species/CommonRedpoll
+      - title: "Common Tern"
+        url: /birds/species/CommonTern
+      - title: "Common Yellowthroat"
+        url: /birds/species/CommonYellowthroat
+      - title: "Chestnut-sided Warbler"
+        url: /birds/species/ChestnutsidedWarbler
+      - title: "Dark-eyed Junco"
+        url: /birds/species/DarkeyedJunco
+      - title: "Downy Woodpecker"
+        url: /birds/species/DownyWoodpecker
+      - title: "Dusky Flycatcher"
+        url: /birds/species/DuskyFlycatcher
+      - title: "Eared Grebe"
+        url: /birds/species/EaredGrebe
+      - title: "Eastern Kingbird"
+        url: /birds/species/EasternKingbird
+      - title: "Eastern Phoebe"
+        url: /birds/species/EasternPhoebe
+      - title: "Eurasian Collared-Dove"
+        url: /birds/species/EurasianCollaredDove
+      - title: "European Starling"
+        url: /birds/species/EuropeanStarling
+      - title: "Evening Grosbeak"
+        url: /birds/species/EveningGrosbeak
+      - title: "Fox Sparrow"
+        url: /birds/species/FoxSparrow
+      - title: "Forster's Tern"
+        url: /birds/species/ForstersTern
+      - title: "Franklin's Gull"
+        url: /birds/species/FranklinsGull
+      - title: "Gadwall"
+        url: /birds/species/Gadwall
+      - title: "Great Blue Heron"
+        url: /birds/species/GreatBlueHeron
+      - title: "Golden-crowned Kinglet"
+        url: /birds/species/GoldencrownedKinglet
+      - title: "Gray-crowned Rosy-Finch"
+        url: /birds/species/GraycrownedRosyFinch
+      - title: "Golden-crowned Sparrow"
+        url: /birds/species/GoldencrownedSparrow
+      - title: "Great Gray Owl"
+        url: /birds/species/GreatGrayOwl
+      - title: "Great Horned Owl"
+        url: /birds/species/GreatHornedOwl
+      - title: "Gray Jay"
+        url: /birds/species/GrayJay
+      - title: "Gray Partridge"
+        url: /birds/species/GrayPartridge
+      - title: "Gray Catbird"
+        url: /birds/species/GrayCatbird
+      - title: "Grasshopper Sparrow"
+        url: /birds/species/GrasshopperSparrow
+      - title: "Greater Yellowlegs"
+        url: /birds/species/GreaterYellowlegs
+      - title: "Greater White-fronted Goose"
+        url: /birds/species/GreaterWhitefrontedGoose
+      - title: "Green-winged Teal"
+        url: /birds/species/GreenwingedTeal
+      - title: "Hammond's Flycatcher"
+        url: /birds/species/HammondsFlycatcher
+      - title: "Hairy Woodpecker"
+        url: /birds/species/HairyWoodpecker
+      - title: "Herring Gull"
+        url: /birds/species/HerringGull
+      - title: "Hermit Thrush"
+        url: /birds/species/HermitThrush
+      - title: "House Finch"
+        url: /birds/species/HouseFinch
+      - title: "Horned Grebe"
+        url: /birds/species/HornedGrebe
+      - title: "Horned Lark"
+        url: /birds/species/HornedLark
+      - title: "House Sparrow"
+        url: /birds/species/HouseSparrow
+      - title: "House Wren"
+        url: /birds/species/HouseWren
+      - title: "Killdeer"
+        url: /birds/species/Killdeer
+      - title: "Lark Bunting"
+        url: /birds/species/LarkBunting
+      - title: "Lark Sparrow"
+        url: /birds/species/LarkSparrow
+      - title: "Lazuli Bunting"
+        url: /birds/species/LazuliBunting
+      - title: "Long-billed Curlew"
+        url: /birds/species/LongbilledCurlew
+      - title: "Le Conte's Sparrow"
+        url: /birds/species/LeContesSparrow
+      - title: "Least Flycatcher"
+        url: /birds/species/LeastFlycatcher
+      - title: "Long-eared Owl"
+        url: /birds/species/LongearedOwl
+      - title: "Lesser Scaup"
+        url: /birds/species/LesserScaup
+      - title: "Lesser Yellowlegs"
+        url: /birds/species/LesserYellowlegs
+      - title: "Lincoln's Sparrow"
+        url: /birds/species/LincolnsSparrow
+      - title: "Loggerhead Shrike"
+        url: /birds/species/LoggerheadShrike
+      - title: "Marbled Godwit"
+        url: /birds/species/MarbledGodwit
+      - title: "Mallard"
+        url: /birds/species/Mallard
+      - title: "Magnolia Warbler"
+        url: /birds/species/MagnoliaWarbler
+      - title: "Marsh Wren"
+        url: /birds/species/MarshWren
+      - title: "McCown's Longspur"
+        url: /birds/species/McCownsLongspur
+      - title: "Merlin"
+        url: /birds/species/Merlin
+      - title: "MacGillivray's Warbler"
+        url: /birds/species/MacgillivrayWarbler
+      - title: "Mountain Bluebird"
+        url: /birds/species/MountainBluebird
+      - title: "Mountain Chickadee"
+        url: /birds/species/MountainChickadee
+      - title: "Mourning Dove"
+        url: /birds/species/MourningDove
+      - title: "Mourning Warbler"
+        url: /birds/species/MourningWarbler
+      - title: "Nashville Warbler"
+        url: /birds/species/NashvilleWarbler
+      - title: "Nelson's Sparrow"
+        url: /birds/species/NelsonsSparrow
+      - title: "Northern Hawk Owl"
+        url: /birds/species/NorthernHawkOwl
+      - title: "Northern Flicker"
+        url: /birds/species/NorthernFlicker
+      - title: "Northern Goshawk"
+        url: /birds/species/NorthernGoshawk
+      - title: "Northern Pintail"
+        url: /birds/species/NorthernPintail
+      - title: "Northern Pygmy-Owl"
+        url: /birds/species/NorthernPygmyOwl
+      - title: "Northern Waterthrush"
+        url: /birds/species/NorthernWaterthrush
+      - title: "Northern Rough-winged Swallow"
+        url: /birds/species/NorthernRoughwingedSwallow
+      - title: "Northern Shoveler"
+        url: /birds/species/NorthernShoveler
+      - title: "Northern Saw-whet Owl"
+        url: /birds/species/NorthernSawwhetOwl
+      - title: "Orange-crowned Warbler"
+        url: /birds/species/OrangecrownedWarbler
+      - title: "Olive-sided Flycatcher"
+        url: /birds/species/OlivesidedFlycatcher
+      - title: "Osprey"
+        url: /birds/species/Osprey
+      - title: "Ovenbird"
+        url: /birds/species/Ovenbird
+      - title: "Palm Warbler"
+        url: /birds/species/PalmWarbler
+      - title: "Pied-billed Grebe"
+        url: /birds/species/PiedbilledGrebe
+      - title: "Philadelphia Vireo"
+        url: /birds/species/PhiladelphiaVireo
+      - title: "Pine Grosbeak"
+        url: /birds/species/PineGrosbeak
+      - title: "Pine Siskin"
+        url: /birds/species/PineSiskin
+      - title: "Pileated Woodpecker"
+        url: /birds/species/PileatedWoodpecker
+      - title: "Prairie Falcon"
+        url: /birds/species/PrairieFalcon
+      - title: "Pacific-slope Flycatcher"
+        url: /birds/species/PacificslopeFlycatcher
+      - title: "Purple Finch"
+        url: /birds/species/PurpleFinch
+      - title: "Purple Martin"
+        url: /birds/species/PurpleMartin
+      - title: "Rose-breasted Grosbeak"
+        url: /birds/species/RosebreastedGrosbeak
+      - title: "Ring-billed Gull"
+        url: /birds/species/RingbilledGull
+      - title: "Red-breasted Nuthatch"
+        url: /birds/species/RedbreastedNuthatch
+      - title: "Ruby-crowned Kinglet"
+        url: /birds/species/RubycrownedKinglet
+      - title: "Red Crossbill"
+        url: /birds/species/RedCrossbill
+      - title: "Redhead"
+        url: /birds/species/Redhead
+      - title: "Red-eyed Vireo"
+        url: /birds/species/RedeyedVireo
+      - title: "Ring-necked Duck"
+        url: /birds/species/RingneckedDuck
+      - title: "Ring-necked Pheasant"
+        url: /birds/species/RingneckedPheasant
+      - title: "Red-necked Grebe"
+        url: /birds/species/RedneckedGrebe
+      - title: "Red-naped Sapsucker"
+        url: /birds/species/RednapedSapsucker
+      - title: "Rock Pigeon"
+        url: /birds/species/RockPigeon
+      - title: "Rock Wren"
+        url: /birds/species/RockWren
+      - title: "Red-tailed Hawk"
+        url: /birds/species/RedtailedHawk
+      - title: "Rusty Blackbird"
+        url: /birds/species/RustyBlackbird
+      - title: "Ruddy Duck"
+        url: /birds/species/RuddyDuck
+      - title: "Ruffed Grouse"
+        url: /birds/species/RuffedGrouse
+      - title: "Red-winged Blackbird"
+        url: /birds/species/RedwingedBlackbird
+      - title: "Sandhill Crane"
+        url: /birds/species/SandhillCrane
+      - title: "Say's Phoebe"
+        url: /birds/species/SaysPhoebe
+      - title: "Savannah Sparrow"
+        url: /birds/species/SavannahSparrow
+      - title: "Short-billed Dowitcher"
+        url: /birds/species/ShortbilledDowitcher
+      - title: "Short-eared Owl"
+        url: /birds/species/ShortearedOwl
+      - title: "Sedge Wren"
+        url: /birds/species/SedgeWren
+      - title: "Sora"
+        url: /birds/species/Sora
+      - title: "Solitary Sandpiper"
+        url: /birds/species/SolitarySandpiper
+      - title: "Song Sparrow"
+        url: /birds/species/SongSparrow
+      - title: "Spruce Grouse"
+        url: /birds/species/SpruceGrouse
+      - title: "Sprague's Pipit"
+        url: /birds/species/SpraguesPipit
+      - title: "Spotted Sandpiper"
+        url: /birds/species/SpottedSandpiper
+      - title: "Spotted Towhee"
+        url: /birds/species/SpottedTowhee
+      - title: "Sharp-shinned Hawk"
+        url: /birds/species/SharpshinnedHawk
+      - title: "Sharp-tailed Grouse"
+        url: /birds/species/SharptailedGrouse
+      - title: "Steller's Jay"
+        url: /birds/species/StellersJay
+      - title: "Swainson's Hawk"
+        url: /birds/species/SwainsonsHawk
+      - title: "Swamp Sparrow"
+        url: /birds/species/SwampSparrow
+      - title: "Swainson's Thrush"
+        url: /birds/species/SwainsonsThrush
+      - title: "Tennessee Warbler"
+        url: /birds/species/TennesseeWarbler
+      - title: "Townsend's Solitaire"
+        url: /birds/species/TownsendsSolitaire
+      - title: "Townsend's Warbler"
+        url: /birds/species/TownsendsWarbler
+      - title: "Tree Swallow"
+        url: /birds/species/TreeSwallow
+      - title: "Trumpeter Swan"
+        url: /birds/species/TrumpeterSwan
+      - title: "Upland Sandpiper"
+        url: /birds/species/UplandSandpiper
+      - title: "Varied Thrush"
+        url: /birds/species/VariedThrush
+      - title: "Veery"
+        url: /birds/species/Veery
+      - title: "Vesper Sparrow"
+        url: /birds/species/VesperSparrow
+      - title: "Violet-green Swallow"
+        url: /birds/species/VioletgreenSwallow
+      - title: "Virginia Rail"
+        url: /birds/species/VirginiaRail
+      - title: "Warbling Vireo"
+        url: /birds/species/WarblingVireo
+      - title: "White-breasted Nuthatch"
+        url: /birds/species/WhitebreastedNuthatch
+      - title: "White-crowned Sparrow"
+        url: /birds/species/WhitecrownedSparrow
+      - title: "Western Grebe"
+        url: /birds/species/WesternGrebe
+      - title: "Western Kingbird"
+        url: /birds/species/WesternKingbird
+      - title: "Western Meadowlark"
+        url: /birds/species/WesternMeadowlark
+      - title: "Western Tanager"
+        url: /birds/species/WesternTanager
+      - title: "Western Wood-Pewee"
+        url: /birds/species/WesternWoodPewee
+      - title: "Willet"
+        url: /birds/species/Willet
+      - title: "Wilson's Phalarope"
+        url: /birds/species/WilsonsPhalarope
+      - title: "Wilson's Snipe"
+        url: /birds/species/WilsonsSnipe
+      - title: "Wilson's Warbler"
+        url: /birds/species/WilsonsWarbler
+      - title: "Winter Wren"
+        url: /birds/species/WinterWren
+      - title: "White-throated Sparrow"
+        url: /birds/species/WhitethroatedSparrow
+      - title: "White-winged Crossbill"
+        url: /birds/species/WhitewingedCrossbill
+      - title: "Yellow-breasted Chat"
+        url: /birds/species/YellowbreastedChat
+      - title: "Yellow-bellied Flycatcher"
+        url: /birds/species/YellowbelliedFlycatcher
+      - title: "Yellow-bellied Sapsucker"
+        url: /birds/species/YellowbelliedSapsucker
+      - title: "Yellow Rail"
+        url: /birds/species/YellowRail
+      - title: "Yellow Warbler"
+        url: /birds/species/YellowWarbler
+      - title: "Yellow-headed Blackbird"
+        url: /birds/species/YellowheadedBlackbird
+      - title: "Yellow-rumped Warbler"
+        url: /birds/species/YellowrumpedWarbler

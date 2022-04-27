@@ -1,0 +1,17 @@
+---
+title: "Greater White-fronted Goose"
+layout: single
+classes: wide
+permalink: /birds/species/GreaterWhitefrontedGoose
+author_profile: false
+sidebar:
+  nav: "birds"
+---
+
+<h2>Detection</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1PzyDnfKFZ8HKcWlPoEG0w5DHWulwRhS6">
+<img src="https://drive.google.com/uc?export=view&id=1PzyDnfKFZ8HKcWlPoEG0w5DHWulwRhS6" height = "1200" width = "800">
+</a>
+
+{% include comment-section.html %}

@@ -1,0 +1,17 @@
+---
+title: "Dusky Flycatcher"
+layout: single
+classes: wide
+permalink: /birds/species/DuskyFlycatcher
+author_profile: false
+sidebar:
+  nav: "birds"
+---
+
+<h2>Detection</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=12ee6m44vwSvXLCGf4qPPOY-6UW3-vzfY">
+<img src="https://drive.google.com/uc?export=view&id=12ee6m44vwSvXLCGf4qPPOY-6UW3-vzfY" height = "1200" width = "800">
+</a>
+
+{% include comment-section.html %}

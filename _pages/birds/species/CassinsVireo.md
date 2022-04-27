@@ -1,0 +1,17 @@
+---
+title: "Cassin's Vireo"
+layout: single
+classes: wide
+permalink: /birds/species/CassinsVireo
+author_profile: false
+sidebar:
+  nav: "birds"
+---
+
+<h2>Detection</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1uva0dqUZY4S9uANa6oHxRHgqPyXYIb96">
+<img src="https://drive.google.com/uc?export=view&id=1uva0dqUZY4S9uANa6oHxRHgqPyXYIb96" height = "1200" width = "800">
+</a>
+
+{% include comment-section.html %}

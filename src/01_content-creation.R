@@ -55,7 +55,7 @@ for (taxon in unique(species.lookup$taxon)) {
         file="_data/navigation.yml",
         append=TRUE)
   
-  for(spp in species.lookup$sppid[1:3]) {
+  for(spp in species.lookup$sppid) {
     
     # Identify display name
     display.name <- species.lookup[species.lookup$sppid == spp, "display"]
