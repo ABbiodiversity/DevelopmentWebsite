@@ -10,8 +10,8 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://beallen.github.io/DevelopmentWebsite/assets/images/TaxonLow/SpeciesID/det.jpg">
-<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/TaxonLow/SpeciesID/det.jpg">
+<a href="https://drive.google.com/uc?export=view&id=DETECTION">
+<img src="https://drive.google.com/uc?export=view&id=DETECTION" height = "1200" width = "800">
 </a>
 
 {% include comment-section.html %}

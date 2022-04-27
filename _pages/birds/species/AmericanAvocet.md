@@ -10,8 +10,8 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AmericanAvocet/det.jpg">
-<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AmericanAvocet/det.jpg">
+<a href="https://drive.google.com/uc?export=view&id=1p99wsDvEBCy1Q9vKfe1MFxZX1z7SmstU">
+<img src="https://drive.google.com/uc?export=view&id=1p99wsDvEBCy1Q9vKfe1MFxZX1z7SmstU" height = "1200" width = "800">
 </a>
 
 {% include comment-section.html %}
