@@ -16,8 +16,8 @@ sidebar:
 
 <h2>Vegetation coefficients</h2>
 
-<a href="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AlderFlycatcher/veghf.jpg">
-<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AlderFlycatcher/veghf.jpg">
+<a href="https://drive.google.com/uc?export=view&id=1-9nHPRp6kj4cqvvbPD-3StqIQkynSlmJ">
+<img src="https://drive.google.com/uc?export=view&id=1-9nHPRp6kj4cqvvbPD-3StqIQkynSlmJ">
 </a>
 
 <h2>Vegetation linear</h2>
@@ -34,8 +34,8 @@ sidebar:
 
 <h2>Soil coefficients</h2>
 
-<a href="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AlderFlycatcher/soilhf.jpg">
-<img src="https://beallen.github.io/DevelopmentWebsite/assets/images/birds/AlderFlycatcher/soilhf.jpg">
+<a href="https://drive.google.com/uc?export=view&id=16fCdtq1pw9-Y0DN9nk52Up02tZz4s-CM">
+<img src="https://drive.google.com/uc?export=view&id=16fCdtq1pw9-Y0DN9nk52Up02tZz4s-CM" height = "400" width = "600">
 </a>
 
 <h2>Soil linear</h2>
