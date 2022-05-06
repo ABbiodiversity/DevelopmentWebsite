@@ -68,24 +68,14 @@ birds:
         url: /birds/species/BaybreastedWarbler
       - title: "Black-backed Woodpecker"
         url: /birds/species/BlackbackedWoodpecker
-      - title: "Black-capped Chickadee"
-        url: /birds/species/BlackcappedChickadee
-      - title: "Black-crowned Night-Heron"
-        url: /birds/species/BlackcrownedNightHeron
       - title: "Belted Kingfisher"
         url: /birds/species/BeltedKingfisher
       - title: "Brown-headed Cowbird"
         url: /birds/species/BrownheadedCowbird
-      - title: "Black-headed Grosbeak"
-        url: /birds/species/BlackheadedGrosbeak
       - title: "Blue-headed Vireo"
         url: /birds/species/BlueheadedVireo
-      - title: "Blackburnian Warbler"
-        url: /birds/species/BlackburnianWarbler
       - title: "Blue Jay"
         url: /birds/species/BlueJay
-      - title: "Blackpoll Warbler"
-        url: /birds/species/BlackpollWarbler
       - title: "Black Tern"
         url: /birds/species/BlackTern
       - title: "Bobolink"

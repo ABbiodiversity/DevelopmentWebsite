@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=MAPID" height = "500" width = "1500">
 </a>
 
+<a href="PreviousURL" class="pagination--pager" title="PreviousName">Previous</a> <a href="NextURL" class="pagination--pager" title="NextName">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}
