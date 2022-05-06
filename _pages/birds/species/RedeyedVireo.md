@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1xFvOGtxgcsiZT8jGSGs-GAwRGTPv8Boq" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/Redhead/" class="pagination--pager" title="Redhead">Previous</a> <a href="/birds/species/RingneckedDuck/" class="pagination--pager" title="Ring-necked Duck">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

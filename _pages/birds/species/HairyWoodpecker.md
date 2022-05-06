@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1jaS1I1Qfj2J5qd6dcDdwZZeEiAICDn_a" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/HammondsFlycatcher/" class="pagination--pager" title="Hammond's Flycatcher">Previous</a> <a href="/birds/species/HerringGull/" class="pagination--pager" title="Herring Gull">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

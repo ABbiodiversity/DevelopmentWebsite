@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1kmeDnereniWJ0czumfIcoKUiBnUBMEsq" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/EveningGrosbeak/" class="pagination--pager" title="Evening Grosbeak">Previous</a> <a href="/birds/species/ForstersTern/" class="pagination--pager" title="Forster's Tern">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

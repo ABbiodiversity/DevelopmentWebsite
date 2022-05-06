@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1fmjeuyYa8OuVswLPK0ttw17NGom8mn5N" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/SaysPhoebe/" class="pagination--pager" title="Say's Phoebe">Previous</a> <a href="/birds/species/ShortbilledDowitcher/" class="pagination--pager" title="Short-billed Dowitcher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1n4zr45QF6fEC5L5_9NtbbZhrGcVdBsxI" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BairdsSparrow/" class="pagination--pager" title="Baird's Sparrow">Previous</a> <a href="/birds/species/BaltimoreOriole/" class="pagination--pager" title="Baltimore Oriole">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

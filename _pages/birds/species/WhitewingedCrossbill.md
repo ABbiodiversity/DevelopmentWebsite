@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1kPQlL3TZnrHHGh0N5ccBqyePG0bHuHKw" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/WhitethroatedSparrow/" class="pagination--pager" title="White-throated Sparrow">Previous</a> <a href="/birds/species/YellowbreastedChat/" class="pagination--pager" title="Yellow-breasted Chat">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

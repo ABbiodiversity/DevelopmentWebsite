@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1iRxnSw2mInFc71Qm0UpmBAWy6ruPUl7k" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/ClarksNutcracker/" class="pagination--pager" title="Clark's Nutcracker">Previous</a> <a href="/birds/species/CapeMayWarbler/" class="pagination--pager" title="Cape May Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

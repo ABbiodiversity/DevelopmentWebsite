@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1pBZeuoQ0jc0-Rk6Sj2ddJUl__abNVn3U" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BlackbilledCuckoo/" class="pagination--pager" title="Black-billed Cuckoo">Previous</a> <a href="/birds/species/BaybreastedWarbler/" class="pagination--pager" title="Bay-breasted Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

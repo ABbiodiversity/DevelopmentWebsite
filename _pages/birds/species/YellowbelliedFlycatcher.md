@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1iTm_FPa6H9CbvpJm11666WMiOuXwOTkZ" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/YellowbreastedChat/" class="pagination--pager" title="Yellow-breasted Chat">Previous</a> <a href="/birds/species/YellowbelliedSapsucker/" class="pagination--pager" title="Yellow-bellied Sapsucker">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

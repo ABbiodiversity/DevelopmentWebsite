@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1pnUgGMxVZFoQFWi0vW857ebUaBf-KUWc" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BlueheadedVireo/" class="pagination--pager" title="Blue-headed Vireo">Previous</a> <a href="/birds/species/BlackTern/" class="pagination--pager" title="Black Tern">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

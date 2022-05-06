@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=12ofTyGhA7yhUFSlpY3H8bHceSQunv0d8" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/NorthernHawkOwl/" class="pagination--pager" title="Northern Hawk Owl">Previous</a> <a href="/birds/species/NorthernGoshawk/" class="pagination--pager" title="Northern Goshawk">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

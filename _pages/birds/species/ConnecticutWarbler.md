@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1riQcr1lobrf7DdTQhB17HoHQRMOGVG_p" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/CommonNighthawk/" class="pagination--pager" title="Common Nighthawk">Previous</a> <a href="/birds/species/CommonRaven/" class="pagination--pager" title="Common Raven">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

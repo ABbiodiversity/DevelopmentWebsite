@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1OeeFH9N4P4g2OieiFMv3OP99UP2ByNZc" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/CedarWaxwing/" class="pagination--pager" title="Cedar Waxwing">Previous</a> <a href="/birds/species/ClarksNutcracker/" class="pagination--pager" title="Clark's Nutcracker">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

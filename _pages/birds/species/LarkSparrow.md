@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1diAHGxaI9SI5rKn0pvREPGtkQcznKjZJ" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/LarkBunting/" class="pagination--pager" title="Lark Bunting">Previous</a> <a href="/birds/species/LazuliBunting/" class="pagination--pager" title="Lazuli Bunting">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1D2I12P5zVyGzAVUhX9jS6Pb0NnAWWr1d" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/RuffedGrouse/" class="pagination--pager" title="Ruffed Grouse">Previous</a> <a href="/birds/species/SandhillCrane/" class="pagination--pager" title="Sandhill Crane">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

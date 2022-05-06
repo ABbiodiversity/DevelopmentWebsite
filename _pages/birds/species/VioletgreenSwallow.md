@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1bTh-OmRpvrOMergUoAFqU6YKpYXgRqwE" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/VesperSparrow/" class="pagination--pager" title="Vesper Sparrow">Previous</a> <a href="/birds/species/VirginiaRail/" class="pagination--pager" title="Virginia Rail">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

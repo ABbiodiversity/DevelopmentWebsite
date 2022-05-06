@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1EbdYNICMT2IJ-qUegnsjYYp_iL8qWwut" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/Ovenbird/" class="pagination--pager" title="Ovenbird">Previous</a> <a href="/birds/species/PiedbilledGrebe/" class="pagination--pager" title="Pied-billed Grebe">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

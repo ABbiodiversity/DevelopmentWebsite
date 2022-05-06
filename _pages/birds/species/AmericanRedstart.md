@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1cEuvMVFC_QDj2P_rAQvDX9j-mhX-3dk0" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/AmericanKestrel/" class="pagination--pager" title="American Kestrel">Previous</a> <a href="/birds/species/AmericanRobin/" class="pagination--pager" title="American Robin">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

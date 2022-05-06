@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1m8SX5UM6CLrXkNF1LN4o1GMgF0WVX6Kq" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/SpottedSandpiper/" class="pagination--pager" title="Spotted Sandpiper">Previous</a> <a href="/birds/species/SharpshinnedHawk/" class="pagination--pager" title="Sharp-shinned Hawk">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

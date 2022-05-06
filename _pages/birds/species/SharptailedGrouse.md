@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=121i-ucjxSQMYltDr5Qy09qMQ4Hte6Ss7" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/SharpshinnedHawk/" class="pagination--pager" title="Sharp-shinned Hawk">Previous</a> <a href="/birds/species/StellersJay/" class="pagination--pager" title="Steller's Jay">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

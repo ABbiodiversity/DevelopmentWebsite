@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Liu4PdgMq6X8m59BoZR2rIvHXLghvKU8" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/GreaterWhitefrontedGoose/" class="pagination--pager" title="Greater White-fronted Goose">Previous</a> <a href="/birds/species/HammondsFlycatcher/" class="pagination--pager" title="Hammond's Flycatcher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=15S8k3wo4rSGYkTvklf27AZ4qWBerhmVY" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BrewersSparrow/" class="pagination--pager" title="Brewer's Sparrow">Previous</a> <a href="/birds/species/BlackthroatedGreenWarbler/" class="pagination--pager" title="Black-throated Green Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

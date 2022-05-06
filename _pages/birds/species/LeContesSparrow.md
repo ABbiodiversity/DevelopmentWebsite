@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1_YP42RtpnOHKVdyUmqXfOIWuGF4vtlri" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/LongbilledCurlew/" class="pagination--pager" title="Long-billed Curlew">Previous</a> <a href="/birds/species/LeastFlycatcher/" class="pagination--pager" title="Least Flycatcher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1XzYj3RLTd7Cn5-TnF9mJQDWWgVc-23z3" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/SpraguesPipit/" class="pagination--pager" title="Sprague's Pipit">Previous</a> <a href="/birds/species/SpottedTowhee/" class="pagination--pager" title="Spotted Towhee">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

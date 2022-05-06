@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1ssgVAp52EnmesqNWlfdRomZZY0JSplRV" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/AmericanWigeon/" class="pagination--pager" title="American Wigeon">Previous</a> <a href="/birds/species/BarredOwl/" class="pagination--pager" title="Barred Owl">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

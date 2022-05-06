@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1pfvkEjochKUMSFk2pJ5to9aT-sGK09ag" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/AmericanCrow/" class="pagination--pager" title="American Crow">Previous</a> <a href="/birds/species/AmericanKestrel/" class="pagination--pager" title="American Kestrel">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

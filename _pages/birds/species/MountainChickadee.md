@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1XfLXCSoksnFd59MGiSq4i9S0dfRyeKAa" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/MountainBluebird/" class="pagination--pager" title="Mountain Bluebird">Previous</a> <a href="/birds/species/MourningDove/" class="pagination--pager" title="Mourning Dove">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

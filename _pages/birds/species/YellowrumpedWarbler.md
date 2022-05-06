@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1iG8YhFJzfOsgnwKqgQfQPwfHDSWQ1RCF" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/YellowheadedBlackbird/" class="pagination--pager" title="Yellow-headed Blackbird">Previous</a> <a href="/birds/species/AlderFlycatcher/" class="pagination--pager" title="Alder Flycatcher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

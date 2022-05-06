@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1f869kVbkzOaKy1yVlBtCcvIAfRWaOErQ" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BankSwallow/" class="pagination--pager" title="Bank Swallow">Previous</a> <a href="/birds/species/BarnSwallow/" class="pagination--pager" title="Barn Swallow">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

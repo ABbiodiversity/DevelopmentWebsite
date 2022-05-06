@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1znfOhRusXEgB1KBNFbZ1UpeGIDH3hMOM" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/StellersJay/" class="pagination--pager" title="Steller's Jay">Previous</a> <a href="/birds/species/SwampSparrow/" class="pagination--pager" title="Swamp Sparrow">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

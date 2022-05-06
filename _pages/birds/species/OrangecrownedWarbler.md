@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1IXPf6fLbtbnqH6A3bByRX91VNPHtq-ja" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/NorthernSawwhetOwl/" class="pagination--pager" title="Northern Saw-whet Owl">Previous</a> <a href="/birds/species/OlivesidedFlycatcher/" class="pagination--pager" title="Olive-sided Flycatcher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

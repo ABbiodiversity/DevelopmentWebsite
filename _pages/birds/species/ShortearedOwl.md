@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1h2Bh9Np77STv92l4cbxXcW79MTjtstv6" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/ShortbilledDowitcher/" class="pagination--pager" title="Short-billed Dowitcher">Previous</a> <a href="/birds/species/SedgeWren/" class="pagination--pager" title="Sedge Wren">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

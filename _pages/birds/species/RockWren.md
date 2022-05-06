@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1xe87vlMZejKwFyG0KMtiB6bJGGFMM8RN" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/RockPigeon/" class="pagination--pager" title="Rock Pigeon">Previous</a> <a href="/birds/species/RedtailedHawk/" class="pagination--pager" title="Red-tailed Hawk">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

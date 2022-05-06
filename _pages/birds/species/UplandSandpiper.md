@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1d1egP8rKfXhFckbn-2JnmO7KP2m9f7Eh" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/TrumpeterSwan/" class="pagination--pager" title="Trumpeter Swan">Previous</a> <a href="/birds/species/VariedThrush/" class="pagination--pager" title="Varied Thrush">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

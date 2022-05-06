@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1-OFCNws6aSwKcttcsfQL5FCnKPH2lcyU" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/HornedLark/" class="pagination--pager" title="Horned Lark">Previous</a> <a href="/birds/species/HouseWren/" class="pagination--pager" title="House Wren">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

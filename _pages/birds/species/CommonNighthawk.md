@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1-0UBFAwtlqw4DjsFvvyvzyh--CXGauR4" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/CommonMerganser/" class="pagination--pager" title="Common Merganser">Previous</a> <a href="/birds/species/ConnecticutWarbler/" class="pagination--pager" title="Connecticut Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

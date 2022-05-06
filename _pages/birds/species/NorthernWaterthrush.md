@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1cncsdrK2voCgq_OhzEp_A_WBEoXv-AAv" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/NorthernPygmyOwl/" class="pagination--pager" title="Northern Pygmy-Owl">Previous</a> <a href="/birds/species/NorthernRoughwingedSwallow/" class="pagination--pager" title="Northern Rough-winged Swallow">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1-_yWQdNwVJTE4pv-SmGZZAxddoWKs12m" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/ShortearedOwl/" class="pagination--pager" title="Short-eared Owl">Previous</a> <a href="/birds/species/Sora/" class="pagination--pager" title="Sora">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

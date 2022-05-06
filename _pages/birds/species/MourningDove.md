@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=19V-EdRuGNDDBJgMyMgLMcgxUWIZp3K5r" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/MountainChickadee/" class="pagination--pager" title="Mountain Chickadee">Previous</a> <a href="/birds/species/MourningWarbler/" class="pagination--pager" title="Mourning Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

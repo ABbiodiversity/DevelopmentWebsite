@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1FpPx-xLMk4Jw1Vu7Lm3MCB5fG4DCnGi6" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/BorealOwl/" class="pagination--pager" title="Boreal Owl">Previous</a> <a href="/birds/species/BrewersBlackbird/" class="pagination--pager" title="Brewer's Blackbird">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

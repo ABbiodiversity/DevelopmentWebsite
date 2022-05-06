@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1X2VMJMDRXSTT2m0qh7mBczK9-dIAgXq8" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/HouseSparrow/" class="pagination--pager" title="House Sparrow">Previous</a> <a href="/birds/species/Killdeer/" class="pagination--pager" title="Killdeer">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

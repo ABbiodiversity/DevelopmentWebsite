@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Pb6O291YvNSTIQfVvpcAGjbb4Im6UDuT" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/ChestnutcollaredLongspur/" class="pagination--pager" title="Chestnut-collared Longspur">Previous</a> <a href="/birds/species/CedarWaxwing/" class="pagination--pager" title="Cedar Waxwing">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

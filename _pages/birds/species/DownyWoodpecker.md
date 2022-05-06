@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=17K3zN_WnKAK6LHmUGxq_ZL6KmoWh6wvB" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/DarkeyedJunco/" class="pagination--pager" title="Dark-eyed Junco">Previous</a> <a href="/birds/species/DuskyFlycatcher/" class="pagination--pager" title="Dusky Flycatcher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

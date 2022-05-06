@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Ge_Y1IDaoe-JEIkTQiL3qfqc4Lcji37Y" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/GraycrownedRosyFinch/" class="pagination--pager" title="Gray-crowned Rosy-Finch">Previous</a> <a href="/birds/species/GreatGrayOwl/" class="pagination--pager" title="Great Gray Owl">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

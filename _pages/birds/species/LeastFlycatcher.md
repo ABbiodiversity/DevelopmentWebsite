@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Xq4ISm8PtRLRWQpQdC0_6fVLEvCYZP1p" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/LeContesSparrow/" class="pagination--pager" title="Le Conte's Sparrow">Previous</a> <a href="/birds/species/LongearedOwl/" class="pagination--pager" title="Long-eared Owl">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

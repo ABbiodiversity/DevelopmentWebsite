@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1P4X-EwDiw74uKQHt0qkHOmcoB_ynAPfg" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BaybreastedWarbler/" class="pagination--pager" title="Bay-breasted Warbler">Previous</a> <a href="/birds/species/BeltedKingfisher/" class="pagination--pager" title="Belted Kingfisher">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

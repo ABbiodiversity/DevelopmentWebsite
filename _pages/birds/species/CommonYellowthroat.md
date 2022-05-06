@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Ib-68HQ7qvbVeKK_4w0j5PKrLyKo8-lj" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/CommonTern/" class="pagination--pager" title="Common Tern">Previous</a> <a href="/birds/species/ChestnutsidedWarbler/" class="pagination--pager" title="Chestnut-sided Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

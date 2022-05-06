@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1OMgt8_mafmDnFLOfWfrKAYOAcmJuYTDv" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/OlivesidedFlycatcher/" class="pagination--pager" title="Olive-sided Flycatcher">Previous</a> <a href="/birds/species/Ovenbird/" class="pagination--pager" title="Ovenbird">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

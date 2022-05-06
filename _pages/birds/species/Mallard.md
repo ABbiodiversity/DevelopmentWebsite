@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1nmhdkYk31DsVNLuJYOVeeseOJzRri7vW" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/MarbledGodwit/" class="pagination--pager" title="Marbled Godwit">Previous</a> <a href="/birds/species/MagnoliaWarbler/" class="pagination--pager" title="Magnolia Warbler">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

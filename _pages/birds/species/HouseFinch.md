@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1G5QpwVJMSmcT8JHbjCGq3Z9rluUTbFQL" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/HermitThrush/" class="pagination--pager" title="Hermit Thrush">Previous</a> <a href="/birds/species/HornedGrebe/" class="pagination--pager" title="Horned Grebe">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

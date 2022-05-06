@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1VoGauFm0LWjilBXqLRFbG8MfQdvW0B5A" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/CommonGoldeneye/" class="pagination--pager" title="Common Goldeneye">Previous</a> <a href="/birds/species/CommonLoon/" class="pagination--pager" title="Common Loon">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

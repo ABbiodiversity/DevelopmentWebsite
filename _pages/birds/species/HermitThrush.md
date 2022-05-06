@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1si1GZKjipFn0kuRvFloGgH3yA6qn9qDo" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/HerringGull/" class="pagination--pager" title="Herring Gull">Previous</a> <a href="/birds/species/HouseFinch/" class="pagination--pager" title="House Finch">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

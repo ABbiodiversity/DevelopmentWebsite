@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=11DRt-ot25jAzHpuQsUHh3MxDcy7oGZv7" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/WinterWren/" class="pagination--pager" title="Winter Wren">Previous</a> <a href="/birds/species/WhitewingedCrossbill/" class="pagination--pager" title="White-winged Crossbill">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

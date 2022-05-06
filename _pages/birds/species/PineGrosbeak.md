@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1QN5f3EmQhzwUmO9ynpTSaApHEPLb4-O2" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/PhiladelphiaVireo/" class="pagination--pager" title="Philadelphia Vireo">Previous</a> <a href="/birds/species/PineSiskin/" class="pagination--pager" title="Pine Siskin">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

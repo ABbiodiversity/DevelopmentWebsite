@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1GlMtZxqdWUVdJ6wywsvFqsvGvGK1WZcw" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/YellowrumpedWarbler/" class="pagination--pager" title="Yellow-rumped Warbler">Previous</a> <a href="/birds/species/AmericanAvocet/" class="pagination--pager" title="American Avocet">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

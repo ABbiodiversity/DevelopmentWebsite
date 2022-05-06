@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1vKp5AMVUUsF7RDqehocq9bmwyO0EMEu0" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/EasternKingbird/" class="pagination--pager" title="Eastern Kingbird">Previous</a> <a href="/birds/species/EurasianCollaredDove/" class="pagination--pager" title="Eurasian Collared-Dove">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

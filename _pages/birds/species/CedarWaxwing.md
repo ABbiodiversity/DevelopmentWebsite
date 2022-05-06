@@ -56,4 +56,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1TJ5D0DNtNap1FUyde_K9Irr-2c6H9TfB" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/ClaycoloredSparrow/" class="pagination--pager" title="Clay-colored Sparrow">Previous</a> <a href="/birds/species/ChippingSparrow/" class="pagination--pager" title="Chipping Sparrow">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

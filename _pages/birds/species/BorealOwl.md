@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1MN9DGTklqGzN_MgPNlGs4ZXQXm8ZvTi0" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/BonapartesGull/" class="pagination--pager" title="Bonaparte's Gull">Previous</a> <a href="/birds/species/BohemianWaxwing/" class="pagination--pager" title="Bohemian Waxwing">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

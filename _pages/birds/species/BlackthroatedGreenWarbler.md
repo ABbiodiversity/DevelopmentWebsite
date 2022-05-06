@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1yQgHJjcLOFMwuoIbl0Sm9FkqR8NhIBV8" height = "500" width = "1500">
 </a>
 
+<a href="/birds/species/BrownThrasher/" class="pagination--pager" title="Brown Thrasher">Previous</a> <a href="/birds/species/Bufflehead/" class="pagination--pager" title="Bufflehead">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

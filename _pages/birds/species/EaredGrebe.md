@@ -14,4 +14,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1pBOJdA8Ds4q0tLkG-eubF9td7um6nWS9" height = "1200" width = "800">
 </a>
 
+<a href="/birds/species/DuskyFlycatcher/" class="pagination--pager" title="Dusky Flycatcher">Previous</a> <a href="/birds/species/EasternKingbird/" class="pagination--pager" title="Eastern Kingbird">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}
