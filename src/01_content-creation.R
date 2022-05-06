@@ -106,9 +106,9 @@ for (taxon in unique(species.lookup$taxon)) {
     display.previous <- species.lookup[species.lookup$sppid == name.previous, "display"]
     
     # Update button links
-    template <- gsub("PreviousURL", paste0("/", taxon, "/species/", name.previous, "/"), template)
+    template <- gsub("PreviousURL", paste0("/DevelopmentWebsite/", taxon, "/species/", name.previous), template)
     template <- gsub("PreviousName", display.previous, template)
-    template <- gsub("NextURL", paste0("/", taxon, "/species/", name.next, "/"), template)
+    template <- gsub("NextURL", paste0("/DevelopmentWebsite/", taxon, "/species/", name.next), template)
     template <- gsub("NextName", display.next, template)
     
     # Update names
