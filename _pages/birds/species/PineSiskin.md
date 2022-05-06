@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1TUNdg7eC3b_7AH7yJbp94F09-oYwbBWj" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/PineGrosbeak/" class="pagination--pager" title="Pine Grosbeak">Previous</a> <a href="/birds/species/PileatedWoodpecker/" class="pagination--pager" title="Pileated Woodpecker">Next</a>
+<a href="/DevelopmentWebsite/birds/species/PineGrosbeak" class="pagination--pager" title="Pine Grosbeak">Previous</a> <a href="/DevelopmentWebsite/birds/species/PileatedWoodpecker" class="pagination--pager" title="Pileated Woodpecker">Next</a>
 
 <p>&nbsp;</p>
 

@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1_fIIbT_-dfTXDeftEhcO4TPUM8g22Xbs" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/GreatHornedOwl/" class="pagination--pager" title="Great Horned Owl">Previous</a> <a href="/birds/species/GrayPartridge/" class="pagination--pager" title="Gray Partridge">Next</a>
+<a href="/DevelopmentWebsite/birds/species/GreatHornedOwl" class="pagination--pager" title="Great Horned Owl">Previous</a> <a href="/DevelopmentWebsite/birds/species/GrayPartridge" class="pagination--pager" title="Gray Partridge">Next</a>
 
 <p>&nbsp;</p>
 

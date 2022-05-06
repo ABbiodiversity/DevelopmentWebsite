@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1mEIay5LjlaccxjX1UupLq0sEXoRn3JLn" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/LeastFlycatcher/" class="pagination--pager" title="Least Flycatcher">Previous</a> <a href="/birds/species/LesserScaup/" class="pagination--pager" title="Lesser Scaup">Next</a>
+<a href="/DevelopmentWebsite/birds/species/LeastFlycatcher" class="pagination--pager" title="Least Flycatcher">Previous</a> <a href="/DevelopmentWebsite/birds/species/LesserScaup" class="pagination--pager" title="Lesser Scaup">Next</a>
 
 <p>&nbsp;</p>
 

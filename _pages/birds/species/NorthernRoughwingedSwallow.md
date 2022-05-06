@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=169FL9BeAMMJ6OsgAaYEdcw9fZiUJA_qK" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/NorthernWaterthrush/" class="pagination--pager" title="Northern Waterthrush">Previous</a> <a href="/birds/species/NorthernShoveler/" class="pagination--pager" title="Northern Shoveler">Next</a>
+<a href="/DevelopmentWebsite/birds/species/NorthernWaterthrush" class="pagination--pager" title="Northern Waterthrush">Previous</a> <a href="/DevelopmentWebsite/birds/species/NorthernShoveler" class="pagination--pager" title="Northern Shoveler">Next</a>
 
 <p>&nbsp;</p>
 

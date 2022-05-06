@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1xOEOo0RpQ4_4AIwS-eyzhq9ieTijjS5m" height = "500" width = "1500">
 </a>
 
+<a href="/DevelopmentWebsite/birds/species/BlackbackedWoodpecker" class="pagination--pager" title="Black-backed Woodpecker">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackcrownedNightHeron" class="pagination--pager" title="Black-crowned Night-Heron">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

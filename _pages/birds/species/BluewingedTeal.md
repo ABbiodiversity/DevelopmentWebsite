@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1zKss9m-LaLkdRpe_uUhmPBS8yQ4s_MQB" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BroadwingedHawk/" class="pagination--pager" title="Broad-winged Hawk">Previous</a> <a href="/birds/species/CaliforniaGull/" class="pagination--pager" title="California Gull">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BroadwingedHawk" class="pagination--pager" title="Broad-winged Hawk">Previous</a> <a href="/DevelopmentWebsite/birds/species/CaliforniaGull" class="pagination--pager" title="California Gull">Next</a>
 
 <p>&nbsp;</p>
 

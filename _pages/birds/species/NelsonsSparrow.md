@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1ZhFD8xoiTb0kZlFd1mM96J2c-5_oM470" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/NashvilleWarbler/" class="pagination--pager" title="Nashville Warbler">Previous</a> <a href="/birds/species/NorthernHawkOwl/" class="pagination--pager" title="Northern Hawk Owl">Next</a>
+<a href="/DevelopmentWebsite/birds/species/NashvilleWarbler" class="pagination--pager" title="Nashville Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/NorthernHawkOwl" class="pagination--pager" title="Northern Hawk Owl">Next</a>
 
 <p>&nbsp;</p>
 

@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=12ihyGU-9JkPbEVg44A691ECxLx34_sK_" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BurrowingOwl/" class="pagination--pager" title="Burrowing Owl">Previous</a> <a href="/birds/species/BluewingedTeal/" class="pagination--pager" title="Blue-winged Teal">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BurrowingOwl" class="pagination--pager" title="Burrowing Owl">Previous</a> <a href="/DevelopmentWebsite/birds/species/BluewingedTeal" class="pagination--pager" title="Blue-winged Teal">Next</a>
 
 <p>&nbsp;</p>
 

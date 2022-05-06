@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=11wEgJYwimmiFZ49EEudSqRjMaYrbdJCf" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BaldEagle/" class="pagination--pager" title="Bald Eagle">Previous</a> <a href="/birds/species/BankSwallow/" class="pagination--pager" title="Bank Swallow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BaldEagle" class="pagination--pager" title="Bald Eagle">Previous</a> <a href="/DevelopmentWebsite/birds/species/BankSwallow" class="pagination--pager" title="Bank Swallow">Next</a>
 
 <p>&nbsp;</p>
 

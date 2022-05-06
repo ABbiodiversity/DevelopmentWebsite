@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1G6Ei55NYau2fr0Js_Y6je-dSRjpcrajZ" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/LarkSparrow/" class="pagination--pager" title="Lark Sparrow">Previous</a> <a href="/birds/species/LongbilledCurlew/" class="pagination--pager" title="Long-billed Curlew">Next</a>
+<a href="/DevelopmentWebsite/birds/species/LarkSparrow" class="pagination--pager" title="Lark Sparrow">Previous</a> <a href="/DevelopmentWebsite/birds/species/LongbilledCurlew" class="pagination--pager" title="Long-billed Curlew">Next</a>
 
 <p>&nbsp;</p>
 

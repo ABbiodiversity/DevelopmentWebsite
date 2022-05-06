@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1E-j0nhdOC4Zi70fobYI2CYdmgxhu578C" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/YellowbelliedSapsucker/" class="pagination--pager" title="Yellow-bellied Sapsucker">Previous</a> <a href="/birds/species/YellowWarbler/" class="pagination--pager" title="Yellow Warbler">Next</a>
+<a href="/DevelopmentWebsite/birds/species/YellowbelliedSapsucker" class="pagination--pager" title="Yellow-bellied Sapsucker">Previous</a> <a href="/DevelopmentWebsite/birds/species/YellowWarbler" class="pagination--pager" title="Yellow Warbler">Next</a>
 
 <p>&nbsp;</p>
 

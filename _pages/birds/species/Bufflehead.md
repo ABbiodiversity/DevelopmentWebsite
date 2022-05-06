@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1s2hlQ-mV0qNgZa4cBK8XrmAvwHD1KlxD" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BlackthroatedGreenWarbler/" class="pagination--pager" title="Black-throated Green Warbler">Previous</a> <a href="/birds/species/BurrowingOwl/" class="pagination--pager" title="Burrowing Owl">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BlackthroatedGreenWarbler" class="pagination--pager" title="Black-throated Green Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/BurrowingOwl" class="pagination--pager" title="Burrowing Owl">Next</a>
 
 <p>&nbsp;</p>
 

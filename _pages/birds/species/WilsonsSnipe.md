@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=13m8YcII48U0ybpCPrTVMOmZ7p2EsBWZ0" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WilsonsPhalarope/" class="pagination--pager" title="Wilson's Phalarope">Previous</a> <a href="/birds/species/WilsonsWarbler/" class="pagination--pager" title="Wilson's Warbler">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WilsonsPhalarope" class="pagination--pager" title="Wilson's Phalarope">Previous</a> <a href="/DevelopmentWebsite/birds/species/WilsonsWarbler" class="pagination--pager" title="Wilson's Warbler">Next</a>
 
 <p>&nbsp;</p>
 

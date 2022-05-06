@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1zF8GaD91puAmnv2lst6efY1qocIQAEqW" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/LazuliBunting/" class="pagination--pager" title="Lazuli Bunting">Previous</a> <a href="/birds/species/LeContesSparrow/" class="pagination--pager" title="Le Conte's Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/LazuliBunting" class="pagination--pager" title="Lazuli Bunting">Previous</a> <a href="/DevelopmentWebsite/birds/species/LeContesSparrow" class="pagination--pager" title="Le Conte's Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

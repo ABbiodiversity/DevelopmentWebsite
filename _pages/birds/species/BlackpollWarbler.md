@@ -38,4 +38,8 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1GSNGVv1Uj6mMMhTZ2N-iIeQeNryfVsWE" height = "500" width = "1500">
 </a>
 
+<a href="/DevelopmentWebsite/birds/species/BlueJay" class="pagination--pager" title="Blue Jay">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackTern" class="pagination--pager" title="Black Tern">Next</a>
+
+<p>&nbsp;</p>
+
 {% include comment-section.html %}

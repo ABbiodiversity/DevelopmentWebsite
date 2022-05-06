@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1cug_Ko_76H1YtprXevdVbsiZCleNlcPF" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/RednapedSapsucker/" class="pagination--pager" title="Red-naped Sapsucker">Previous</a> <a href="/birds/species/RockWren/" class="pagination--pager" title="Rock Wren">Next</a>
+<a href="/DevelopmentWebsite/birds/species/RednapedSapsucker" class="pagination--pager" title="Red-naped Sapsucker">Previous</a> <a href="/DevelopmentWebsite/birds/species/RockWren" class="pagination--pager" title="Rock Wren">Next</a>
 
 <p>&nbsp;</p>
 

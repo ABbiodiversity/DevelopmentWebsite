@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1_1MuOX8DzLSx4e-W0qUwcGWQfutvd9vX" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/EaredGrebe/" class="pagination--pager" title="Eared Grebe">Previous</a> <a href="/birds/species/EasternPhoebe/" class="pagination--pager" title="Eastern Phoebe">Next</a>
+<a href="/DevelopmentWebsite/birds/species/EaredGrebe" class="pagination--pager" title="Eared Grebe">Previous</a> <a href="/DevelopmentWebsite/birds/species/EasternPhoebe" class="pagination--pager" title="Eastern Phoebe">Next</a>
 
 <p>&nbsp;</p>
 

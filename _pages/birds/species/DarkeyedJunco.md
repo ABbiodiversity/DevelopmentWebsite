@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1U8L4F1eu1hFV-zUdgEGI1gsprmjxhA-B" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/ChestnutsidedWarbler/" class="pagination--pager" title="Chestnut-sided Warbler">Previous</a> <a href="/birds/species/DownyWoodpecker/" class="pagination--pager" title="Downy Woodpecker">Next</a>
+<a href="/DevelopmentWebsite/birds/species/ChestnutsidedWarbler" class="pagination--pager" title="Chestnut-sided Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/DownyWoodpecker" class="pagination--pager" title="Downy Woodpecker">Next</a>
 
 <p>&nbsp;</p>
 

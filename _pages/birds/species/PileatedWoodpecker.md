@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1yl-twi7JKxAUSnsE-AEdwv8OiMhkTShN" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/PineSiskin/" class="pagination--pager" title="Pine Siskin">Previous</a> <a href="/birds/species/PrairieFalcon/" class="pagination--pager" title="Prairie Falcon">Next</a>
+<a href="/DevelopmentWebsite/birds/species/PineSiskin" class="pagination--pager" title="Pine Siskin">Previous</a> <a href="/DevelopmentWebsite/birds/species/PrairieFalcon" class="pagination--pager" title="Prairie Falcon">Next</a>
 
 <p>&nbsp;</p>
 

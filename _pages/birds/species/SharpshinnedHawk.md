@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=152E22hKOotyGdDR9Qbw-9xvKe5fnvGJX" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/SpottedTowhee/" class="pagination--pager" title="Spotted Towhee">Previous</a> <a href="/birds/species/SharptailedGrouse/" class="pagination--pager" title="Sharp-tailed Grouse">Next</a>
+<a href="/DevelopmentWebsite/birds/species/SpottedTowhee" class="pagination--pager" title="Spotted Towhee">Previous</a> <a href="/DevelopmentWebsite/birds/species/SharptailedGrouse" class="pagination--pager" title="Sharp-tailed Grouse">Next</a>
 
 <p>&nbsp;</p>
 

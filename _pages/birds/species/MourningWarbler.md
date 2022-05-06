@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1qX8fU37CIotrUeK9lgrkdL54zGUV0nOy" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/MourningDove/" class="pagination--pager" title="Mourning Dove">Previous</a> <a href="/birds/species/NashvilleWarbler/" class="pagination--pager" title="Nashville Warbler">Next</a>
+<a href="/DevelopmentWebsite/birds/species/MourningDove" class="pagination--pager" title="Mourning Dove">Previous</a> <a href="/DevelopmentWebsite/birds/species/NashvilleWarbler" class="pagination--pager" title="Nashville Warbler">Next</a>
 
 <p>&nbsp;</p>
 

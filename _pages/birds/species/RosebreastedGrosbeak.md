@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1r2rwNm6b30PjGRx5MBZRmjo-5DcyuX8d" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/PurpleMartin/" class="pagination--pager" title="Purple Martin">Previous</a> <a href="/birds/species/RingbilledGull/" class="pagination--pager" title="Ring-billed Gull">Next</a>
+<a href="/DevelopmentWebsite/birds/species/PurpleMartin" class="pagination--pager" title="Purple Martin">Previous</a> <a href="/DevelopmentWebsite/birds/species/RingbilledGull" class="pagination--pager" title="Ring-billed Gull">Next</a>
 
 <p>&nbsp;</p>
 

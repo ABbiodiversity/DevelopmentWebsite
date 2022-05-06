@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1w5BrwYeY-iIodrATwUpAqtF9KyJUHEoX" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WesternMeadowlark/" class="pagination--pager" title="Western Meadowlark">Previous</a> <a href="/birds/species/WesternWoodPewee/" class="pagination--pager" title="Western Wood-Pewee">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WesternMeadowlark" class="pagination--pager" title="Western Meadowlark">Previous</a> <a href="/DevelopmentWebsite/birds/species/WesternWoodPewee" class="pagination--pager" title="Western Wood-Pewee">Next</a>
 
 <p>&nbsp;</p>
 

@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1ZZ9vaodjuYkdR7Wg6n7J_uN1G2CUlta5" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/OrangecrownedWarbler/" class="pagination--pager" title="Orange-crowned Warbler">Previous</a> <a href="/birds/species/Osprey/" class="pagination--pager" title="Osprey">Next</a>
+<a href="/DevelopmentWebsite/birds/species/OrangecrownedWarbler" class="pagination--pager" title="Orange-crowned Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/Osprey" class="pagination--pager" title="Osprey">Next</a>
 
 <p>&nbsp;</p>
 

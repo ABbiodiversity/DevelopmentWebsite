@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1RCr6Khx3UKXhkrtxxegtFuiJYpjPB0DF" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BohemianWaxwing/" class="pagination--pager" title="Bohemian Waxwing">Previous</a> <a href="/birds/species/BrownCreeper/" class="pagination--pager" title="Brown Creeper">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BohemianWaxwing" class="pagination--pager" title="Bohemian Waxwing">Previous</a> <a href="/DevelopmentWebsite/birds/species/BrownCreeper" class="pagination--pager" title="Brown Creeper">Next</a>
 
 <p>&nbsp;</p>
 

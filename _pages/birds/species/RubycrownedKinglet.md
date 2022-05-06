@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1kgr-9TM1fYfbGu4Ls04BYLCoi7r_XZP-" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/RedbreastedNuthatch/" class="pagination--pager" title="Red-breasted Nuthatch">Previous</a> <a href="/birds/species/RedCrossbill/" class="pagination--pager" title="Red Crossbill">Next</a>
+<a href="/DevelopmentWebsite/birds/species/RedbreastedNuthatch" class="pagination--pager" title="Red-breasted Nuthatch">Previous</a> <a href="/DevelopmentWebsite/birds/species/RedCrossbill" class="pagination--pager" title="Red Crossbill">Next</a>
 
 <p>&nbsp;</p>
 

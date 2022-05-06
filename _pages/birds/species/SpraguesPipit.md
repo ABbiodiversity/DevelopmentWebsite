@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1lPd7mHpm5I7eLMuUgwm2zDp5Prr6lGOg" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/SpruceGrouse/" class="pagination--pager" title="Spruce Grouse">Previous</a> <a href="/birds/species/SpottedSandpiper/" class="pagination--pager" title="Spotted Sandpiper">Next</a>
+<a href="/DevelopmentWebsite/birds/species/SpruceGrouse" class="pagination--pager" title="Spruce Grouse">Previous</a> <a href="/DevelopmentWebsite/birds/species/SpottedSandpiper" class="pagination--pager" title="Spotted Sandpiper">Next</a>
 
 <p>&nbsp;</p>
 

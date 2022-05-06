@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=17ejSdjOCh4i1WtvabP66MdNGDVkFbT4T" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/YellowWarbler/" class="pagination--pager" title="Yellow Warbler">Previous</a> <a href="/birds/species/YellowrumpedWarbler/" class="pagination--pager" title="Yellow-rumped Warbler">Next</a>
+<a href="/DevelopmentWebsite/birds/species/YellowWarbler" class="pagination--pager" title="Yellow Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/YellowrumpedWarbler" class="pagination--pager" title="Yellow-rumped Warbler">Next</a>
 
 <p>&nbsp;</p>
 

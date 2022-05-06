@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1feH3ZdmAhKCjYB8nTBAJElkbThvxrv-X" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BlackbilledMagpie/" class="pagination--pager" title="Black-billed Magpie">Previous</a> <a href="/birds/species/BlackbackedWoodpecker/" class="pagination--pager" title="Black-backed Woodpecker">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BlackbilledMagpie" class="pagination--pager" title="Black-billed Magpie">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackbackedWoodpecker" class="pagination--pager" title="Black-backed Woodpecker">Next</a>
 
 <p>&nbsp;</p>
 

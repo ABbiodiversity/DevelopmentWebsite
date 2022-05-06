@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1p99wsDvEBCy1Q9vKfe1MFxZX1z7SmstU" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/AlderFlycatcher/" class="pagination--pager" title="Alder Flycatcher">Previous</a> <a href="/birds/species/AmericanBittern/" class="pagination--pager" title="American Bittern">Next</a>
+<a href="/DevelopmentWebsite/birds/species/AlderFlycatcher" class="pagination--pager" title="Alder Flycatcher">Previous</a> <a href="/DevelopmentWebsite/birds/species/AmericanBittern" class="pagination--pager" title="American Bittern">Next</a>
 
 <p>&nbsp;</p>
 

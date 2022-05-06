@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1qWTCnGqNWykfkBsx1SC-k5esFwLUjAJV" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BrownCreeper/" class="pagination--pager" title="Brown Creeper">Previous</a> <a href="/birds/species/BrownThrasher/" class="pagination--pager" title="Brown Thrasher">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BrownCreeper" class="pagination--pager" title="Brown Creeper">Previous</a> <a href="/DevelopmentWebsite/birds/species/BrownThrasher" class="pagination--pager" title="Brown Thrasher">Next</a>
 
 <p>&nbsp;</p>
 

@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Inb96iFJ5-FPYiWCYMT48mbRw_fuTIeQ" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BlueJay/" class="pagination--pager" title="Blue Jay">Previous</a> <a href="/birds/species/Bobolink/" class="pagination--pager" title="Bobolink">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BlackpollWarbler" class="pagination--pager" title="Blackpoll Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/Bobolink" class="pagination--pager" title="Bobolink">Next</a>
 
 <p>&nbsp;</p>
 

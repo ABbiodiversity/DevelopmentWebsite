@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Al7wXFmNSpfJr0O8H3M2x4_khsjuq5Dj" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/UplandSandpiper/" class="pagination--pager" title="Upland Sandpiper">Previous</a> <a href="/birds/species/Veery/" class="pagination--pager" title="Veery">Next</a>
+<a href="/DevelopmentWebsite/birds/species/UplandSandpiper" class="pagination--pager" title="Upland Sandpiper">Previous</a> <a href="/DevelopmentWebsite/birds/species/Veery" class="pagination--pager" title="Veery">Next</a>
 
 <p>&nbsp;</p>
 

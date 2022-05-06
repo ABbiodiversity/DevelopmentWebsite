@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1J7j6sf56DY8aAHOwNP5bUGYvHrgYI0Yl" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/GreatBlueHeron/" class="pagination--pager" title="Great Blue Heron">Previous</a> <a href="/birds/species/GraycrownedRosyFinch/" class="pagination--pager" title="Gray-crowned Rosy-Finch">Next</a>
+<a href="/DevelopmentWebsite/birds/species/GreatBlueHeron" class="pagination--pager" title="Great Blue Heron">Previous</a> <a href="/DevelopmentWebsite/birds/species/GraycrownedRosyFinch" class="pagination--pager" title="Gray-crowned Rosy-Finch">Next</a>
 
 <p>&nbsp;</p>
 

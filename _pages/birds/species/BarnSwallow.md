@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1NgEGoD6-qoCIkA1AZ3SJnWmm5eymLNJo" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BaltimoreOriole/" class="pagination--pager" title="Baltimore Oriole">Previous</a> <a href="/birds/species/BlackAndWhiteWarbler/" class="pagination--pager" title="Black-and-white Warbler">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BaltimoreOriole" class="pagination--pager" title="Baltimore Oriole">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackAndWhiteWarbler" class="pagination--pager" title="Black-and-white Warbler">Next</a>
 
 <p>&nbsp;</p>
 

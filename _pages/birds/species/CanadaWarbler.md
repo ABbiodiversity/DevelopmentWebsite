@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=18L-iLcCEr9WlOVtvWCxBkrngzTiNcsKR" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/CassinsVireo/" class="pagination--pager" title="Cassin's Vireo">Previous</a> <a href="/birds/species/ChestnutcollaredLongspur/" class="pagination--pager" title="Chestnut-collared Longspur">Next</a>
+<a href="/DevelopmentWebsite/birds/species/CassinsVireo" class="pagination--pager" title="Cassin's Vireo">Previous</a> <a href="/DevelopmentWebsite/birds/species/ChestnutcollaredLongspur" class="pagination--pager" title="Chestnut-collared Longspur">Next</a>
 
 <p>&nbsp;</p>
 

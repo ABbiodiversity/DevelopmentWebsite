@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1A1AUVpLFEuGFrxFrpMWF9iecfxlzE-dK" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/Bobolink/" class="pagination--pager" title="Bobolink">Previous</a> <a href="/birds/species/BonapartesGull/" class="pagination--pager" title="Bonaparte's Gull">Next</a>
+<a href="/DevelopmentWebsite/birds/species/Bobolink" class="pagination--pager" title="Bobolink">Previous</a> <a href="/DevelopmentWebsite/birds/species/BonapartesGull" class="pagination--pager" title="Bonaparte's Gull">Next</a>
 
 <p>&nbsp;</p>
 

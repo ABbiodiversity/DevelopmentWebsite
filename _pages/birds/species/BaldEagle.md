@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1eHNZtGWOWk_dtw-j8uMvSVWJnrgx4c6j" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BarredOwl/" class="pagination--pager" title="Barred Owl">Previous</a> <a href="/birds/species/BairdsSparrow/" class="pagination--pager" title="Baird's Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BarredOwl" class="pagination--pager" title="Barred Owl">Previous</a> <a href="/DevelopmentWebsite/birds/species/BairdsSparrow" class="pagination--pager" title="Baird's Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

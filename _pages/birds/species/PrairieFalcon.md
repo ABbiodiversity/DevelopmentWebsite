@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=15wqKTIJnuNzhQ7Y150kknvAiSSKanp5M" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/PileatedWoodpecker/" class="pagination--pager" title="Pileated Woodpecker">Previous</a> <a href="/birds/species/PacificslopeFlycatcher/" class="pagination--pager" title="Pacific-slope Flycatcher">Next</a>
+<a href="/DevelopmentWebsite/birds/species/PileatedWoodpecker" class="pagination--pager" title="Pileated Woodpecker">Previous</a> <a href="/DevelopmentWebsite/birds/species/PacificslopeFlycatcher" class="pagination--pager" title="Pacific-slope Flycatcher">Next</a>
 
 <p>&nbsp;</p>
 

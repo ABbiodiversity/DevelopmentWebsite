@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Jkjn0LfmkefMPntgUOnBZvFAb2t96yve" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/VariedThrush/" class="pagination--pager" title="Varied Thrush">Previous</a> <a href="/birds/species/VesperSparrow/" class="pagination--pager" title="Vesper Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/VariedThrush" class="pagination--pager" title="Varied Thrush">Previous</a> <a href="/DevelopmentWebsite/birds/species/VesperSparrow" class="pagination--pager" title="Vesper Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

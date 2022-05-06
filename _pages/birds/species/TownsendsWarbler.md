@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1UCvEO_5ouY-DbdoSVdw1YQxG-zAAyv9R" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/TownsendsSolitaire/" class="pagination--pager" title="Townsend's Solitaire">Previous</a> <a href="/birds/species/TreeSwallow/" class="pagination--pager" title="Tree Swallow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/TownsendsSolitaire" class="pagination--pager" title="Townsend's Solitaire">Previous</a> <a href="/DevelopmentWebsite/birds/species/TreeSwallow" class="pagination--pager" title="Tree Swallow">Next</a>
 
 <p>&nbsp;</p>
 

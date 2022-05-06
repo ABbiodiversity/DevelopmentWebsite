@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1GZ_I1p5T-UANn2O3H5frN4PqH1WI59QR" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/GrayCatbird/" class="pagination--pager" title="Gray Catbird">Previous</a> <a href="/birds/species/GreaterYellowlegs/" class="pagination--pager" title="Greater Yellowlegs">Next</a>
+<a href="/DevelopmentWebsite/birds/species/GrayCatbird" class="pagination--pager" title="Gray Catbird">Previous</a> <a href="/DevelopmentWebsite/birds/species/GreaterYellowlegs" class="pagination--pager" title="Greater Yellowlegs">Next</a>
 
 <p>&nbsp;</p>
 

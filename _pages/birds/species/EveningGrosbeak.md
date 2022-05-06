@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=13xzRQY-cqRLANbYJr2tCcY5DI31VpLOL" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/EuropeanStarling/" class="pagination--pager" title="European Starling">Previous</a> <a href="/birds/species/FoxSparrow/" class="pagination--pager" title="Fox Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/EuropeanStarling" class="pagination--pager" title="European Starling">Previous</a> <a href="/DevelopmentWebsite/birds/species/FoxSparrow" class="pagination--pager" title="Fox Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

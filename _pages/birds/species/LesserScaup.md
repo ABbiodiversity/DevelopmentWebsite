@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1if0rvwmAS1bPmAtsEavpAARppkTwJRi5" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/LongearedOwl/" class="pagination--pager" title="Long-eared Owl">Previous</a> <a href="/birds/species/LesserYellowlegs/" class="pagination--pager" title="Lesser Yellowlegs">Next</a>
+<a href="/DevelopmentWebsite/birds/species/LongearedOwl" class="pagination--pager" title="Long-eared Owl">Previous</a> <a href="/DevelopmentWebsite/birds/species/LesserYellowlegs" class="pagination--pager" title="Lesser Yellowlegs">Next</a>
 
 <p>&nbsp;</p>
 

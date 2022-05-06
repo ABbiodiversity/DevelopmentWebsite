@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1sum4N63Rnv9ARRCuPzgagRNgWbkQfRJb" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BluewingedTeal/" class="pagination--pager" title="Blue-winged Teal">Previous</a> <a href="/birds/species/CanadaGoose/" class="pagination--pager" title="Canada Goose">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BluewingedTeal" class="pagination--pager" title="Blue-winged Teal">Previous</a> <a href="/DevelopmentWebsite/birds/species/CanadaGoose" class="pagination--pager" title="Canada Goose">Next</a>
 
 <p>&nbsp;</p>
 

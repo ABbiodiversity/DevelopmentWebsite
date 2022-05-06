@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1nKcTCw5wmrWNKO2BNTgTFGVMhSqWOStX" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/AmericanCoot/" class="pagination--pager" title="American Coot">Previous</a> <a href="/birds/species/AmericanGoldfinch/" class="pagination--pager" title="American Goldfinch">Next</a>
+<a href="/DevelopmentWebsite/birds/species/AmericanCoot" class="pagination--pager" title="American Coot">Previous</a> <a href="/DevelopmentWebsite/birds/species/AmericanGoldfinch" class="pagination--pager" title="American Goldfinch">Next</a>
 
 <p>&nbsp;</p>
 

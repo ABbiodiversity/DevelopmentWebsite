@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1f5LI9_zBMkZKhYXbqvdFPwzbEC2f11vr" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BlackbackedWoodpecker/" class="pagination--pager" title="Black-backed Woodpecker">Previous</a> <a href="/birds/species/BrownheadedCowbird/" class="pagination--pager" title="Brown-headed Cowbird">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BlackcrownedNightHeron" class="pagination--pager" title="Black-crowned Night-Heron">Previous</a> <a href="/DevelopmentWebsite/birds/species/BrownheadedCowbird" class="pagination--pager" title="Brown-headed Cowbird">Next</a>
 
 <p>&nbsp;</p>
 

@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1j-kGndprkoei2VWfrVC_C1C-n_jjIm8G" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/NelsonsSparrow/" class="pagination--pager" title="Nelson's Sparrow">Previous</a> <a href="/birds/species/NorthernFlicker/" class="pagination--pager" title="Northern Flicker">Next</a>
+<a href="/DevelopmentWebsite/birds/species/NelsonsSparrow" class="pagination--pager" title="Nelson's Sparrow">Previous</a> <a href="/DevelopmentWebsite/birds/species/NorthernFlicker" class="pagination--pager" title="Northern Flicker">Next</a>
 
 <p>&nbsp;</p>
 

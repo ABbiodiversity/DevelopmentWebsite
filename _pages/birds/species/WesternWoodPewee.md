@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1iIt5mDwFQ9JeGgtyUb7bRwu8pgway1Gw" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WesternTanager/" class="pagination--pager" title="Western Tanager">Previous</a> <a href="/birds/species/Willet/" class="pagination--pager" title="Willet">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WesternTanager" class="pagination--pager" title="Western Tanager">Previous</a> <a href="/DevelopmentWebsite/birds/species/Willet" class="pagination--pager" title="Willet">Next</a>
 
 <p>&nbsp;</p>
 

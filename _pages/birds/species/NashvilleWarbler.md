@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1FtKFn7u5GDmWbf7ToiXghCtYCHv8IV1l" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/MourningWarbler/" class="pagination--pager" title="Mourning Warbler">Previous</a> <a href="/birds/species/NelsonsSparrow/" class="pagination--pager" title="Nelson's Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/MourningWarbler" class="pagination--pager" title="Mourning Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/NelsonsSparrow" class="pagination--pager" title="Nelson's Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

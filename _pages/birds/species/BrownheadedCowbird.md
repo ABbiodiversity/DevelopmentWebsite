@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1dAmKvn5V1SmeMpSNTZ5vYQHd3asuc2c4" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BeltedKingfisher/" class="pagination--pager" title="Belted Kingfisher">Previous</a> <a href="/birds/species/BlueheadedVireo/" class="pagination--pager" title="Blue-headed Vireo">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BeltedKingfisher" class="pagination--pager" title="Belted Kingfisher">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackheadedGrosbeak" class="pagination--pager" title="Black-headed Grosbeak">Next</a>
 
 <p>&nbsp;</p>
 

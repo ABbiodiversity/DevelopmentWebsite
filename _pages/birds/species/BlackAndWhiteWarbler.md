@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1-ISIuHJHMX7cwC7EuY7iL0cQrW_K4Tbw" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BarnSwallow/" class="pagination--pager" title="Barn Swallow">Previous</a> <a href="/birds/species/BlackbilledCuckoo/" class="pagination--pager" title="Black-billed Cuckoo">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BarnSwallow" class="pagination--pager" title="Barn Swallow">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackbilledCuckoo" class="pagination--pager" title="Black-billed Cuckoo">Next</a>
 
 <p>&nbsp;</p>
 

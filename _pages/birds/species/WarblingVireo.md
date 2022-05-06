@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1d5zNvkdkewfbUkSYR_JaIWCSzNLHCj8l" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/VirginiaRail/" class="pagination--pager" title="Virginia Rail">Previous</a> <a href="/birds/species/WhitebreastedNuthatch/" class="pagination--pager" title="White-breasted Nuthatch">Next</a>
+<a href="/DevelopmentWebsite/birds/species/VirginiaRail" class="pagination--pager" title="Virginia Rail">Previous</a> <a href="/DevelopmentWebsite/birds/species/WhitebreastedNuthatch" class="pagination--pager" title="White-breasted Nuthatch">Next</a>
 
 <p>&nbsp;</p>
 

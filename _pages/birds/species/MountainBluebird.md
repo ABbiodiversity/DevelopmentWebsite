@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1T5Jy8SrSPpOVw4fDDz4tO0M1jIDG7HGA" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/MacgillivrayWarbler/" class="pagination--pager" title="MacGillivray's Warbler">Previous</a> <a href="/birds/species/MountainChickadee/" class="pagination--pager" title="Mountain Chickadee">Next</a>
+<a href="/DevelopmentWebsite/birds/species/MacgillivrayWarbler" class="pagination--pager" title="MacGillivray's Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/MountainChickadee" class="pagination--pager" title="Mountain Chickadee">Next</a>
 
 <p>&nbsp;</p>
 

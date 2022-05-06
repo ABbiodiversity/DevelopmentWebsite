@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1iQPw_MRv_bacrKAEdAbYkeOjL2WTFwuT" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/MagnoliaWarbler/" class="pagination--pager" title="Magnolia Warbler">Previous</a> <a href="/birds/species/McCownsLongspur/" class="pagination--pager" title="McCown's Longspur">Next</a>
+<a href="/DevelopmentWebsite/birds/species/MagnoliaWarbler" class="pagination--pager" title="Magnolia Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/McCownsLongspur" class="pagination--pager" title="McCown's Longspur">Next</a>
 
 <p>&nbsp;</p>
 

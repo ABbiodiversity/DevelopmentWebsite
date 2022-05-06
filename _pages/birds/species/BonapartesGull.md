@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1Wda3jcUC51-av6BivY4mQRWnZo57mRhY" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/BorealChickadee/" class="pagination--pager" title="Boreal Chickadee">Previous</a> <a href="/birds/species/BorealOwl/" class="pagination--pager" title="Boreal Owl">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BorealChickadee" class="pagination--pager" title="Boreal Chickadee">Previous</a> <a href="/DevelopmentWebsite/birds/species/BorealOwl" class="pagination--pager" title="Boreal Owl">Next</a>
 
 <p>&nbsp;</p>
 

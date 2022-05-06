@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=153fRqQsruzXxsDf2SFOl3Zu0pPEPpsFX" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BrewersBlackbird/" class="pagination--pager" title="Brewer's Blackbird">Previous</a> <a href="/birds/species/BrewersSparrow/" class="pagination--pager" title="Brewer's Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BrewersBlackbird" class="pagination--pager" title="Brewer's Blackbird">Previous</a> <a href="/DevelopmentWebsite/birds/species/BrewersSparrow" class="pagination--pager" title="Brewer's Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1lRM9m173cBepaGzXccLZ4OEdhAFHf9PH" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/LesserYellowlegs/" class="pagination--pager" title="Lesser Yellowlegs">Previous</a> <a href="/birds/species/LoggerheadShrike/" class="pagination--pager" title="Loggerhead Shrike">Next</a>
+<a href="/DevelopmentWebsite/birds/species/LesserYellowlegs" class="pagination--pager" title="Lesser Yellowlegs">Previous</a> <a href="/DevelopmentWebsite/birds/species/LoggerheadShrike" class="pagination--pager" title="Loggerhead Shrike">Next</a>
 
 <p>&nbsp;</p>
 

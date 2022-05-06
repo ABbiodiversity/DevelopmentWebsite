@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=189of2QvDqNu7EYAsbHWJT-oUgjT3ZbBN" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/RingbilledGull/" class="pagination--pager" title="Ring-billed Gull">Previous</a> <a href="/birds/species/RubycrownedKinglet/" class="pagination--pager" title="Ruby-crowned Kinglet">Next</a>
+<a href="/DevelopmentWebsite/birds/species/RingbilledGull" class="pagination--pager" title="Ring-billed Gull">Previous</a> <a href="/DevelopmentWebsite/birds/species/RubycrownedKinglet" class="pagination--pager" title="Ruby-crowned Kinglet">Next</a>
 
 <p>&nbsp;</p>
 

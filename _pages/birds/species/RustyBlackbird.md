@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1i61ntF-pXi4GmboHIKDAeXfVTkI1KwUD" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/RedtailedHawk/" class="pagination--pager" title="Red-tailed Hawk">Previous</a> <a href="/birds/species/RuddyDuck/" class="pagination--pager" title="Ruddy Duck">Next</a>
+<a href="/DevelopmentWebsite/birds/species/RedtailedHawk" class="pagination--pager" title="Red-tailed Hawk">Previous</a> <a href="/DevelopmentWebsite/birds/species/RuddyDuck" class="pagination--pager" title="Ruddy Duck">Next</a>
 
 <p>&nbsp;</p>
 

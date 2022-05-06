@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1v-sCWNjaYfpYRvm8K7yfsDC41EMOukQ6" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BlackTern/" class="pagination--pager" title="Black Tern">Previous</a> <a href="/birds/species/BorealChickadee/" class="pagination--pager" title="Boreal Chickadee">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BlackTern" class="pagination--pager" title="Black Tern">Previous</a> <a href="/DevelopmentWebsite/birds/species/BorealChickadee" class="pagination--pager" title="Boreal Chickadee">Next</a>
 
 <p>&nbsp;</p>
 

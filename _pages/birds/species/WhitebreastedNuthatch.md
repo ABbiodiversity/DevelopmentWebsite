@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1OClJjqqemn90NVvTQO2895mm0CcQfDFu" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WarblingVireo/" class="pagination--pager" title="Warbling Vireo">Previous</a> <a href="/birds/species/WhitecrownedSparrow/" class="pagination--pager" title="White-crowned Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WarblingVireo" class="pagination--pager" title="Warbling Vireo">Previous</a> <a href="/DevelopmentWebsite/birds/species/WhitecrownedSparrow" class="pagination--pager" title="White-crowned Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

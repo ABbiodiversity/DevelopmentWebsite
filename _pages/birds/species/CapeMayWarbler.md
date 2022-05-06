@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1dpmKziJAW5RLH77EdBvABnTQRh-2GMJJ" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/CliffSwallow/" class="pagination--pager" title="Cliff Swallow">Previous</a> <a href="/birds/species/CommonGoldeneye/" class="pagination--pager" title="Common Goldeneye">Next</a>
+<a href="/DevelopmentWebsite/birds/species/CliffSwallow" class="pagination--pager" title="Cliff Swallow">Previous</a> <a href="/DevelopmentWebsite/birds/species/CommonGoldeneye" class="pagination--pager" title="Common Goldeneye">Next</a>
 
 <p>&nbsp;</p>
 

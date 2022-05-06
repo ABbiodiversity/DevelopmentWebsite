@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1PpQNSNdxOghpTgkJ5kvpHP2Y-J1ZuO1k" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/CaliforniaGull/" class="pagination--pager" title="California Gull">Previous</a> <a href="/birds/species/Canvasback/" class="pagination--pager" title="Canvasback">Next</a>
+<a href="/DevelopmentWebsite/birds/species/CaliforniaGull" class="pagination--pager" title="California Gull">Previous</a> <a href="/DevelopmentWebsite/birds/species/Canvasback" class="pagination--pager" title="Canvasback">Next</a>
 
 <p>&nbsp;</p>
 

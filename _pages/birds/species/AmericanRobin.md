@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1b7r_Ahff7xiqzhu0XGfB3maYbc5Bb67k" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/AmericanRedstart/" class="pagination--pager" title="American Redstart">Previous</a> <a href="/birds/species/AmericanWigeon/" class="pagination--pager" title="American Wigeon">Next</a>
+<a href="/DevelopmentWebsite/birds/species/AmericanRedstart" class="pagination--pager" title="American Redstart">Previous</a> <a href="/DevelopmentWebsite/birds/species/AmericanWigeon" class="pagination--pager" title="American Wigeon">Next</a>
 
 <p>&nbsp;</p>
 

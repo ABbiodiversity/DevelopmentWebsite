@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1VdbBqLvf4o037skl1yTIg4xYJCIiIm7p" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/BrownheadedCowbird/" class="pagination--pager" title="Brown-headed Cowbird">Previous</a> <a href="/birds/species/BlueJay/" class="pagination--pager" title="Blue Jay">Next</a>
+<a href="/DevelopmentWebsite/birds/species/BlackheadedGrosbeak" class="pagination--pager" title="Black-headed Grosbeak">Previous</a> <a href="/DevelopmentWebsite/birds/species/BlackburnianWarbler" class="pagination--pager" title="Blackburnian Warbler">Next</a>
 
 <p>&nbsp;</p>
 

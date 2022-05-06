@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=19pMyWEA6U8t7f2J9ZYEvxqj4wMogS1z1" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/Mallard/" class="pagination--pager" title="Mallard">Previous</a> <a href="/birds/species/MarshWren/" class="pagination--pager" title="Marsh Wren">Next</a>
+<a href="/DevelopmentWebsite/birds/species/Mallard" class="pagination--pager" title="Mallard">Previous</a> <a href="/DevelopmentWebsite/birds/species/MarshWren" class="pagination--pager" title="Marsh Wren">Next</a>
 
 <p>&nbsp;</p>
 

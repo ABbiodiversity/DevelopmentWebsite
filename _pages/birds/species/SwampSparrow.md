@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1VMJbj0ZRY5SfVOCQGCMOtBOg4CvqJavO" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/SwainsonsHawk/" class="pagination--pager" title="Swainson's Hawk">Previous</a> <a href="/birds/species/SwainsonsThrush/" class="pagination--pager" title="Swainson's Thrush">Next</a>
+<a href="/DevelopmentWebsite/birds/species/SwainsonsHawk" class="pagination--pager" title="Swainson's Hawk">Previous</a> <a href="/DevelopmentWebsite/birds/species/SwainsonsThrush" class="pagination--pager" title="Swainson's Thrush">Next</a>
 
 <p>&nbsp;</p>
 

@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1iglBz--3nHGYhdcn1ad44wBuImj0EPUF" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/PacificslopeFlycatcher/" class="pagination--pager" title="Pacific-slope Flycatcher">Previous</a> <a href="/birds/species/PurpleMartin/" class="pagination--pager" title="Purple Martin">Next</a>
+<a href="/DevelopmentWebsite/birds/species/PacificslopeFlycatcher" class="pagination--pager" title="Pacific-slope Flycatcher">Previous</a> <a href="/DevelopmentWebsite/birds/species/PurpleMartin" class="pagination--pager" title="Purple Martin">Next</a>
 
 <p>&nbsp;</p>
 

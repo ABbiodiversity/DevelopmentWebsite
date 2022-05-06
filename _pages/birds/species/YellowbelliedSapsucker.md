@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1abjD4me3XH7myrY6Nc71eZ2hgOOtu5bA" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/YellowbelliedFlycatcher/" class="pagination--pager" title="Yellow-bellied Flycatcher">Previous</a> <a href="/birds/species/YellowRail/" class="pagination--pager" title="Yellow Rail">Next</a>
+<a href="/DevelopmentWebsite/birds/species/YellowbelliedFlycatcher" class="pagination--pager" title="Yellow-bellied Flycatcher">Previous</a> <a href="/DevelopmentWebsite/birds/species/YellowRail" class="pagination--pager" title="Yellow Rail">Next</a>
 
 <p>&nbsp;</p>
 

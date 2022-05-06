@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1hrsDybdxx7-CpUnyPKb78FuEwaa0bVWS" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/HouseWren/" class="pagination--pager" title="House Wren">Previous</a> <a href="/birds/species/LarkBunting/" class="pagination--pager" title="Lark Bunting">Next</a>
+<a href="/DevelopmentWebsite/birds/species/HouseWren" class="pagination--pager" title="House Wren">Previous</a> <a href="/DevelopmentWebsite/birds/species/LarkBunting" class="pagination--pager" title="Lark Bunting">Next</a>
 
 <p>&nbsp;</p>
 

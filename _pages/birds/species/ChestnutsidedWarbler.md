@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1MnEa7mPQ370zVQ3l6Bo6CRVZzvRsdTO9" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/CommonYellowthroat/" class="pagination--pager" title="Common Yellowthroat">Previous</a> <a href="/birds/species/DarkeyedJunco/" class="pagination--pager" title="Dark-eyed Junco">Next</a>
+<a href="/DevelopmentWebsite/birds/species/CommonYellowthroat" class="pagination--pager" title="Common Yellowthroat">Previous</a> <a href="/DevelopmentWebsite/birds/species/DarkeyedJunco" class="pagination--pager" title="Dark-eyed Junco">Next</a>
 
 <p>&nbsp;</p>
 

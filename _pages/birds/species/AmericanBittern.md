@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1UwMBuhm99z9t1grxnFlt7j2ROhsz37wL" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/AmericanAvocet/" class="pagination--pager" title="American Avocet">Previous</a> <a href="/birds/species/AmericanCoot/" class="pagination--pager" title="American Coot">Next</a>
+<a href="/DevelopmentWebsite/birds/species/AmericanAvocet" class="pagination--pager" title="American Avocet">Previous</a> <a href="/DevelopmentWebsite/birds/species/AmericanCoot" class="pagination--pager" title="American Coot">Next</a>
 
 <p>&nbsp;</p>
 

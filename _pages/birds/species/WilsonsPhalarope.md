@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1zVsd72b35GxRyRRndte-Hzhamx0TmY0D" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/Willet/" class="pagination--pager" title="Willet">Previous</a> <a href="/birds/species/WilsonsSnipe/" class="pagination--pager" title="Wilson's Snipe">Next</a>
+<a href="/DevelopmentWebsite/birds/species/Willet" class="pagination--pager" title="Willet">Previous</a> <a href="/DevelopmentWebsite/birds/species/WilsonsSnipe" class="pagination--pager" title="Wilson's Snipe">Next</a>
 
 <p>&nbsp;</p>
 

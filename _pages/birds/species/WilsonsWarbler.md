@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1693LDn_JHYkfZDZ6_n-ASnNU1gUYwCyY" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WilsonsSnipe/" class="pagination--pager" title="Wilson's Snipe">Previous</a> <a href="/birds/species/WinterWren/" class="pagination--pager" title="Winter Wren">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WilsonsSnipe" class="pagination--pager" title="Wilson's Snipe">Previous</a> <a href="/DevelopmentWebsite/birds/species/WinterWren" class="pagination--pager" title="Winter Wren">Next</a>
 
 <p>&nbsp;</p>
 

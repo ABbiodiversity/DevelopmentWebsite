@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1eOD3sf3DewNdm4OGW9Ux2vMhBSydxnXH" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/SongSparrow/" class="pagination--pager" title="Song Sparrow">Previous</a> <a href="/birds/species/SpraguesPipit/" class="pagination--pager" title="Sprague's Pipit">Next</a>
+<a href="/DevelopmentWebsite/birds/species/SongSparrow" class="pagination--pager" title="Song Sparrow">Previous</a> <a href="/DevelopmentWebsite/birds/species/SpraguesPipit" class="pagination--pager" title="Sprague's Pipit">Next</a>
 
 <p>&nbsp;</p>
 

@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1toLFUjQhVkd2kN1_Ty5MpY82UnAcnpob" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/Gadwall/" class="pagination--pager" title="Gadwall">Previous</a> <a href="/birds/species/GoldencrownedKinglet/" class="pagination--pager" title="Golden-crowned Kinglet">Next</a>
+<a href="/DevelopmentWebsite/birds/species/Gadwall" class="pagination--pager" title="Gadwall">Previous</a> <a href="/DevelopmentWebsite/birds/species/GoldencrownedKinglet" class="pagination--pager" title="Golden-crowned Kinglet">Next</a>
 
 <p>&nbsp;</p>
 

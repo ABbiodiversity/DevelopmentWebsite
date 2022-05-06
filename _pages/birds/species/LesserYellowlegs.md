@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1vrsJ04nrWPM67AmMQD6rF_q9thJVn9r9" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/LesserScaup/" class="pagination--pager" title="Lesser Scaup">Previous</a> <a href="/birds/species/LincolnsSparrow/" class="pagination--pager" title="Lincoln's Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/LesserScaup" class="pagination--pager" title="Lesser Scaup">Previous</a> <a href="/DevelopmentWebsite/birds/species/LincolnsSparrow" class="pagination--pager" title="Lincoln's Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

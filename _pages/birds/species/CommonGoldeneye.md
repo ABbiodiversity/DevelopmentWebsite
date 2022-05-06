@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1knR22xaQllTzZkvFTRDbiOVLhrwwR-YP" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/CapeMayWarbler/" class="pagination--pager" title="Cape May Warbler">Previous</a> <a href="/birds/species/CommonGrackle/" class="pagination--pager" title="Common Grackle">Next</a>
+<a href="/DevelopmentWebsite/birds/species/CapeMayWarbler" class="pagination--pager" title="Cape May Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/CommonGrackle" class="pagination--pager" title="Common Grackle">Next</a>
 
 <p>&nbsp;</p>
 

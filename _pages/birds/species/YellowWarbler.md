@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=10NR_1cKexiOOnT34mkOmxG351LqANdJA" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/YellowRail/" class="pagination--pager" title="Yellow Rail">Previous</a> <a href="/birds/species/YellowheadedBlackbird/" class="pagination--pager" title="Yellow-headed Blackbird">Next</a>
+<a href="/DevelopmentWebsite/birds/species/YellowRail" class="pagination--pager" title="Yellow Rail">Previous</a> <a href="/DevelopmentWebsite/birds/species/YellowheadedBlackbird" class="pagination--pager" title="Yellow-headed Blackbird">Next</a>
 
 <p>&nbsp;</p>
 

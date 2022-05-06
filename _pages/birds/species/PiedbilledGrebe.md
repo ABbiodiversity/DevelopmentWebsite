@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=15_uN4mRNSqkaR85dbFx33y0sVWhW6Ndm" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/PalmWarbler/" class="pagination--pager" title="Palm Warbler">Previous</a> <a href="/birds/species/PhiladelphiaVireo/" class="pagination--pager" title="Philadelphia Vireo">Next</a>
+<a href="/DevelopmentWebsite/birds/species/PalmWarbler" class="pagination--pager" title="Palm Warbler">Previous</a> <a href="/DevelopmentWebsite/birds/species/PhiladelphiaVireo" class="pagination--pager" title="Philadelphia Vireo">Next</a>
 
 <p>&nbsp;</p>
 

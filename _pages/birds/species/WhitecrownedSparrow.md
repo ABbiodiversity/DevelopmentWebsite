@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1qhMV6in9j3vzQy61ROV7D6Hq7QM2yW7t" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WhitebreastedNuthatch/" class="pagination--pager" title="White-breasted Nuthatch">Previous</a> <a href="/birds/species/WesternGrebe/" class="pagination--pager" title="Western Grebe">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WhitebreastedNuthatch" class="pagination--pager" title="White-breasted Nuthatch">Previous</a> <a href="/DevelopmentWebsite/birds/species/WesternGrebe" class="pagination--pager" title="Western Grebe">Next</a>
 
 <p>&nbsp;</p>
 

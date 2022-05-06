@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1yxOJfA71BYBTsTtWr86KDnGyc2LN9CSe" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/EasternPhoebe/" class="pagination--pager" title="Eastern Phoebe">Previous</a> <a href="/birds/species/EuropeanStarling/" class="pagination--pager" title="European Starling">Next</a>
+<a href="/DevelopmentWebsite/birds/species/EasternPhoebe" class="pagination--pager" title="Eastern Phoebe">Previous</a> <a href="/DevelopmentWebsite/birds/species/EuropeanStarling" class="pagination--pager" title="European Starling">Next</a>
 
 <p>&nbsp;</p>
 

@@ -14,7 +14,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1dEQqhNuch_l4yWjhXK2yjLtaSwuSzIxy" height = "1200" width = "800">
 </a>
 
-<a href="/birds/species/AmericanBittern/" class="pagination--pager" title="American Bittern">Previous</a> <a href="/birds/species/AmericanCrow/" class="pagination--pager" title="American Crow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/AmericanBittern" class="pagination--pager" title="American Bittern">Previous</a> <a href="/DevelopmentWebsite/birds/species/AmericanCrow" class="pagination--pager" title="American Crow">Next</a>
 
 <p>&nbsp;</p>
 

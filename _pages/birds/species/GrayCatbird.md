@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1euAL8CUaw0CgGH9cSgKzCSq0zoi8v_v8" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/GrayPartridge/" class="pagination--pager" title="Gray Partridge">Previous</a> <a href="/birds/species/GrasshopperSparrow/" class="pagination--pager" title="Grasshopper Sparrow">Next</a>
+<a href="/DevelopmentWebsite/birds/species/GrayPartridge" class="pagination--pager" title="Gray Partridge">Previous</a> <a href="/DevelopmentWebsite/birds/species/GrasshopperSparrow" class="pagination--pager" title="Grasshopper Sparrow">Next</a>
 
 <p>&nbsp;</p>
 

@@ -38,7 +38,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1SVeqV6ZAzzyZEl7owvU81xmoIUBxar9X" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/WesternWoodPewee/" class="pagination--pager" title="Western Wood-Pewee">Previous</a> <a href="/birds/species/WilsonsPhalarope/" class="pagination--pager" title="Wilson's Phalarope">Next</a>
+<a href="/DevelopmentWebsite/birds/species/WesternWoodPewee" class="pagination--pager" title="Western Wood-Pewee">Previous</a> <a href="/DevelopmentWebsite/birds/species/WilsonsPhalarope" class="pagination--pager" title="Wilson's Phalarope">Next</a>
 
 <p>&nbsp;</p>
 

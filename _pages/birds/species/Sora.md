@@ -56,7 +56,7 @@ sidebar:
 <img src="https://drive.google.com/uc?export=view&id=1dd13ZUeZJaIYwRO0IOJZQZiZJyuFwQss" height = "500" width = "1500">
 </a>
 
-<a href="/birds/species/SedgeWren/" class="pagination--pager" title="Sedge Wren">Previous</a> <a href="/birds/species/SolitarySandpiper/" class="pagination--pager" title="Solitary Sandpiper">Next</a>
+<a href="/DevelopmentWebsite/birds/species/SedgeWren" class="pagination--pager" title="Sedge Wren">Previous</a> <a href="/DevelopmentWebsite/birds/species/SolitarySandpiper" class="pagination--pager" title="Solitary Sandpiper">Next</a>
 
 <p>&nbsp;</p>
 
