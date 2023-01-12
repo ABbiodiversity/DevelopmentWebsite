@@ -10,29 +10,29 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1GpSqxfc3UopOFdlvVy2tlOnZ_ayMbtke">
-<img src="https://drive.google.com/uc?export=view&id=1GpSqxfc3UopOFdlvVy2tlOnZ_ayMbtke" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1MVq9DxY_FVwVglcfji_HIf5JMJCNdSwN">
+<img src="https://drive.google.com/uc?export=view&id=1MVq9DxY_FVwVglcfji_HIf5JMJCNdSwN" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1LnwWjB3Bums4IoQGb0Jeh9bqI5u7ANuX">
-<img src="https://drive.google.com/uc?export=view&id=1LnwWjB3Bums4IoQGb0Jeh9bqI5u7ANuX" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Wa9TVA0D7dlnjG8JriOf0EZ9C5Fl6UIL">
+<img src="https://drive.google.com/uc?export=view&id=1Wa9TVA0D7dlnjG8JriOf0EZ9C5Fl6UIL" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1AlOA4qTeIBNS6yitXYA-L2z61u1fTwZv">
-<img src="https://drive.google.com/uc?export=view&id=1AlOA4qTeIBNS6yitXYA-L2z61u1fTwZv" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1OuNH4hnPUlWtaIuDjXfsey7JOmjNNe8A">
+<img src="https://drive.google.com/uc?export=view&id=1OuNH4hnPUlWtaIuDjXfsey7JOmjNNe8A" height = "500" width = "1000">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Vy2pvFq8_pqbnXv-mn07_dO9wKrBBvnw">
-<img src="https://drive.google.com/uc?export=view&id=1Vy2pvFq8_pqbnXv-mn07_dO9wKrBBvnw" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=10w0H8ejIQBKIlBw1Zi9sSf8SgNBxI4r-">
+<img src="https://drive.google.com/uc?export=view&id=10w0H8ejIQBKIlBw1Zi9sSf8SgNBxI4r-" height = "500" width = "1000">
 </a>
 
 

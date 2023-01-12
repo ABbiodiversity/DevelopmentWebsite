@@ -10,8 +10,8 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Qq32E3L9oFwhppc82LHpqIa7QhpBqsJB">
-<img src="https://drive.google.com/uc?export=view&id=1Qq32E3L9oFwhppc82LHpqIa7QhpBqsJB" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1MOZGOzpA8C5s40NEmBrxNCPE8qjfjo_4">
+<img src="https://drive.google.com/uc?export=view&id=1MOZGOzpA8C5s40NEmBrxNCPE8qjfjo_4" height = "1200" width = "800">
 </a>
 
 

@@ -10,36 +10,36 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1nd7RFgB9ScQayue6VSuKo-bjFsH2A2X_">
-<img src="https://drive.google.com/uc?export=view&id=1nd7RFgB9ScQayue6VSuKo-bjFsH2A2X_" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1MsJcmtqE994Ch-4v-_2Tnmwz54fKu3Ew">
+<img src="https://drive.google.com/uc?export=view&id=1MsJcmtqE994Ch-4v-_2Tnmwz54fKu3Ew" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1cswuCw659dLqM8GN1L_xJ19bbwE80Ikf">
-<img src="https://drive.google.com/uc?export=view&id=1cswuCw659dLqM8GN1L_xJ19bbwE80Ikf" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1CxM9T7HLOdhquJqtf2fE9SXoNwt63GmS">
+<img src="https://drive.google.com/uc?export=view&id=1CxM9T7HLOdhquJqtf2fE9SXoNwt63GmS" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1G_x_LJLDgsl9d7KWW_3A-QmK4gXYGJW1">
-<img src="https://drive.google.com/uc?export=view&id=1G_x_LJLDgsl9d7KWW_3A-QmK4gXYGJW1" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1c1Zcw3JmL35oMDK139N13GgkK4j1P1-Q">
+<img src="https://drive.google.com/uc?export=view&id=1c1Zcw3JmL35oMDK139N13GgkK4j1P1-Q" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1sZ5xxArrqNszISIYshMqsyZawFKj-yhT">
-<img src="https://drive.google.com/uc?export=view&id=1sZ5xxArrqNszISIYshMqsyZawFKj-yhT" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=14d2WDng4dbo8W33NqzFuGsRmY1qdOWaM">
+<img src="https://drive.google.com/uc?export=view&id=14d2WDng4dbo8W33NqzFuGsRmY1qdOWaM" height = "500" width = "1000">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1lq48StjMwn45qWkXHffZCbRg5xDhxRbH">
-<img src="https://drive.google.com/uc?export=view&id=1lq48StjMwn45qWkXHffZCbRg5xDhxRbH" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1grNH5DTjqLTj3ILox_DHmGkLPECL6Mr2">
+<img src="https://drive.google.com/uc?export=view&id=1grNH5DTjqLTj3ILox_DHmGkLPECL6Mr2" height = "500" width = "1000">
 </a>
 
 
