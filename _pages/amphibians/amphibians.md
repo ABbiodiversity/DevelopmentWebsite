@@ -1,14 +1,12 @@
 ---
 title: "Amphibians"
 layout: single
-permalink: /amphibians/
+permalink: /Amphibians/
 author_profile: false
 sidebar:
-  nav: "amphibians"
+  nav: "Amphibians"
 ---
 
-General information
+<h1>Sampling information</h1>
 
-Species list
-
-{% include comment-section.html %}
+Content is in development.
