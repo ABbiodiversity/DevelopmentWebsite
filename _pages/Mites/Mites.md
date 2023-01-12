@@ -1,7 +1,7 @@
 ---
 title: "Mites"
 layout: single
-permalink: /mites/
+permalink: /Mites/
 author_profile: false
 sidebar:
   nav: "Mites"

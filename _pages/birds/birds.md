@@ -1,7 +1,7 @@
 ---
 title: "Birds"
 layout: single
-permalink: /birds/
+permalink: /Birds/
 author_profile: false
 sidebar:
   nav: "birds"
