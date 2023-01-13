@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaGlomerata" class="pagination--pager" title="Muhlenbergia glomerata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaRichardsonis" class="pagination--pager" title="Mat Muhly">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaGlomerata" class="pagination--pager" title="Muhlenbergia glomerata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaRichardsonis" class="pagination--pager" title="Muhlenbergia richardsonis">Next</a>
 
 <p>&nbsp;</p>
 

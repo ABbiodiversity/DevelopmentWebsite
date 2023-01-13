@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CicutaMaculata" class="pagination--pager" title="Spotted Water Hemlock">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CinnaLatifolia" class="pagination--pager" title="Drooping Wood Reed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CicutaMaculata" class="pagination--pager" title="Cicuta maculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CinnaLatifolia" class="pagination--pager" title="Cinna latifolia">Next</a>
 
 <p>&nbsp;</p>
 

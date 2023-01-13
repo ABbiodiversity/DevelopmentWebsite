@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HedysarumAmericanum" class="pagination--pager" title="Alpine Hedysarum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HedysarumSulphurescens" class="pagination--pager" title="Yellow Hedysarum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HedysarumAmericanum" class="pagination--pager" title="Hedysarum americanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HedysarumSulphurescens" class="pagination--pager" title="Hedysarum sulphurescens">Next</a>
 
 <p>&nbsp;</p>
 

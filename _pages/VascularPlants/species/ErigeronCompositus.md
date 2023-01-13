@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCanadensis" class="pagination--pager" title="Canadian Horseweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronElatus" class="pagination--pager" title="Erigeron elatus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCanadensis" class="pagination--pager" title="Erigeron canadensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronElatus" class="pagination--pager" title="Erigeron elatus">Next</a>
 
 <p>&nbsp;</p>
 

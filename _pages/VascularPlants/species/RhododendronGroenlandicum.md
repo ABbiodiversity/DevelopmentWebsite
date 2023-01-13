@@ -1,5 +1,5 @@
 ---
-title: "Common Labrador Tea"
+title: "Rhododendron groenlandicum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RhododendronGroenlandicum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RhododendronAlbiflorum" class="pagination--pager" title="Rhododendron albiflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhododendronTomentosum" class="pagination--pager" title="Marsh Labrador Tea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RhododendronAlbiflorum" class="pagination--pager" title="Rhododendron albiflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhododendronTomentosum" class="pagination--pager" title="Rhododendron tomentosum">Next</a>
 
 <p>&nbsp;</p>
 

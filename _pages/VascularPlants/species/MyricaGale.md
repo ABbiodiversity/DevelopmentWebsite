@@ -1,5 +1,5 @@
 ---
-title: "Sweet Gale"
+title: "Myrica gale"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MyricaGale

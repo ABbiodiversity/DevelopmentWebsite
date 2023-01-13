@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PhaseolusVulgaris" class="pagination--pager" title="Phaseolus vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhleumPratense" class="pagination--pager" title="Timothy">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PhaseolusVulgaris" class="pagination--pager" title="Phaseolus vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhleumPratense" class="pagination--pager" title="Phleum pratense">Next</a>
 
 <p>&nbsp;</p>
 

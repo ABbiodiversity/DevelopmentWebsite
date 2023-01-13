@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaCiliata" class="pagination--pager" title="Fringed Loosestrife">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaHybrida" class="pagination--pager" title="Lysimachia hybrida">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaCiliata" class="pagination--pager" title="Lysimachia ciliata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaHybrida" class="pagination--pager" title="Lysimachia hybrida">Next</a>
 
 <p>&nbsp;</p>
 

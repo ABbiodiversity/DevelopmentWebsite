@@ -1,5 +1,5 @@
 ---
-title: "Prostrate Sedge"
+title: "Carex chordorrhiza"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexChordorrhiza

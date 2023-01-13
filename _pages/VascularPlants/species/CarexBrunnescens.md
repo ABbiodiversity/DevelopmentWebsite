@@ -1,5 +1,5 @@
 ---
-title: "Brownish Sedge"
+title: "Carex brunnescens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexBrunnescens

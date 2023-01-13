@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EchinopsisPeruviana" class="pagination--pager" title="Echinopsis peruviana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ElaeagnusCommutata" class="pagination--pager" title="Silverberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EchinopsisPeruviana" class="pagination--pager" title="Echinopsis peruviana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ElaeagnusCommutata" class="pagination--pager" title="Elaeagnus commutata">Next</a>
 
 <p>&nbsp;</p>
 

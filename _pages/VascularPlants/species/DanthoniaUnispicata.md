@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DanthoniaParryi" class="pagination--pager" title="Danthonia parryi">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DasiphoraFruticosa" class="pagination--pager" title="Shrubby Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DanthoniaParryi" class="pagination--pager" title="Danthonia parryi">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DasiphoraFruticosa" class="pagination--pager" title="Dasiphora fruticosa">Next</a>
 
 <p>&nbsp;</p>
 

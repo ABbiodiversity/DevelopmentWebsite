@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusAcris" class="pagination--pager" title="Tall Buttercup">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusCardiophyllus" class="pagination--pager" title="Ranunculus cardiophyllus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusAcris" class="pagination--pager" title="Ranunculus acris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusCardiophyllus" class="pagination--pager" title="Ranunculus cardiophyllus">Next</a>
 
 <p>&nbsp;</p>
 

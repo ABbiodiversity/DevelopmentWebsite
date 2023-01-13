@@ -1,5 +1,5 @@
 ---
-title: "Pursh's Plantain"
+title: "Plantago patagonica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PlantagoPatagonica
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoMajor" class="pagination--pager" title="Common Plantain">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Platanthera" class="pagination--pager" title="Bog Orchids">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoMajor" class="pagination--pager" title="Plantago major">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Platanthera" class="pagination--pager" title="Platanthera">Next</a>
 
 <p>&nbsp;</p>
 

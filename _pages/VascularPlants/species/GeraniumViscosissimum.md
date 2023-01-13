@@ -1,5 +1,5 @@
 ---
-title: "Sticky Purple Geranium"
+title: "Geranium viscosissimum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GeraniumViscosissimum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumRichardsonii" class="pagination--pager" title="Wild White Geranium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Geum" class="pagination--pager" title="Geum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumRichardsonii" class="pagination--pager" title="Geranium richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Geum" class="pagination--pager" title="Geum">Next</a>
 
 <p>&nbsp;</p>
 

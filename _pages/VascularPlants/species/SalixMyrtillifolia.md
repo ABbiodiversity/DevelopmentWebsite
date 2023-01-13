@@ -1,5 +1,5 @@
 ---
-title: "Myrtle Leaved Willow"
+title: "Salix myrtillifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixMyrtillifolia

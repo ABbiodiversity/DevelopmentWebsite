@@ -1,5 +1,5 @@
 ---
-title: "Plains Reed Grass"
+title: "Calamagrostis montanensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CalamagrostisMontanensis

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/StachysPilosa" class="pagination--pager" title="Marsh Hedge Nettle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaBorealis" class="pagination--pager" title="Stellaria borealis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/StachysPilosa" class="pagination--pager" title="Stachys pilosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaBorealis" class="pagination--pager" title="Stellaria borealis">Next</a>
 
 <p>&nbsp;</p>
 

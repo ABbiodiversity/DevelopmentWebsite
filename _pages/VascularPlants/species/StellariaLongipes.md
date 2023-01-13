@@ -1,5 +1,5 @@
 ---
-title: "Long Stalked Chickweed"
+title: "Stellaria longipes"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/StellariaLongipes
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/StellariaLongifolia" class="pagination--pager" title="Long Leaved Chickweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaMedia" class="pagination--pager" title="Common Chickweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/StellariaLongifolia" class="pagination--pager" title="Stellaria longifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaMedia" class="pagination--pager" title="Stellaria media">Next</a>
 
 <p>&nbsp;</p>
 

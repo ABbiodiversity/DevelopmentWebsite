@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GeumTriflorum" class="pagination--pager" title="Three Flowered Avens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Glyceria" class="pagination--pager" title="Glyceria">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GeumTriflorum" class="pagination--pager" title="Geum triflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Glyceria" class="pagination--pager" title="Glyceria">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Rocky Mountain Fescue"
+title: "Festuca saximontana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/FestucaSaximontana
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FestucaRubra" class="pagination--pager" title="Red Fescue">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FragariaVescaVirginiana" class="pagination--pager" title="Fragaria vesca/virginiana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FestucaRubra" class="pagination--pager" title="Festuca rubra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FragariaVescaVirginiana" class="pagination--pager" title="Fragaria vesca/virginiana">Next</a>
 
 <p>&nbsp;</p>
 

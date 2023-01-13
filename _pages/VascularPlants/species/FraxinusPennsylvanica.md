@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FraxinusAmericana" class="pagination--pager" title="Fraxinus americana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaillardiaAristata" class="pagination--pager" title="Gaillardia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FraxinusAmericana" class="pagination--pager" title="Fraxinus americana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaillardiaAristata" class="pagination--pager" title="Gaillardia aristata">Next</a>
 
 <p>&nbsp;</p>
 

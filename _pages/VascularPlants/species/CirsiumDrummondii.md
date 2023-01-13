@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumArvense" class="pagination--pager" title="Creeping Thistle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumFlodmanii" class="pagination--pager" title="Flodman's Thistle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumArvense" class="pagination--pager" title="Cirsium arvense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumFlodmanii" class="pagination--pager" title="Cirsium flodmanii">Next</a>
 
 <p>&nbsp;</p>
 

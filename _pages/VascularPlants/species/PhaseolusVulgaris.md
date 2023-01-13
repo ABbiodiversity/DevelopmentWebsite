@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PhalarisArundinacea" class="pagination--pager" title="Reed Canary Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhleumAlpinum" class="pagination--pager" title="Phleum alpinum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PhalarisArundinacea" class="pagination--pager" title="Phalaris arundinacea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhleumAlpinum" class="pagination--pager" title="Phleum alpinum">Next</a>
 
 <p>&nbsp;</p>
 

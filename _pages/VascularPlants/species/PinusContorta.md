@@ -1,5 +1,5 @@
 ---
-title: "Lodgepole Pine"
+title: "Pinus contorta"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PinusContorta
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PinusBanksiana" class="pagination--pager" title="Jack Pine">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusFlexilis" class="pagination--pager" title="Pinus flexilis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PinusBanksiana" class="pagination--pager" title="Pinus banksiana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusFlexilis" class="pagination--pager" title="Pinus flexilis">Next</a>
 
 <p>&nbsp;</p>
 

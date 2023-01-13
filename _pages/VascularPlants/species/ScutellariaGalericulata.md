@@ -1,5 +1,5 @@
 ---
-title: "Marsh Skullcap"
+title: "Scutellaria galericulata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ScutellariaGalericulata

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumVaginatum" class="pagination--pager" title="Sheathed Cotton Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErodiumCicutarium" class="pagination--pager" title="Erodium cicutarium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumVaginatum" class="pagination--pager" title="Eriophorum vaginatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErodiumCicutarium" class="pagination--pager" title="Erodium cicutarium">Next</a>
 
 <p>&nbsp;</p>
 

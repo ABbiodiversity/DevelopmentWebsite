@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BlitumNuttallianum" class="pagination--pager" title="Spear Leaved Goosefoot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BoecheraGrahamiiCollinsiiRetrofractaPedunculocarpa" class="pagination--pager" title="Boechera grahamii/collinsii/retrofracta/pedunculocarpa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BlitumNuttallianum" class="pagination--pager" title="Blitum nuttallianum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BoecheraGrahamiiCollinsiiRetrofractaPedunculocarpa" class="pagination--pager" title="Boechera grahamii/collinsii/retrofracta/pedunculocarpa">Next</a>
 
 <p>&nbsp;</p>
 

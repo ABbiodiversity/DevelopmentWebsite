@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Stellaria" class="pagination--pager" title="Stellaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaCalycantha" class="pagination--pager" title="Northern Stitchwort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Stellaria" class="pagination--pager" title="Stellaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaCalycantha" class="pagination--pager" title="Stellaria calycantha">Next</a>
 
 <p>&nbsp;</p>
 

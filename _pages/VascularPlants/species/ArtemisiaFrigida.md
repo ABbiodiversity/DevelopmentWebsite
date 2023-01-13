@@ -1,5 +1,5 @@
 ---
-title: "Pasture Sagewort"
+title: "Artemisia frigida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArtemisiaFrigida

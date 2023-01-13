@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AtriplexGardneriCanescens" class="pagination--pager" title="Atriplex gardneri/canescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AvenaFatua" class="pagination--pager" title="Wild Oat">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AtriplexGardneriCanescens" class="pagination--pager" title="Atriplex gardneri/canescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AvenaFatua" class="pagination--pager" title="Avena fatua">Next</a>
 
 <p>&nbsp;</p>
 

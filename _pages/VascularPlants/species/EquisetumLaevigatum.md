@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumHyemale" class="pagination--pager" title="Common Scouring Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumPalustre" class="pagination--pager" title="Equisetum palustre">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumHyemale" class="pagination--pager" title="Equisetum hyemale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumPalustre" class="pagination--pager" title="Equisetum palustre">Next</a>
 
 <p>&nbsp;</p>
 

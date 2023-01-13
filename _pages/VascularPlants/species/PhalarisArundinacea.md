@@ -1,5 +1,5 @@
 ---
-title: "Reed Canary Grass"
+title: "Phalaris arundinacea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PhalarisArundinacea

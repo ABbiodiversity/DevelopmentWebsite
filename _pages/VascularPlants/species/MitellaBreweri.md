@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MirabilisLinearis" class="pagination--pager" title="Mirabilis linearis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MitellaNuda" class="pagination--pager" title="Bishop's Cap">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MirabilisLinearis" class="pagination--pager" title="Mirabilis linearis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MitellaNuda" class="pagination--pager" title="Mitella nuda">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PisumSativum" class="pagination--pager" title="Garden Pea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Plantago" class="pagination--pager" title="Plantago">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PisumSativum" class="pagination--pager" title="Pisum sativum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Plantago" class="pagination--pager" title="Plantago">Next</a>
 
 <p>&nbsp;</p>
 

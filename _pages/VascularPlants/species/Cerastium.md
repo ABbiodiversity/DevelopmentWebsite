@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CentaureaCyanus" class="pagination--pager" title="Centaurea cyanus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CerastiumArvense" class="pagination--pager" title="Field Mouse Ear Chickweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CentaureaCyanus" class="pagination--pager" title="Centaurea cyanus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CerastiumArvense" class="pagination--pager" title="Cerastium arvense">Next</a>
 
 <p>&nbsp;</p>
 

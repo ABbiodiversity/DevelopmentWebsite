@@ -1,5 +1,5 @@
 ---
-title: "Cream Colored Vetchling"
+title: "Lathyrus ochroleucus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LathyrusOchroleucus

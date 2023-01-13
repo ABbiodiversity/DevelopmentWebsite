@@ -1,5 +1,5 @@
 ---
-title: "Prairie Sagewort"
+title: "Artemisia ludoviciana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArtemisiaLudoviciana

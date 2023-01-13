@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PopulusTremuloides" class="pagination--pager" title="Trembling Aspen">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PortulacaOleracea" class="pagination--pager" title="Portulaca oleracea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PopulusTremuloides" class="pagination--pager" title="Populus tremuloides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PortulacaOleracea" class="pagination--pager" title="Portulaca oleracea">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CeratophyllumDemersum" class="pagination--pager" title="Ceratophyllum demersum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaedaphneCalyculata" class="pagination--pager" title="Leatherleaf">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CeratophyllumDemersum" class="pagination--pager" title="Ceratophyllum demersum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaedaphneCalyculata" class="pagination--pager" title="Chamaedaphne calyculata">Next</a>
 
 <p>&nbsp;</p>
 

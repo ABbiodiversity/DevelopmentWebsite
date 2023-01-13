@@ -1,5 +1,5 @@
 ---
-title: "Low Bush Cranberry"
+title: "Viburnum edule"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ViburnumEdule
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaWyomingensis" class="pagination--pager" title="Veronica wyomingensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViburnumOpulus" class="pagination--pager" title="High Bush Cranberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaWyomingensis" class="pagination--pager" title="Veronica wyomingensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViburnumOpulus" class="pagination--pager" title="Viburnum opulus">Next</a>
 
 <p>&nbsp;</p>
 

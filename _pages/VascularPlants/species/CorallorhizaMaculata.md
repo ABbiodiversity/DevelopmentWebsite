@@ -1,5 +1,5 @@
 ---
-title: "Spotted Coralroot"
+title: "Corallorhiza maculata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CorallorhizaMaculata
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CoptisTrifolia" class="pagination--pager" title="Goldthread">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaStriata" class="pagination--pager" title="Corallorhiza striata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CoptisTrifolia" class="pagination--pager" title="Coptis trifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaStriata" class="pagination--pager" title="Corallorhiza striata">Next</a>
 
 <p>&nbsp;</p>
 

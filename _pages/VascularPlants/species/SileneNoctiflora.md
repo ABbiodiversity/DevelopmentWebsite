@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SileneLatifolia" class="pagination--pager" title="White Campion">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneUralensis" class="pagination--pager" title="Silene uralensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SileneLatifolia" class="pagination--pager" title="Silene latifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneUralensis" class="pagination--pager" title="Silene uralensis">Next</a>
 
 <p>&nbsp;</p>
 

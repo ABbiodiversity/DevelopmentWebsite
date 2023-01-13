@@ -1,5 +1,5 @@
 ---
-title: "Common Red Paintbrush"
+title: "Castilleja miniata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CastillejaMiniata

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumDasycarpum" class="pagination--pager" title="Thalictrum dasycarpum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumSparsiflorum" class="pagination--pager" title="Flat Fruited Meadow Rue">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumDasycarpum" class="pagination--pager" title="Thalictrum dasycarpum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumSparsiflorum" class="pagination--pager" title="Thalictrum sparsiflorum">Next</a>
 
 <p>&nbsp;</p>
 

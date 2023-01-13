@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AndromedaPolifolia" class="pagination--pager" title="Bog Rosemary">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceOccidentalis" class="pagination--pager" title="Western Fairy Candelabra">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AndromedaPolifolia" class="pagination--pager" title="Andromeda polifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceOccidentalis" class="pagination--pager" title="Androsace occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

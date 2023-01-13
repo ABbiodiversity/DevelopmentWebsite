@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Rumex" class="pagination--pager" title="Docks and sorrels">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RumexBritannica" class="pagination--pager" title="Rumex britannica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Rumex" class="pagination--pager" title="Rumex">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RumexBritannica" class="pagination--pager" title="Rumex britannica">Next</a>
 
 <p>&nbsp;</p>
 

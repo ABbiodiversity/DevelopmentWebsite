@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AmelanchierAlnifolia" class="pagination--pager" title="Saskatoon">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndromedaPolifolia" class="pagination--pager" title="Bog Rosemary">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AmelanchierAlnifolia" class="pagination--pager" title="Amelanchier alnifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndromedaPolifolia" class="pagination--pager" title="Andromeda polifolia">Next</a>
 
 <p>&nbsp;</p>
 

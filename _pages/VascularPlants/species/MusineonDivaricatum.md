@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MulgediumPulchellum" class="pagination--pager" title="Common Blue Lettuce">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MyosotisAsiatica" class="pagination--pager" title="Myosotis asiatica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MulgediumPulchellum" class="pagination--pager" title="Mulgedium pulchellum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MyosotisAsiatica" class="pagination--pager" title="Myosotis asiatica">Next</a>
 
 <p>&nbsp;</p>
 

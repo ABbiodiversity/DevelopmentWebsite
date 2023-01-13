@@ -1,5 +1,5 @@
 ---
-title: "Engelmann Spruce"
+title: "Picea engelmannii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PiceaEngelmannii
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Picea" class="pagination--pager" title="Picea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PiceaGlauca" class="pagination--pager" title="White Spruce">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Picea" class="pagination--pager" title="Picea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PiceaGlauca" class="pagination--pager" title="Picea glauca">Next</a>
 
 <p>&nbsp;</p>
 

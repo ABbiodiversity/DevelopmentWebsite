@@ -1,5 +1,5 @@
 ---
-title: "Hairy Speedwell"
+title: "Veronica peregrina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/VeronicaPeregrina
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaAmericana" class="pagination--pager" title="American Brooklime">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaScutellata" class="pagination--pager" title="Veronica scutellata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaAmericana" class="pagination--pager" title="Veronica americana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaScutellata" class="pagination--pager" title="Veronica scutellata">Next</a>
 
 <p>&nbsp;</p>
 

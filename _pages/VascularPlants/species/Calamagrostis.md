@@ -1,5 +1,5 @@
 ---
-title: "Reedgrasses"
+title: "Calamagrostis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Calamagrostis
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BupleurumAmericanum" class="pagination--pager" title="Bupleurum americanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisCanadensis" class="pagination--pager" title="Bluejoint Reed Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BupleurumAmericanum" class="pagination--pager" title="Bupleurum americanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisCanadensis" class="pagination--pager" title="Calamagrostis canadensis">Next</a>
 
 <p>&nbsp;</p>
 

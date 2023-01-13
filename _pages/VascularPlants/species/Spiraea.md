@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SpinulumAnnotinum" class="pagination--pager" title="Stiff Club Moss">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaAlba" class="pagination--pager" title="Spiraea alba">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SpinulumAnnotinum" class="pagination--pager" title="Spinulum annotinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaAlba" class="pagination--pager" title="Spiraea alba">Next</a>
 
 <p>&nbsp;</p>
 

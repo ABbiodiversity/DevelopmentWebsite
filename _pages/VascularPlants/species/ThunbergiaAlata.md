@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ThlaspiArvense" class="pagination--pager" title="Stinkweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TiarellaTrifoliata" class="pagination--pager" title="Tiarella trifoliata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ThlaspiArvense" class="pagination--pager" title="Thlaspi arvense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TiarellaTrifoliata" class="pagination--pager" title="Tiarella trifoliata">Next</a>
 
 <p>&nbsp;</p>
 

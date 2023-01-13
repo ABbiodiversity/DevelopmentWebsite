@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaWormskjoldii" class="pagination--pager" title="Veronica wormskjoldii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViburnumEdule" class="pagination--pager" title="Low Bush Cranberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaWormskjoldii" class="pagination--pager" title="Veronica wormskjoldii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViburnumEdule" class="pagination--pager" title="Viburnum edule">Next</a>
 
 <p>&nbsp;</p>
 

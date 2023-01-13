@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusGmelinii" class="pagination--pager" title="Yellow Water Crowfoot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusLongirostris" class="pagination--pager" title="Ranunculus longirostris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusGmelinii" class="pagination--pager" title="Ranunculus gmelinii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusLongirostris" class="pagination--pager" title="Ranunculus longirostris">Next</a>
 
 <p>&nbsp;</p>
 

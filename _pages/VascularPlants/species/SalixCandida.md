@@ -1,5 +1,5 @@
 ---
-title: "Hoary Willow"
+title: "Salix candida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixCandida
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixBrachycarpa" class="pagination--pager" title="Salix brachycarpa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixDiscolor" class="pagination--pager" title="Pussy Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixBrachycarpa" class="pagination--pager" title="Salix brachycarpa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixDiscolor" class="pagination--pager" title="Salix discolor">Next</a>
 
 <p>&nbsp;</p>
 

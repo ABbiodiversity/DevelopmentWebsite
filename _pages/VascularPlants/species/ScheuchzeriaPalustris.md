@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SceptridiumMultifidum" class="pagination--pager" title="Sceptridium multifidum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SchizachnePurpurascens" class="pagination--pager" title="Purple Oat Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SceptridiumMultifidum" class="pagination--pager" title="Sceptridium multifidum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SchizachnePurpurascens" class="pagination--pager" title="Schizachne purpurascens">Next</a>
 
 <p>&nbsp;</p>
 

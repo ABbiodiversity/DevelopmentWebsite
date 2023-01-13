@@ -1,5 +1,5 @@
 ---
-title: "Three Leaved Solomon"
+title: "Maianthemum trifolium"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MaianthemumTrifolium
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumStellatum" class="pagination--pager" title="Star Flowered Solomon's Seal">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MalaxisMonophyllos" class="pagination--pager" title="Malaxis monophyllos">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumStellatum" class="pagination--pager" title="Maianthemum stellatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MalaxisMonophyllos" class="pagination--pager" title="Malaxis monophyllos">Next</a>
 
 <p>&nbsp;</p>
 

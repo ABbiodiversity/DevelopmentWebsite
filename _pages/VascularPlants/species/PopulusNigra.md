@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PopulusDeltoides" class="pagination--pager" title="Populus deltoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PopulusTremuloides" class="pagination--pager" title="Trembling Aspen">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PopulusDeltoides" class="pagination--pager" title="Populus deltoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PopulusTremuloides" class="pagination--pager" title="Populus tremuloides">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Scarlet Mallow"
+title: "Sphaeralcea coccinea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SphaeralceaCoccinea

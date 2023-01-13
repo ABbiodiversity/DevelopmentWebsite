@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaNuttalliana" class="pagination--pager" title="Prairie Crocus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Pyrola" class="pagination--pager" title="Wintergreens">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaNuttalliana" class="pagination--pager" title="Pulsatilla nuttalliana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Pyrola" class="pagination--pager" title="Pyrola">Next</a>
 
 <p>&nbsp;</p>
 

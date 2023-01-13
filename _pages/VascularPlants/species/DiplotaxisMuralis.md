@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DiphasiastrumSitchense" class="pagination--pager" title="Diphasiastrum sitchense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DistichlisSpicata" class="pagination--pager" title="Saltgrass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DiphasiastrumSitchense" class="pagination--pager" title="Diphasiastrum sitchense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DistichlisSpicata" class="pagination--pager" title="Distichlis spicata">Next</a>
 
 <p>&nbsp;</p>
 

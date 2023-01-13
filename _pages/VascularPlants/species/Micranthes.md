@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MertensiaPaniculata" class="pagination--pager" title="Tall Lungwort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MicranthesLyallii" class="pagination--pager" title="Micranthes lyallii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MertensiaPaniculata" class="pagination--pager" title="Mertensia paniculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MicranthesLyallii" class="pagination--pager" title="Micranthes lyallii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Wheat"
+title: "Triticum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Triticum

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoMultiradiata" class="pagination--pager" title="Alpine Goldenrod">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoRigida" class="pagination--pager" title="Stiff Goldenrod">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoMultiradiata" class="pagination--pager" title="Solidago multiradiata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoRigida" class="pagination--pager" title="Solidago rigida">Next</a>
 
 <p>&nbsp;</p>
 

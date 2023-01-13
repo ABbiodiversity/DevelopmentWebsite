@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MenziesiaFerruginea" class="pagination--pager" title="Menziesia ferruginea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MertensiaPaniculata" class="pagination--pager" title="Tall Lungwort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MenziesiaFerruginea" class="pagination--pager" title="Menziesia ferruginea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MertensiaPaniculata" class="pagination--pager" title="Mertensia paniculata">Next</a>
 
 <p>&nbsp;</p>
 

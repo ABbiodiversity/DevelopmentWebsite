@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CrepisOccidentalis" class="pagination--pager" title="Crepis occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CrepisTectorum" class="pagination--pager" title="Annual Hawk's Beard">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CrepisOccidentalis" class="pagination--pager" title="Crepis occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CrepisTectorum" class="pagination--pager" title="Crepis tectorum">Next</a>
 
 <p>&nbsp;</p>
 

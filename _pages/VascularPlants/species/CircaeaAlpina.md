@@ -1,5 +1,5 @@
 ---
-title: "Small Enchanter's Nightshade"
+title: "Circaea alpina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CircaeaAlpina
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CinnaLatifolia" class="pagination--pager" title="Drooping Wood Reed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Cirsium" class="pagination--pager" title="Cirsium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CinnaLatifolia" class="pagination--pager" title="Cinna latifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Cirsium" class="pagination--pager" title="Cirsium">Next</a>
 
 <p>&nbsp;</p>
 

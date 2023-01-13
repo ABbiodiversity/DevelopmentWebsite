@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SuckleyaSuckleyana" class="pagination--pager" title="Suckleya suckleyana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposAlbus" class="pagination--pager" title="Snowberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SuckleyaSuckleyana" class="pagination--pager" title="Suckleya suckleyana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposAlbus" class="pagination--pager" title="Symphoricarpos albus">Next</a>
 
 <p>&nbsp;</p>
 

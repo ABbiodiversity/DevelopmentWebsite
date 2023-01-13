@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AquilegiaBrevistyla" class="pagination--pager" title="Blue Columbine">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AquilegiaFormosa" class="pagination--pager" title="Aquilegia formosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AquilegiaBrevistyla" class="pagination--pager" title="Aquilegia brevistyla">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AquilegiaFormosa" class="pagination--pager" title="Aquilegia formosa">Next</a>
 
 <p>&nbsp;</p>
 

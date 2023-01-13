@@ -1,5 +1,5 @@
 ---
-title: "Prairie Cinquefoil"
+title: "Potentilla pensylvanica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PotentillaPensylvanica
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaNorvegica" class="pagination--pager" title="Rough Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaRivalis" class="pagination--pager" title="Potentilla rivalis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaNorvegica" class="pagination--pager" title="Potentilla norvegica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaRivalis" class="pagination--pager" title="Potentilla rivalis">Next</a>
 
 <p>&nbsp;</p>
 

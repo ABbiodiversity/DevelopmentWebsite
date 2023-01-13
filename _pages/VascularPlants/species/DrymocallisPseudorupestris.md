@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DrymocallisArguta" class="pagination--pager" title="White Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Dryopteris" class="pagination--pager" title="Dryopteris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DrymocallisArguta" class="pagination--pager" title="Drymocallis arguta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Dryopteris" class="pagination--pager" title="Dryopteris">Next</a>
 
 <p>&nbsp;</p>
 

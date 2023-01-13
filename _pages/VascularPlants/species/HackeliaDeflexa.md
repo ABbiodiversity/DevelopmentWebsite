@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GypsophilaVaccaria" class="pagination--pager" title="Gypsophila vaccaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HaleniaDeflexa" class="pagination--pager" title="Spurred Gentian">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GypsophilaVaccaria" class="pagination--pager" title="Gypsophila vaccaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HaleniaDeflexa" class="pagination--pager" title="Halenia deflexa">Next</a>
 
 <p>&nbsp;</p>
 

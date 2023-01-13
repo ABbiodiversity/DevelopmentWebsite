@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraAquilonisHuronensis" class="pagination--pager" title="Platanthera aquilonis/huronensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraObtusata" class="pagination--pager" title="Blunt Leaved Bog Orchid">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraAquilonisHuronensis" class="pagination--pager" title="Platanthera aquilonis/huronensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraObtusata" class="pagination--pager" title="Platanthera obtusata">Next</a>
 
 <p>&nbsp;</p>
 

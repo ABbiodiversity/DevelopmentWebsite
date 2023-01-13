@@ -1,5 +1,5 @@
 ---
-title: "Veiny Meadow Rue"
+title: "Thalictrum venulosum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ThalictrumVenulosum
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumSparsiflorum" class="pagination--pager" title="Flat Fruited Meadow Rue">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThermopsisRhombifolia" class="pagination--pager" title="Golden Bean">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumSparsiflorum" class="pagination--pager" title="Thalictrum sparsiflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThermopsisRhombifolia" class="pagination--pager" title="Thermopsis rhombifolia">Next</a>
 
 <p>&nbsp;</p>
 

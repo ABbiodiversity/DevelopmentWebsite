@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Hieracium" class="pagination--pager" title="Hieracium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HieraciumUmbellatum" class="pagination--pager" title="Narrow Leaved Hawkweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Hieracium" class="pagination--pager" title="Hieracium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HieraciumUmbellatum" class="pagination--pager" title="Hieracium umbellatum">Next</a>
 
 <p>&nbsp;</p>
 

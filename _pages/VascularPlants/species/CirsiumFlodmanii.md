@@ -1,5 +1,5 @@
 ---
-title: "Flodman's Thistle"
+title: "Cirsium flodmanii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CirsiumFlodmanii

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaConcinna" class="pagination--pager" title="Early Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaGracilis" class="pagination--pager" title="Graceful Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaConcinna" class="pagination--pager" title="Potentilla concinna">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaGracilis" class="pagination--pager" title="Potentilla gracilis">Next</a>
 
 <p>&nbsp;</p>
 

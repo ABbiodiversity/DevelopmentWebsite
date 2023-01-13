@@ -1,5 +1,5 @@
 ---
-title: "Heart-leaved Arnica"
+title: "Arnica cordifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArnicaCordifolia
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaChamissonis" class="pagination--pager" title="Leafy Arnica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaFulgens" class="pagination--pager" title="Shining Arnica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaChamissonis" class="pagination--pager" title="Arnica chamissonis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaFulgens" class="pagination--pager" title="Arnica fulgens">Next</a>
 
 <p>&nbsp;</p>
 

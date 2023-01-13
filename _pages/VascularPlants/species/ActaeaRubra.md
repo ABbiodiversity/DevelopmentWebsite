@@ -1,5 +1,5 @@
 ---
-title: "Red and white baneberry"
+title: "Actaea rubra"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ActaeaRubra
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AcorusAmericanus" class="pagination--pager" title="Acorus americanus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AdoxaMoschatellina" class="pagination--pager" title="Moschatel">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AcorusAmericanus" class="pagination--pager" title="Acorus americanus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AdoxaMoschatellina" class="pagination--pager" title="Adoxa moschatellina">Next</a>
 
 <p>&nbsp;</p>
 

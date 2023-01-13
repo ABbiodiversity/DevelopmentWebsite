@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AxyrisAmaranthoides" class="pagination--pager" title="Russian Pigweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BassiaScoparia" class="pagination--pager" title="Summer Cypress">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AxyrisAmaranthoides" class="pagination--pager" title="Axyris amaranthoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BassiaScoparia" class="pagination--pager" title="Bassia scoparia">Next</a>
 
 <p>&nbsp;</p>
 

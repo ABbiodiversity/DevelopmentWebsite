@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CornusSericea" class="pagination--pager" title="Red Osier Dogwood">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorydalisAurea" class="pagination--pager" title="Corydalis aurea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CornusSericea" class="pagination--pager" title="Cornus sericea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorydalisAurea" class="pagination--pager" title="Corydalis aurea">Next</a>
 
 <p>&nbsp;</p>
 

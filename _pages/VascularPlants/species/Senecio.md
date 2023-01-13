@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SelaginellaDensa" class="pagination--pager" title="Prairie Selaginella">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SenecioEremophilus" class="pagination--pager" title="Cut Leaved Ragwort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SelaginellaDensa" class="pagination--pager" title="Selaginella densa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SenecioEremophilus" class="pagination--pager" title="Senecio eremophilus">Next</a>
 
 <p>&nbsp;</p>
 

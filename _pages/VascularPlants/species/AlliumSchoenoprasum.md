@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AlliumCernuum" class="pagination--pager" title="Allium cernuum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlliumTextile" class="pagination--pager" title="Prairie Onion">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AlliumCernuum" class="pagination--pager" title="Allium cernuum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlliumTextile" class="pagination--pager" title="Allium textile">Next</a>
 
 <p>&nbsp;</p>
 

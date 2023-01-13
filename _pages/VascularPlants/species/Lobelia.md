@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LithospermumRuderale" class="pagination--pager" title="Woolly Gromwell">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LobeliaDortmanna" class="pagination--pager" title="Lobelia dortmanna">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LithospermumRuderale" class="pagination--pager" title="Lithospermum ruderale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LobeliaDortmanna" class="pagination--pager" title="Lobelia dortmanna">Next</a>
 
 <p>&nbsp;</p>
 

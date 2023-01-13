@@ -1,5 +1,5 @@
 ---
-title: "Northern Bastard Toadflax"
+title: "Geocaulon lividum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GeocaulonLividum

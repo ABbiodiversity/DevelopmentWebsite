@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexAdusta" class="pagination--pager" title="Carex adusta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexAquatilis" class="pagination--pager" title="Water Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexAdusta" class="pagination--pager" title="Carex adusta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexAquatilis" class="pagination--pager" title="Carex aquatilis">Next</a>
 
 <p>&nbsp;</p>
 

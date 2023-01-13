@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaVulgaris" class="pagination--pager" title="Common Bladderwort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumCespitosum" class="pagination--pager" title="Dwarf Bilberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaVulgaris" class="pagination--pager" title="Utricularia vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumCespitosum" class="pagination--pager" title="Vaccinium cespitosum">Next</a>
 
 <p>&nbsp;</p>
 

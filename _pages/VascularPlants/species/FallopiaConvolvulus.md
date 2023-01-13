@@ -1,5 +1,5 @@
 ---
-title: "Black Bindweed"
+title: "Fallopia convolvulus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/FallopiaConvolvulus
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FagopyrumTataricum" class="pagination--pager" title="Tartary Buckwheat">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Festuca" class="pagination--pager" title="Festuca">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FagopyrumTataricum" class="pagination--pager" title="Fagopyrum tataricum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Festuca" class="pagination--pager" title="Festuca">Next</a>
 
 <p>&nbsp;</p>
 

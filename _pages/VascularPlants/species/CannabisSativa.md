@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CanadanthusModestus" class="pagination--pager" title="Canadanthus modestus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CapnoidesSempervirens" class="pagination--pager" title="Pink Corydalis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CanadanthusModestus" class="pagination--pager" title="Canadanthus modestus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CapnoidesSempervirens" class="pagination--pager" title="Capnoides sempervirens">Next</a>
 
 <p>&nbsp;</p>
 

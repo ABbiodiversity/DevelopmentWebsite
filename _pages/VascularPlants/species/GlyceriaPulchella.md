@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaGrandis" class="pagination--pager" title="Common Tall Manna Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaStriata" class="pagination--pager" title="Fowl Manna Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaGrandis" class="pagination--pager" title="Glyceria grandis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaStriata" class="pagination--pager" title="Glyceria striata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Three Toothed Cinquefoil"
+title: "Sibbaldia tridentata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SibbaldiaTridentata

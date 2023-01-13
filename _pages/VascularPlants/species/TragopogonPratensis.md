@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TragopogonDubius" class="pagination--pager" title="Common Goat's Beard">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrianthaGlutinosa" class="pagination--pager" title="Triantha glutinosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TragopogonDubius" class="pagination--pager" title="Tragopogon dubius">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrianthaGlutinosa" class="pagination--pager" title="Triantha glutinosa">Next</a>
 
 <p>&nbsp;</p>
 

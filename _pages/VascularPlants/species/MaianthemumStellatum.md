@@ -1,5 +1,5 @@
 ---
-title: "Star Flowered Solomon's Seal"
+title: "Maianthemum stellatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MaianthemumStellatum
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumCanadense" class="pagination--pager" title="Wild Lily Of The Valley">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumTrifolium" class="pagination--pager" title="Three Leaved Solomon">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumCanadense" class="pagination--pager" title="Maianthemum canadense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumTrifolium" class="pagination--pager" title="Maianthemum trifolium">Next</a>
 
 <p>&nbsp;</p>
 

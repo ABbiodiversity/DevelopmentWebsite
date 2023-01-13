@@ -1,5 +1,5 @@
 ---
-title: "Common Goat's Beard"
+title: "Tragopogon dubius"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TragopogonDubius
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ToxicoscordionVenenosum" class="pagination--pager" title="Death Camas">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TragopogonPratensis" class="pagination--pager" title="Tragopogon pratensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ToxicoscordionVenenosum" class="pagination--pager" title="Toxicoscordion venenosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TragopogonPratensis" class="pagination--pager" title="Tragopogon pratensis">Next</a>
 
 <p>&nbsp;</p>
 

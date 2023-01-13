@@ -1,5 +1,5 @@
 ---
-title: "Hay Sedge"
+title: "Carex foenea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexFoenea
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexFilifolia" class="pagination--pager" title="Thread Leaved Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexGynocrates" class="pagination--pager" title="Northern Bog Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexFilifolia" class="pagination--pager" title="Carex filifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexGynocrates" class="pagination--pager" title="Carex gynocrates">Next</a>
 
 <p>&nbsp;</p>
 

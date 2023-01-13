@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PoaArida" class="pagination--pager" title="Plains Bluegrass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaCusickii" class="pagination--pager" title="Poa cusickii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PoaArida" class="pagination--pager" title="Poa arida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaCusickii" class="pagination--pager" title="Poa cusickii">Next</a>
 
 <p>&nbsp;</p>
 

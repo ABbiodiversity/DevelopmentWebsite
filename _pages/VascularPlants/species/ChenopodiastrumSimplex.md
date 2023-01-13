@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Chara" class="pagination--pager" title="Chara">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Chenopodium" class="pagination--pager" title="Goosefoots">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Chara" class="pagination--pager" title="Chara">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Chenopodium" class="pagination--pager" title="Chenopodium">Next</a>
 
 <p>&nbsp;</p>
 

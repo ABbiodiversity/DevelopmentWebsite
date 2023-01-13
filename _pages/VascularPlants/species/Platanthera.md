@@ -1,5 +1,5 @@
 ---
-title: "Bog Orchids"
+title: "Platanthera"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Platanthera
@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoPatagonica" class="pagination--pager" title="Pursh's Plantain">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraAquilonisHuronensis" class="pagination--pager" title="Platanthera aquilonis/huronensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoPatagonica" class="pagination--pager" title="Plantago patagonica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraAquilonisHuronensis" class="pagination--pager" title="Platanthera aquilonis/huronensis">Next</a>
 
 <p>&nbsp;</p>
 

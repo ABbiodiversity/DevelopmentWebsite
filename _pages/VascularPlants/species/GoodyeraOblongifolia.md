@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Goodyera" class="pagination--pager" title="Goodyera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GoodyeraRepens" class="pagination--pager" title="Lesser Rattlesnake Plantain">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Goodyera" class="pagination--pager" title="Goodyera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GoodyeraRepens" class="pagination--pager" title="Goodyera repens">Next</a>
 
 <p>&nbsp;</p>
 

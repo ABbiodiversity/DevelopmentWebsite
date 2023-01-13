@@ -1,5 +1,5 @@
 ---
-title: "Biennial Sagewort"
+title: "Artemisia biennis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArtemisiaBiennis
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaAbsinthium" class="pagination--pager" title="Absinthe Wormwood">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCampestris" class="pagination--pager" title="Plains Wormwood">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaAbsinthium" class="pagination--pager" title="Artemisia absinthium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCampestris" class="pagination--pager" title="Artemisia campestris">Next</a>
 
 <p>&nbsp;</p>
 

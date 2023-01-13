@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PhysariaSpatulata" class="pagination--pager" title="Physaria spatulata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PiceaEngelmannii" class="pagination--pager" title="Engelmann Spruce">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PhysariaSpatulata" class="pagination--pager" title="Physaria spatulata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PiceaEngelmannii" class="pagination--pager" title="Picea engelmannii">Next</a>
 
 <p>&nbsp;</p>
 

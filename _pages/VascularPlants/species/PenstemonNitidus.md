@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PenstemonGracilis" class="pagination--pager" title="Penstemon gracilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PenstemonProcerus" class="pagination--pager" title="Slender Blue Beardtongue">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PenstemonGracilis" class="pagination--pager" title="Penstemon gracilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PenstemonProcerus" class="pagination--pager" title="Penstemon procerus">Next</a>
 
 <p>&nbsp;</p>
 

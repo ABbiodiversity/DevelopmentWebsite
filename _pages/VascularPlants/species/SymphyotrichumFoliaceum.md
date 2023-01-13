@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumEricoidesFalcatum" class="pagination--pager" title="Symphyotrichum ericoides/falcatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumLaeve" class="pagination--pager" title="Smooth Blue Aster">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumEricoidesFalcatum" class="pagination--pager" title="Symphyotrichum ericoides/falcatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumLaeve" class="pagination--pager" title="Symphyotrichum laeve">Next</a>
 
 <p>&nbsp;</p>
 

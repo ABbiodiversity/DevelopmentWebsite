@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumBoreale" class="pagination--pager" title="Symphyotrichum boreale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumCiliolatum" class="pagination--pager" title="Lindley's Aster">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumBoreale" class="pagination--pager" title="Symphyotrichum boreale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumCiliolatum" class="pagination--pager" title="Symphyotrichum ciliolatum">Next</a>
 
 <p>&nbsp;</p>
 

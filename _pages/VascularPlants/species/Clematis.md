@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ClaytoniaLanceolata" class="pagination--pager" title="Claytonia lanceolata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ClematisOccidentalis" class="pagination--pager" title="Purple Clematis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ClaytoniaLanceolata" class="pagination--pager" title="Claytonia lanceolata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ClematisOccidentalis" class="pagination--pager" title="Clematis occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

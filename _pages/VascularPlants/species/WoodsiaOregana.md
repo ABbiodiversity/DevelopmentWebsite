@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/WoodsiaIlvensis" class="pagination--pager" title="Woodsia ilvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XanthismaSpinulosum" class="pagination--pager" title="Lace Tansy Aster">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/WoodsiaIlvensis" class="pagination--pager" title="Woodsia ilvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XanthismaSpinulosum" class="pagination--pager" title="Xanthisma spinulosum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Northern Willowherb"
+title: "Epilobium ciliatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EpilobiumCiliatum

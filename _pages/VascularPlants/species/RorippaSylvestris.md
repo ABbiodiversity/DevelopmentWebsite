@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RorippaPalustris" class="pagination--pager" title="Marsh Yellow Cress">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Rosa" class="pagination--pager" title="Rosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RorippaPalustris" class="pagination--pager" title="Rorippa palustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Rosa" class="pagination--pager" title="Rosa">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LycopusAsper" class="pagination--pager" title="Lycopus asper">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LygodesmiaJuncea" class="pagination--pager" title="Skeletonweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LycopusAsper" class="pagination--pager" title="Lycopus asper">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LygodesmiaJuncea" class="pagination--pager" title="Lygodesmia juncea">Next</a>
 
 <p>&nbsp;</p>
 

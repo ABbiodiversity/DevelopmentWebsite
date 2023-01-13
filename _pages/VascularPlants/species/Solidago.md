@@ -1,5 +1,5 @@
 ---
-title: "Goldenrods"
+title: "Solidago"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Solidago

@@ -1,5 +1,5 @@
 ---
-title: "Sheathed Cotton Grass"
+title: "Eriophorum vaginatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EriophorumVaginatum

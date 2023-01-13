@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusTrichophyllus" class="pagination--pager" title="Ranunculus trichophyllus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RatibidaColumnifera" class="pagination--pager" title="Prairie Coneflower">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusTrichophyllus" class="pagination--pager" title="Ranunculus trichophyllus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RatibidaColumnifera" class="pagination--pager" title="Ratibida columnifera">Next</a>
 
 <p>&nbsp;</p>
 

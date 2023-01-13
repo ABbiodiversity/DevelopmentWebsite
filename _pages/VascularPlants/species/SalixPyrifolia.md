@@ -1,5 +1,5 @@
 ---
-title: "Balsam Willow"
+title: "Salix pyrifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixPyrifolia
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomyrsinites" class="pagination--pager" title="Firmleaf Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixScouleriana" class="pagination--pager" title="Scouler's Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomyrsinites" class="pagination--pager" title="Salix pseudomyrsinites">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixScouleriana" class="pagination--pager" title="Salix scouleriana">Next</a>
 
 <p>&nbsp;</p>
 

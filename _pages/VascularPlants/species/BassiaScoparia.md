@@ -1,5 +1,5 @@
 ---
-title: "Summer Cypress"
+title: "Bassia scoparia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BassiaScoparia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Bassia" class="pagination--pager" title="Bassia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BeckmanniaSyzigachne" class="pagination--pager" title="Slough Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Bassia" class="pagination--pager" title="Bassia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BeckmanniaSyzigachne" class="pagination--pager" title="Beckmannia syzigachne">Next</a>
 
 <p>&nbsp;</p>
 

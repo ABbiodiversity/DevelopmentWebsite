@@ -1,5 +1,5 @@
 ---
-title: "Sweet Scented Bedstraw"
+title: "Galium triflorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GaliumTriflorum
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GaliumTrifidum" class="pagination--pager" title="Small Bedstraw">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaultheriaHispidula" class="pagination--pager" title="Gaultheria hispidula">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GaliumTrifidum" class="pagination--pager" title="Galium trifidum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaultheriaHispidula" class="pagination--pager" title="Gaultheria hispidula">Next</a>
 
 <p>&nbsp;</p>
 

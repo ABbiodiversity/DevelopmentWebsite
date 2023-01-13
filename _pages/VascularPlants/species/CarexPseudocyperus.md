@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexPraticola" class="pagination--pager" title="Meadow Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexRaynoldsii" class="pagination--pager" title="Carex raynoldsii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexPraticola" class="pagination--pager" title="Carex praticola">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexRaynoldsii" class="pagination--pager" title="Carex raynoldsii">Next</a>
 
 <p>&nbsp;</p>
 

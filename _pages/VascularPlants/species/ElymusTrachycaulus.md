@@ -1,5 +1,5 @@
 ---
-title: "Slender Wheat Grass"
+title: "Elymus trachycaulus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ElymusTrachycaulus
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ElymusRepens" class="pagination--pager" title="Quack Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ElymusViolaceus" class="pagination--pager" title="Elymus violaceus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ElymusRepens" class="pagination--pager" title="Elymus repens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ElymusViolaceus" class="pagination--pager" title="Elymus violaceus">Next</a>
 
 <p>&nbsp;</p>
 

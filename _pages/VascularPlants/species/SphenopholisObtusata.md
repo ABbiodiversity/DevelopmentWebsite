@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SphenopholisIntermedia" class="pagination--pager" title="Sphenopholis intermedia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpinulumAnnotinum" class="pagination--pager" title="Stiff Club Moss">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SphenopholisIntermedia" class="pagination--pager" title="Sphenopholis intermedia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpinulumAnnotinum" class="pagination--pager" title="Spinulum annotinum">Next</a>
 
 <p>&nbsp;</p>
 

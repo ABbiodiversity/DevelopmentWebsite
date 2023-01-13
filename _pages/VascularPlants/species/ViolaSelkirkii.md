@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViolaRenifolia" class="pagination--pager" title="Kidney Leaved Violet">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaTricolor" class="pagination--pager" title="Viola tricolor">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViolaRenifolia" class="pagination--pager" title="Viola renifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaTricolor" class="pagination--pager" title="Viola tricolor">Next</a>
 
 <p>&nbsp;</p>
 

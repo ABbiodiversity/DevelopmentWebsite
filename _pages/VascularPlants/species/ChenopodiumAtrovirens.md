@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ChenopodiumAlbum" class="pagination--pager" title="Lamb's Quarters">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChenopodiumOther" class="pagination--pager" title="Chenopodium other">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ChenopodiumAlbum" class="pagination--pager" title="Chenopodium album">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChenopodiumOther" class="pagination--pager" title="Chenopodium other">Next</a>
 
 <p>&nbsp;</p>
 

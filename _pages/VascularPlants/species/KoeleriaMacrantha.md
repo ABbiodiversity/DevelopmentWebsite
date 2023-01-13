@@ -1,5 +1,5 @@
 ---
-title: "June Grass"
+title: "Koeleria macrantha"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/KoeleriaMacrantha
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/KnautiaArvensis" class="pagination--pager" title="Knautia arvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KrascheninnikoviaLanata" class="pagination--pager" title="Winter Fat">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/KnautiaArvensis" class="pagination--pager" title="Knautia arvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KrascheninnikoviaLanata" class="pagination--pager" title="Krascheninnikovia lanata">Next</a>
 
 <p>&nbsp;</p>
 

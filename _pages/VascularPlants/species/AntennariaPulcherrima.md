@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AntennariaNeglecta" class="pagination--pager" title="Broad-leaved Everlasting">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AntennariaRacemosa" class="pagination--pager" title="Antennaria racemosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AntennariaNeglecta" class="pagination--pager" title="Antennaria neglecta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AntennariaRacemosa" class="pagination--pager" title="Antennaria racemosa">Next</a>
 
 <p>&nbsp;</p>
 

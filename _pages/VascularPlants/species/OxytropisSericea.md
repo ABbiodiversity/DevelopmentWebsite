@@ -1,5 +1,5 @@
 ---
-title: "Early Yellow Locoweed"
+title: "Oxytropis sericea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OxytropisSericea

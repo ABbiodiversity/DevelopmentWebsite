@@ -1,5 +1,5 @@
 ---
-title: "Narrow Leaved Puccoon"
+title: "Lithospermum incisum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LithospermumIncisum

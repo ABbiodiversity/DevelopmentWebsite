@@ -1,5 +1,5 @@
 ---
-title: "Bishop's Cap"
+title: "Mitella nuda"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MitellaNuda

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisMontanensis" class="pagination--pager" title="Plains Reed Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisStricta" class="pagination--pager" title="Narrow Reed Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisMontanensis" class="pagination--pager" title="Calamagrostis montanensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisStricta" class="pagination--pager" title="Calamagrostis stricta">Next</a>
 
 <p>&nbsp;</p>
 

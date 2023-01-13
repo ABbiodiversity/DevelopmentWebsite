@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GalearisRotundifolia" class="pagination--pager" title="Round-leaved Orchid">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaleopsisTetrahit" class="pagination--pager" title="Hemp Nettle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GalearisRotundifolia" class="pagination--pager" title="Galearis rotundifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaleopsisTetrahit" class="pagination--pager" title="Galeopsis tetrahit">Next</a>
 
 <p>&nbsp;</p>
 

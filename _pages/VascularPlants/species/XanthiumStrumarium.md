@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/XanthismaSpinulosum" class="pagination--pager" title="Lace Tansy Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XElyhordeumMacounii" class="pagination--pager" title="X Elyhordeum macounii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/XanthismaSpinulosum" class="pagination--pager" title="Xanthisma spinulosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XElyhordeumMacounii" class="pagination--pager" title="X Elyhordeum macounii">Next</a>
 
 <p>&nbsp;</p>
 

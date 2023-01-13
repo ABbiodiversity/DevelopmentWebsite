@@ -1,5 +1,5 @@
 ---
-title: "Bluebur"
+title: "Lappula squarrosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LappulaSquarrosa
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LappulaOccidentalis" class="pagination--pager" title="Lappula occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Tamarack">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LappulaOccidentalis" class="pagination--pager" title="Lappula occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Larix laricina">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Marsh Cinquefoil"
+title: "Comarum palustre"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ComarumPalustre
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ComandraUmbellata" class="pagination--pager" title="Bastard Toadflax">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ConvolvulusArvensis" class="pagination--pager" title="Convolvulus arvensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ComandraUmbellata" class="pagination--pager" title="Comandra umbellata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ConvolvulusArvensis" class="pagination--pager" title="Convolvulus arvensis">Next</a>
 
 <p>&nbsp;</p>
 

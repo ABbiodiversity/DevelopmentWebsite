@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexPauciflora" class="pagination--pager" title="Carex pauciflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPellita" class="pagination--pager" title="Woolly Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexPauciflora" class="pagination--pager" title="Carex pauciflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPellita" class="pagination--pager" title="Carex pellita">Next</a>
 
 <p>&nbsp;</p>
 

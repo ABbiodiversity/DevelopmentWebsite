@@ -1,5 +1,5 @@
 ---
-title: "Twinflower"
+title: "Linnaea borealis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LinnaeaBorealis
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LinariaVulgaris" class="pagination--pager" title="Common Toadflax">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinumCompactum" class="pagination--pager" title="Yellow Flax">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LinariaVulgaris" class="pagination--pager" title="Linaria vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinumCompactum" class="pagination--pager" title="Linum compactum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HordeumVulgare" class="pagination--pager" title="Cultivated Barley">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HoustoniaLongifolia" class="pagination--pager" title="Houstonia longifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HordeumVulgare" class="pagination--pager" title="Hordeum vulgare">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HoustoniaLongifolia" class="pagination--pager" title="Houstonia longifolia">Next</a>
 
 <p>&nbsp;</p>
 

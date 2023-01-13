@@ -1,5 +1,5 @@
 ---
-title: "Drummond's Cockle"
+title: "Silene drummondii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SileneDrummondii
@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SileneConoidea" class="pagination--pager" title="Silene conoidea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneLatifolia" class="pagination--pager" title="White Campion">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SileneConoidea" class="pagination--pager" title="Silene conoidea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneLatifolia" class="pagination--pager" title="Silene latifolia">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaIncana" class="pagination--pager" title="Descurainia incana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaSophia" class="pagination--pager" title="Flixweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaIncana" class="pagination--pager" title="Descurainia incana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaSophia" class="pagination--pager" title="Descurainia sophia">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Awnless Brome"
+title: "Bromus inermis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BromusInermis

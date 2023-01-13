@@ -1,5 +1,5 @@
 ---
-title: "Bog Rosemary"
+title: "Andromeda polifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AndromedaPolifolia

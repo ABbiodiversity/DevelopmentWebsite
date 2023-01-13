@@ -1,5 +1,5 @@
 ---
-title: "Purple Clematis"
+title: "Clematis occidentalis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ClematisOccidentalis
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Clematis" class="pagination--pager" title="Clematis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoeloglossumViride" class="pagination--pager" title="Bracted Bog Orchid">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Clematis" class="pagination--pager" title="Clematis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoeloglossumViride" class="pagination--pager" title="Coeloglossum viride">Next</a>
 
 <p>&nbsp;</p>
 

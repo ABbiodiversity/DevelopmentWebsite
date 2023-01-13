@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusTectorum" class="pagination--pager" title="Downy Chess">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Calamagrostis" class="pagination--pager" title="Reedgrasses">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusTectorum" class="pagination--pager" title="Bromus tectorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Calamagrostis" class="pagination--pager" title="Calamagrostis">Next</a>
 
 <p>&nbsp;</p>
 

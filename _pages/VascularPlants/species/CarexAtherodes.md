@@ -1,5 +1,5 @@
 ---
-title: "Awned Sedge"
+title: "Carex atherodes"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexAtherodes
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexAquatilis" class="pagination--pager" title="Water Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexAtratiformis" class="pagination--pager" title="Raymond">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexAquatilis" class="pagination--pager" title="Carex aquatilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexAtratiformis" class="pagination--pager" title="Carex atratiformis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Lace Tansy Aster"
+title: "Xanthisma spinulosum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/XanthismaSpinulosum

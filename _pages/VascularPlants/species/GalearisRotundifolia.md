@@ -1,5 +1,5 @@
 ---
-title: "Round-leaved Orchid"
+title: "Galearis rotundifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GalearisRotundifolia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GaillardiaAristata" class="pagination--pager" title="Gaillardia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Galeopsis" class="pagination--pager" title="Galeopsis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GaillardiaAristata" class="pagination--pager" title="Gaillardia aristata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Galeopsis" class="pagination--pager" title="Galeopsis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Balsam Poplar"
+title: "Populus balsamifera"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PopulusBalsamifera

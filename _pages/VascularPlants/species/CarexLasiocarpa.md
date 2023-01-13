@@ -1,5 +1,5 @@
 ---
-title: "Hairy Fruited Sedge"
+title: "Carex lasiocarpa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexLasiocarpa
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexLacustris" class="pagination--pager" title="Carex lacustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLeptalea" class="pagination--pager" title="Bristle Stalked Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexLacustris" class="pagination--pager" title="Carex lacustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLeptalea" class="pagination--pager" title="Carex leptalea">Next</a>
 
 <p>&nbsp;</p>
 

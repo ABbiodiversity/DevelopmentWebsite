@@ -1,5 +1,5 @@
 ---
-title: "Yellow Rattle"
+title: "Rhinanthus minor"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RhinanthusMinor

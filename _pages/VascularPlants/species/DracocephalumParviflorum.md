@@ -1,5 +1,5 @@
 ---
-title: "American Dragonhead"
+title: "Dracocephalum parviflorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DracocephalumParviflorum

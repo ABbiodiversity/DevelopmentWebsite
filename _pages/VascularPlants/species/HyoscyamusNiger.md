@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HymenoxysRichardsonii" class="pagination--pager" title="Colorado Rubber Plant">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HypericumMajus" class="pagination--pager" title="Hypericum majus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HymenoxysRichardsonii" class="pagination--pager" title="Hymenoxys richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HypericumMajus" class="pagination--pager" title="Hypericum majus">Next</a>
 
 <p>&nbsp;</p>
 

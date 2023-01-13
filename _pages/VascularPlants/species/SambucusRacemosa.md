@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalviaNemorosa" class="pagination--pager" title="Salvia nemorosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SaniculaMarilandica" class="pagination--pager" title="Snakeroot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalviaNemorosa" class="pagination--pager" title="Salvia nemorosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SaniculaMarilandica" class="pagination--pager" title="Sanicula marilandica">Next</a>
 
 <p>&nbsp;</p>
 

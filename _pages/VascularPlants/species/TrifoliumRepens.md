@@ -1,5 +1,5 @@
 ---
-title: "White Clover"
+title: "Trifolium repens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TrifoliumRepens
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumPratense" class="pagination--pager" title="Red Clover">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Triglochin" class="pagination--pager" title="Triglochin">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumPratense" class="pagination--pager" title="Trifolium pratense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Triglochin" class="pagination--pager" title="Triglochin">Next</a>
 
 <p>&nbsp;</p>
 

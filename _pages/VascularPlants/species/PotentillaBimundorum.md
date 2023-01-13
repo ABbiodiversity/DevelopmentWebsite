@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaArgentea" class="pagination--pager" title="Silvery Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaBipinnatifida" class="pagination--pager" title="Plains Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaArgentea" class="pagination--pager" title="Potentilla argentea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaBipinnatifida" class="pagination--pager" title="Potentilla bipinnatifida">Next</a>
 
 <p>&nbsp;</p>
 

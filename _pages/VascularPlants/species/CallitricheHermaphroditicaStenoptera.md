@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CallaPalustris" class="pagination--pager" title="Water Arum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CallitrichePalustris" class="pagination--pager" title="Callitriche palustris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CallaPalustris" class="pagination--pager" title="Calla palustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CallitrichePalustris" class="pagination--pager" title="Callitriche palustris">Next</a>
 
 <p>&nbsp;</p>
 

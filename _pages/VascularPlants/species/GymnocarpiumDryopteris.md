@@ -1,5 +1,5 @@
 ---
-title: "Oak Fern"
+title: "Gymnocarpium dryopteris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GymnocarpiumDryopteris

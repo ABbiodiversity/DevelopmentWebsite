@@ -1,5 +1,5 @@
 ---
-title: "Colorado Rubber Plant"
+title: "Hymenoxys richardsonii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HymenoxysRichardsonii

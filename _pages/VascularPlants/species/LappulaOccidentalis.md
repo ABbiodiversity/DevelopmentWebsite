@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Lappula" class="pagination--pager" title="Lappula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LappulaSquarrosa" class="pagination--pager" title="Bluebur">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Lappula" class="pagination--pager" title="Lappula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LappulaSquarrosa" class="pagination--pager" title="Lappula squarrosa">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Labrador Lousewort"
+title: "Pedicularis labradorica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PedicularisLabradorica
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisGroenlandica" class="pagination--pager" title="Elephant's Head">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisParviflora" class="pagination--pager" title="Pedicularis parviflora">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisGroenlandica" class="pagination--pager" title="Pedicularis groenlandica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisParviflora" class="pagination--pager" title="Pedicularis parviflora">Next</a>
 
 <p>&nbsp;</p>
 

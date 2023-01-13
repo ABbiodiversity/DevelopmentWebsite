@@ -1,5 +1,5 @@
 ---
-title: "Alfalfa"
+title: "Medicago sativa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MedicagoSativa
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MedicagoLupulina" class="pagination--pager" title="Black Medick">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelampyrumLineare" class="pagination--pager" title="Cow Wheat">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MedicagoLupulina" class="pagination--pager" title="Medicago lupulina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelampyrumLineare" class="pagination--pager" title="Melampyrum lineare">Next</a>
 
 <p>&nbsp;</p>
 

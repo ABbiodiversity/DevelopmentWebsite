@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MyricaGale" class="pagination--pager" title="Sweet Gale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MyriophyllumSibiricum" class="pagination--pager" title="Myriophyllum sibiricum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MyricaGale" class="pagination--pager" title="Myrica gale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MyriophyllumSibiricum" class="pagination--pager" title="Myriophyllum sibiricum">Next</a>
 
 <p>&nbsp;</p>
 

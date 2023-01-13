@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumViscosissimum" class="pagination--pager" title="Sticky Purple Geranium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeumAleppicumMacrophyllumRivale" class="pagination--pager" title="Geum aleppicum/macrophyllum/rivale">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumViscosissimum" class="pagination--pager" title="Geranium viscosissimum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeumAleppicumMacrophyllumRivale" class="pagination--pager" title="Geum aleppicum/macrophyllum/rivale">Next</a>
 
 <p>&nbsp;</p>
 

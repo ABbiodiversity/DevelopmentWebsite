@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CastillejaMiniata" class="pagination--pager" title="Common Red Paintbrush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CastillejaRaupii" class="pagination--pager" title="Castilleja raupii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CastillejaMiniata" class="pagination--pager" title="Castilleja miniata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CastillejaRaupii" class="pagination--pager" title="Castilleja raupii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GnaphaliumPalustre" class="pagination--pager" title="Marsh Cudweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Goodyera" class="pagination--pager" title="Goodyera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GnaphaliumPalustre" class="pagination--pager" title="Gnaphalium palustre">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Goodyera" class="pagination--pager" title="Goodyera">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ComarumPalustre" class="pagination--pager" title="Marsh Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoptidiumLapponicum" class="pagination--pager" title="Lapland Buttercup">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ComarumPalustre" class="pagination--pager" title="Comarum palustre">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoptidiumLapponicum" class="pagination--pager" title="Coptidium lapponicum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Populus" class="pagination--pager" title="Populus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PopulusBalsamifera" class="pagination--pager" title="Balsam Poplar">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Populus" class="pagination--pager" title="Populus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PopulusBalsamifera" class="pagination--pager" title="Populus balsamifera">Next</a>
 
 <p>&nbsp;</p>
 

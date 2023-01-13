@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GentianaAffinis" class="pagination--pager" title="Gentiana affinis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GentianellaAmarella" class="pagination--pager" title="Felwort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GentianaAffinis" class="pagination--pager" title="Gentiana affinis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GentianellaAmarella" class="pagination--pager" title="Gentianella amarella">Next</a>
 
 <p>&nbsp;</p>
 

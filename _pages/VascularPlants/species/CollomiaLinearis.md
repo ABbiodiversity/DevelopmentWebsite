@@ -1,5 +1,5 @@
 ---
-title: "Narrow Leaved Collomia"
+title: "Collomia linearis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CollomiaLinearis
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CoeloglossumViride" class="pagination--pager" title="Bracted Bog Orchid">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ComandraUmbellata" class="pagination--pager" title="Bastard Toadflax">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CoeloglossumViride" class="pagination--pager" title="Coeloglossum viride">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ComandraUmbellata" class="pagination--pager" title="Comandra umbellata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "White Campion"
+title: "Silene latifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SileneLatifolia
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SileneDrummondii" class="pagination--pager" title="Drummond's Cockle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneNoctiflora" class="pagination--pager" title="Silene noctiflora">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SileneDrummondii" class="pagination--pager" title="Silene drummondii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneNoctiflora" class="pagination--pager" title="Silene noctiflora">Next</a>
 
 <p>&nbsp;</p>
 

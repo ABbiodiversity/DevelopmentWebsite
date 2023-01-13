@@ -1,5 +1,5 @@
 ---
-title: "Sedges"
+title: "Carex"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Carex
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CardaminePensylvanica" class="pagination--pager" title="Bitter Cress">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexAdusta" class="pagination--pager" title="Carex adusta">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CardaminePensylvanica" class="pagination--pager" title="Cardamine pensylvanica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexAdusta" class="pagination--pager" title="Carex adusta">Next</a>
 
 <p>&nbsp;</p>
 

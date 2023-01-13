@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PoaLeptocoma" class="pagination--pager" title="Poa leptocoma">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaPratensis" class="pagination--pager" title="Kentucky Bluegrass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PoaLeptocoma" class="pagination--pager" title="Poa leptocoma">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaPratensis" class="pagination--pager" title="Poa pratensis">Next</a>
 
 <p>&nbsp;</p>
 

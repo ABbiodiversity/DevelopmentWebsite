@@ -1,5 +1,5 @@
 ---
-title: "Running Club Moss"
+title: "Lycopodium lagopus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LycopodiumLagopus

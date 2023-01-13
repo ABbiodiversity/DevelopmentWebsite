@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CircaeaAlpina" class="pagination--pager" title="Small Enchanter's Nightshade">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumArvense" class="pagination--pager" title="Creeping Thistle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CircaeaAlpina" class="pagination--pager" title="Circaea alpina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumArvense" class="pagination--pager" title="Cirsium arvense">Next</a>
 
 <p>&nbsp;</p>
 

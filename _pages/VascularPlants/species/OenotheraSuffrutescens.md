@@ -1,5 +1,5 @@
 ---
-title: "Scarlet Butterflyweed"
+title: "Oenothera suffrutescens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OenotheraSuffrutescens

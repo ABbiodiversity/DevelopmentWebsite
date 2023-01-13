@@ -1,5 +1,5 @@
 ---
-title: "Wild White Geranium"
+title: "Geranium richardsonii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GeraniumRichardsonii
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumPratense" class="pagination--pager" title="Geranium pratense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeraniumViscosissimum" class="pagination--pager" title="Sticky Purple Geranium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumPratense" class="pagination--pager" title="Geranium pratense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeraniumViscosissimum" class="pagination--pager" title="Geranium viscosissimum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Gaillardia"
+title: "Gaillardia aristata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GaillardiaAristata
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FraxinusPennsylvanica" class="pagination--pager" title="Fraxinus pennsylvanica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GalearisRotundifolia" class="pagination--pager" title="Round-leaved Orchid">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FraxinusPennsylvanica" class="pagination--pager" title="Fraxinus pennsylvanica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GalearisRotundifolia" class="pagination--pager" title="Galearis rotundifolia">Next</a>
 
 <p>&nbsp;</p>
 

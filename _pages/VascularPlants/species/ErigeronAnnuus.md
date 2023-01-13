@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAcris" class="pagination--pager" title="Northern Daisy Fleabane">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAureus" class="pagination--pager" title="Erigeron aureus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAcris" class="pagination--pager" title="Erigeron acris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAureus" class="pagination--pager" title="Erigeron aureus">Next</a>
 
 <p>&nbsp;</p>
 

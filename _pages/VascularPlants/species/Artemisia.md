@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaSororia" class="pagination--pager" title="Arnica sororia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaAbsinthium" class="pagination--pager" title="Absinthe Wormwood">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaSororia" class="pagination--pager" title="Arnica sororia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaAbsinthium" class="pagination--pager" title="Artemisia absinthium">Next</a>
 
 <p>&nbsp;</p>
 

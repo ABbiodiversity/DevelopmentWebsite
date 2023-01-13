@@ -1,5 +1,5 @@
 ---
-title: "Garden Pea"
+title: "Pisum sativum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PisumSativum

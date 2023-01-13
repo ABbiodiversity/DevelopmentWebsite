@@ -1,5 +1,5 @@
 ---
-title: "Buck Bean"
+title: "Menyanthes trifoliata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MenyanthesTrifoliata

@@ -1,5 +1,5 @@
 ---
-title: "Needleleaf Sedge"
+title: "Carex duriuscula"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexDuriuscula

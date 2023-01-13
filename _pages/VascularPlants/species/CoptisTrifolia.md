@@ -1,5 +1,5 @@
 ---
-title: "Goldthread"
+title: "Coptis trifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CoptisTrifolia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CoptidiumLapponicum" class="pagination--pager" title="Lapland Buttercup">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaMaculata" class="pagination--pager" title="Spotted Coralroot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CoptidiumLapponicum" class="pagination--pager" title="Coptidium lapponicum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaMaculata" class="pagination--pager" title="Corallorhiza maculata">Next</a>
 
 <p>&nbsp;</p>
 

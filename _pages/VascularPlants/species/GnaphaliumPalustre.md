@@ -1,5 +1,5 @@
 ---
-title: "Marsh Cudweed"
+title: "Gnaphalium palustre"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GnaphaliumPalustre

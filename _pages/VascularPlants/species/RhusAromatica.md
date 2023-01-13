@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RhododendronTomentosum" class="pagination--pager" title="Marsh Labrador Tea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Ribes" class="pagination--pager" title="Currants">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RhododendronTomentosum" class="pagination--pager" title="Rhododendron tomentosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Ribes" class="pagination--pager" title="Ribes">Next</a>
 
 <p>&nbsp;</p>
 

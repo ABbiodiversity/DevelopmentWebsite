@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RumexLapponicus" class="pagination--pager" title="Rumex lapponicus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RumexOccidentalis" class="pagination--pager" title="Western Dock">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RumexLapponicus" class="pagination--pager" title="Rumex lapponicus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RumexOccidentalis" class="pagination--pager" title="Rumex occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

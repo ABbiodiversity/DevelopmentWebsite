@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PoaSecunda" class="pagination--pager" title="Sandberg Bluegrass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Poaceae" class="pagination--pager" title="Poaceae">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PoaSecunda" class="pagination--pager" title="Poa secunda">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Poaceae" class="pagination--pager" title="Poaceae">Next</a>
 
 <p>&nbsp;</p>
 

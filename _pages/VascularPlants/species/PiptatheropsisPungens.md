@@ -1,5 +1,5 @@
 ---
-title: "Northern Rice Grass"
+title: "Piptatheropsis pungens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PiptatheropsisPungens

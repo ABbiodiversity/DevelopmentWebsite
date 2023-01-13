@@ -1,5 +1,5 @@
 ---
-title: "Downy Chess"
+title: "Bromus tectorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BromusTectorum

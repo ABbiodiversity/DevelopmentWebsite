@@ -1,5 +1,5 @@
 ---
-title: "Creeping Juniper"
+title: "Juniperus horizontalis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/JuniperusHorizontalis
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuniperusCommunis" class="pagination--pager" title="Ground Juniper">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuniperusSabina" class="pagination--pager" title="Juniperus sabina">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuniperusCommunis" class="pagination--pager" title="Juniperus communis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuniperusSabina" class="pagination--pager" title="Juniperus sabina">Next</a>
 
 <p>&nbsp;</p>
 

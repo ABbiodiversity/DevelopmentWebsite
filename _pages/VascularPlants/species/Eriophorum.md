@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EriogonumUmbellatum" class="pagination--pager" title="Eriogonum umbellatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumAngustifolium" class="pagination--pager" title="Narrowleaf Cotton Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EriogonumUmbellatum" class="pagination--pager" title="Eriogonum umbellatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumAngustifolium" class="pagination--pager" title="Eriophorum angustifolium">Next</a>
 
 <p>&nbsp;</p>
 

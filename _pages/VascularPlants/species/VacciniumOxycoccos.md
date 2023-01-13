@@ -1,5 +1,5 @@
 ---
-title: "Small Bog Cranberry"
+title: "Vaccinium oxycoccos"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/VacciniumOxycoccos

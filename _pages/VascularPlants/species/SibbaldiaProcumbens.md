@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ShepherdiaCanadensis" class="pagination--pager" title="Canada Buffaloberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SibbaldiaTridentata" class="pagination--pager" title="Three Toothed Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ShepherdiaCanadensis" class="pagination--pager" title="Shepherdia canadensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SibbaldiaTridentata" class="pagination--pager" title="Sibbaldia tridentata">Next</a>
 
 <p>&nbsp;</p>
 

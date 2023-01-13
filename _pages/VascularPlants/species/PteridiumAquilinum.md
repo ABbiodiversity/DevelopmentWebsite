@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PseudotsugaMenziesii" class="pagination--pager" title="Pseudotsuga menziesii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaDistans" class="pagination--pager" title="Slender Salt Meadow Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PseudotsugaMenziesii" class="pagination--pager" title="Pseudotsuga menziesii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaDistans" class="pagination--pager" title="Puccinellia distans">Next</a>
 
 <p>&nbsp;</p>
 

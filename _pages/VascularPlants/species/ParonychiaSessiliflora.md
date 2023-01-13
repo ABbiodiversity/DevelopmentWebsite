@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaPalustris" class="pagination--pager" title="Northern Grass Of Parnassus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Parthenocissus" class="pagination--pager" title="Parthenocissus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaPalustris" class="pagination--pager" title="Parnassia palustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Parthenocissus" class="pagination--pager" title="Parthenocissus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LithospermumIncisum" class="pagination--pager" title="Narrow Leaved Puccoon">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LithospermumRuderale" class="pagination--pager" title="Woolly Gromwell">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LithospermumIncisum" class="pagination--pager" title="Lithospermum incisum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LithospermumRuderale" class="pagination--pager" title="Lithospermum ruderale">Next</a>
 
 <p>&nbsp;</p>
 

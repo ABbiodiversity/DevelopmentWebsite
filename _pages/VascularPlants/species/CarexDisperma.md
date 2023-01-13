@@ -1,5 +1,5 @@
 ---
-title: "Two Seeded Sedge"
+title: "Carex disperma"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexDisperma
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexDiandra" class="pagination--pager" title="Two Stamened Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexDouglasii" class="pagination--pager" title="Carex douglasii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexDiandra" class="pagination--pager" title="Carex diandra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexDouglasii" class="pagination--pager" title="Carex douglasii">Next</a>
 
 <p>&nbsp;</p>
 

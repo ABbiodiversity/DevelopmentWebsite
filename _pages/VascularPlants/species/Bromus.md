@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BrassicaRapa" class="pagination--pager" title="Canola">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusCiliatus" class="pagination--pager" title="Fringed Brome">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BrassicaRapa" class="pagination--pager" title="Brassica rapa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusCiliatus" class="pagination--pager" title="Bromus ciliatus">Next</a>
 
 <p>&nbsp;</p>
 

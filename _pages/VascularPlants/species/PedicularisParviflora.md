@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisLabradorica" class="pagination--pager" title="Labrador Lousewort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PediomelumArgophyllum" class="pagination--pager" title="Pediomelum argophyllum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisLabradorica" class="pagination--pager" title="Pedicularis labradorica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PediomelumArgophyllum" class="pagination--pager" title="Pediomelum argophyllum">Next</a>
 
 <p>&nbsp;</p>
 

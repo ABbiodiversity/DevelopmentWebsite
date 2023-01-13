@@ -1,5 +1,5 @@
 ---
-title: "Mat Muhly"
+title: "Muhlenbergia richardsonis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MuhlenbergiaRichardsonis
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaPaniculata" class="pagination--pager" title="Muhlenbergia paniculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MulgediumPulchellum" class="pagination--pager" title="Common Blue Lettuce">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaPaniculata" class="pagination--pager" title="Muhlenbergia paniculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MulgediumPulchellum" class="pagination--pager" title="Mulgedium pulchellum">Next</a>
 
 <p>&nbsp;</p>
 

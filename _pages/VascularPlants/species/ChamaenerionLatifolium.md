@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ChamaenerionAngustifolium" class="pagination--pager" title="Fireweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaerhodosErecta" class="pagination--pager" title="Chamaerhodos erecta">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ChamaenerionAngustifolium" class="pagination--pager" title="Chamaenerion angustifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaerhodosErecta" class="pagination--pager" title="Chamaerhodos erecta">Next</a>
 
 <p>&nbsp;</p>
 

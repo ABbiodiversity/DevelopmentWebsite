@@ -1,5 +1,5 @@
 ---
-title: "Kentucky Bluegrass"
+title: "Poa pratensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PoaPratensis
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PoaPalustrisInteriorNemoralis" class="pagination--pager" title="Poa palustris/interior/nemoralis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaSecunda" class="pagination--pager" title="Sandberg Bluegrass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PoaPalustrisInteriorNemoralis" class="pagination--pager" title="Poa palustris/interior/nemoralis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaSecunda" class="pagination--pager" title="Poa secunda">Next</a>
 
 <p>&nbsp;</p>
 

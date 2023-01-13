@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Triticum" class="pagination--pager" title="Wheat">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TurritisGlabra" class="pagination--pager" title="Turritis glabra">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Triticum" class="pagination--pager" title="Triticum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TurritisGlabra" class="pagination--pager" title="Turritis glabra">Next</a>
 
 <p>&nbsp;</p>
 

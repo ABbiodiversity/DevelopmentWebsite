@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisCanadensis" class="pagination--pager" title="Bluejoint Reed Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisMontanensis" class="pagination--pager" title="Plains Reed Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisCanadensis" class="pagination--pager" title="Calamagrostis canadensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisMontanensis" class="pagination--pager" title="Calamagrostis montanensis">Next</a>
 
 <p>&nbsp;</p>
 

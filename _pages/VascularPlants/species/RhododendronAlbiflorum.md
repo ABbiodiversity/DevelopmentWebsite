@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Rhododendron" class="pagination--pager" title="Rhododendron">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhododendronGroenlandicum" class="pagination--pager" title="Common Labrador Tea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Rhododendron" class="pagination--pager" title="Rhododendron">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhododendronGroenlandicum" class="pagination--pager" title="Rhododendron groenlandicum">Next</a>
 
 <p>&nbsp;</p>
 

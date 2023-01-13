@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCana" class="pagination--pager" title="Silver Sagebrush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaFrigida" class="pagination--pager" title="Pasture Sagewort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCana" class="pagination--pager" title="Artemisia cana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaFrigida" class="pagination--pager" title="Artemisia frigida">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSplendens" class="pagination--pager" title="Oxytropis splendens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraCana" class="pagination--pager" title="Woolly Groundsel">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSplendens" class="pagination--pager" title="Oxytropis splendens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraCana" class="pagination--pager" title="Packera cana">Next</a>
 
 <p>&nbsp;</p>
 

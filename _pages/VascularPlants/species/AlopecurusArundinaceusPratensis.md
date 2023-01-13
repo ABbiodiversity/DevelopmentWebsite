@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AlopecurusAequalis" class="pagination--pager" title="Water Foxtail">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlopecurusCarolinianus" class="pagination--pager" title="Alopecurus carolinianus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AlopecurusAequalis" class="pagination--pager" title="Alopecurus aequalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlopecurusCarolinianus" class="pagination--pager" title="Alopecurus carolinianus">Next</a>
 
 <p>&nbsp;</p>
 

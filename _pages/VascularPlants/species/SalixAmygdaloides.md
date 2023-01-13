@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Salix" class="pagination--pager" title="Willows">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixArbusculoides" class="pagination--pager" title="Shrubby Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Salix" class="pagination--pager" title="Salix">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixArbusculoides" class="pagination--pager" title="Salix arbusculoides">Next</a>
 
 <p>&nbsp;</p>
 

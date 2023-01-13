@@ -1,5 +1,5 @@
 ---
-title: "Blunt Leaved Sandwort"
+title: "Moehringia lateriflora"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MoehringiaLateriflora
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MitellaPentandra" class="pagination--pager" title="Mitella pentandra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MonardaFistulosa" class="pagination--pager" title="Wild Bergamot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MitellaPentandra" class="pagination--pager" title="Mitella pentandra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MonardaFistulosa" class="pagination--pager" title="Monarda fistulosa">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumSylvaticum" class="pagination--pager" title="Woodland Horsetail">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EremogoneCapillaris" class="pagination--pager" title="Eremogone capillaris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumSylvaticum" class="pagination--pager" title="Equisetum sylvaticum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EremogoneCapillaris" class="pagination--pager" title="Eremogone capillaris">Next</a>
 
 <p>&nbsp;</p>
 

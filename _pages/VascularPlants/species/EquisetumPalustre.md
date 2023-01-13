@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumLaevigatum" class="pagination--pager" title="Equisetum laevigatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumPratense" class="pagination--pager" title="Meadow Horsetail">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumLaevigatum" class="pagination--pager" title="Equisetum laevigatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumPratense" class="pagination--pager" title="Equisetum pratense">Next</a>
 
 <p>&nbsp;</p>
 

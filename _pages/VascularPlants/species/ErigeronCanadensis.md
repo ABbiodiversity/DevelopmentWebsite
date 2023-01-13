@@ -1,5 +1,5 @@
 ---
-title: "Canadian Horseweed"
+title: "Erigeron canadensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErigeronCanadensis
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCaespitosus" class="pagination--pager" title="Tufted Fleabane">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCompositus" class="pagination--pager" title="Erigeron compositus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCaespitosus" class="pagination--pager" title="Erigeron caespitosus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCompositus" class="pagination--pager" title="Erigeron compositus">Next</a>
 
 <p>&nbsp;</p>
 

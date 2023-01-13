@@ -1,5 +1,5 @@
 ---
-title: "Western Lousewort"
+title: "Pedicularis bracteosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PedicularisBracteosa

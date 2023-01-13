@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PinusSylvestris" class="pagination--pager" title="Pinus sylvestris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PiptatheropsisPungens" class="pagination--pager" title="Northern Rice Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PinusSylvestris" class="pagination--pager" title="Pinus sylvestris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PiptatheropsisPungens" class="pagination--pager" title="Piptatheropsis pungens">Next</a>
 
 <p>&nbsp;</p>
 

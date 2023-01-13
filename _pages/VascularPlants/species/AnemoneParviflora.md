@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AnemoneMultifida" class="pagination--pager" title="Cut Leaved Anemone">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnemoneVirginiana" class="pagination--pager" title="Anemone virginiana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AnemoneMultifida" class="pagination--pager" title="Anemone multifida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnemoneVirginiana" class="pagination--pager" title="Anemone virginiana">Next</a>
 
 <p>&nbsp;</p>
 

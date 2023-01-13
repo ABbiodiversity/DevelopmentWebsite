@@ -1,5 +1,5 @@
 ---
-title: "Ground Pine"
+title: "Dendrolycopodium dendroideum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DendrolycopodiumDendroideum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumGlaucum" class="pagination--pager" title="Tall Larkspur">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DeschampsiaCespitosa" class="pagination--pager" title="Tufted Hair Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumGlaucum" class="pagination--pager" title="Delphinium glaucum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DeschampsiaCespitosa" class="pagination--pager" title="Deschampsia cespitosa">Next</a>
 
 <p>&nbsp;</p>
 

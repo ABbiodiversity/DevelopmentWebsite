@@ -1,5 +1,5 @@
 ---
-title: "Bog Willow"
+title: "Salix pedicellaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixPedicellaris
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixNivalis" class="pagination--pager" title="Salix nivalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPetiolaris" class="pagination--pager" title="Basket Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixNivalis" class="pagination--pager" title="Salix nivalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPetiolaris" class="pagination--pager" title="Salix petiolaris">Next</a>
 
 <p>&nbsp;</p>
 

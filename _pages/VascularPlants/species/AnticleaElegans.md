@@ -1,5 +1,5 @@
 ---
-title: "White Camas"
+title: "Anticlea elegans"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AnticleaElegans

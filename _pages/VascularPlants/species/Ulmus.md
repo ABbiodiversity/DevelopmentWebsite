@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TyphaLatifolia" class="pagination--pager" title="Common Cattail">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UlmusAmericana" class="pagination--pager" title="Ulmus americana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TyphaLatifolia" class="pagination--pager" title="Typha latifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UlmusAmericana" class="pagination--pager" title="Ulmus americana">Next</a>
 
 <p>&nbsp;</p>
 

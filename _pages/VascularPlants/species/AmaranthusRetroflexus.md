@@ -1,5 +1,5 @@
 ---
-title: "Red Root Pigweed"
+title: "Amaranthus retroflexus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AmaranthusRetroflexus

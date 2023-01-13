@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaEuropaea" class="pagination--pager" title="Lysimachia europaea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaLatifolia" class="pagination--pager" title="Northern Starflower">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaEuropaea" class="pagination--pager" title="Lysimachia europaea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaLatifolia" class="pagination--pager" title="Lysimachia latifolia">Next</a>
 
 <p>&nbsp;</p>
 

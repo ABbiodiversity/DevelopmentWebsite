@@ -1,5 +1,5 @@
 ---
-title: "Fringed Loosestrife"
+title: "Lysimachia ciliata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LysimachiaCiliata
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LygodesmiaJuncea" class="pagination--pager" title="Skeletonweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaEuropaea" class="pagination--pager" title="Lysimachia europaea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LygodesmiaJuncea" class="pagination--pager" title="Lygodesmia juncea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaEuropaea" class="pagination--pager" title="Lysimachia europaea">Next</a>
 
 <p>&nbsp;</p>
 

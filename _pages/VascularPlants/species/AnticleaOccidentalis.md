@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AnticleaElegans" class="pagination--pager" title="White Camas">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AphyllonFasciculatum" class="pagination--pager" title="Clustered Broomrape">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AnticleaElegans" class="pagination--pager" title="Anticlea elegans">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AphyllonFasciculatum" class="pagination--pager" title="Aphyllon fasciculatum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Tufted Hair Grass"
+title: "Deschampsia cespitosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DeschampsiaCespitosa
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DendrolycopodiumDendroideum" class="pagination--pager" title="Ground Pine">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaIncana" class="pagination--pager" title="Descurainia incana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DendrolycopodiumDendroideum" class="pagination--pager" title="Dendrolycopodium dendroideum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaIncana" class="pagination--pager" title="Descurainia incana">Next</a>
 
 <p>&nbsp;</p>
 

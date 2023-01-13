@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaFrigida" class="pagination--pager" title="Pasture Sagewort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaLudoviciana" class="pagination--pager" title="Prairie Sagewort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaFrigida" class="pagination--pager" title="Artemisia frigida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaLudoviciana" class="pagination--pager" title="Artemisia ludoviciana">Next</a>
 
 <p>&nbsp;</p>
 

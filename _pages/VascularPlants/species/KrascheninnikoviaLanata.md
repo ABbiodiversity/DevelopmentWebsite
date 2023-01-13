@@ -1,5 +1,5 @@
 ---
-title: "Winter Fat"
+title: "Krascheninnikovia lanata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/KrascheninnikoviaLanata
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/KoeleriaMacrantha" class="pagination--pager" title="June Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lactuca" class="pagination--pager" title="Lactuca">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/KoeleriaMacrantha" class="pagination--pager" title="Koeleria macrantha">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lactuca" class="pagination--pager" title="Lactuca">Next</a>
 
 <p>&nbsp;</p>
 

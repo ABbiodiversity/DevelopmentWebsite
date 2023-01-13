@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FestucaIdahoensis" class="pagination--pager" title="Festuca idahoensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FestucaRubra" class="pagination--pager" title="Red Fescue">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FestucaIdahoensis" class="pagination--pager" title="Festuca idahoensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FestucaRubra" class="pagination--pager" title="Festuca rubra">Next</a>
 
 <p>&nbsp;</p>
 

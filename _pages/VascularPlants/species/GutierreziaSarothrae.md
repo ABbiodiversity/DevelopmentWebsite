@@ -1,5 +1,5 @@
 ---
-title: "Broomweed"
+title: "Gutierrezia sarothrae"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GutierreziaSarothrae
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GrindeliaSquarrosa" class="pagination--pager" title="Gumweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Gymnocarpium" class="pagination--pager" title="Gymnocarpium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GrindeliaSquarrosa" class="pagination--pager" title="Grindelia squarrosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Gymnocarpium" class="pagination--pager" title="Gymnocarpium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexHookeriana" class="pagination--pager" title="Carex hookeriana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexInops" class="pagination--pager" title="Long Stolon Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexHookeriana" class="pagination--pager" title="Carex hookeriana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexInops" class="pagination--pager" title="Carex inops">Next</a>
 
 <p>&nbsp;</p>
 

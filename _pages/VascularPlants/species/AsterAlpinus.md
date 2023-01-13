@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Aster" class="pagination--pager" title="Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Astragalus" class="pagination--pager" title="Milk Vetches">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Aster" class="pagination--pager" title="Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Astragalus" class="pagination--pager" title="Astragalus">Next</a>
 
 <p>&nbsp;</p>
 

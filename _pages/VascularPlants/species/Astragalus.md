@@ -1,5 +1,5 @@
 ---
-title: "Milk Vetches"
+title: "Astragalus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Astragalus
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AsterAlpinus" class="pagination--pager" title="Aster alpinus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAgrestis" class="pagination--pager" title="Purple Milk Vetch">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AsterAlpinus" class="pagination--pager" title="Aster alpinus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAgrestis" class="pagination--pager" title="Astragalus agrestis">Next</a>
 
 <p>&nbsp;</p>
 

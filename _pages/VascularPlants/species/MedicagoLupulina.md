@@ -1,5 +1,5 @@
 ---
-title: "Black Medick"
+title: "Medicago lupulina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MedicagoLupulina
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Medicago" class="pagination--pager" title="Medicago">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MedicagoSativa" class="pagination--pager" title="Alfalfa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Medicago" class="pagination--pager" title="Medicago">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MedicagoSativa" class="pagination--pager" title="Medicago sativa">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Death Camas"
+title: "Toxicoscordion venenosum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ToxicoscordionVenenosum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TorreyochloaPallida" class="pagination--pager" title="Torreyochloa pallida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TragopogonDubius" class="pagination--pager" title="Common Goat's Beard">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TorreyochloaPallida" class="pagination--pager" title="Torreyochloa pallida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TragopogonDubius" class="pagination--pager" title="Tragopogon dubius">Next</a>
 
 <p>&nbsp;</p>
 

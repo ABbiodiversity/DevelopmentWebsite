@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuncusBufonius" class="pagination--pager" title="Toad Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusDrummondii" class="pagination--pager" title="Juncus drummondii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuncusBufonius" class="pagination--pager" title="Juncus bufonius">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusDrummondii" class="pagination--pager" title="Juncus drummondii">Next</a>
 
 <p>&nbsp;</p>
 

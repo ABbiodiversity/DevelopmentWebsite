@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/NeottiaCordata" class="pagination--pager" title="Heart-Leaved Twayblade">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/NupharVariegata" class="pagination--pager" title="Nuphar variegata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/NeottiaCordata" class="pagination--pager" title="Neottia cordata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/NupharVariegata" class="pagination--pager" title="Nuphar variegata">Next</a>
 
 <p>&nbsp;</p>
 

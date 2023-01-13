@@ -1,5 +1,5 @@
 ---
-title: "Canola"
+title: "Brassica rapa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BrassicaRapa
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BrassicaNapus" class="pagination--pager" title="Argentine Canola">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Bromus" class="pagination--pager" title="Bromus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BrassicaNapus" class="pagination--pager" title="Brassica napus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Bromus" class="pagination--pager" title="Bromus">Next</a>
 
 <p>&nbsp;</p>
 

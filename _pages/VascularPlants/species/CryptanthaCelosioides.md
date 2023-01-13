@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CrepisTectorum" class="pagination--pager" title="Annual Hawk's Beard">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CryptanthaFendleri" class="pagination--pager" title="Cryptantha fendleri">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CrepisTectorum" class="pagination--pager" title="Crepis tectorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CryptanthaFendleri" class="pagination--pager" title="Cryptantha fendleri">Next</a>
 
 <p>&nbsp;</p>
 

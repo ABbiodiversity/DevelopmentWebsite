@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AraliaNudicaulis" class="pagination--pager" title="Wild Sarsaparilla">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArctagrostisLatifolia" class="pagination--pager" title="Arctagrostis latifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AraliaNudicaulis" class="pagination--pager" title="Aralia nudicaulis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArctagrostisLatifolia" class="pagination--pager" title="Arctagrostis latifolia">Next</a>
 
 <p>&nbsp;</p>
 

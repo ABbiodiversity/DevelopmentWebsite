@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EchinochloaCrusGalli" class="pagination--pager" title="Barnyard Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Echinops" class="pagination--pager" title="Echinops">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EchinochloaCrusGalli" class="pagination--pager" title="Echinochloa crus-galli">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Echinops" class="pagination--pager" title="Echinops">Next</a>
 
 <p>&nbsp;</p>
 

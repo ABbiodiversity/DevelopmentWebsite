@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EscobariaVivipara" class="pagination--pager" title="Ball Cactus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EuphorbiaSerpyllifolia" class="pagination--pager" title="Euphorbia serpyllifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EscobariaVivipara" class="pagination--pager" title="Escobaria vivipara">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EuphorbiaSerpyllifolia" class="pagination--pager" title="Euphorbia serpyllifolia">Next</a>
 
 <p>&nbsp;</p>
 

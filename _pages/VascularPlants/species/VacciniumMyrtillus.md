@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumMyrtilloides" class="pagination--pager" title="Common Blueberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumOxycoccos" class="pagination--pager" title="Small Bog Cranberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumMyrtilloides" class="pagination--pager" title="Vaccinium myrtilloides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumOxycoccos" class="pagination--pager" title="Vaccinium oxycoccos">Next</a>
 
 <p>&nbsp;</p>
 

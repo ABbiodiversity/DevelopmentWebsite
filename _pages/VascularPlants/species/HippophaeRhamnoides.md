@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HieraciumUmbellatum" class="pagination--pager" title="Narrow Leaved Hawkweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HippurisVulgaris" class="pagination--pager" title="Common Mare's Tail">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HieraciumUmbellatum" class="pagination--pager" title="Hieracium umbellatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HippurisVulgaris" class="pagination--pager" title="Hippuris vulgaris">Next</a>
 
 <p>&nbsp;</p>
 

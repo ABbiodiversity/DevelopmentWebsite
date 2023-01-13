@@ -1,5 +1,5 @@
 ---
-title: "Narrow Leaved Dock"
+title: "Rumex triangulivalvis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RumexTriangulivalvis

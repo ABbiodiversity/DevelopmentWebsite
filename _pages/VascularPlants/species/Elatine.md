@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ElaeagnusCommutata" class="pagination--pager" title="Silverberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Eleocharis" class="pagination--pager" title="Eleocharis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ElaeagnusCommutata" class="pagination--pager" title="Elaeagnus commutata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Eleocharis" class="pagination--pager" title="Eleocharis">Next</a>
 
 <p>&nbsp;</p>
 

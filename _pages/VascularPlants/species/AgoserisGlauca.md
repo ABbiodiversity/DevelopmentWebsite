@@ -1,5 +1,5 @@
 ---
-title: "Yellow False Dandelion"
+title: "Agoseris glauca"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AgoserisGlauca
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Agoseris" class="pagination--pager" title="Agoseris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgrimoniaStriata" class="pagination--pager" title="Agrimony">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Agoseris" class="pagination--pager" title="Agoseris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgrimoniaStriata" class="pagination--pager" title="Agrimonia striata">Next</a>
 
 <p>&nbsp;</p>
 

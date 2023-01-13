@@ -1,5 +1,5 @@
 ---
-title: "Wild Mint"
+title: "Mentha canadensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MenthaCanadensis
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MelilotusOfficinalis" class="pagination--pager" title="Yellow Sweet Clover">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MenthaSpicata" class="pagination--pager" title="Mentha spicata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MelilotusOfficinalis" class="pagination--pager" title="Melilotus officinalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MenthaSpicata" class="pagination--pager" title="Mentha spicata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Canada Buffaloberry"
+title: "Shepherdia canadensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ShepherdiaCanadensis

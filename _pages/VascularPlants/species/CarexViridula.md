@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexVaginata" class="pagination--pager" title="Sheathed Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexXerantica" class="pagination--pager" title="Carex xerantica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexVaginata" class="pagination--pager" title="Carex vaginata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexXerantica" class="pagination--pager" title="Carex xerantica">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Crowberry"
+title: "Empetrum nigrum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EmpetrumNigrum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ElymusViolaceus" class="pagination--pager" title="Elymus violaceus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EndotropisAlnifolia" class="pagination--pager" title="Alder Leaved Buckthorn">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ElymusViolaceus" class="pagination--pager" title="Elymus violaceus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EndotropisAlnifolia" class="pagination--pager" title="Endotropis alnifolia">Next</a>
 
 <p>&nbsp;</p>
 

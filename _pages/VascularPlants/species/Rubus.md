@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RosaRugosa" class="pagination--pager" title="Rosa rugosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusArcticus" class="pagination--pager" title="Dwarf Raspberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RosaRugosa" class="pagination--pager" title="Rosa rugosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusArcticus" class="pagination--pager" title="Rubus arcticus">Next</a>
 
 <p>&nbsp;</p>
 

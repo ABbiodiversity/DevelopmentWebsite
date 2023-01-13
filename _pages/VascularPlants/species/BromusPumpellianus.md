@@ -1,5 +1,5 @@
 ---
-title: "Pumpelly"
+title: "Bromus pumpellianus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BromusPumpellianus
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusPorteri" class="pagination--pager" title="Bromus porteri">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusRiparius" class="pagination--pager" title="Meadow Brome">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusPorteri" class="pagination--pager" title="Bromus porteri">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusRiparius" class="pagination--pager" title="Bromus riparius">Next</a>
 
 <p>&nbsp;</p>
 

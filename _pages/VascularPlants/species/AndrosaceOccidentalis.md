@@ -1,5 +1,5 @@
 ---
-title: "Western Fairy Candelabra"
+title: "Androsace occidentalis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AndrosaceOccidentalis
@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceChamaejasme" class="pagination--pager" title="Androsace chamaejasme">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceSeptentrionalis" class="pagination--pager" title="Northern Fairy Candelabra">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceChamaejasme" class="pagination--pager" title="Androsace chamaejasme">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceSeptentrionalis" class="pagination--pager" title="Androsace septentrionalis">Next</a>
 
 <p>&nbsp;</p>
 

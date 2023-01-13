@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SetariaViridis" class="pagination--pager" title="Green Foxtail">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ShepherdiaCanadensis" class="pagination--pager" title="Canada Buffaloberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SetariaViridis" class="pagination--pager" title="Setaria viridis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ShepherdiaCanadensis" class="pagination--pager" title="Shepherdia canadensis">Next</a>
 
 <p>&nbsp;</p>
 

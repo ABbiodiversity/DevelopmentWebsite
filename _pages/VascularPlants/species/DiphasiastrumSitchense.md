@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DiphasiastrumComplanatum" class="pagination--pager" title="Ground Cedar">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DiplotaxisMuralis" class="pagination--pager" title="Diplotaxis muralis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DiphasiastrumComplanatum" class="pagination--pager" title="Diphasiastrum complanatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DiplotaxisMuralis" class="pagination--pager" title="Diplotaxis muralis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OsmorhizaDepauperata" class="pagination--pager" title="Spreading Sweet Cicely">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxalisStricta" class="pagination--pager" title="Oxalis stricta">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OsmorhizaDepauperata" class="pagination--pager" title="Osmorhiza depauperata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxalisStricta" class="pagination--pager" title="Oxalis stricta">Next</a>
 
 <p>&nbsp;</p>
 

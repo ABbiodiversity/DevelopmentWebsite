@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViolaPalustris" class="pagination--pager" title="Viola palustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaRenifolia" class="pagination--pager" title="Kidney Leaved Violet">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViolaPalustris" class="pagination--pager" title="Viola palustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaRenifolia" class="pagination--pager" title="Viola renifolia">Next</a>
 
 <p>&nbsp;</p>
 

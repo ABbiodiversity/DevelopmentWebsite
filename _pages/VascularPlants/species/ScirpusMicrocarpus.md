@@ -1,5 +1,5 @@
 ---
-title: "Small Fruited Bulrush"
+title: "Scirpus microcarpus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ScirpusMicrocarpus

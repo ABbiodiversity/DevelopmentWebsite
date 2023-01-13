@@ -1,5 +1,5 @@
 ---
-title: "Bicknell's Geranium"
+title: "Geranium bicknellii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GeraniumBicknellii

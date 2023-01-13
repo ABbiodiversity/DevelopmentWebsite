@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CorylusCornuta" class="pagination--pager" title="Beaked Hazelnut">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Crataegus" class="pagination--pager" title="Crataegus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CorylusCornuta" class="pagination--pager" title="Corylus cornuta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Crataegus" class="pagination--pager" title="Crataegus">Next</a>
 
 <p>&nbsp;</p>
 

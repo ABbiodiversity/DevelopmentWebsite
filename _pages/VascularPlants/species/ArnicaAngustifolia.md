@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Arnica" class="pagination--pager" title="Arnica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaChamissonis" class="pagination--pager" title="Leafy Arnica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Arnica" class="pagination--pager" title="Arnica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaChamissonis" class="pagination--pager" title="Arnica chamissonis">Next</a>
 
 <p>&nbsp;</p>
 

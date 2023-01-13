@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Agrostis" class="pagination--pager" title="Agrostis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgrostisScabra" class="pagination--pager" title="Rough Hair Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Agrostis" class="pagination--pager" title="Agrostis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgrostisScabra" class="pagination--pager" title="Agrostis scabra">Next</a>
 
 <p>&nbsp;</p>
 

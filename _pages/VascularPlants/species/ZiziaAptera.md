@@ -1,5 +1,5 @@
 ---
-title: "Heart Leaved Alexanders"
+title: "Zizia aptera"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ZiziaAptera
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ZeaMays" class="pagination--pager" title="Zea mays">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AbiesBalsamea" class="pagination--pager" title="Balsam Fir">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ZeaMays" class="pagination--pager" title="Zea mays">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AbiesBalsamea" class="pagination--pager" title="Abies balsamea">Next</a>
 
 <p>&nbsp;</p>
 

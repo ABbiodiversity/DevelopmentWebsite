@@ -1,5 +1,5 @@
 ---
-title: "Leafy Arnica"
+title: "Arnica chamissonis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArnicaChamissonis
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaAngustifolia" class="pagination--pager" title="Arnica angustifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaCordifolia" class="pagination--pager" title="Heart-leaved Arnica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaAngustifolia" class="pagination--pager" title="Arnica angustifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaCordifolia" class="pagination--pager" title="Arnica cordifolia">Next</a>
 
 <p>&nbsp;</p>
 

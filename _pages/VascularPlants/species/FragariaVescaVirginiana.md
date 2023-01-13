@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FestucaSaximontana" class="pagination--pager" title="Rocky Mountain Fescue">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Fraxinus" class="pagination--pager" title="Fraxinus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FestucaSaximontana" class="pagination--pager" title="Festuca saximontana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Fraxinus" class="pagination--pager" title="Fraxinus">Next</a>
 
 <p>&nbsp;</p>
 

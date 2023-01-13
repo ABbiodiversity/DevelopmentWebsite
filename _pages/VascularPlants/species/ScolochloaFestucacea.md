@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ScirpusMicrocarpus" class="pagination--pager" title="Small Fruited Bulrush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ScutellariaGalericulata" class="pagination--pager" title="Marsh Skullcap">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ScirpusMicrocarpus" class="pagination--pager" title="Scirpus microcarpus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ScutellariaGalericulata" class="pagination--pager" title="Scutellaria galericulata">Next</a>
 
 <p>&nbsp;</p>
 

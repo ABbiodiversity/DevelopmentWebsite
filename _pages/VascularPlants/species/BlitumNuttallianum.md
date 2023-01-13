@@ -1,5 +1,5 @@
 ---
-title: "Spear Leaved Goosefoot"
+title: "Blitum nuttallianum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BlitumNuttallianum

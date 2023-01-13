@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DaleaPurpurea" class="pagination--pager" title="Purple Prairie Clover">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DanthoniaIntermedia" class="pagination--pager" title="Danthonia intermedia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DaleaPurpurea" class="pagination--pager" title="Dalea purpurea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DanthoniaIntermedia" class="pagination--pager" title="Danthonia intermedia">Next</a>
 
 <p>&nbsp;</p>
 

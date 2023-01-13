@@ -1,5 +1,5 @@
 ---
-title: "Creeping Thistle"
+title: "Cirsium arvense"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CirsiumArvense

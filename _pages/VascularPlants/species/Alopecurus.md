@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AlnusIncana" class="pagination--pager" title="Speckled Alder">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlopecurusAequalis" class="pagination--pager" title="Water Foxtail">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AlnusIncana" class="pagination--pager" title="Alnus incana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlopecurusAequalis" class="pagination--pager" title="Alopecurus aequalis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Marsh Hedge Nettle"
+title: "Stachys pilosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/StachysPilosa

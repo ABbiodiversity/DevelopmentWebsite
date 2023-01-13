@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RhinanthusMinor" class="pagination--pager" title="Yellow Rattle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Rhododendron" class="pagination--pager" title="Rhododendron">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RhinanthusMinor" class="pagination--pager" title="Rhinanthus minor">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Rhododendron" class="pagination--pager" title="Rhododendron">Next</a>
 
 <p>&nbsp;</p>
 

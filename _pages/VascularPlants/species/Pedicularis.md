@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PastinacaSativa" class="pagination--pager" title="Pastinaca sativa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisBracteosa" class="pagination--pager" title="Western Lousewort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PastinacaSativa" class="pagination--pager" title="Pastinaca sativa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisBracteosa" class="pagination--pager" title="Pedicularis bracteosa">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumBrachyantherum" class="pagination--pager" title="Close Sheathed Cotton Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumRusseolum" class="pagination--pager" title="Eriophorum russeolum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumBrachyantherum" class="pagination--pager" title="Eriophorum brachyantherum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumRusseolum" class="pagination--pager" title="Eriophorum russeolum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Fowl Manna Grass"
+title: "Glyceria striata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GlyceriaStriata
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaPulchella" class="pagination--pager" title="Glyceria pulchella">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GlycyrrhizaLepidota" class="pagination--pager" title="Wild Licorice">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaPulchella" class="pagination--pager" title="Glyceria pulchella">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GlycyrrhizaLepidota" class="pagination--pager" title="Glycyrrhiza lepidota">Next</a>
 
 <p>&nbsp;</p>
 

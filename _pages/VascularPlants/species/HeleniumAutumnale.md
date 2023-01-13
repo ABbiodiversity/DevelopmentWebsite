@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HedysarumSulphurescens" class="pagination--pager" title="Yellow Hedysarum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Helianthus" class="pagination--pager" title="Helianthus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HedysarumSulphurescens" class="pagination--pager" title="Hedysarum sulphurescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Helianthus" class="pagination--pager" title="Helianthus">Next</a>
 
 <p>&nbsp;</p>
 

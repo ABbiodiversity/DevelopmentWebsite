@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BetulaPendula" class="pagination--pager" title="Betula pendula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BetulaxSargentii" class="pagination--pager" title="Hybrid Dwarf Bog Birch">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BetulaPendula" class="pagination--pager" title="Betula pendula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BetulaxSargentii" class="pagination--pager" title="Betula x sargentii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Alpine Hedysarum"
+title: "Hedysarum americanum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HedysarumAmericanum

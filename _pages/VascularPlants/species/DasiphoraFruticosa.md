@@ -1,5 +1,5 @@
 ---
-title: "Shrubby Cinquefoil"
+title: "Dasiphora fruticosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DasiphoraFruticosa

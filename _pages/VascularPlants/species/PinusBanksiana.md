@@ -1,5 +1,5 @@
 ---
-title: "Jack Pine"
+title: "Pinus banksiana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PinusBanksiana
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PinusAlbicaulis" class="pagination--pager" title="Pinus albicaulis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusContorta" class="pagination--pager" title="Lodgepole Pine">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PinusAlbicaulis" class="pagination--pager" title="Pinus albicaulis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusContorta" class="pagination--pager" title="Pinus contorta">Next</a>
 
 <p>&nbsp;</p>
 

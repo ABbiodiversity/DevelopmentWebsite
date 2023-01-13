@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TripleurospermumInodorum" class="pagination--pager" title="Scentless Chamomile">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrisetumSpicatum" class="pagination--pager" title="Spike Trisetum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TripleurospermumInodorum" class="pagination--pager" title="Tripleurospermum inodorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrisetumSpicatum" class="pagination--pager" title="Trisetum spicatum">Next</a>
 
 <p>&nbsp;</p>
 

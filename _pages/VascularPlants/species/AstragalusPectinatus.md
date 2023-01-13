@@ -1,5 +1,5 @@
 ---
-title: "Narrow-leaved Milk Vetch"
+title: "Astragalus pectinatus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AstragalusPectinatus

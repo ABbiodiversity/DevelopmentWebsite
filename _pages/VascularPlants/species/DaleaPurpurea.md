@@ -1,5 +1,5 @@
 ---
-title: "Purple Prairie Clover"
+title: "Dalea purpurea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DaleaPurpurea

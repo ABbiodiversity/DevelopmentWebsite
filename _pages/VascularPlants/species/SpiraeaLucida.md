@@ -1,5 +1,5 @@
 ---
-title: "White Meadowsweet"
+title: "Spiraea lucida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SpiraeaLucida

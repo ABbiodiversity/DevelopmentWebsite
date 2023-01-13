@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Elatine" class="pagination--pager" title="Elatine">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EleocharisAcicularis" class="pagination--pager" title="Needle Spike Rush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Elatine" class="pagination--pager" title="Elatine">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EleocharisAcicularis" class="pagination--pager" title="Eleocharis acicularis">Next</a>
 
 <p>&nbsp;</p>
 

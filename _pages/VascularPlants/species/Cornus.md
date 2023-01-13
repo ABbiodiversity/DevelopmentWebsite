@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CorispermumAmericanum" class="pagination--pager" title="Corispermum americanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CornusCanadensis" class="pagination--pager" title="Bunchberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CorispermumAmericanum" class="pagination--pager" title="Corispermum americanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CornusCanadensis" class="pagination--pager" title="Cornus canadensis">Next</a>
 
 <p>&nbsp;</p>
 

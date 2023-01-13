@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PersicariaMaculosaLapathifolium" class="pagination--pager" title="Persicaria maculosa/lapathifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PetasitesFrigidus" class="pagination--pager" title="Arctic Sweet Coltsfoot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PersicariaMaculosaLapathifolium" class="pagination--pager" title="Persicaria maculosa/lapathifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PetasitesFrigidus" class="pagination--pager" title="Petasites frigidus">Next</a>
 
 <p>&nbsp;</p>
 

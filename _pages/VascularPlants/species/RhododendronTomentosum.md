@@ -1,5 +1,5 @@
 ---
-title: "Marsh Labrador Tea"
+title: "Rhododendron tomentosum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RhododendronTomentosum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RhododendronGroenlandicum" class="pagination--pager" title="Common Labrador Tea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhusAromatica" class="pagination--pager" title="Rhus aromatica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RhododendronGroenlandicum" class="pagination--pager" title="Rhododendron groenlandicum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhusAromatica" class="pagination--pager" title="Rhus aromatica">Next</a>
 
 <p>&nbsp;</p>
 

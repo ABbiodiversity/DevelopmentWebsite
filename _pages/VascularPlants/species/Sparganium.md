@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Western Mountain Ash">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SparganiumAngustifoliumEmersum" class="pagination--pager" title="Sparganium angustifolium/emersum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Sorbus scopulina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SparganiumAngustifoliumEmersum" class="pagination--pager" title="Sparganium angustifolium/emersum">Next</a>
 
 <p>&nbsp;</p>
 

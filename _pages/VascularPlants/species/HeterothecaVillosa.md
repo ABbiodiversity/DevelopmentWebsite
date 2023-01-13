@@ -1,5 +1,5 @@
 ---
-title: "Golden Aster"
+title: "Heterotheca villosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HeterothecaVillosa

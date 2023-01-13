@@ -1,5 +1,5 @@
 ---
-title: "Spreading Dogbane"
+title: "Apocynum androsaemifolium"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ApocynumAndrosaemifolium

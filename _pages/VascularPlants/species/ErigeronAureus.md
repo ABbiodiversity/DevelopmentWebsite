@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAnnuus" class="pagination--pager" title="Erigeron annuus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCaespitosus" class="pagination--pager" title="Tufted Fleabane">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAnnuus" class="pagination--pager" title="Erigeron annuus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronCaespitosus" class="pagination--pager" title="Erigeron caespitosus">Next</a>
 
 <p>&nbsp;</p>
 

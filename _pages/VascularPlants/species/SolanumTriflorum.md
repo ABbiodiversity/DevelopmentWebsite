@@ -1,5 +1,5 @@
 ---
-title: "Wild Tomato"
+title: "Solanum triflorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SolanumTriflorum

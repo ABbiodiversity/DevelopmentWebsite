@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Pinus" class="pagination--pager" title="Pinus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusBanksiana" class="pagination--pager" title="Jack Pine">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Pinus" class="pagination--pager" title="Pinus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusBanksiana" class="pagination--pager" title="Pinus banksiana">Next</a>
 
 <p>&nbsp;</p>
 

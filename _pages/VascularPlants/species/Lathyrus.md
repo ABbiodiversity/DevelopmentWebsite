@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LarixLyallii" class="pagination--pager" title="Larix lyallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LathyrusOchroleucus" class="pagination--pager" title="Cream Colored Vetchling">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LarixLyallii" class="pagination--pager" title="Larix lyallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LathyrusOchroleucus" class="pagination--pager" title="Lathyrus ochroleucus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Nuttall's Salt Meadow Grass"
+title: "Puccinellia nuttalliana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PuccinelliaNuttalliana
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaDistans" class="pagination--pager" title="Slender Salt Meadow Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaNuttalliana" class="pagination--pager" title="Prairie Crocus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaDistans" class="pagination--pager" title="Puccinellia distans">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaNuttalliana" class="pagination--pager" title="Pulsatilla nuttalliana">Next</a>
 
 <p>&nbsp;</p>
 

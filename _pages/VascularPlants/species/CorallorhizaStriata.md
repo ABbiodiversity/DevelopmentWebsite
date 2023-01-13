@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaMaculata" class="pagination--pager" title="Spotted Coralroot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaTrifida" class="pagination--pager" title="Pale Coralroot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaMaculata" class="pagination--pager" title="Corallorhiza maculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaTrifida" class="pagination--pager" title="Corallorhiza trifida">Next</a>
 
 <p>&nbsp;</p>
 

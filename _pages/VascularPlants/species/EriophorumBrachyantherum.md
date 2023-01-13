@@ -1,5 +1,5 @@
 ---
-title: "Close Sheathed Cotton Grass"
+title: "Eriophorum brachyantherum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EriophorumBrachyantherum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumAngustifolium" class="pagination--pager" title="Narrowleaf Cotton Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumGracile" class="pagination--pager" title="Eriophorum gracile">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumAngustifolium" class="pagination--pager" title="Eriophorum angustifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumGracile" class="pagination--pager" title="Eriophorum gracile">Next</a>
 
 <p>&nbsp;</p>
 

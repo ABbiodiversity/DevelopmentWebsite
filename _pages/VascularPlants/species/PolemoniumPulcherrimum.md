@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PolemoniumAcutiflorum" class="pagination--pager" title="Tall Jacob's Ladder">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PolemoniumViscosum" class="pagination--pager" title="Polemonium viscosum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PolemoniumAcutiflorum" class="pagination--pager" title="Polemonium acutiflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PolemoniumViscosum" class="pagination--pager" title="Polemonium viscosum">Next</a>
 
 <p>&nbsp;</p>
 

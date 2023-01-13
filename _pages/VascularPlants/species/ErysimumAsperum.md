@@ -1,5 +1,5 @@
 ---
-title: "Western Wallflower"
+title: "Erysimum asperum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErysimumAsperum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Erysimum" class="pagination--pager" title="Erysimum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErysimumCheiranthoides" class="pagination--pager" title="Wormseed Mustard">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Erysimum" class="pagination--pager" title="Erysimum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErysimumCheiranthoides" class="pagination--pager" title="Erysimum cheiranthoides">Next</a>
 
 <p>&nbsp;</p>
 

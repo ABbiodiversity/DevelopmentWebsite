@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusCiliatus" class="pagination--pager" title="Fringed Brome">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusInermis" class="pagination--pager" title="Awnless Brome">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusCiliatus" class="pagination--pager" title="Bromus ciliatus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusInermis" class="pagination--pager" title="Bromus inermis">Next</a>
 
 <p>&nbsp;</p>
 

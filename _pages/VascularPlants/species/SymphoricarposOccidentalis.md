@@ -1,5 +1,5 @@
 ---
-title: "Buckbrush"
+title: "Symphoricarpos occidentalis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SymphoricarposOccidentalis
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposAlbus" class="pagination--pager" title="Snowberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Symphyotrichum" class="pagination--pager" title="Symphyotrichum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposAlbus" class="pagination--pager" title="Symphoricarpos albus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Symphyotrichum" class="pagination--pager" title="Symphyotrichum">Next</a>
 
 <p>&nbsp;</p>
 

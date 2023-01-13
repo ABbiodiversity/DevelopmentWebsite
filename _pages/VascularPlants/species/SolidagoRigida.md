@@ -1,5 +1,5 @@
 ---
-title: "Stiff Goldenrod"
+title: "Solidago rigida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SolidagoRigida

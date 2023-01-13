@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LoniceraTatarica" class="pagination--pager" title="Lonicera tatarica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LoniceraVillosa" class="pagination--pager" title="Fly Honeysuckle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LoniceraTatarica" class="pagination--pager" title="Lonicera tatarica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LoniceraVillosa" class="pagination--pager" title="Lonicera villosa">Next</a>
 
 <p>&nbsp;</p>
 

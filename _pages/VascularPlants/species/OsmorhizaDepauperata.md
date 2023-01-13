@@ -1,5 +1,5 @@
 ---
-title: "Spreading Sweet Cicely"
+title: "Osmorhiza depauperata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OsmorhizaDepauperata

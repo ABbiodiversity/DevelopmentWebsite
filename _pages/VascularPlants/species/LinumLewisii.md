@@ -1,5 +1,5 @@
 ---
-title: "Wild Blue Flax"
+title: "Linum lewisii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LinumLewisii
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LinumCompactum" class="pagination--pager" title="Yellow Flax">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinumUsitatissimum" class="pagination--pager" title="Linum usitatissimum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LinumCompactum" class="pagination--pager" title="Linum compactum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinumUsitatissimum" class="pagination--pager" title="Linum usitatissimum">Next</a>
 
 <p>&nbsp;</p>
 

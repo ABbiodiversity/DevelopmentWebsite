@@ -1,5 +1,5 @@
 ---
-title: "Foxtail Barley"
+title: "Hordeum jubatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HordeumJubatum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HippurisVulgaris" class="pagination--pager" title="Common Mare's Tail">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HordeumVulgare" class="pagination--pager" title="Cultivated Barley">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HippurisVulgaris" class="pagination--pager" title="Hippuris vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HordeumVulgare" class="pagination--pager" title="Hordeum vulgare">Next</a>
 
 <p>&nbsp;</p>
 

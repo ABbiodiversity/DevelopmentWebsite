@@ -1,5 +1,5 @@
 ---
-title: "Barnyard Grass"
+title: "Echinochloa crus-galli"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EchinochloaCrusGalli

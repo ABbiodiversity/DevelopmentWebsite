@@ -1,5 +1,5 @@
 ---
-title: "Common Blueberry"
+title: "Vaccinium myrtilloides"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/VacciniumMyrtilloides
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumMembranaceum" class="pagination--pager" title="Tall Bilberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumMyrtillus" class="pagination--pager" title="Vaccinium myrtillus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumMembranaceum" class="pagination--pager" title="Vaccinium membranaceum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumMyrtillus" class="pagination--pager" title="Vaccinium myrtillus">Next</a>
 
 <p>&nbsp;</p>
 

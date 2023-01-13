@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixDiscolor" class="pagination--pager" title="Pussy Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixFamelica" class="pagination--pager" title="Salix famelica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixDiscolor" class="pagination--pager" title="Salix discolor">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixFamelica" class="pagination--pager" title="Salix famelica">Next</a>
 
 <p>&nbsp;</p>
 

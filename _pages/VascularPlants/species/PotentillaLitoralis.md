@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaHippiana" class="pagination--pager" title="Woolly Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaNivea" class="pagination--pager" title="Potentilla nivea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaHippiana" class="pagination--pager" title="Potentilla hippiana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaNivea" class="pagination--pager" title="Potentilla nivea">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErysimumInconspicuum" class="pagination--pager" title="Small-flowered Rocket">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EscobariaVivipara" class="pagination--pager" title="Ball Cactus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErysimumInconspicuum" class="pagination--pager" title="Erysimum inconspicuum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EscobariaVivipara" class="pagination--pager" title="Escobaria vivipara">Next</a>
 
 <p>&nbsp;</p>
 

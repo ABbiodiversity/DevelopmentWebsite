@@ -1,5 +1,5 @@
 ---
-title: "Silvery Cinquefoil"
+title: "Potentilla argentea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PotentillaArgentea
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaAnserina" class="pagination--pager" title="Silverweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaBimundorum" class="pagination--pager" title="Potentilla bimundorum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaAnserina" class="pagination--pager" title="Potentilla anserina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaBimundorum" class="pagination--pager" title="Potentilla bimundorum">Next</a>
 
 <p>&nbsp;</p>
 

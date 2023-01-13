@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumGracile" class="pagination--pager" title="Eriophorum gracile">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumVaginatum" class="pagination--pager" title="Sheathed Cotton Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EriophorumGracile" class="pagination--pager" title="Eriophorum gracile">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriophorumVaginatum" class="pagination--pager" title="Eriophorum vaginatum">Next</a>
 
 <p>&nbsp;</p>
 

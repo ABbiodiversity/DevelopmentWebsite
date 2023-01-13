@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Oxytropis" class="pagination--pager" title="Oxytropis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxytropisCampestris" class="pagination--pager" title="Field Locoweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Oxytropis" class="pagination--pager" title="Oxytropis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxytropisCampestris" class="pagination--pager" title="Oxytropis campestris">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DieteriaCanescens" class="pagination--pager" title="Dieteria canescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DiphasiastrumComplanatum" class="pagination--pager" title="Ground Cedar">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DieteriaCanescens" class="pagination--pager" title="Dieteria canescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DiphasiastrumComplanatum" class="pagination--pager" title="Diphasiastrum complanatum">Next</a>
 
 <p>&nbsp;</p>
 

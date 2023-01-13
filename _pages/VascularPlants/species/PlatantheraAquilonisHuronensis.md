@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Platanthera" class="pagination--pager" title="Bog Orchids">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraDilatata" class="pagination--pager" title="Platanthera dilatata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Platanthera" class="pagination--pager" title="Platanthera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraDilatata" class="pagination--pager" title="Platanthera dilatata">Next</a>
 
 <p>&nbsp;</p>
 

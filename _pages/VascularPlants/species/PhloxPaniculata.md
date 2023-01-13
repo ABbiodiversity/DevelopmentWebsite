@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PhloxHoodii" class="pagination--pager" title="Moss Phlox">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhragmitesAustralis" class="pagination--pager" title="Phragmites australis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PhloxHoodii" class="pagination--pager" title="Phlox hoodii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhragmitesAustralis" class="pagination--pager" title="Phragmites australis">Next</a>
 
 <p>&nbsp;</p>
 

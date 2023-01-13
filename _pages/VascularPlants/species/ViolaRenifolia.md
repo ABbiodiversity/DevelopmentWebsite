@@ -1,5 +1,5 @@
 ---
-title: "Kidney Leaved Violet"
+title: "Viola renifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ViolaRenifolia

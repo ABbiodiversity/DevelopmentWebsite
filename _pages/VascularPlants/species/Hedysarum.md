@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HedeomaHispida" class="pagination--pager" title="Hedeoma hispida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HedysarumAmericanum" class="pagination--pager" title="Alpine Hedysarum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HedeomaHispida" class="pagination--pager" title="Hedeoma hispida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HedysarumAmericanum" class="pagination--pager" title="Hedysarum americanum">Next</a>
 
 <p>&nbsp;</p>
 

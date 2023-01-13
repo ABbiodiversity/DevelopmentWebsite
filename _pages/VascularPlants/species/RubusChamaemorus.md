@@ -1,5 +1,5 @@
 ---
-title: "Cloudberry"
+title: "Rubus chamaemorus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RubusChamaemorus
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RubusArcticus" class="pagination--pager" title="Dwarf Raspberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusIdaeus" class="pagination--pager" title="Wild Red Raspberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RubusArcticus" class="pagination--pager" title="Rubus arcticus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusIdaeus" class="pagination--pager" title="Rubus idaeus">Next</a>
 
 <p>&nbsp;</p>
 

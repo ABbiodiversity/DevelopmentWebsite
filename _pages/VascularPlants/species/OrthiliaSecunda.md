@@ -1,5 +1,5 @@
 ---
-title: "One-sided Wintergreen"
+title: "Orthilia secunda"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OrthiliaSecunda
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OpuntiaFragilisPolyacantha" class="pagination--pager" title="Opuntia fragilis/polyacantha">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OrthocarpusLuteus" class="pagination--pager" title="Owl Clover">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OpuntiaFragilisPolyacantha" class="pagination--pager" title="Opuntia fragilis/polyacantha">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OrthocarpusLuteus" class="pagination--pager" title="Orthocarpus luteus">Next</a>
 
 <p>&nbsp;</p>
 

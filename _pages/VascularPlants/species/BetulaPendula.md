@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BetulaOccidentalis" class="pagination--pager" title="Water Birch">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BetulaxEastwoodiae" class="pagination--pager" title="Betula x eastwoodiae">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BetulaOccidentalis" class="pagination--pager" title="Betula occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BetulaxEastwoodiae" class="pagination--pager" title="Betula x eastwoodiae">Next</a>
 
 <p>&nbsp;</p>
 

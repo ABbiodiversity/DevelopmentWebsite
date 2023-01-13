@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaFimbriata" class="pagination--pager" title="Parnassia fimbriata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaPalustris" class="pagination--pager" title="Northern Grass Of Parnassus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaFimbriata" class="pagination--pager" title="Parnassia fimbriata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaPalustris" class="pagination--pager" title="Parnassia palustris">Next</a>
 
 <p>&nbsp;</p>
 

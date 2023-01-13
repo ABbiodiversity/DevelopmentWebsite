@@ -1,5 +1,5 @@
 ---
-title: "Currants"
+title: "Ribes"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Ribes
@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RhusAromatica" class="pagination--pager" title="Rhus aromatica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RibesAmericanum" class="pagination--pager" title="Wild Black Currant">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RhusAromatica" class="pagination--pager" title="Rhus aromatica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RibesAmericanum" class="pagination--pager" title="Ribes americanum">Next</a>
 
 <p>&nbsp;</p>
 

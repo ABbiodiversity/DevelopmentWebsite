@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HelictochloaHookeri" class="pagination--pager" title="Spikeoat">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HemerocallisStellaDeOro" class="pagination--pager" title="Hemerocallis 'Stella de Oro'">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HelictochloaHookeri" class="pagination--pager" title="Helictochloa hookeri">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HemerocallisStellaDeOro" class="pagination--pager" title="Hemerocallis 'Stella de Oro'">Next</a>
 
 <p>&nbsp;</p>
 

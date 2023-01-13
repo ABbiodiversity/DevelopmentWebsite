@@ -1,5 +1,5 @@
 ---
-title: "Woodland Horsetail"
+title: "Equisetum sylvaticum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EquisetumSylvaticum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumScirpoides" class="pagination--pager" title="Dwarf Scouring Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumVariegatum" class="pagination--pager" title="Equisetum variegatum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumScirpoides" class="pagination--pager" title="Equisetum scirpoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumVariegatum" class="pagination--pager" title="Equisetum variegatum">Next</a>
 
 <p>&nbsp;</p>
 

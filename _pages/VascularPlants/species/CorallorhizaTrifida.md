@@ -1,5 +1,5 @@
 ---
-title: "Pale Coralroot"
+title: "Corallorhiza trifida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CorallorhizaTrifida

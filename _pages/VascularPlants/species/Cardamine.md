@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CaraganaArborescens" class="pagination--pager" title="Caragana arborescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CardaminePensylvanica" class="pagination--pager" title="Bitter Cress">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CaraganaArborescens" class="pagination--pager" title="Caragana arborescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CardaminePensylvanica" class="pagination--pager" title="Cardamine pensylvanica">Next</a>
 
 <p>&nbsp;</p>
 

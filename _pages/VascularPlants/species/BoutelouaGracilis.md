@@ -1,5 +1,5 @@
 ---
-title: "Blue Grama"
+title: "Bouteloua gracilis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BoutelouaGracilis
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BotrypusVirginianus" class="pagination--pager" title="Virginia Grape Fern">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Brassica" class="pagination--pager" title="Brassica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BotrypusVirginianus" class="pagination--pager" title="Botrypus virginianus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Brassica" class="pagination--pager" title="Brassica">Next</a>
 
 <p>&nbsp;</p>
 

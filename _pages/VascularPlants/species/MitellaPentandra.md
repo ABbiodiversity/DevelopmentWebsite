@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MitellaNuda" class="pagination--pager" title="Bishop's Cap">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MoehringiaLateriflora" class="pagination--pager" title="Blunt Leaved Sandwort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MitellaNuda" class="pagination--pager" title="Mitella nuda">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MoehringiaLateriflora" class="pagination--pager" title="Moehringia lateriflora">Next</a>
 
 <p>&nbsp;</p>
 

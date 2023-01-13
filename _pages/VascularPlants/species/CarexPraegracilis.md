@@ -1,5 +1,5 @@
 ---
-title: "Graceful Sedge"
+title: "Carex praegracilis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexPraegracilis

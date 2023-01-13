@@ -1,5 +1,5 @@
 ---
-title: "Bunchberry"
+title: "Cornus canadensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CornusCanadensis
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Cornus" class="pagination--pager" title="Cornus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CornusSericea" class="pagination--pager" title="Red Osier Dogwood">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Cornus" class="pagination--pager" title="Cornus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CornusSericea" class="pagination--pager" title="Cornus sericea">Next</a>
 
 <p>&nbsp;</p>
 

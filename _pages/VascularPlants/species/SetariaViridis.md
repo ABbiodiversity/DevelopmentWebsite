@@ -1,5 +1,5 @@
 ---
-title: "Green Foxtail"
+title: "Setaria viridis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SetariaViridis

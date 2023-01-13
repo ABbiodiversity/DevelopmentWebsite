@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PolygonumAviculare" class="pagination--pager" title="Knotweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PolygonumRamosissimum" class="pagination--pager" title="Polygonum ramosissimum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PolygonumAviculare" class="pagination--pager" title="Polygonum aviculare">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PolygonumRamosissimum" class="pagination--pager" title="Polygonum ramosissimum">Next</a>
 
 <p>&nbsp;</p>
 

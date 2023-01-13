@@ -1,5 +1,5 @@
 ---
-title: "Clustered Broomrape"
+title: "Aphyllon fasciculatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AphyllonFasciculatum

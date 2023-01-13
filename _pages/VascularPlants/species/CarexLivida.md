@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexLimosa" class="pagination--pager" title="Mud Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLoliacea" class="pagination--pager" title="Carex loliacea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexLimosa" class="pagination--pager" title="Carex limosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLoliacea" class="pagination--pager" title="Carex loliacea">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CerastiumFontanum" class="pagination--pager" title="Common Mouse Ear Chickweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CeratophyllumDemersum" class="pagination--pager" title="Ceratophyllum demersum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CerastiumFontanum" class="pagination--pager" title="Cerastium fontanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CeratophyllumDemersum" class="pagination--pager" title="Ceratophyllum demersum">Next</a>
 
 <p>&nbsp;</p>
 

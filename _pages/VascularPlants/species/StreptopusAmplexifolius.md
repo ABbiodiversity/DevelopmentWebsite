@@ -1,5 +1,5 @@
 ---
-title: "Clasping Leaved Twisted Stalk"
+title: "Streptopus amplexifolius"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/StreptopusAmplexifolius

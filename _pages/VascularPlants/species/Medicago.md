@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MatteucciaStruthiopteris" class="pagination--pager" title="Matteuccia struthiopteris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MedicagoLupulina" class="pagination--pager" title="Black Medick">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MatteucciaStruthiopteris" class="pagination--pager" title="Matteuccia struthiopteris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MedicagoLupulina" class="pagination--pager" title="Medicago lupulina">Next</a>
 
 <p>&nbsp;</p>
 

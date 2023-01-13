@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErucastrumGallicum" class="pagination--pager" title="Erucastrum gallicum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErysimumAsperum" class="pagination--pager" title="Western Wallflower">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErucastrumGallicum" class="pagination--pager" title="Erucastrum gallicum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErysimumAsperum" class="pagination--pager" title="Erysimum asperum">Next</a>
 
 <p>&nbsp;</p>
 

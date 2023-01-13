@@ -1,5 +1,5 @@
 ---
-title: "Wild Oat"
+title: "Avena fatua"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AvenaFatua

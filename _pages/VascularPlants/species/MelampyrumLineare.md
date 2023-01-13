@@ -1,5 +1,5 @@
 ---
-title: "Cow Wheat"
+title: "Melampyrum lineare"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MelampyrumLineare
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MedicagoSativa" class="pagination--pager" title="Alfalfa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelicaSpectabilis" class="pagination--pager" title="Melica spectabilis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MedicagoSativa" class="pagination--pager" title="Medicago sativa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelicaSpectabilis" class="pagination--pager" title="Melica spectabilis">Next</a>
 
 <p>&nbsp;</p>
 

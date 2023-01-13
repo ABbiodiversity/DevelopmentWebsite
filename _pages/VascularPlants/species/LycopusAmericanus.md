@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LycopodiumLagopus" class="pagination--pager" title="Running Club Moss">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LycopusAsper" class="pagination--pager" title="Lycopus asper">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LycopodiumLagopus" class="pagination--pager" title="Lycopodium lagopus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LycopusAsper" class="pagination--pager" title="Lycopus asper">Next</a>
 
 <p>&nbsp;</p>
 

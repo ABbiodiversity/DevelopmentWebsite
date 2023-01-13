@@ -1,5 +1,5 @@
 ---
-title: "Spurred Gentian"
+title: "Halenia deflexa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HaleniaDeflexa
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HackeliaDeflexa" class="pagination--pager" title="Hackelia deflexa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HalerpestesCymbalaria" class="pagination--pager" title="Seaside Buttercup">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HackeliaDeflexa" class="pagination--pager" title="Hackelia deflexa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HalerpestesCymbalaria" class="pagination--pager" title="Halerpestes cymbalaria">Next</a>
 
 <p>&nbsp;</p>
 

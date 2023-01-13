@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusMacounii" class="pagination--pager" title="Macoun's Buttercup">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusRepens" class="pagination--pager" title="Ranunculus repens">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusMacounii" class="pagination--pager" title="Ranunculus macounii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusRepens" class="pagination--pager" title="Ranunculus repens">Next</a>
 
 <p>&nbsp;</p>
 

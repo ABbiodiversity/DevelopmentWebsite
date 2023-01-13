@@ -1,5 +1,5 @@
 ---
-title: "Lamb's Quarters"
+title: "Chenopodium album"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ChenopodiumAlbum
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Chenopodium" class="pagination--pager" title="Goosefoots">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChenopodiumAtrovirens" class="pagination--pager" title="Chenopodium atrovirens">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Chenopodium" class="pagination--pager" title="Chenopodium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChenopodiumAtrovirens" class="pagination--pager" title="Chenopodium atrovirens">Next</a>
 
 <p>&nbsp;</p>
 

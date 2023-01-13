@@ -1,5 +1,5 @@
 ---
-title: "Lesser Wintergreen"
+title: "Pyrola minor"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PyrolaMinor

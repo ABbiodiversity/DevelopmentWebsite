@@ -1,5 +1,5 @@
 ---
-title: "Common Tall Manna Grass"
+title: "Glyceria grandis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GlyceriaGrandis

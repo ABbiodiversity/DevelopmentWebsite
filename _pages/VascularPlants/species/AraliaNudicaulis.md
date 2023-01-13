@@ -1,5 +1,5 @@
 ---
-title: "Wild Sarsaparilla"
+title: "Aralia nudicaulis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AraliaNudicaulis

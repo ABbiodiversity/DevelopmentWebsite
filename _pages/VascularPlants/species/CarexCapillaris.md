@@ -1,5 +1,5 @@
 ---
-title: "Hair Like Sedge"
+title: "Carex capillaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexCapillaris
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexCanescens" class="pagination--pager" title="Short Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexCapitata" class="pagination--pager" title="Carex capitata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexCanescens" class="pagination--pager" title="Carex canescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexCapitata" class="pagination--pager" title="Carex capitata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/KrascheninnikoviaLanata" class="pagination--pager" title="Winter Fat">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LactucaSerriola" class="pagination--pager" title="Prickly Lettuce">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/KrascheninnikoviaLanata" class="pagination--pager" title="Krascheninnikovia lanata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LactucaSerriola" class="pagination--pager" title="Lactuca serriola">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Prairie Coneflower"
+title: "Ratibida columnifera"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RatibidaColumnifera

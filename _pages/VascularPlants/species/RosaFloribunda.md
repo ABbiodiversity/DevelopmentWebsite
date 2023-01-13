@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RosaArkansana" class="pagination--pager" title="Prairie Rose">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RosaRugosa" class="pagination--pager" title="Rosa rugosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RosaArkansana" class="pagination--pager" title="Rosa arkansana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RosaRugosa" class="pagination--pager" title="Rosa rugosa">Next</a>
 
 <p>&nbsp;</p>
 

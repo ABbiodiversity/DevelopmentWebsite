@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TonestusLyallii" class="pagination--pager" title="Tonestus lyallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ToxicoscordionVenenosum" class="pagination--pager" title="Death Camas">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TonestusLyallii" class="pagination--pager" title="Tonestus lyallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ToxicoscordionVenenosum" class="pagination--pager" title="Toxicoscordion venenosum">Next</a>
 
 <p>&nbsp;</p>
 

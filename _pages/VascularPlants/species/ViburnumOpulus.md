@@ -1,5 +1,5 @@
 ---
-title: "High Bush Cranberry"
+title: "Viburnum opulus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ViburnumOpulus
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViburnumEdule" class="pagination--pager" title="Low Bush Cranberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViciaAmericana" class="pagination--pager" title="Wild Vetch">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViburnumEdule" class="pagination--pager" title="Viburnum edule">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViciaAmericana" class="pagination--pager" title="Vicia americana">Next</a>
 
 <p>&nbsp;</p>
 

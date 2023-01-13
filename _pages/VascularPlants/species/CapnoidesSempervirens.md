@@ -1,5 +1,5 @@
 ---
-title: "Pink Corydalis"
+title: "Capnoides sempervirens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CapnoidesSempervirens
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CannabisSativa" class="pagination--pager" title="Cannabis sativa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CapsellaBursaPastoris" class="pagination--pager" title="Shepherd's Purse">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CannabisSativa" class="pagination--pager" title="Cannabis sativa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CapsellaBursaPastoris" class="pagination--pager" title="Capsella bursa-pastoris">Next</a>
 
 <p>&nbsp;</p>
 

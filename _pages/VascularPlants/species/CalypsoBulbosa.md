@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CalthaPalustris" class="pagination--pager" title="Marsh Marigold">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CamassiaQuamash" class="pagination--pager" title="Camassia quamash">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CalthaPalustris" class="pagination--pager" title="Caltha palustris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CamassiaQuamash" class="pagination--pager" title="Camassia quamash">Next</a>
 
 <p>&nbsp;</p>
 

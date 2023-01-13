@@ -1,5 +1,5 @@
 ---
-title: "Common Pink Wintergreen"
+title: "Pyrola asarifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PyrolaAsarifolia
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Pyrola" class="pagination--pager" title="Wintergreens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PyrolaChlorantha" class="pagination--pager" title="Greenish Flowered Wintergreen">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Pyrola" class="pagination--pager" title="Pyrola">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PyrolaChlorantha" class="pagination--pager" title="Pyrola chlorantha">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Juniperus" class="pagination--pager" title="Juniperus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuniperusCommunis" class="pagination--pager" title="Ground Juniper">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Juniperus" class="pagination--pager" title="Juniperus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuniperusCommunis" class="pagination--pager" title="Juniperus communis">Next</a>
 
 <p>&nbsp;</p>
 

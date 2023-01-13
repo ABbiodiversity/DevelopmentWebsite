@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumPuniceum" class="pagination--pager" title="Purple Stemmed Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Syringa" class="pagination--pager" title="Syringa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumPuniceum" class="pagination--pager" title="Symphyotrichum puniceum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Syringa" class="pagination--pager" title="Syringa">Next</a>
 
 <p>&nbsp;</p>
 

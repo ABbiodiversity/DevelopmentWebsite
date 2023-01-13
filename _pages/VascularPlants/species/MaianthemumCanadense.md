@@ -1,5 +1,5 @@
 ---
-title: "Wild Lily Of The Valley"
+title: "Maianthemum canadense"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MaianthemumCanadense
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumAmplexicaule" class="pagination--pager" title="Maianthemum amplexicaule">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumStellatum" class="pagination--pager" title="Star Flowered Solomon's Seal">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumAmplexicaule" class="pagination--pager" title="Maianthemum amplexicaule">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumStellatum" class="pagination--pager" title="Maianthemum stellatum">Next</a>
 
 <p>&nbsp;</p>
 

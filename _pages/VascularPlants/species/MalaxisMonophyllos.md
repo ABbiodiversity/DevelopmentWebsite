@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumTrifolium" class="pagination--pager" title="Three Leaved Solomon">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MalaxisPaludosa" class="pagination--pager" title="Malaxis paludosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumTrifolium" class="pagination--pager" title="Maianthemum trifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MalaxisPaludosa" class="pagination--pager" title="Malaxis paludosa">Next</a>
 
 <p>&nbsp;</p>
 

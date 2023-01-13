@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexScoparia" class="pagination--pager" title="Carex scoparia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexSiccata" class="pagination--pager" title="Hay Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexScoparia" class="pagination--pager" title="Carex scoparia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexSiccata" class="pagination--pager" title="Carex siccata">Next</a>
 
 <p>&nbsp;</p>
 

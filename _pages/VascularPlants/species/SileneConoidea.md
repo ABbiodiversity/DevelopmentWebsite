@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SileneChalcedonica" class="pagination--pager" title="Silene chalcedonica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneDrummondii" class="pagination--pager" title="Drummond's Cockle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SileneChalcedonica" class="pagination--pager" title="Silene chalcedonica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneDrummondii" class="pagination--pager" title="Silene drummondii">Next</a>
 
 <p>&nbsp;</p>
 

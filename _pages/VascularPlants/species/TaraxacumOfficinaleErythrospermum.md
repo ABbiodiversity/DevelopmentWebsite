@@ -1,5 +1,5 @@
 ---
-title: "Common Dandelion"
+title: "Taraxacum officinale / erythrospermum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TaraxacumOfficinaleErythrospermum

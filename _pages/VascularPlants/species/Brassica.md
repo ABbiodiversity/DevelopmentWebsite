@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BoutelouaGracilis" class="pagination--pager" title="Blue Grama">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BrassicaJuncea" class="pagination--pager" title="Brassica juncea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BoutelouaGracilis" class="pagination--pager" title="Bouteloua gracilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BrassicaJuncea" class="pagination--pager" title="Brassica juncea">Next</a>
 
 <p>&nbsp;</p>
 

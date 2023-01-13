@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DracocephalumParviflorum" class="pagination--pager" title="American Dragonhead">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DroseraLinearis" class="pagination--pager" title="Drosera linearis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DracocephalumParviflorum" class="pagination--pager" title="Dracocephalum parviflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DroseraLinearis" class="pagination--pager" title="Drosera linearis">Next</a>
 
 <p>&nbsp;</p>
 

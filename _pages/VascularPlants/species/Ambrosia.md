@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AmaranthusRetroflexus" class="pagination--pager" title="Red Root Pigweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AmelanchierAlnifolia" class="pagination--pager" title="Saskatoon">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AmaranthusRetroflexus" class="pagination--pager" title="Amaranthus retroflexus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AmelanchierAlnifolia" class="pagination--pager" title="Amelanchier alnifolia">Next</a>
 
 <p>&nbsp;</p>
 

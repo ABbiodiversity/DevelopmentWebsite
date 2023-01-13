@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexInterior" class="pagination--pager" title="Inland Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLasiocarpa" class="pagination--pager" title="Hairy Fruited Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexInterior" class="pagination--pager" title="Carex interior">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLasiocarpa" class="pagination--pager" title="Carex lasiocarpa">Next</a>
 
 <p>&nbsp;</p>
 

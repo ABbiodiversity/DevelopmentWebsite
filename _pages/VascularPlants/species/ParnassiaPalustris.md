@@ -1,5 +1,5 @@
 ---
-title: "Northern Grass Of Parnassus"
+title: "Parnassia palustris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ParnassiaPalustris

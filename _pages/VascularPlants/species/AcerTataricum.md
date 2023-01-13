@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AcerNegundo" class="pagination--pager" title="Acer negundo">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AchilleaAlpina" class="pagination--pager" title="Many Flowered Yarrow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AcerNegundo" class="pagination--pager" title="Acer negundo">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AchilleaAlpina" class="pagination--pager" title="Achillea alpina">Next</a>
 
 <p>&nbsp;</p>
 

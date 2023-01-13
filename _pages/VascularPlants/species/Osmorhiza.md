@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OryzopsisAsperifolia" class="pagination--pager" title="White Grained Mountain Rice Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OsmorhizaBerteroi" class="pagination--pager" title="Osmorhiza berteroi">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OryzopsisAsperifolia" class="pagination--pager" title="Oryzopsis asperifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OsmorhizaBerteroi" class="pagination--pager" title="Osmorhiza berteroi">Next</a>
 
 <p>&nbsp;</p>
 

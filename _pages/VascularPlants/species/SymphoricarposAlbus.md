@@ -1,5 +1,5 @@
 ---
-title: "Snowberry"
+title: "Symphoricarpos albus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SymphoricarposAlbus
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Symphoricarpos" class="pagination--pager" title="Symphoricarpos">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposOccidentalis" class="pagination--pager" title="Buckbrush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Symphoricarpos" class="pagination--pager" title="Symphoricarpos">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposOccidentalis" class="pagination--pager" title="Symphoricarpos occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

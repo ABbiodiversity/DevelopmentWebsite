@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/UlmusPumila" class="pagination--pager" title="Ulmus pumila">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UrticaDioica" class="pagination--pager" title="Common Nettle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/UlmusPumila" class="pagination--pager" title="Ulmus pumila">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UrticaDioica" class="pagination--pager" title="Urtica dioica">Next</a>
 
 <p>&nbsp;</p>
 

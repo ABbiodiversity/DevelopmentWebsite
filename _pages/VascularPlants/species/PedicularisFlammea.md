@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisCapitata" class="pagination--pager" title="Pedicularis capitata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisGroenlandica" class="pagination--pager" title="Elephant's Head">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisCapitata" class="pagination--pager" title="Pedicularis capitata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisGroenlandica" class="pagination--pager" title="Pedicularis groenlandica">Next</a>
 
 <p>&nbsp;</p>
 

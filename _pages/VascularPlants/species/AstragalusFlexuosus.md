@@ -1,5 +1,5 @@
 ---
-title: "Slender Milk Vetch"
+title: "Astragalus flexuosus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AstragalusFlexuosus

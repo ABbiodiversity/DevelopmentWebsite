@@ -1,5 +1,5 @@
 ---
-title: "Velvet Fruited Willow"
+title: "Salix maccalliana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixMaccalliana
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixLasiandra" class="pagination--pager" title="Shining Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixMeyeriana" class="pagination--pager" title="Salix meyeriana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixLasiandra" class="pagination--pager" title="Salix lasiandra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixMeyeriana" class="pagination--pager" title="Salix meyeriana">Next</a>
 
 <p>&nbsp;</p>
 

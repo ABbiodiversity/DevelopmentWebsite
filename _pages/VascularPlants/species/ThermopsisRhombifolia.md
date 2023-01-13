@@ -1,5 +1,5 @@
 ---
-title: "Golden Bean"
+title: "Thermopsis rhombifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ThermopsisRhombifolia
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumVenulosum" class="pagination--pager" title="Veiny Meadow Rue">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThinopyrumIntermedium" class="pagination--pager" title="Thinopyrum intermedium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumVenulosum" class="pagination--pager" title="Thalictrum venulosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThinopyrumIntermedium" class="pagination--pager" title="Thinopyrum intermedium">Next</a>
 
 <p>&nbsp;</p>
 

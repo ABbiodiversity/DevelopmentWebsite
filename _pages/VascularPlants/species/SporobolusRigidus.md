@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SporobolusNeglectus" class="pagination--pager" title="Sporobolus neglectus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StachysPilosa" class="pagination--pager" title="Marsh Hedge Nettle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SporobolusNeglectus" class="pagination--pager" title="Sporobolus neglectus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StachysPilosa" class="pagination--pager" title="Stachys pilosa">Next</a>
 
 <p>&nbsp;</p>
 

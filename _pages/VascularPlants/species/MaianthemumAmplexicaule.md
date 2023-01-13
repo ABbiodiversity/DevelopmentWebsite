@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MadiaGlomerata" class="pagination--pager" title="Madia glomerata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumCanadense" class="pagination--pager" title="Wild Lily Of The Valley">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MadiaGlomerata" class="pagination--pager" title="Madia glomerata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumCanadense" class="pagination--pager" title="Maianthemum canadense">Next</a>
 
 <p>&nbsp;</p>
 

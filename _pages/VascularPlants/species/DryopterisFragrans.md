@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DryopterisCarthusianaExpansa" class="pagination--pager" title="Dryopteris carthusiana/expansa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EchinochloaCrusGalli" class="pagination--pager" title="Barnyard Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DryopterisCarthusianaExpansa" class="pagination--pager" title="Dryopteris carthusiana/expansa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EchinochloaCrusGalli" class="pagination--pager" title="Echinochloa crus-galli">Next</a>
 
 <p>&nbsp;</p>
 

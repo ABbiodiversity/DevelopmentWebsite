@@ -1,5 +1,5 @@
 ---
-title: "Red Osier Dogwood"
+title: "Cornus sericea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CornusSericea
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CornusCanadensis" class="pagination--pager" title="Bunchberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Corydalis" class="pagination--pager" title="Corydalis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CornusCanadensis" class="pagination--pager" title="Cornus canadensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Corydalis" class="pagination--pager" title="Corydalis">Next</a>
 
 <p>&nbsp;</p>
 

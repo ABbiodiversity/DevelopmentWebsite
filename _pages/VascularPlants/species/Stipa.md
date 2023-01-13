@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/StellariaMedia" class="pagination--pager" title="Common Chickweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StreptopusAmplexifolius" class="pagination--pager" title="Clasping Leaved Twisted Stalk">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/StellariaMedia" class="pagination--pager" title="Stellaria media">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StreptopusAmplexifolius" class="pagination--pager" title="Streptopus amplexifolius">Next</a>
 
 <p>&nbsp;</p>
 

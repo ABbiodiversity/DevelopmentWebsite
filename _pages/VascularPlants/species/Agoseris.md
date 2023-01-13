@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AgastacheFoeniculum" class="pagination--pager" title="Agastache foeniculum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgoserisGlauca" class="pagination--pager" title="Yellow False Dandelion">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AgastacheFoeniculum" class="pagination--pager" title="Agastache foeniculum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgoserisGlauca" class="pagination--pager" title="Agoseris glauca">Next</a>
 
 <p>&nbsp;</p>
 

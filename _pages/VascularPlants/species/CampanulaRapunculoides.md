@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Campanula" class="pagination--pager" title="Harebells">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CampanulaUniflora" class="pagination--pager" title="Campanula uniflora">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Campanula" class="pagination--pager" title="Campanula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CampanulaUniflora" class="pagination--pager" title="Campanula uniflora">Next</a>
 
 <p>&nbsp;</p>
 

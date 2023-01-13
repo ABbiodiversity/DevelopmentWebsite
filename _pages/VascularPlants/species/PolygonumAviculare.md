@@ -1,5 +1,5 @@
 ---
-title: "Knotweed"
+title: "Polygonum aviculare"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PolygonumAviculare

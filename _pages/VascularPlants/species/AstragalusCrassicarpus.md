@@ -1,5 +1,5 @@
 ---
-title: "Ground Plum"
+title: "Astragalus crassicarpus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AstragalusCrassicarpus

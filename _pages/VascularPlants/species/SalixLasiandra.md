@@ -1,5 +1,5 @@
 ---
-title: "Shining Willow"
+title: "Salix lasiandra"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixLasiandra
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixInteriorSensuLato" class="pagination--pager" title="Salix interior sensu lato">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixMaccalliana" class="pagination--pager" title="Velvet Fruited Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixInteriorSensuLato" class="pagination--pager" title="Salix interior sensu lato">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixMaccalliana" class="pagination--pager" title="Salix maccalliana">Next</a>
 
 <p>&nbsp;</p>
 

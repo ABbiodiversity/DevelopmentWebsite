@@ -1,5 +1,5 @@
 ---
-title: "False Mountain Willow"
+title: "Salix pseudomonticola"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixPseudomonticola
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixProlixa" class="pagination--pager" title="Salix prolixa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomyrsinites" class="pagination--pager" title="Firmleaf Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixProlixa" class="pagination--pager" title="Salix prolixa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomyrsinites" class="pagination--pager" title="Salix pseudomyrsinites">Next</a>
 
 <p>&nbsp;</p>
 

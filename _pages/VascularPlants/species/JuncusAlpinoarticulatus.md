@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Juncus" class="pagination--pager" title="Juncus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusBalticus" class="pagination--pager" title="Wire Rush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Juncus" class="pagination--pager" title="Juncus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusBalticus" class="pagination--pager" title="Juncus balticus">Next</a>
 
 <p>&nbsp;</p>
 

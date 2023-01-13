@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LuzulaParviflora" class="pagination--pager" title="Small Flowered Wood Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LycopodiumLagopus" class="pagination--pager" title="Running Club Moss">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LuzulaParviflora" class="pagination--pager" title="Luzula parviflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LycopodiumLagopus" class="pagination--pager" title="Lycopodium lagopus">Next</a>
 
 <p>&nbsp;</p>
 

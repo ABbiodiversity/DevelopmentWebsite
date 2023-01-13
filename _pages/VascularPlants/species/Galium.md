@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GaleopsisTetrahit" class="pagination--pager" title="Hemp Nettle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaliumAparineSpurium" class="pagination--pager" title="Galium aparine/spurium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GaleopsisTetrahit" class="pagination--pager" title="Galeopsis tetrahit">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaliumAparineSpurium" class="pagination--pager" title="Galium aparine/spurium">Next</a>
 
 <p>&nbsp;</p>
 

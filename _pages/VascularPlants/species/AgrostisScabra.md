@@ -1,5 +1,5 @@
 ---
-title: "Rough Hair Grass"
+title: "Agrostis scabra"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AgrostisScabra

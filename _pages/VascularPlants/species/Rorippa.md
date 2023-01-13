@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RibesTriste" class="pagination--pager" title="Wild Red Currant">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RorippaPalustris" class="pagination--pager" title="Marsh Yellow Cress">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RibesTriste" class="pagination--pager" title="Ribes triste">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RorippaPalustris" class="pagination--pager" title="Rorippa palustris">Next</a>
 
 <p>&nbsp;</p>
 

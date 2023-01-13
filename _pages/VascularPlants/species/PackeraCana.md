@@ -1,5 +1,5 @@
 ---
-title: "Woolly Groundsel"
+title: "Packera cana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PackeraCana

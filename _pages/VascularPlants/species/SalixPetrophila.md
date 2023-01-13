@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixPetiolaris" class="pagination--pager" title="Basket Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPlanifolia" class="pagination--pager" title="Flat Leaved Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixPetiolaris" class="pagination--pager" title="Salix petiolaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPlanifolia" class="pagination--pager" title="Salix planifolia">Next</a>
 
 <p>&nbsp;</p>
 

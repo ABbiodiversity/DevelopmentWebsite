@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LactucaSerriola" class="pagination--pager" title="Prickly Lettuce">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LamiumAmplexicaule" class="pagination--pager" title="Lamium amplexicaule">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LactucaSerriola" class="pagination--pager" title="Lactuca serriola">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LamiumAmplexicaule" class="pagination--pager" title="Lamium amplexicaule">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Lindley's Aster"
+title: "Symphyotrichum ciliolatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SymphyotrichumCiliolatum

@@ -1,5 +1,5 @@
 ---
-title: "Common Mare's Tail"
+title: "Hippuris vulgaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HippurisVulgaris
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HippophaeRhamnoides" class="pagination--pager" title="Hippophae rhamnoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HordeumJubatum" class="pagination--pager" title="Foxtail Barley">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HippophaeRhamnoides" class="pagination--pager" title="Hippophae rhamnoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HordeumJubatum" class="pagination--pager" title="Hordeum jubatum">Next</a>
 
 <p>&nbsp;</p>
 

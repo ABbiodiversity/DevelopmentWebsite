@@ -1,5 +1,5 @@
 ---
-title: "Small Winged Sedge"
+title: "Carex microptera"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexMicroptera
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexMedia" class="pagination--pager" title="Norway Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexMyosuroides" class="pagination--pager" title="Carex myosuroides">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexMedia" class="pagination--pager" title="Carex media">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexMyosuroides" class="pagination--pager" title="Carex myosuroides">Next</a>
 
 <p>&nbsp;</p>
 

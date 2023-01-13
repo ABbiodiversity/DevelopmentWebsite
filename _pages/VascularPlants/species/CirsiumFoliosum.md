@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumFlodmanii" class="pagination--pager" title="Flodman's Thistle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumHookerianum" class="pagination--pager" title="Cirsium hookerianum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumFlodmanii" class="pagination--pager" title="Cirsium flodmanii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumHookerianum" class="pagination--pager" title="Cirsium hookerianum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PiceaMariana" class="pagination--pager" title="Black Spruce">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PicradeniopsisOppositifolia" class="pagination--pager" title="Picradeniopsis oppositifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PiceaMariana" class="pagination--pager" title="Picea mariana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PicradeniopsisOppositifolia" class="pagination--pager" title="Picradeniopsis oppositifolia">Next</a>
 
 <p>&nbsp;</p>
 

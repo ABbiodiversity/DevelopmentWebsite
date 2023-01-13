@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CamassiaQuamash" class="pagination--pager" title="Camassia quamash">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Campanula" class="pagination--pager" title="Harebells">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CamassiaQuamash" class="pagination--pager" title="Camassia quamash">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Campanula" class="pagination--pager" title="Campanula">Next</a>
 
 <p>&nbsp;</p>
 

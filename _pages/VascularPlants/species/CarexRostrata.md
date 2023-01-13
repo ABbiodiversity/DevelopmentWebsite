@@ -1,5 +1,5 @@
 ---
-title: "Beaked Sedge"
+title: "Carex rostrata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexRostrata

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GutierreziaSarothrae" class="pagination--pager" title="Broomweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GymnocarpiumDryopteris" class="pagination--pager" title="Oak Fern">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GutierreziaSarothrae" class="pagination--pager" title="Gutierrezia sarothrae">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GymnocarpiumDryopteris" class="pagination--pager" title="Gymnocarpium dryopteris">Next</a>
 
 <p>&nbsp;</p>
 

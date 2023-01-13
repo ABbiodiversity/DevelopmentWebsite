@@ -1,5 +1,5 @@
 ---
-title: "Field Locoweed"
+title: "Oxytropis campestris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OxytropisCampestris

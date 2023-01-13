@@ -1,5 +1,5 @@
 ---
-title: "Speckled Alder"
+title: "Alnus incana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AlnusIncana
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AlnusAlnobetula" class="pagination--pager" title="Green Alder">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Alopecurus" class="pagination--pager" title="Alopecurus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AlnusAlnobetula" class="pagination--pager" title="Alnus alnobetula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Alopecurus" class="pagination--pager" title="Alopecurus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Western Mountain Ash"
+title: "Sorbus scopulina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SorbusScopulina

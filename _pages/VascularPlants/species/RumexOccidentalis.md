@@ -1,5 +1,5 @@
 ---
-title: "Western Dock"
+title: "Rumex occidentalis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RumexOccidentalis

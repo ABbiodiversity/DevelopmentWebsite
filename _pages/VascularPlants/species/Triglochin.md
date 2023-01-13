@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumRepens" class="pagination--pager" title="White Clover">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TriglochinMaritima" class="pagination--pager" title="Seaside Arrow Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumRepens" class="pagination--pager" title="Trifolium repens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TriglochinMaritima" class="pagination--pager" title="Triglochin maritima">Next</a>
 
 <p>&nbsp;</p>
 

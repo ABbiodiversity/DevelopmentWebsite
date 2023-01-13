@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAgrestis" class="pagination--pager" title="Purple Milk Vetch">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAmericanusCanadensis" class="pagination--pager" title="Astragalus americanus/canadensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAgrestis" class="pagination--pager" title="Astragalus agrestis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAmericanusCanadensis" class="pagination--pager" title="Astragalus americanus/canadensis">Next</a>
 
 <p>&nbsp;</p>
 

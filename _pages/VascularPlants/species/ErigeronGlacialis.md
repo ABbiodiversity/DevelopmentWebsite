@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronGlabellus" class="pagination--pager" title="Smooth Fleabane">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronHumilis" class="pagination--pager" title="Erigeron humilis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronGlabellus" class="pagination--pager" title="Erigeron glabellus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronHumilis" class="pagination--pager" title="Erigeron humilis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Richardson's Alumroot"
+title: "Heuchera richardsonii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HeucheraRichardsonii

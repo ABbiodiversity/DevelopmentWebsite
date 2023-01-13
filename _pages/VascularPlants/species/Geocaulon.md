@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GentianopsisDentosa" class="pagination--pager" title="Gentianopsis dentosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeocaulonLividum" class="pagination--pager" title="Northern Bastard Toadflax">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GentianopsisDentosa" class="pagination--pager" title="Gentianopsis dentosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeocaulonLividum" class="pagination--pager" title="Geocaulon lividum">Next</a>
 
 <p>&nbsp;</p>
 

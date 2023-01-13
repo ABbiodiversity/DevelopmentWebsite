@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusArcticus" class="pagination--pager" title="Ranunculus arcticus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusGmelinii" class="pagination--pager" title="Yellow Water Crowfoot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusArcticus" class="pagination--pager" title="Ranunculus arcticus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusGmelinii" class="pagination--pager" title="Ranunculus gmelinii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BistortaVivipara" class="pagination--pager" title="Alpine Bistort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BlitumNuttallianum" class="pagination--pager" title="Spear Leaved Goosefoot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BistortaVivipara" class="pagination--pager" title="Bistorta vivipara">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BlitumNuttallianum" class="pagination--pager" title="Blitum nuttallianum">Next</a>
 
 <p>&nbsp;</p>
 

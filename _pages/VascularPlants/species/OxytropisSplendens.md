@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSericea" class="pagination--pager" title="Early Yellow Locoweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Packera" class="pagination--pager" title="Packera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSericea" class="pagination--pager" title="Oxytropis sericea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Packera" class="pagination--pager" title="Packera">Next</a>
 
 <p>&nbsp;</p>
 

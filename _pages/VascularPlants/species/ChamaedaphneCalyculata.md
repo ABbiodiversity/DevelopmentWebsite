@@ -1,5 +1,5 @@
 ---
-title: "Leatherleaf"
+title: "Chamaedaphne calyculata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ChamaedaphneCalyculata
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ChaenorhinumMinus" class="pagination--pager" title="Chaenorhinum minus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaenerionAngustifolium" class="pagination--pager" title="Fireweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ChaenorhinumMinus" class="pagination--pager" title="Chaenorhinum minus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaenerionAngustifolium" class="pagination--pager" title="Chamaenerion angustifolium">Next</a>
 
 <p>&nbsp;</p>
 

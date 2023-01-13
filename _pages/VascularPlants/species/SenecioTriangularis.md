@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SenecioLugens" class="pagination--pager" title="Senecio lugens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SenecioVulgaris" class="pagination--pager" title="Common Groundsel">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SenecioLugens" class="pagination--pager" title="Senecio lugens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SenecioVulgaris" class="pagination--pager" title="Senecio vulgaris">Next</a>
 
 <p>&nbsp;</p>
 

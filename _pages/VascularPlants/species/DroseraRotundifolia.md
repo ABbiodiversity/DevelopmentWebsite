@@ -1,5 +1,5 @@
 ---
-title: "Round-leaved Sundew"
+title: "Drosera rotundifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DroseraRotundifolia

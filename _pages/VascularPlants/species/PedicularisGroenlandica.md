@@ -1,5 +1,5 @@
 ---
-title: "Elephant's Head"
+title: "Pedicularis groenlandica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PedicularisGroenlandica
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisFlammea" class="pagination--pager" title="Pedicularis flammea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisLabradorica" class="pagination--pager" title="Labrador Lousewort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisFlammea" class="pagination--pager" title="Pedicularis flammea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisLabradorica" class="pagination--pager" title="Pedicularis labradorica">Next</a>
 
 <p>&nbsp;</p>
 

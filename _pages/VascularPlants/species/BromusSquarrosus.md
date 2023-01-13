@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusSitchensis" class="pagination--pager" title="Bromus sitchensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusTectorum" class="pagination--pager" title="Downy Chess">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusSitchensis" class="pagination--pager" title="Bromus sitchensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusTectorum" class="pagination--pager" title="Bromus tectorum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Blue Lettuce"
+title: "Mulgedium pulchellum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MulgediumPulchellum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaRichardsonis" class="pagination--pager" title="Mat Muhly">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MusineonDivaricatum" class="pagination--pager" title="Musineon divaricatum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaRichardsonis" class="pagination--pager" title="Muhlenbergia richardsonis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MusineonDivaricatum" class="pagination--pager" title="Musineon divaricatum">Next</a>
 
 <p>&nbsp;</p>
 

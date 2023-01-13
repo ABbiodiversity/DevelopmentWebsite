@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SenecioEremophilus" class="pagination--pager" title="Cut Leaved Ragwort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SenecioLugens" class="pagination--pager" title="Senecio lugens">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SenecioEremophilus" class="pagination--pager" title="Senecio eremophilus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SenecioLugens" class="pagination--pager" title="Senecio lugens">Next</a>
 
 <p>&nbsp;</p>
 

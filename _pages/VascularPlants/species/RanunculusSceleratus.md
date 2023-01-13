@@ -1,5 +1,5 @@
 ---
-title: "Celery Leaved Buttercup"
+title: "Ranunculus sceleratus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RanunculusSceleratus

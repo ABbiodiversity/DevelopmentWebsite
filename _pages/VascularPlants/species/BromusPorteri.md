@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusLatiglumis" class="pagination--pager" title="Bromus latiglumis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusPumpellianus" class="pagination--pager" title="Pumpelly">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusLatiglumis" class="pagination--pager" title="Bromus latiglumis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusPumpellianus" class="pagination--pager" title="Bromus pumpellianus">Next</a>
 
 <p>&nbsp;</p>
 

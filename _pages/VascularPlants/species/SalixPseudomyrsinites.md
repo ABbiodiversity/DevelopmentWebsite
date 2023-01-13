@@ -1,5 +1,5 @@
 ---
-title: "Firmleaf Willow"
+title: "Salix pseudomyrsinites"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixPseudomyrsinites
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomonticola" class="pagination--pager" title="False Mountain Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPyrifolia" class="pagination--pager" title="Balsam Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomonticola" class="pagination--pager" title="Salix pseudomonticola">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPyrifolia" class="pagination--pager" title="Salix pyrifolia">Next</a>
 
 <p>&nbsp;</p>
 

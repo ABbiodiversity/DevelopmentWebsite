@@ -1,5 +1,5 @@
 ---
-title: "Drooping Wood Reed"
+title: "Cinna latifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CinnaLatifolia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CicutaVirosa" class="pagination--pager" title="Cicuta virosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CircaeaAlpina" class="pagination--pager" title="Small Enchanter's Nightshade">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CicutaVirosa" class="pagination--pager" title="Cicuta virosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CircaeaAlpina" class="pagination--pager" title="Circaea alpina">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ThermopsisRhombifolia" class="pagination--pager" title="Golden Bean">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThlaspiArvense" class="pagination--pager" title="Stinkweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ThermopsisRhombifolia" class="pagination--pager" title="Thermopsis rhombifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThlaspiArvense" class="pagination--pager" title="Thlaspi arvense">Next</a>
 
 <p>&nbsp;</p>
 

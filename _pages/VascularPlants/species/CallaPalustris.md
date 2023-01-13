@@ -1,5 +1,5 @@
 ---
-title: "Water Arum"
+title: "Calla palustris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CallaPalustris
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisStricta" class="pagination--pager" title="Narrow Reed Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CallitricheHermaphroditicaStenoptera" class="pagination--pager" title="Callitriche hermaphroditica/stenoptera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisStricta" class="pagination--pager" title="Calamagrostis stricta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CallitricheHermaphroditicaStenoptera" class="pagination--pager" title="Callitriche hermaphroditica/stenoptera">Next</a>
 
 <p>&nbsp;</p>
 

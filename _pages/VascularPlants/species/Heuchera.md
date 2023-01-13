@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HeterothecaVillosa" class="pagination--pager" title="Golden Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HeucheraRichardsonii" class="pagination--pager" title="Richardson's Alumroot">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HeterothecaVillosa" class="pagination--pager" title="Heterotheca villosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HeucheraRichardsonii" class="pagination--pager" title="Heuchera richardsonii">Next</a>
 
 <p>&nbsp;</p>
 

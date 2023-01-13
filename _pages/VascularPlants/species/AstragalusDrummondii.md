@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusCrassicarpus" class="pagination--pager" title="Ground Plum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusEucosmus" class="pagination--pager" title="Astragalus eucosmus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusCrassicarpus" class="pagination--pager" title="Astragalus crassicarpus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusEucosmus" class="pagination--pager" title="Astragalus eucosmus">Next</a>
 
 <p>&nbsp;</p>
 

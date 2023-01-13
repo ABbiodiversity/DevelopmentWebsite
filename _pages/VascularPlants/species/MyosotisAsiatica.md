@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MusineonDivaricatum" class="pagination--pager" title="Musineon divaricatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MyricaGale" class="pagination--pager" title="Sweet Gale">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MusineonDivaricatum" class="pagination--pager" title="Musineon divaricatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MyricaGale" class="pagination--pager" title="Myrica gale">Next</a>
 
 <p>&nbsp;</p>
 

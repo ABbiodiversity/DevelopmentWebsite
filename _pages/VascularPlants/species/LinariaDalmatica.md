@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LimosellaAquatica" class="pagination--pager" title="Limosella aquatica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinariaVulgaris" class="pagination--pager" title="Common Toadflax">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LimosellaAquatica" class="pagination--pager" title="Limosella aquatica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinariaVulgaris" class="pagination--pager" title="Linaria vulgaris">Next</a>
 
 <p>&nbsp;</p>
 

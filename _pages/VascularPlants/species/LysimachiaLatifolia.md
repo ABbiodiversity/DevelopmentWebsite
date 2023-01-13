@@ -1,5 +1,5 @@
 ---
-title: "Northern Starflower"
+title: "Lysimachia latifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LysimachiaLatifolia

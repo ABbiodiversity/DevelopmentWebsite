@@ -1,5 +1,5 @@
 ---
-title: "Tufted Loosestrife"
+title: "Lysimachia thyrsiflora"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LysimachiaThyrsiflora

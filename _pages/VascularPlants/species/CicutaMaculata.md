@@ -1,5 +1,5 @@
 ---
-title: "Spotted Water Hemlock"
+title: "Cicuta maculata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CicutaMaculata
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CicutaBulbifera" class="pagination--pager" title="Bulb Bearing Water Hemlock">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CicutaVirosa" class="pagination--pager" title="Cicuta virosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CicutaBulbifera" class="pagination--pager" title="Cicuta bulbifera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CicutaVirosa" class="pagination--pager" title="Cicuta virosa">Next</a>
 
 <p>&nbsp;</p>
 

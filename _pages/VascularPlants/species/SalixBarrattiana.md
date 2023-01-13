@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixAthabascensis" class="pagination--pager" title="Athabasca Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixBebbiana" class="pagination--pager" title="Beaked Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixAthabascensis" class="pagination--pager" title="Salix athabascensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixBebbiana" class="pagination--pager" title="Salix bebbiana">Next</a>
 
 <p>&nbsp;</p>
 

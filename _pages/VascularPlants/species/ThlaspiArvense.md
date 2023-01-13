@@ -1,5 +1,5 @@
 ---
-title: "Stinkweed"
+title: "Thlaspi arvense"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ThlaspiArvense

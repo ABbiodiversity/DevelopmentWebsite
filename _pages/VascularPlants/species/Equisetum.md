@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumPalustre" class="pagination--pager" title="Marsh Willowherb">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumArvense" class="pagination--pager" title="Common Horsetail">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumPalustre" class="pagination--pager" title="Epilobium palustre">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumArvense" class="pagination--pager" title="Equisetum arvense">Next</a>
 
 <p>&nbsp;</p>
 

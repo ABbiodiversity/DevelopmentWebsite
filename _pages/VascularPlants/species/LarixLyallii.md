@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Tamarack">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lathyrus" class="pagination--pager" title="Lathyrus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Larix laricina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lathyrus" class="pagination--pager" title="Lathyrus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Canada Anemone"
+title: "Anemonastrum canadense"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AnemonastrumCanadense
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceSeptentrionalis" class="pagination--pager" title="Northern Fairy Candelabra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnemonastrumRichardsonii" class="pagination--pager" title="Anemonastrum richardsonii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceSeptentrionalis" class="pagination--pager" title="Androsace septentrionalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnemonastrumRichardsonii" class="pagination--pager" title="Anemonastrum richardsonii">Next</a>
 
 <p>&nbsp;</p>
 

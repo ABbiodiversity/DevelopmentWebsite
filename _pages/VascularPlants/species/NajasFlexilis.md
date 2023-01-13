@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MyriophyllumVerticillatum" class="pagination--pager" title="Myriophyllum verticillatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/NassellaViridula" class="pagination--pager" title="Green Needlegrass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MyriophyllumVerticillatum" class="pagination--pager" title="Myriophyllum verticillatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/NassellaViridula" class="pagination--pager" title="Nassella viridula">Next</a>
 
 <p>&nbsp;</p>
 

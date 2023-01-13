@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Trifolium" class="pagination--pager" title="Trifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumHybridum" class="pagination--pager" title="Alsike Clover">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Trifolium" class="pagination--pager" title="Trifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumHybridum" class="pagination--pager" title="Trifolium hybridum">Next</a>
 
 <p>&nbsp;</p>
 

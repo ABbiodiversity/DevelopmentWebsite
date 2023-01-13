@@ -1,5 +1,5 @@
 ---
-title: "Common Plantain"
+title: "Plantago major"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PlantagoMajor
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoEriopoda" class="pagination--pager" title="Plantago eriopoda">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlantagoPatagonica" class="pagination--pager" title="Pursh's Plantain">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoEriopoda" class="pagination--pager" title="Plantago eriopoda">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlantagoPatagonica" class="pagination--pager" title="Plantago patagonica">Next</a>
 
 <p>&nbsp;</p>
 

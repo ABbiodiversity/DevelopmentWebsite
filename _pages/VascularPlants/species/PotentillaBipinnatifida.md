@@ -1,5 +1,5 @@
 ---
-title: "Plains Cinquefoil"
+title: "Potentilla bipinnatifida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PotentillaBipinnatifida
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaBimundorum" class="pagination--pager" title="Potentilla bimundorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaConcinna" class="pagination--pager" title="Early Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaBimundorum" class="pagination--pager" title="Potentilla bimundorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaConcinna" class="pagination--pager" title="Potentilla concinna">Next</a>
 
 <p>&nbsp;</p>
 

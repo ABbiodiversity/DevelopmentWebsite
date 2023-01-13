@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaPeregrina" class="pagination--pager" title="Hairy Speedwell">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaSerpyllifolia" class="pagination--pager" title="Veronica serpyllifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VeronicaPeregrina" class="pagination--pager" title="Veronica peregrina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaSerpyllifolia" class="pagination--pager" title="Veronica serpyllifolia">Next</a>
 
 <p>&nbsp;</p>
 

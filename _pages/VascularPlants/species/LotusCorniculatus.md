@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LoniceraVillosa" class="pagination--pager" title="Fly Honeysuckle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lupinus" class="pagination--pager" title="Lupinus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LoniceraVillosa" class="pagination--pager" title="Lonicera villosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lupinus" class="pagination--pager" title="Lupinus">Next</a>
 
 <p>&nbsp;</p>
 

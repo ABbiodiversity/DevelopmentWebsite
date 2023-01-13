@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusRepens" class="pagination--pager" title="Ranunculus repens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusSceleratus" class="pagination--pager" title="Celery Leaved Buttercup">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusRepens" class="pagination--pager" title="Ranunculus repens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusSceleratus" class="pagination--pager" title="Ranunculus sceleratus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EleocharisAcicularis" class="pagination--pager" title="Needle Spike Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EleocharisPalustrissl" class="pagination--pager" title="Eleocharis palustris s.l.">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EleocharisAcicularis" class="pagination--pager" title="Eleocharis acicularis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EleocharisPalustrissl" class="pagination--pager" title="Eleocharis palustris s.l.">Next</a>
 
 <p>&nbsp;</p>
 

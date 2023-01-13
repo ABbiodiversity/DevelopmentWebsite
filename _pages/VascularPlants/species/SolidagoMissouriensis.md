@@ -1,5 +1,5 @@
 ---
-title: "Low Goldenrod"
+title: "Solidago missouriensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SolidagoMissouriensis
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoGlutinosa" class="pagination--pager" title="Mt. Albert Goldenrod">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoMollis" class="pagination--pager" title="Solidago mollis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoGlutinosa" class="pagination--pager" title="Solidago glutinosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoMollis" class="pagination--pager" title="Solidago mollis">Next</a>
 
 <p>&nbsp;</p>
 

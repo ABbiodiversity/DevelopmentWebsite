@@ -1,5 +1,5 @@
 ---
-title: "Thin Flowered Sedge"
+title: "Carex tenuiflora"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexTenuiflora

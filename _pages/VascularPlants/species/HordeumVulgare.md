@@ -1,5 +1,5 @@
 ---
-title: "Cultivated Barley"
+title: "Hordeum vulgare"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HordeumVulgare
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HordeumJubatum" class="pagination--pager" title="Foxtail Barley">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Hosta" class="pagination--pager" title="Hosta">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HordeumJubatum" class="pagination--pager" title="Hordeum jubatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Hosta" class="pagination--pager" title="Hosta">Next</a>
 
 <p>&nbsp;</p>
 

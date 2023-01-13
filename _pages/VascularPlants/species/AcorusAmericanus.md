@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AconitumDelphiniifolium" class="pagination--pager" title="Aconitum delphiniifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ActaeaRubra" class="pagination--pager" title="Red and white baneberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AconitumDelphiniifolium" class="pagination--pager" title="Aconitum delphiniifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ActaeaRubra" class="pagination--pager" title="Actaea rubra">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaSophia" class="pagination--pager" title="Flixweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Dichanthelium" class="pagination--pager" title="Dichanthelium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DescurainiaSophia" class="pagination--pager" title="Descurainia sophia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Dichanthelium" class="pagination--pager" title="Dichanthelium">Next</a>
 
 <p>&nbsp;</p>
 

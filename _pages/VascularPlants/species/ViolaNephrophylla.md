@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViolaCanadensis" class="pagination--pager" title="Western Canada Violet">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaNuttallii" class="pagination--pager" title="Viola nuttallii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViolaCanadensis" class="pagination--pager" title="Viola canadensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaNuttallii" class="pagination--pager" title="Viola nuttallii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Wild Licorice"
+title: "Glycyrrhiza lepidota"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GlycyrrhizaLepidota
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaStriata" class="pagination--pager" title="Fowl Manna Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Gnaphalium" class="pagination--pager" title="Gnaphalium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaStriata" class="pagination--pager" title="Glyceria striata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Gnaphalium" class="pagination--pager" title="Gnaphalium">Next</a>
 
 <p>&nbsp;</p>
 

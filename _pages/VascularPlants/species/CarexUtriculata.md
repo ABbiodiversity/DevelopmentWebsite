@@ -1,5 +1,5 @@
 ---
-title: "Small Bottle Sedge"
+title: "Carex utriculata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexUtriculata
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexTrisperma" class="pagination--pager" title="Three Seeded Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexVaginata" class="pagination--pager" title="Sheathed Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexTrisperma" class="pagination--pager" title="Carex trisperma">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexVaginata" class="pagination--pager" title="Carex vaginata">Next</a>
 
 <p>&nbsp;</p>
 

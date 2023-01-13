@@ -1,5 +1,5 @@
 ---
-title: "Western Wood Lily"
+title: "Lilium philadelphicum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LiliumPhiladelphicum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LiatrisPunctata" class="pagination--pager" title="Dotted Blazingstar">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LimosellaAquatica" class="pagination--pager" title="Limosella aquatica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LiatrisPunctata" class="pagination--pager" title="Liatris punctata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LimosellaAquatica" class="pagination--pager" title="Limosella aquatica">Next</a>
 
 <p>&nbsp;</p>
 

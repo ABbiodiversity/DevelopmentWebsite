@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexGynocrates" class="pagination--pager" title="Northern Bog Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexHoodii" class="pagination--pager" title="Carex hoodii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexGynocrates" class="pagination--pager" title="Carex gynocrates">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexHoodii" class="pagination--pager" title="Carex hoodii">Next</a>
 
 <p>&nbsp;</p>
 

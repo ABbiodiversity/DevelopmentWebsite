@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DroseraRotundifolia" class="pagination--pager" title="Round-leaved Sundew">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DryasHookeriana" class="pagination--pager" title="Dryas hookeriana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DroseraRotundifolia" class="pagination--pager" title="Drosera rotundifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DryasHookeriana" class="pagination--pager" title="Dryas hookeriana">Next</a>
 
 <p>&nbsp;</p>
 

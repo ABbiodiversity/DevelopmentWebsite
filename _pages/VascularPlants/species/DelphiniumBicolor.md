@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Delphinium" class="pagination--pager" title="Delphinium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumGlaucum" class="pagination--pager" title="Tall Larkspur">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Delphinium" class="pagination--pager" title="Delphinium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumGlaucum" class="pagination--pager" title="Delphinium glaucum">Next</a>
 
 <p>&nbsp;</p>
 

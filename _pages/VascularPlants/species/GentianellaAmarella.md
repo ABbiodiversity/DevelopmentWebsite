@@ -1,5 +1,5 @@
 ---
-title: "Felwort"
+title: "Gentianella amarella"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GentianellaAmarella

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ElymusElymoides" class="pagination--pager" title="Elymus elymoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ElymusRepens" class="pagination--pager" title="Quack Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ElymusElymoides" class="pagination--pager" title="Elymus elymoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ElymusRepens" class="pagination--pager" title="Elymus repens">Next</a>
 
 <p>&nbsp;</p>
 

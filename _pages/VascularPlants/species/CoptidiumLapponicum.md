@@ -1,5 +1,5 @@
 ---
-title: "Lapland Buttercup"
+title: "Coptidium lapponicum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CoptidiumLapponicum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ConvolvulusArvensis" class="pagination--pager" title="Convolvulus arvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoptisTrifolia" class="pagination--pager" title="Goldthread">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ConvolvulusArvensis" class="pagination--pager" title="Convolvulus arvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoptisTrifolia" class="pagination--pager" title="Coptis trifolia">Next</a>
 
 <p>&nbsp;</p>
 

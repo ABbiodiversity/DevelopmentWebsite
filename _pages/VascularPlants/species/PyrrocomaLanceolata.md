@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PyrolaMinor" class="pagination--pager" title="Lesser Wintergreen">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Quercus" class="pagination--pager" title="Quercus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PyrolaMinor" class="pagination--pager" title="Pyrola minor">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Quercus" class="pagination--pager" title="Quercus">Next</a>
 
 <p>&nbsp;</p>
 

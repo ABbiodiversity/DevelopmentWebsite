@@ -1,5 +1,5 @@
 ---
-title: "Perennial Sow Thistle"
+title: "Sonchus arvensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SonchusArvensis

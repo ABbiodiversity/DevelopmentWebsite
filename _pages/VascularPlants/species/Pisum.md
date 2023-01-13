@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PiptatheropsisPungens" class="pagination--pager" title="Northern Rice Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PisumSativum" class="pagination--pager" title="Garden Pea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PiptatheropsisPungens" class="pagination--pager" title="Piptatheropsis pungens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PisumSativum" class="pagination--pager" title="Pisum sativum">Next</a>
 
 <p>&nbsp;</p>
 

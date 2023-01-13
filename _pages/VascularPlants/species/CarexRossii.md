@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexRichardsonii" class="pagination--pager" title="Carex richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexRostrata" class="pagination--pager" title="Beaked Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexRichardsonii" class="pagination--pager" title="Carex richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexRostrata" class="pagination--pager" title="Carex rostrata">Next</a>
 
 <p>&nbsp;</p>
 

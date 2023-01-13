@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AnemonastrumRichardsonii" class="pagination--pager" title="Anemonastrum richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnemoneCylindrica" class="pagination--pager" title="Long-fruited Anemone">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AnemonastrumRichardsonii" class="pagination--pager" title="Anemonastrum richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnemoneCylindrica" class="pagination--pager" title="Anemone cylindrica">Next</a>
 
 <p>&nbsp;</p>
 

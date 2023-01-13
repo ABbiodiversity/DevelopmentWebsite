@@ -1,5 +1,5 @@
 ---
-title: "Northern Daisy Fleabane"
+title: "Erigeron acris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErigeronAcris

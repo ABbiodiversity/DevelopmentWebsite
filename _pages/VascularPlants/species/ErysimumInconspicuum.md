@@ -1,5 +1,5 @@
 ---
-title: "Small-flowered Rocket"
+title: "Erysimum inconspicuum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErysimumInconspicuum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErysimumCheiranthoides" class="pagination--pager" title="Wormseed Mustard">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErythroniumGrandiflorum" class="pagination--pager" title="Erythronium grandiflorum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErysimumCheiranthoides" class="pagination--pager" title="Erysimum cheiranthoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErythroniumGrandiflorum" class="pagination--pager" title="Erythronium grandiflorum">Next</a>
 
 <p>&nbsp;</p>
 

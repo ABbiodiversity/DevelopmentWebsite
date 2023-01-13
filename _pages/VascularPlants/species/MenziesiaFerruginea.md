@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MenyanthesTrifoliata" class="pagination--pager" title="Buck Bean">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Mertensia" class="pagination--pager" title="Mertensia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MenyanthesTrifoliata" class="pagination--pager" title="Menyanthes trifoliata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Mertensia" class="pagination--pager" title="Mertensia">Next</a>
 
 <p>&nbsp;</p>
 

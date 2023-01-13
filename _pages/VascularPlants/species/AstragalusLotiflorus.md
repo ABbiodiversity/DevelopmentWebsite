@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusLaxmannii" class="pagination--pager" title="Ascending Purple Milk Vetch">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusMissouriensis" class="pagination--pager" title="Astragalus missouriensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusLaxmannii" class="pagination--pager" title="Astragalus laxmannii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusMissouriensis" class="pagination--pager" title="Astragalus missouriensis">Next</a>
 
 <p>&nbsp;</p>
 

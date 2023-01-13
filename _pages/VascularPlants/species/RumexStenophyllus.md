@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RumexOccidentalis" class="pagination--pager" title="Western Dock">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RumexTriangulivalvis" class="pagination--pager" title="Narrow Leaved Dock">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RumexOccidentalis" class="pagination--pager" title="Rumex occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RumexTriangulivalvis" class="pagination--pager" title="Rumex triangulivalvis">Next</a>
 
 <p>&nbsp;</p>
 

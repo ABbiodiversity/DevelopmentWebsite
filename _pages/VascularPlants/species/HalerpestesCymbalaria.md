@@ -1,5 +1,5 @@
 ---
-title: "Seaside Buttercup"
+title: "Halerpestes cymbalaria"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HalerpestesCymbalaria
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HaleniaDeflexa" class="pagination--pager" title="Spurred Gentian">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HedeomaHispida" class="pagination--pager" title="Hedeoma hispida">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HaleniaDeflexa" class="pagination--pager" title="Halenia deflexa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HedeomaHispida" class="pagination--pager" title="Hedeoma hispida">Next</a>
 
 <p>&nbsp;</p>
 

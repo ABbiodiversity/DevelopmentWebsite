@@ -1,5 +1,5 @@
 ---
-title: "Arctic Sweet Coltsfoot"
+title: "Petasites frigidus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PetasitesFrigidus

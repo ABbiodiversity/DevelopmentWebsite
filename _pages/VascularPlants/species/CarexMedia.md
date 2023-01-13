@@ -1,5 +1,5 @@
 ---
-title: "Norway Sedge"
+title: "Carex media"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexMedia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexMagellanica" class="pagination--pager" title="Boreal Bog Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexMicroptera" class="pagination--pager" title="Small Winged Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexMagellanica" class="pagination--pager" title="Carex magellanica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexMicroptera" class="pagination--pager" title="Carex microptera">Next</a>
 
 <p>&nbsp;</p>
 

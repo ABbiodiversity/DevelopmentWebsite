@@ -1,5 +1,5 @@
 ---
-title: "Meadow Sedge"
+title: "Carex praticola"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexPraticola

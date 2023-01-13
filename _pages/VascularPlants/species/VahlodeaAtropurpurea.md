@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumVitisIdaea" class="pagination--pager" title="Bog Cranberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ValerianaDioica" class="pagination--pager" title="Valeriana dioica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumVitisIdaea" class="pagination--pager" title="Vaccinium vitis-idaea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ValerianaDioica" class="pagination--pager" title="Valeriana dioica">Next</a>
 
 <p>&nbsp;</p>
 

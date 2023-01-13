@@ -1,5 +1,5 @@
 ---
-title: "Pussy Willow"
+title: "Salix discolor"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixDiscolor
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixCandida" class="pagination--pager" title="Hoary Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixDrummondiana" class="pagination--pager" title="Salix drummondiana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixCandida" class="pagination--pager" title="Salix candida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixDrummondiana" class="pagination--pager" title="Salix drummondiana">Next</a>
 
 <p>&nbsp;</p>
 

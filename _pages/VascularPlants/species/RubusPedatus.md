@@ -1,5 +1,5 @@
 ---
-title: "Dwarf Bramble"
+title: "Rubus pedatus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RubusPedatus
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RubusParviflorus" class="pagination--pager" title="Rubus parviflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusPubescens" class="pagination--pager" title="Dewberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RubusParviflorus" class="pagination--pager" title="Rubus parviflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusPubescens" class="pagination--pager" title="Rubus pubescens">Next</a>
 
 <p>&nbsp;</p>
 

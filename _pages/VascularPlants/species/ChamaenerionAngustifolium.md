@@ -1,5 +1,5 @@
 ---
-title: "Fireweed"
+title: "Chamaenerion angustifolium"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ChamaenerionAngustifolium
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ChamaedaphneCalyculata" class="pagination--pager" title="Leatherleaf">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaenerionLatifolium" class="pagination--pager" title="Chamaenerion latifolium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ChamaedaphneCalyculata" class="pagination--pager" title="Chamaedaphne calyculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ChamaenerionLatifolium" class="pagination--pager" title="Chamaenerion latifolium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EurybiaConspicua" class="pagination--pager" title="Showy Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EuthamiaGraminifolia" class="pagination--pager" title="Euthamia graminifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EurybiaConspicua" class="pagination--pager" title="Eurybia conspicua">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EuthamiaGraminifolia" class="pagination--pager" title="Euthamia graminifolia">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LuzulaAcuminata" class="pagination--pager" title="Luzula acuminata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LuzulaParviflora" class="pagination--pager" title="Small Flowered Wood Rush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LuzulaAcuminata" class="pagination--pager" title="Luzula acuminata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LuzulaParviflora" class="pagination--pager" title="Luzula parviflora">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Broad-leaved Everlasting"
+title: "Antennaria neglecta"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AntennariaNeglecta

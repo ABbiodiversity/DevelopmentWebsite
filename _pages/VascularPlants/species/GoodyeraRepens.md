@@ -1,5 +1,5 @@
 ---
-title: "Lesser Rattlesnake Plantain"
+title: "Goodyera repens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GoodyeraRepens

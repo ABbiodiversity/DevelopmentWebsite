@@ -1,5 +1,5 @@
 ---
-title: "Slough Grass"
+title: "Beckmannia syzigachne"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BeckmanniaSyzigachne
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BassiaScoparia" class="pagination--pager" title="Summer Cypress">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Begonia" class="pagination--pager" title="Begonia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BassiaScoparia" class="pagination--pager" title="Bassia scoparia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Begonia" class="pagination--pager" title="Begonia">Next</a>
 
 <p>&nbsp;</p>
 

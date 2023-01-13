@@ -1,5 +1,5 @@
 ---
-title: "Beaked Hazelnut"
+title: "Corylus cornuta"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CorylusCornuta

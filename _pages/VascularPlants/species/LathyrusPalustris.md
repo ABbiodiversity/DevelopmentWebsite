@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LathyrusOchroleucus" class="pagination--pager" title="Cream Colored Vetchling">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LavateraTrimestris" class="pagination--pager" title="Lavatera trimestris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LathyrusOchroleucus" class="pagination--pager" title="Lathyrus ochroleucus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LavateraTrimestris" class="pagination--pager" title="Lavatera trimestris">Next</a>
 
 <p>&nbsp;</p>
 

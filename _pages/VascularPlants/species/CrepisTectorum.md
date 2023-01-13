@@ -1,5 +1,5 @@
 ---
-title: "Annual Hawk's Beard"
+title: "Crepis tectorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CrepisTectorum

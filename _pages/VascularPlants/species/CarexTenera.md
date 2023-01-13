@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexSychnocephala" class="pagination--pager" title="Carex sychnocephala">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexTenuiflora" class="pagination--pager" title="Thin Flowered Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexSychnocephala" class="pagination--pager" title="Carex sychnocephala">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexTenuiflora" class="pagination--pager" title="Carex tenuiflora">Next</a>
 
 <p>&nbsp;</p>
 

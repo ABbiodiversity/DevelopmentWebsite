@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PopulusBalsamifera" class="pagination--pager" title="Balsam Poplar">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PopulusNigra" class="pagination--pager" title="Populus nigra">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PopulusBalsamifera" class="pagination--pager" title="Populus balsamifera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PopulusNigra" class="pagination--pager" title="Populus nigra">Next</a>
 
 <p>&nbsp;</p>
 

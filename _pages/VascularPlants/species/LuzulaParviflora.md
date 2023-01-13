@@ -1,5 +1,5 @@
 ---
-title: "Small Flowered Wood Rush"
+title: "Luzula parviflora"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LuzulaParviflora

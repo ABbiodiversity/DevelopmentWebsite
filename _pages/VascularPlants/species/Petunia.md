@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PetasitesFrigidus" class="pagination--pager" title="Arctic Sweet Coltsfoot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PetuniaxAtkinsiana" class="pagination--pager" title="Petunia x atkinsiana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PetasitesFrigidus" class="pagination--pager" title="Petasites frigidus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PetuniaxAtkinsiana" class="pagination--pager" title="Petunia x atkinsiana">Next</a>
 
 <p>&nbsp;</p>
 

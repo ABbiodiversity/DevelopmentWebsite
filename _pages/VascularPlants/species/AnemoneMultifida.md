@@ -1,5 +1,5 @@
 ---
-title: "Cut Leaved Anemone"
+title: "Anemone multifida"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AnemoneMultifida

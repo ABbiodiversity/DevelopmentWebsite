@@ -1,5 +1,5 @@
 ---
-title: "Spike Trisetum"
+title: "Trisetum spicatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TrisetumSpicatum

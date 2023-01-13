@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AvenaFatua" class="pagination--pager" title="Wild Oat">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AxyrisAmaranthoides" class="pagination--pager" title="Russian Pigweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AvenaFatua" class="pagination--pager" title="Avena fatua">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AxyrisAmaranthoides" class="pagination--pager" title="Axyris amaranthoides">Next</a>
 
 <p>&nbsp;</p>
 

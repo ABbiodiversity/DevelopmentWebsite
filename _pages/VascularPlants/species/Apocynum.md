@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ApiumGraveolens" class="pagination--pager" title="Apium graveolens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ApocynumAndrosaemifolium" class="pagination--pager" title="Spreading Dogbane">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ApiumGraveolens" class="pagination--pager" title="Apium graveolens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ApocynumAndrosaemifolium" class="pagination--pager" title="Apocynum androsaemifolium">Next</a>
 
 <p>&nbsp;</p>
 

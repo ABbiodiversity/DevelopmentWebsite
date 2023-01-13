@@ -1,5 +1,5 @@
 ---
-title: "Toad Rush"
+title: "Juncus bufonius"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/JuncusBufonius
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuncusBalticus" class="pagination--pager" title="Wire Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusConfusus" class="pagination--pager" title="Juncus confusus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuncusBalticus" class="pagination--pager" title="Juncus balticus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusConfusus" class="pagination--pager" title="Juncus confusus">Next</a>
 
 <p>&nbsp;</p>
 

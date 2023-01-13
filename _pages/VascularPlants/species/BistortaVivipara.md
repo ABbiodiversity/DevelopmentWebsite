@@ -1,5 +1,5 @@
 ---
-title: "Alpine Bistort"
+title: "Bistorta vivipara"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BistortaVivipara

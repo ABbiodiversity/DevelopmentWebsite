@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GymnocarpiumDryopteris" class="pagination--pager" title="Oak Fern">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GypsophilaVaccaria" class="pagination--pager" title="Gypsophila vaccaria">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GymnocarpiumDryopteris" class="pagination--pager" title="Gymnocarpium dryopteris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GypsophilaVaccaria" class="pagination--pager" title="Gypsophila vaccaria">Next</a>
 
 <p>&nbsp;</p>
 

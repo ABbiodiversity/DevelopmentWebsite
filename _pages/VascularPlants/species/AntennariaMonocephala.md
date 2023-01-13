@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AntennariaMicrophyllaParvifolia" class="pagination--pager" title="Antennaria microphylla/parvifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AntennariaNeglecta" class="pagination--pager" title="Broad-leaved Everlasting">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AntennariaMicrophyllaParvifolia" class="pagination--pager" title="Antennaria microphylla/parvifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AntennariaNeglecta" class="pagination--pager" title="Antennaria neglecta">Next</a>
 
 <p>&nbsp;</p>
 

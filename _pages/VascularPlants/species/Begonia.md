@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BeckmanniaSyzigachne" class="pagination--pager" title="Slough Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Betula" class="pagination--pager" title="Betula">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BeckmanniaSyzigachne" class="pagination--pager" title="Beckmannia syzigachne">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Betula" class="pagination--pager" title="Betula">Next</a>
 
 <p>&nbsp;</p>
 

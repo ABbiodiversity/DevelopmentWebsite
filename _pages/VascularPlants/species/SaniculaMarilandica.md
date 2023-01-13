@@ -1,5 +1,5 @@
 ---
-title: "Snakeroot"
+title: "Sanicula marilandica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SaniculaMarilandica

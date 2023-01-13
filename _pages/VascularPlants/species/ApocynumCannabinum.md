@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ApocynumAndrosaemifolium" class="pagination--pager" title="Spreading Dogbane">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Aquilegia" class="pagination--pager" title="Aquilegia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ApocynumAndrosaemifolium" class="pagination--pager" title="Apocynum androsaemifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Aquilegia" class="pagination--pager" title="Aquilegia">Next</a>
 
 <p>&nbsp;</p>
 

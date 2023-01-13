@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Parthenocissus" class="pagination--pager" title="Parthenocissus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PascopyrumSmithii" class="pagination--pager" title="Western Wheatgrass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Parthenocissus" class="pagination--pager" title="Parthenocissus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PascopyrumSmithii" class="pagination--pager" title="Pascopyrum smithii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Prairie Selaginella"
+title: "Selaginella densa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SelaginellaDensa

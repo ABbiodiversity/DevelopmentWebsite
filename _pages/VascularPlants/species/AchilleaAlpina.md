@@ -1,5 +1,5 @@
 ---
-title: "Many Flowered Yarrow"
+title: "Achillea alpina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AchilleaAlpina
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AcerTataricum" class="pagination--pager" title="Acer tataricum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AchilleaBorealis" class="pagination--pager" title="Common Yarrow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AcerTataricum" class="pagination--pager" title="Acer tataricum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AchilleaBorealis" class="pagination--pager" title="Achillea borealis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HemerocallisStellaDeOro" class="pagination--pager" title="Hemerocallis 'Stella de Oro'">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HeracleumMaximum" class="pagination--pager" title="Cow Parsnip">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HemerocallisStellaDeOro" class="pagination--pager" title="Hemerocallis 'Stella de Oro'">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HeracleumMaximum" class="pagination--pager" title="Heracleum maximum">Next</a>
 
 <p>&nbsp;</p>
 

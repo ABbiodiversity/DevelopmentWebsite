@@ -1,5 +1,5 @@
 ---
-title: "Ascending Purple Milk Vetch"
+title: "Astragalus laxmannii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AstragalusLaxmannii

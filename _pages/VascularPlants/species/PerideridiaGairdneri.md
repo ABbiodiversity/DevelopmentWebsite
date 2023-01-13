@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PenstemonProcerus" class="pagination--pager" title="Slender Blue Beardtongue">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PeritomaSerrulata" class="pagination--pager" title="Peritoma serrulata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PenstemonProcerus" class="pagination--pager" title="Penstemon procerus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PeritomaSerrulata" class="pagination--pager" title="Peritoma serrulata">Next</a>
 
 <p>&nbsp;</p>
 

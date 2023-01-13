@@ -1,5 +1,5 @@
 ---
-title: "Purple Oat Grass"
+title: "Schizachne purpurascens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SchizachnePurpurascens

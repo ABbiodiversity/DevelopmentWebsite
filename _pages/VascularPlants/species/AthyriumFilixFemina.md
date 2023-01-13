@@ -1,5 +1,5 @@
 ---
-title: "Lady Fern"
+title: "Athyrium filix-femina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AthyriumFilixFemina

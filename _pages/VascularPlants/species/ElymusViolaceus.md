@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ElymusTrachycaulus" class="pagination--pager" title="Slender Wheat Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EmpetrumNigrum" class="pagination--pager" title="Crowberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ElymusTrachycaulus" class="pagination--pager" title="Elymus trachycaulus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EmpetrumNigrum" class="pagination--pager" title="Empetrum nigrum">Next</a>
 
 <p>&nbsp;</p>
 

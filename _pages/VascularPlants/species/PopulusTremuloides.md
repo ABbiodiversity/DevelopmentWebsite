@@ -1,5 +1,5 @@
 ---
-title: "Trembling Aspen"
+title: "Populus tremuloides"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PopulusTremuloides

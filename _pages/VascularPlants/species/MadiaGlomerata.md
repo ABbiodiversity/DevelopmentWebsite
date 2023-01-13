@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaThyrsiflora" class="pagination--pager" title="Tufted Loosestrife">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumAmplexicaule" class="pagination--pager" title="Maianthemum amplexicaule">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaThyrsiflora" class="pagination--pager" title="Lysimachia thyrsiflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MaianthemumAmplexicaule" class="pagination--pager" title="Maianthemum amplexicaule">Next</a>
 
 <p>&nbsp;</p>
 

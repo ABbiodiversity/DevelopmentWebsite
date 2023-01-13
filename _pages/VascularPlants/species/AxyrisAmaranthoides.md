@@ -1,5 +1,5 @@
 ---
-title: "Russian Pigweed"
+title: "Axyris amaranthoides"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AxyrisAmaranthoides

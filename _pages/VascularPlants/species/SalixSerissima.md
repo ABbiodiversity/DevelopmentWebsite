@@ -1,5 +1,5 @@
 ---
-title: "Autumn Willow"
+title: "Salix serissima"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixSerissima
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixScouleriana" class="pagination--pager" title="Scouler's Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixStolonifera" class="pagination--pager" title="Salix stolonifera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixScouleriana" class="pagination--pager" title="Salix scouleriana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixStolonifera" class="pagination--pager" title="Salix stolonifera">Next</a>
 
 <p>&nbsp;</p>
 

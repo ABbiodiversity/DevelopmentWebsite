@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuncusTenuis" class="pagination--pager" title="Slender Rush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusTriglumis" class="pagination--pager" title="Juncus triglumis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuncusTenuis" class="pagination--pager" title="Juncus tenuis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusTriglumis" class="pagination--pager" title="Juncus triglumis">Next</a>
 
 <p>&nbsp;</p>
 

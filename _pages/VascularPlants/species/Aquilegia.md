@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ApocynumCannabinum" class="pagination--pager" title="Apocynum cannabinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AquilegiaBrevistyla" class="pagination--pager" title="Blue Columbine">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ApocynumCannabinum" class="pagination--pager" title="Apocynum cannabinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AquilegiaBrevistyla" class="pagination--pager" title="Aquilegia brevistyla">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EuphorbiaVirgata" class="pagination--pager" title="Euphorbia virgata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EurybiaConspicua" class="pagination--pager" title="Showy Aster">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EuphorbiaVirgata" class="pagination--pager" title="Euphorbia virgata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EurybiaConspicua" class="pagination--pager" title="Eurybia conspicua">Next</a>
 
 <p>&nbsp;</p>
 

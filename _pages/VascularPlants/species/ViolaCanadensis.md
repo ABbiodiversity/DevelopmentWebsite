@@ -1,5 +1,5 @@
 ---
-title: "Western Canada Violet"
+title: "Viola canadensis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ViolaCanadensis
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViolaAdunca" class="pagination--pager" title="Early Blue Violet">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaNephrophylla" class="pagination--pager" title="Viola nephrophylla">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViolaAdunca" class="pagination--pager" title="Viola adunca">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaNephrophylla" class="pagination--pager" title="Viola nephrophylla">Next</a>
 
 <p>&nbsp;</p>
 

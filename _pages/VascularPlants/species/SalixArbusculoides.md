@@ -1,5 +1,5 @@
 ---
-title: "Shrubby Willow"
+title: "Salix arbusculoides"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixArbusculoides
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixAmygdaloides" class="pagination--pager" title="Salix amygdaloides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixAthabascensis" class="pagination--pager" title="Athabasca Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixAmygdaloides" class="pagination--pager" title="Salix amygdaloides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixAthabascensis" class="pagination--pager" title="Salix athabascensis">Next</a>
 
 <p>&nbsp;</p>
 

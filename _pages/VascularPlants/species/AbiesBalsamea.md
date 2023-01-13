@@ -1,5 +1,5 @@
 ---
-title: "Balsam Fir"
+title: "Abies balsamea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AbiesBalsamea
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ZiziaAptera" class="pagination--pager" title="Heart Leaved Alexanders">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AbiesBifolia" class="pagination--pager" title="Subalpine Fir">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ZiziaAptera" class="pagination--pager" title="Zizia aptera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AbiesBifolia" class="pagination--pager" title="Abies bifolia">Next</a>
 
 <p>&nbsp;</p>
 

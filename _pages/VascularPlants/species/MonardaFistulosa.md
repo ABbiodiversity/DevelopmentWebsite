@@ -1,5 +1,5 @@
 ---
-title: "Wild Bergamot"
+title: "Monarda fistulosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MonardaFistulosa
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MoehringiaLateriflora" class="pagination--pager" title="Blunt Leaved Sandwort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MonesesUniflora" class="pagination--pager" title="One Flowered Wintergreen">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MoehringiaLateriflora" class="pagination--pager" title="Moehringia lateriflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MonesesUniflora" class="pagination--pager" title="Moneses uniflora">Next</a>
 
 <p>&nbsp;</p>
 

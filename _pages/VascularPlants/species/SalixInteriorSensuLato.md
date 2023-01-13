@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixGlauca" class="pagination--pager" title="Smooth Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixLasiandra" class="pagination--pager" title="Shining Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixGlauca" class="pagination--pager" title="Salix glauca">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixLasiandra" class="pagination--pager" title="Salix lasiandra">Next</a>
 
 <p>&nbsp;</p>
 

@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LiliumPhiladelphicum" class="pagination--pager" title="Western Wood Lily">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinariaDalmatica" class="pagination--pager" title="Linaria dalmatica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LiliumPhiladelphicum" class="pagination--pager" title="Lilium philadelphicum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinariaDalmatica" class="pagination--pager" title="Linaria dalmatica">Next</a>
 
 <p>&nbsp;</p>
 

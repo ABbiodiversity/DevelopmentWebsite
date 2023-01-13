@@ -1,5 +1,5 @@
 ---
-title: "Basket Willow"
+title: "Salix petiolaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixPetiolaris
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixPedicellaris" class="pagination--pager" title="Bog Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPetrophila" class="pagination--pager" title="Salix petrophila">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixPedicellaris" class="pagination--pager" title="Salix pedicellaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPetrophila" class="pagination--pager" title="Salix petrophila">Next</a>
 
 <p>&nbsp;</p>
 

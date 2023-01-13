@@ -1,5 +1,5 @@
 ---
-title: "Green Alder"
+title: "Alnus alnobetula"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AlnusAlnobetula
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AlliumTextile" class="pagination--pager" title="Prairie Onion">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlnusIncana" class="pagination--pager" title="Speckled Alder">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AlliumTextile" class="pagination--pager" title="Allium textile">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlnusIncana" class="pagination--pager" title="Alnus incana">Next</a>
 
 <p>&nbsp;</p>
 

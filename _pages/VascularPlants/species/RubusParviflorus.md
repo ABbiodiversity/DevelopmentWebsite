@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RubusIdaeus" class="pagination--pager" title="Wild Red Raspberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusPedatus" class="pagination--pager" title="Dwarf Bramble">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RubusIdaeus" class="pagination--pager" title="Rubus idaeus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RubusPedatus" class="pagination--pager" title="Rubus pedatus">Next</a>
 
 <p>&nbsp;</p>
 

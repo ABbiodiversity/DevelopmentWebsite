@@ -1,5 +1,5 @@
 ---
-title: "Wild Red Currant"
+title: "Ribes triste"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RibesTriste
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RibesLacustre" class="pagination--pager" title="Bristly Black Currant">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Rorippa" class="pagination--pager" title="Rorippa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RibesLacustre" class="pagination--pager" title="Ribes lacustre">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Rorippa" class="pagination--pager" title="Rorippa">Next</a>
 
 <p>&nbsp;</p>
 

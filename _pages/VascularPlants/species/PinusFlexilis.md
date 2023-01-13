@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PinusContorta" class="pagination--pager" title="Lodgepole Pine">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusSylvestris" class="pagination--pager" title="Pinus sylvestris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PinusContorta" class="pagination--pager" title="Pinus contorta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusSylvestris" class="pagination--pager" title="Pinus sylvestris">Next</a>
 
 <p>&nbsp;</p>
 

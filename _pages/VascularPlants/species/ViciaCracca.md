@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViciaAmericana" class="pagination--pager" title="Wild Vetch">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Viola" class="pagination--pager" title="Violets">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViciaAmericana" class="pagination--pager" title="Vicia americana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Viola" class="pagination--pager" title="Viola">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Nemesia" class="pagination--pager" title="Nemesia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/NeottiaCordata" class="pagination--pager" title="Heart-Leaved Twayblade">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Nemesia" class="pagination--pager" title="Nemesia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/NeottiaCordata" class="pagination--pager" title="Neottia cordata">Next</a>
 
 <p>&nbsp;</p>
 

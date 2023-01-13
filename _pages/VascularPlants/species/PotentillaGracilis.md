@@ -1,5 +1,5 @@
 ---
-title: "Graceful Cinquefoil"
+title: "Potentilla gracilis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PotentillaGracilis
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaDrummondii" class="pagination--pager" title="Potentilla drummondii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaHippiana" class="pagination--pager" title="Woolly Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaDrummondii" class="pagination--pager" title="Potentilla drummondii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaHippiana" class="pagination--pager" title="Potentilla hippiana">Next</a>
 
 <p>&nbsp;</p>
 

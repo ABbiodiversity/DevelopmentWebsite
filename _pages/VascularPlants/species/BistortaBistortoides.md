@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BidensCernua" class="pagination--pager" title="Bidens cernua">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BistortaVivipara" class="pagination--pager" title="Alpine Bistort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BidensCernua" class="pagination--pager" title="Bidens cernua">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BistortaVivipara" class="pagination--pager" title="Bistorta vivipara">Next</a>
 
 <p>&nbsp;</p>
 

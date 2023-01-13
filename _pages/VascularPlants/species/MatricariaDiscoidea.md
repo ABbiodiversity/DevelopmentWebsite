@@ -1,5 +1,5 @@
 ---
-title: "Pineappleweed"
+title: "Matricaria discoidea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MatricariaDiscoidea

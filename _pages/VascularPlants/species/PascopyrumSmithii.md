@@ -1,5 +1,5 @@
 ---
-title: "Western Wheatgrass"
+title: "Pascopyrum smithii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PascopyrumSmithii

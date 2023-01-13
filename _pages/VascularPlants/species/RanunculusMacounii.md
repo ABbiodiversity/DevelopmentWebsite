@@ -1,5 +1,5 @@
 ---
-title: "Macoun's Buttercup"
+title: "Ranunculus macounii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RanunculusMacounii

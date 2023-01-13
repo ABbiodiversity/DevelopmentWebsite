@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusInermis" class="pagination--pager" title="Awnless Brome">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusLatiglumis" class="pagination--pager" title="Bromus latiglumis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusInermis" class="pagination--pager" title="Bromus inermis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusLatiglumis" class="pagination--pager" title="Bromus latiglumis">Next</a>
 
 <p>&nbsp;</p>
 

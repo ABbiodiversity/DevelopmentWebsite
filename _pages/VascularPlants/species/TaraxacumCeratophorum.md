@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Taraxacum" class="pagination--pager" title="Taraxacum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TaraxacumOfficinaleErythrospermum" class="pagination--pager" title="Common Dandelion">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Taraxacum" class="pagination--pager" title="Taraxacum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TaraxacumOfficinaleErythrospermum" class="pagination--pager" title="Taraxacum officinale / erythrospermum">Next</a>
 
 <p>&nbsp;</p>
 

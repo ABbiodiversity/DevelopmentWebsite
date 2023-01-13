@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusLotiflorus" class="pagination--pager" title="Astragalus lotiflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusPectinatus" class="pagination--pager" title="Narrow-leaved Milk Vetch">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusLotiflorus" class="pagination--pager" title="Astragalus lotiflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusPectinatus" class="pagination--pager" title="Astragalus pectinatus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Heart-Leaved Twayblade"
+title: "Neottia cordata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/NeottiaCordata

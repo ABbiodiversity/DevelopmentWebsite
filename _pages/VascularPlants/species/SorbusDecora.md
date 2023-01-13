@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Sorbus" class="pagination--pager" title="Sorbus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Western Mountain Ash">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Sorbus" class="pagination--pager" title="Sorbus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Sorbus scopulina">Next</a>
 
 <p>&nbsp;</p>
 

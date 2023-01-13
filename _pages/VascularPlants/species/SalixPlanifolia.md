@@ -1,5 +1,5 @@
 ---
-title: "Flat Leaved Willow"
+title: "Salix planifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixPlanifolia

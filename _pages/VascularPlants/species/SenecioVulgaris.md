@@ -1,5 +1,5 @@
 ---
-title: "Common Groundsel"
+title: "Senecio vulgaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SenecioVulgaris

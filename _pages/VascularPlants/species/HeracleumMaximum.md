@@ -1,5 +1,5 @@
 ---
-title: "Cow Parsnip"
+title: "Heracleum maximum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HeracleumMaximum

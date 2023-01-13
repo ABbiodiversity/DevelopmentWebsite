@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuniperusSabina" class="pagination--pager" title="Juniperus sabina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KalmiaPolifolia" class="pagination--pager" title="Northern Laurel">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuniperusSabina" class="pagination--pager" title="Juniperus sabina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KalmiaPolifolia" class="pagination--pager" title="Kalmia polifolia">Next</a>
 
 <p>&nbsp;</p>
 

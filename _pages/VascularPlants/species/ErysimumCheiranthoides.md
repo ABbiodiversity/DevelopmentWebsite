@@ -1,5 +1,5 @@
 ---
-title: "Wormseed Mustard"
+title: "Erysimum cheiranthoides"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErysimumCheiranthoides
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErysimumAsperum" class="pagination--pager" title="Western Wallflower">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErysimumInconspicuum" class="pagination--pager" title="Small-flowered Rocket">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErysimumAsperum" class="pagination--pager" title="Erysimum asperum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErysimumInconspicuum" class="pagination--pager" title="Erysimum inconspicuum">Next</a>
 
 <p>&nbsp;</p>
 

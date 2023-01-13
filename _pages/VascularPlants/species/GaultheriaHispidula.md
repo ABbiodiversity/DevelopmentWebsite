@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GaliumTriflorum" class="pagination--pager" title="Sweet Scented Bedstraw">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Gentiana" class="pagination--pager" title="Gentiana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GaliumTriflorum" class="pagination--pager" title="Galium triflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Gentiana" class="pagination--pager" title="Gentiana">Next</a>
 
 <p>&nbsp;</p>
 

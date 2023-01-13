@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LeucophysalisGrandiflora" class="pagination--pager" title="Leucophysalis grandiflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LeymusInnovatus" class="pagination--pager" title="Hairy Wild Rye">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LeucophysalisGrandiflora" class="pagination--pager" title="Leucophysalis grandiflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LeymusInnovatus" class="pagination--pager" title="Leymus innovatus">Next</a>
 
 <p>&nbsp;</p>
 

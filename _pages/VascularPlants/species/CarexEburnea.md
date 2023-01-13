@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexDuriuscula" class="pagination--pager" title="Needleleaf Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexFilifolia" class="pagination--pager" title="Thread Leaved Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexDuriuscula" class="pagination--pager" title="Carex duriuscula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexFilifolia" class="pagination--pager" title="Carex filifolia">Next</a>
 
 <p>&nbsp;</p>
 

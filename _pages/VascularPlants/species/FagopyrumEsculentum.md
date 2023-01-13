@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Fagopyrum" class="pagination--pager" title="Fagopyrum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FagopyrumTataricum" class="pagination--pager" title="Tartary Buckwheat">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Fagopyrum" class="pagination--pager" title="Fagopyrum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FagopyrumTataricum" class="pagination--pager" title="Fagopyrum tataricum">Next</a>
 
 <p>&nbsp;</p>
 

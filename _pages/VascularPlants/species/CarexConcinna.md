@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexChordorrhiza" class="pagination--pager" title="Prostrate Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexConcinnoides" class="pagination--pager" title="Carex concinnoides">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexChordorrhiza" class="pagination--pager" title="Carex chordorrhiza">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexConcinnoides" class="pagination--pager" title="Carex concinnoides">Next</a>
 
 <p>&nbsp;</p>
 

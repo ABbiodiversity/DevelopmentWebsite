@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Setaria" class="pagination--pager" title="Setaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SetariaViridis" class="pagination--pager" title="Green Foxtail">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Setaria" class="pagination--pager" title="Setaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SetariaViridis" class="pagination--pager" title="Setaria viridis">Next</a>
 
 <p>&nbsp;</p>
 

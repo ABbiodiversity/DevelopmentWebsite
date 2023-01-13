@@ -1,5 +1,5 @@
 ---
-title: "Bastard Toadflax"
+title: "Comandra umbellata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ComandraUmbellata
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CollomiaLinearis" class="pagination--pager" title="Narrow Leaved Collomia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ComarumPalustre" class="pagination--pager" title="Marsh Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CollomiaLinearis" class="pagination--pager" title="Collomia linearis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ComarumPalustre" class="pagination--pager" title="Comarum palustre">Next</a>
 
 <p>&nbsp;</p>
 

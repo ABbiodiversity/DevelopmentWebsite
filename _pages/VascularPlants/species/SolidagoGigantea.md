@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoAltissimaLepida" class="pagination--pager" title="Solidago altissima/lepida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoGlutinosa" class="pagination--pager" title="Mt. Albert Goldenrod">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoAltissimaLepida" class="pagination--pager" title="Solidago altissima/lepida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoGlutinosa" class="pagination--pager" title="Solidago glutinosa">Next</a>
 
 <p>&nbsp;</p>
 

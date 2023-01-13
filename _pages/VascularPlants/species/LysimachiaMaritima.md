@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaLatifolia" class="pagination--pager" title="Northern Starflower">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaThyrsiflora" class="pagination--pager" title="Tufted Loosestrife">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaLatifolia" class="pagination--pager" title="Lysimachia latifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaThyrsiflora" class="pagination--pager" title="Lysimachia thyrsiflora">Next</a>
 
 <p>&nbsp;</p>
 

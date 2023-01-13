@@ -1,5 +1,5 @@
 ---
-title: "Water Foxtail"
+title: "Alopecurus aequalis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AlopecurusAequalis

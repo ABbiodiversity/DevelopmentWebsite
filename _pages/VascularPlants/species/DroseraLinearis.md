@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DroseraAnglica" class="pagination--pager" title="Drosera anglica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DroseraRotundifolia" class="pagination--pager" title="Round-leaved Sundew">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DroseraAnglica" class="pagination--pager" title="Drosera anglica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DroseraRotundifolia" class="pagination--pager" title="Drosera rotundifolia">Next</a>
 
 <p>&nbsp;</p>
 

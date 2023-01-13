@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixPlanifolia" class="pagination--pager" title="Flat Leaved Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomonticola" class="pagination--pager" title="False Mountain Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixPlanifolia" class="pagination--pager" title="Salix planifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPseudomonticola" class="pagination--pager" title="Salix pseudomonticola">Next</a>
 
 <p>&nbsp;</p>
 

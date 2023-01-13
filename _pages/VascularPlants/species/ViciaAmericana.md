@@ -1,5 +1,5 @@
 ---
-title: "Wild Vetch"
+title: "Vicia americana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ViciaAmericana
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViburnumOpulus" class="pagination--pager" title="High Bush Cranberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViciaCracca" class="pagination--pager" title="Vicia cracca">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViburnumOpulus" class="pagination--pager" title="Viburnum opulus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViciaCracca" class="pagination--pager" title="Vicia cracca">Next</a>
 
 <p>&nbsp;</p>
 

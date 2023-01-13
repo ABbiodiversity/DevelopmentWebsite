@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MelicaSpectabilis" class="pagination--pager" title="Melica spectabilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelilotusAlbus" class="pagination--pager" title="White Sweetclover">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MelicaSpectabilis" class="pagination--pager" title="Melica spectabilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelilotusAlbus" class="pagination--pager" title="Melilotus albus">Next</a>
 
 <p>&nbsp;</p>
 

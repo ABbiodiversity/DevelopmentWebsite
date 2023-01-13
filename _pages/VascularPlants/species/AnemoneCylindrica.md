@@ -1,5 +1,5 @@
 ---
-title: "Long-fruited Anemone"
+title: "Anemone cylindrica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AnemoneCylindrica

@@ -1,5 +1,5 @@
 ---
-title: "Smooth Willow"
+title: "Salix glauca"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixGlauca

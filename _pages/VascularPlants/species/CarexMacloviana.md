@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexLoliacea" class="pagination--pager" title="Carex loliacea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexMagellanica" class="pagination--pager" title="Boreal Bog Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexLoliacea" class="pagination--pager" title="Carex loliacea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexMagellanica" class="pagination--pager" title="Carex magellanica">Next</a>
 
 <p>&nbsp;</p>
 

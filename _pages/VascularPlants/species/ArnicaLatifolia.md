@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaFulgens" class="pagination--pager" title="Shining Arnica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaLonchophylla" class="pagination--pager" title="Arnica lonchophylla">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaFulgens" class="pagination--pager" title="Arnica fulgens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaLonchophylla" class="pagination--pager" title="Arnica lonchophylla">Next</a>
 
 <p>&nbsp;</p>
 

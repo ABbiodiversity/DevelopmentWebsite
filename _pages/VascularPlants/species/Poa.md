@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraOrbiculata" class="pagination--pager" title="Round Leaved Bog Orchid">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaAlpina" class="pagination--pager" title="Poa alpina">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraOrbiculata" class="pagination--pager" title="Platanthera orbiculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaAlpina" class="pagination--pager" title="Poa alpina">Next</a>
 
 <p>&nbsp;</p>
 

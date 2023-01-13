@@ -1,5 +1,5 @@
 ---
-title: "Docks and sorrels"
+title: "Rumex"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Rumex

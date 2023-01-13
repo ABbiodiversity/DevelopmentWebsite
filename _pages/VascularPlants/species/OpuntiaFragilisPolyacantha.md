@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OplopanaxHorridus" class="pagination--pager" title="Oplopanax horridus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OrthiliaSecunda" class="pagination--pager" title="One-sided Wintergreen">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OplopanaxHorridus" class="pagination--pager" title="Oplopanax horridus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OrthiliaSecunda" class="pagination--pager" title="Orthilia secunda">Next</a>
 
 <p>&nbsp;</p>
 

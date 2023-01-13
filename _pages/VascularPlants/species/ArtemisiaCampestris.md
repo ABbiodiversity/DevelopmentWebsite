@@ -1,5 +1,5 @@
 ---
-title: "Plains Wormwood"
+title: "Artemisia campestris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArtemisiaCampestris
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaBiennis" class="pagination--pager" title="Biennial Sagewort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCana" class="pagination--pager" title="Silver Sagebrush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaBiennis" class="pagination--pager" title="Artemisia biennis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCana" class="pagination--pager" title="Artemisia cana">Next</a>
 
 <p>&nbsp;</p>
 

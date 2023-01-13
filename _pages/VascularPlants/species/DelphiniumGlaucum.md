@@ -1,5 +1,5 @@
 ---
-title: "Tall Larkspur"
+title: "Delphinium glaucum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DelphiniumGlaucum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumBicolor" class="pagination--pager" title="Delphinium bicolor">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DendrolycopodiumDendroideum" class="pagination--pager" title="Ground Pine">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumBicolor" class="pagination--pager" title="Delphinium bicolor">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DendrolycopodiumDendroideum" class="pagination--pager" title="Dendrolycopodium dendroideum">Next</a>
 
 <p>&nbsp;</p>
 

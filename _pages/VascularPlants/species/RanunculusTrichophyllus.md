@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusSceleratus" class="pagination--pager" title="Celery Leaved Buttercup">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusUncinatus" class="pagination--pager" title="Ranunculus uncinatus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusSceleratus" class="pagination--pager" title="Ranunculus sceleratus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusUncinatus" class="pagination--pager" title="Ranunculus uncinatus">Next</a>
 
 <p>&nbsp;</p>
 

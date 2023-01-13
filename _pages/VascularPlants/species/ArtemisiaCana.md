@@ -1,5 +1,5 @@
 ---
-title: "Silver Sagebrush"
+title: "Artemisia cana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArtemisiaCana
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCampestris" class="pagination--pager" title="Plains Wormwood">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaDracunculus" class="pagination--pager" title="Artemisia dracunculus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaCampestris" class="pagination--pager" title="Artemisia campestris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArtemisiaDracunculus" class="pagination--pager" title="Artemisia dracunculus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AchilleaBorealis" class="pagination--pager" title="Common Yarrow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AconitumDelphiniifolium" class="pagination--pager" title="Aconitum delphiniifolium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AchilleaBorealis" class="pagination--pager" title="Achillea borealis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AconitumDelphiniifolium" class="pagination--pager" title="Aconitum delphiniifolium">Next</a>
 
 <p>&nbsp;</p>
 

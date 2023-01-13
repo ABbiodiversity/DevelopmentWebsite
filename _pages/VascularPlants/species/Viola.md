@@ -1,5 +1,5 @@
 ---
-title: "Violets"
+title: "Viola"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Viola
@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViciaCracca" class="pagination--pager" title="Vicia cracca">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaAdunca" class="pagination--pager" title="Early Blue Violet">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViciaCracca" class="pagination--pager" title="Vicia cracca">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaAdunca" class="pagination--pager" title="Viola adunca">Next</a>
 
 <p>&nbsp;</p>
 

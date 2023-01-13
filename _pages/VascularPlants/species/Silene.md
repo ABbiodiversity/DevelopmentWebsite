@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SibbaldiaTridentata" class="pagination--pager" title="Three Toothed Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneAcaulis" class="pagination--pager" title="Silene acaulis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SibbaldiaTridentata" class="pagination--pager" title="Sibbaldia tridentata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneAcaulis" class="pagination--pager" title="Silene acaulis">Next</a>
 
 <p>&nbsp;</p>
 

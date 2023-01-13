@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HelianthusPauciflorus" class="pagination--pager" title="Helianthus pauciflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HelictochloaHookeri" class="pagination--pager" title="Spikeoat">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HelianthusPauciflorus" class="pagination--pager" title="Helianthus pauciflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HelictochloaHookeri" class="pagination--pager" title="Helictochloa hookeri">Next</a>
 
 <p>&nbsp;</p>
 

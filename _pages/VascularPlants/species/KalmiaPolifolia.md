@@ -1,5 +1,5 @@
 ---
-title: "Northern Laurel"
+title: "Kalmia polifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/KalmiaPolifolia

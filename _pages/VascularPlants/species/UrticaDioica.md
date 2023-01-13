@@ -1,5 +1,5 @@
 ---
-title: "Common Nettle"
+title: "Urtica dioica"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/UrticaDioica

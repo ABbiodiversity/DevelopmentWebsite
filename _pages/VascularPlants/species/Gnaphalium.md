@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GlycyrrhizaLepidota" class="pagination--pager" title="Wild Licorice">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GnaphaliumPalustre" class="pagination--pager" title="Marsh Cudweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GlycyrrhizaLepidota" class="pagination--pager" title="Glycyrrhiza lepidota">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GnaphaliumPalustre" class="pagination--pager" title="Gnaphalium palustre">Next</a>
 
 <p>&nbsp;</p>
 

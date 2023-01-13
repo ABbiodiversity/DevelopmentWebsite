@@ -1,5 +1,5 @@
 ---
-title: "Long Stolon Sedge"
+title: "Carex inops"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexInops
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexHoughtoniana" class="pagination--pager" title="Carex houghtoniana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexInterior" class="pagination--pager" title="Inland Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexHoughtoniana" class="pagination--pager" title="Carex houghtoniana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexInterior" class="pagination--pager" title="Carex interior">Next</a>
 
 <p>&nbsp;</p>
 

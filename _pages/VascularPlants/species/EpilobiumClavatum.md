@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumCiliatum" class="pagination--pager" title="Northern Willowherb">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumHallianum" class="pagination--pager" title="Epilobium hallianum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumCiliatum" class="pagination--pager" title="Epilobium ciliatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumHallianum" class="pagination--pager" title="Epilobium hallianum">Next</a>
 
 <p>&nbsp;</p>
 

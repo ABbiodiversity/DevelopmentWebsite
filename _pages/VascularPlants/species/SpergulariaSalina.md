@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SpergulariaDiandra" class="pagination--pager" title="Spergularia diandra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SphaeralceaCoccinea" class="pagination--pager" title="Scarlet Mallow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SpergulariaDiandra" class="pagination--pager" title="Spergularia diandra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SphaeralceaCoccinea" class="pagination--pager" title="Sphaeralcea coccinea">Next</a>
 
 <p>&nbsp;</p>
 

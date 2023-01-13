@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Botrychium" class="pagination--pager" title="Botrychium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BotrypusVirginianus" class="pagination--pager" title="Virginia Grape Fern">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Botrychium" class="pagination--pager" title="Botrychium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BotrypusVirginianus" class="pagination--pager" title="Botrypus virginianus">Next</a>
 
 <p>&nbsp;</p>
 

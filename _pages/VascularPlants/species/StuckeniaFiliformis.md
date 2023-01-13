@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/StreptopusAmplexifolius" class="pagination--pager" title="Clasping Leaved Twisted Stalk">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StuckeniaPectinata" class="pagination--pager" title="Stuckenia pectinata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/StreptopusAmplexifolius" class="pagination--pager" title="Streptopus amplexifolius">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StuckeniaPectinata" class="pagination--pager" title="Stuckenia pectinata">Next</a>
 
 <p>&nbsp;</p>
 

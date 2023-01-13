@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisDeflexa" class="pagination--pager" title="Oxytropis deflexa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSericea" class="pagination--pager" title="Early Yellow Locoweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisDeflexa" class="pagination--pager" title="Oxytropis deflexa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSericea" class="pagination--pager" title="Oxytropis sericea">Next</a>
 
 <p>&nbsp;</p>
 

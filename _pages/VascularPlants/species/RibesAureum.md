@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RibesAmericanum" class="pagination--pager" title="Wild Black Currant">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RibesGlandulosum" class="pagination--pager" title="Skunk Currant">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RibesAmericanum" class="pagination--pager" title="Ribes americanum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RibesGlandulosum" class="pagination--pager" title="Ribes glandulosum">Next</a>
 
 <p>&nbsp;</p>
 

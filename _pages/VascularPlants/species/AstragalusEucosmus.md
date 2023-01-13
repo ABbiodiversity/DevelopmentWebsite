@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusDrummondii" class="pagination--pager" title="Astragalus drummondii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusFlexuosus" class="pagination--pager" title="Slender Milk Vetch">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusDrummondii" class="pagination--pager" title="Astragalus drummondii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusFlexuosus" class="pagination--pager" title="Astragalus flexuosus">Next</a>
 
 <p>&nbsp;</p>
 

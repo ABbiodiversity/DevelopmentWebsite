@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaLitoralis" class="pagination--pager" title="Potentilla litoralis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaNorvegica" class="pagination--pager" title="Rough Cinquefoil">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaLitoralis" class="pagination--pager" title="Potentilla litoralis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaNorvegica" class="pagination--pager" title="Potentilla norvegica">Next</a>
 
 <p>&nbsp;</p>
 

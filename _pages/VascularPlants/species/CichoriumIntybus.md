@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ChrysospleniumTetrandrumIowense" class="pagination--pager" title="Chrysosplenium tetrandrum/iowense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CicutaBulbifera" class="pagination--pager" title="Bulb Bearing Water Hemlock">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ChrysospleniumTetrandrumIowense" class="pagination--pager" title="Chrysosplenium tetrandrum/iowense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CicutaBulbifera" class="pagination--pager" title="Cicuta bulbifera">Next</a>
 
 <p>&nbsp;</p>
 

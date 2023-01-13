@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/UrticaDioica" class="pagination--pager" title="Common Nettle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaMinor" class="pagination--pager" title="Utricularia minor">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/UrticaDioica" class="pagination--pager" title="Urtica dioica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaMinor" class="pagination--pager" title="Utricularia minor">Next</a>
 
 <p>&nbsp;</p>
 

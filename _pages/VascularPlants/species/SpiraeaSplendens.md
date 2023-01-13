@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaLucida" class="pagination--pager" title="White Meadowsweet">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpiranthesRomanzoffiana" class="pagination--pager" title="Hooded Ladies' Tresses">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaLucida" class="pagination--pager" title="Spiraea lucida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpiranthesRomanzoffiana" class="pagination--pager" title="Spiranthes romanzoffiana">Next</a>
 
 <p>&nbsp;</p>
 

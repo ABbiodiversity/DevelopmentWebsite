@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronPumilus" class="pagination--pager" title="Hairy Fleabane">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronSpeciosus" class="pagination--pager" title="Erigeron speciosus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronPumilus" class="pagination--pager" title="Erigeron pumilus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronSpeciosus" class="pagination--pager" title="Erigeron speciosus">Next</a>
 
 <p>&nbsp;</p>
 

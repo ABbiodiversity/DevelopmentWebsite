@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaTrifida" class="pagination--pager" title="Pale Coralroot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoriandrumSativum" class="pagination--pager" title="Coriandrum sativum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CorallorhizaTrifida" class="pagination--pager" title="Corallorhiza trifida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CoriandrumSativum" class="pagination--pager" title="Coriandrum sativum">Next</a>
 
 <p>&nbsp;</p>
 

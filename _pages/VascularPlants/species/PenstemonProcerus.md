@@ -1,5 +1,5 @@
 ---
-title: "Slender Blue Beardtongue"
+title: "Penstemon procerus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PenstemonProcerus

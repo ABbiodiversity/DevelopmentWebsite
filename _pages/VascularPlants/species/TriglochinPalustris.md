@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TriglochinMaritima" class="pagination--pager" title="Seaside Arrow Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TripleurospermumInodorum" class="pagination--pager" title="Scentless Chamomile">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TriglochinMaritima" class="pagination--pager" title="Triglochin maritima">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TripleurospermumInodorum" class="pagination--pager" title="Tripleurospermum inodorum">Next</a>
 
 <p>&nbsp;</p>
 

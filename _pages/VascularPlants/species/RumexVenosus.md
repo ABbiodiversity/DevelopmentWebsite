@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RumexTriangulivalvis" class="pagination--pager" title="Narrow Leaved Dock">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SabulinaNuttallii" class="pagination--pager" title="Sabulina nuttallii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RumexTriangulivalvis" class="pagination--pager" title="Rumex triangulivalvis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SabulinaNuttallii" class="pagination--pager" title="Sabulina nuttallii">Next</a>
 
 <p>&nbsp;</p>
 

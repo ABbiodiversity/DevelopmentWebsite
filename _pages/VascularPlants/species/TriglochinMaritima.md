@@ -1,5 +1,5 @@
 ---
-title: "Seaside Arrow Grass"
+title: "Triglochin maritima"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TriglochinMaritima

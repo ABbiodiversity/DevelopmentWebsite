@@ -1,5 +1,5 @@
 ---
-title: "Virginia Grape Fern"
+title: "Botrypus virginianus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BotrypusVirginianus
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BotrychiumCrenulatum" class="pagination--pager" title="Botrychium crenulatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BoutelouaGracilis" class="pagination--pager" title="Blue Grama">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BotrychiumCrenulatum" class="pagination--pager" title="Botrychium crenulatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BoutelouaGracilis" class="pagination--pager" title="Bouteloua gracilis">Next</a>
 
 <p>&nbsp;</p>
 

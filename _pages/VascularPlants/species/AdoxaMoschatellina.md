@@ -1,5 +1,5 @@
 ---
-title: "Moschatel"
+title: "Adoxa moschatellina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AdoxaMoschatellina
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ActaeaRubra" class="pagination--pager" title="Red and white baneberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AegopodiumPodagraria" class="pagination--pager" title="Aegopodium.podagraria">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ActaeaRubra" class="pagination--pager" title="Actaea rubra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AegopodiumPodagraria" class="pagination--pager" title="Aegopodium.podagraria">Next</a>
 
 <p>&nbsp;</p>
 

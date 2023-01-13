@@ -1,5 +1,5 @@
 ---
-title: "Golden Sedge"
+title: "Carex aurea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexAurea

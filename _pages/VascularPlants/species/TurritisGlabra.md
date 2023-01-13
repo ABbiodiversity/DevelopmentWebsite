@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TrolliusAlbiflorus" class="pagination--pager" title="Trollius albiflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TyphaLatifolia" class="pagination--pager" title="Common Cattail">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TrolliusAlbiflorus" class="pagination--pager" title="Trollius albiflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TyphaLatifolia" class="pagination--pager" title="Typha latifolia">Next</a>
 
 <p>&nbsp;</p>
 

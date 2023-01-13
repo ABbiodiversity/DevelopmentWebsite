@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OenotheraNuttallii" class="pagination--pager" title="Oenothera nuttallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OenotheraSuffrutescens" class="pagination--pager" title="Scarlet Butterflyweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OenotheraNuttallii" class="pagination--pager" title="Oenothera nuttallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OenotheraSuffrutescens" class="pagination--pager" title="Oenothera suffrutescens">Next</a>
 
 <p>&nbsp;</p>
 

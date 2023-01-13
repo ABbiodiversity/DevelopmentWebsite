@@ -1,5 +1,5 @@
 ---
-title: "Tall Jacob's Ladder"
+title: "Polemonium acutiflorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PolemoniumAcutiflorum

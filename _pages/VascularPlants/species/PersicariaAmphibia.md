@@ -1,5 +1,5 @@
 ---
-title: "Water Smartweed"
+title: "Persicaria amphibia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PersicariaAmphibia

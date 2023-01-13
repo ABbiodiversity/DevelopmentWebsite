@@ -1,5 +1,5 @@
 ---
-title: "Narrow Leaved Willowherb"
+title: "Epilobium leptophyllum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EpilobiumLeptophyllum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumHallianum" class="pagination--pager" title="Epilobium hallianum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumPalustre" class="pagination--pager" title="Marsh Willowherb">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumHallianum" class="pagination--pager" title="Epilobium hallianum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumPalustre" class="pagination--pager" title="Epilobium palustre">Next</a>
 
 <p>&nbsp;</p>
 

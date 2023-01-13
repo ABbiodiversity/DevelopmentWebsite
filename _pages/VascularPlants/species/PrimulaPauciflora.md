@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PrimulaIncana" class="pagination--pager" title="Primula incana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ProsartesTrachycarpa" class="pagination--pager" title="Fairybells">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PrimulaIncana" class="pagination--pager" title="Primula incana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ProsartesTrachycarpa" class="pagination--pager" title="Prosartes trachycarpa">Next</a>
 
 <p>&nbsp;</p>
 

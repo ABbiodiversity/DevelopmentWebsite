@@ -1,5 +1,5 @@
 ---
-title: "Hairy Wild Rye"
+title: "Leymus innovatus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LeymusInnovatus

@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PersicariaAmphibia" class="pagination--pager" title="Water Smartweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Petasites" class="pagination--pager" title="Petasites">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PersicariaAmphibia" class="pagination--pager" title="Persicaria amphibia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Petasites" class="pagination--pager" title="Petasites">Next</a>
 
 <p>&nbsp;</p>
 

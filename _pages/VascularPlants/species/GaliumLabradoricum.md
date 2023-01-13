@@ -1,5 +1,5 @@
 ---
-title: "Labrador Bedstraw"
+title: "Galium labradoricum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GaliumLabradoricum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GaliumBoreale" class="pagination--pager" title="Northern Bedstraw">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaliumTrifidum" class="pagination--pager" title="Small Bedstraw">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GaliumBoreale" class="pagination--pager" title="Galium boreale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaliumTrifidum" class="pagination--pager" title="Galium trifidum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SonchusArvensis" class="pagination--pager" title="Perennial Sow Thistle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SorbariaSorbifolia" class="pagination--pager" title="Sorbaria sorbifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SonchusArvensis" class="pagination--pager" title="Sonchus arvensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SorbariaSorbifolia" class="pagination--pager" title="Sorbaria sorbifolia">Next</a>
 
 <p>&nbsp;</p>
 

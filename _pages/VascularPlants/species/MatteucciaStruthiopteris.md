@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MatricariaDiscoidea" class="pagination--pager" title="Pineappleweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Medicago" class="pagination--pager" title="Medicago">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MatricariaDiscoidea" class="pagination--pager" title="Matricaria discoidea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Medicago" class="pagination--pager" title="Medicago">Next</a>
 
 <p>&nbsp;</p>
 

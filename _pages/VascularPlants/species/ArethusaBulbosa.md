@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArctousRubra" class="pagination--pager" title="Alpine Bearberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Arnica" class="pagination--pager" title="Arnica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArctousRubra" class="pagination--pager" title="Arctous rubra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Arnica" class="pagination--pager" title="Arnica">Next</a>
 
 <p>&nbsp;</p>
 

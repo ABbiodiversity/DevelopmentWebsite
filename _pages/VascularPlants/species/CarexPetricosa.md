@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexPellita" class="pagination--pager" title="Woolly Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPhaeocephala" class="pagination--pager" title="Carex phaeocephala">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexPellita" class="pagination--pager" title="Carex pellita">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPhaeocephala" class="pagination--pager" title="Carex phaeocephala">Next</a>
 
 <p>&nbsp;</p>
 

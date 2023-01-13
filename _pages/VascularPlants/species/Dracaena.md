@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DrabaNovolympica" class="pagination--pager" title="Draba novolympica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DracocephalumParviflorum" class="pagination--pager" title="American Dragonhead">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DrabaNovolympica" class="pagination--pager" title="Draba novolympica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DracocephalumParviflorum" class="pagination--pager" title="Dracocephalum parviflorum">Next</a>
 
 <p>&nbsp;</p>
 

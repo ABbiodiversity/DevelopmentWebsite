@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SaniculaMarilandica" class="pagination--pager" title="Snakeroot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SarraceniaPurpurea" class="pagination--pager" title="Sarracenia purpurea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SaniculaMarilandica" class="pagination--pager" title="Sanicula marilandica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SarraceniaPurpurea" class="pagination--pager" title="Sarracenia purpurea">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Prairie Onion"
+title: "Allium textile"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AlliumTextile
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AlliumSchoenoprasum" class="pagination--pager" title="Allium schoenoprasum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlnusAlnobetula" class="pagination--pager" title="Green Alder">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AlliumSchoenoprasum" class="pagination--pager" title="Allium schoenoprasum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlnusAlnobetula" class="pagination--pager" title="Alnus alnobetula">Next</a>
 
 <p>&nbsp;</p>
 

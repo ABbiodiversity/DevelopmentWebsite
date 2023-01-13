@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexMicroptera" class="pagination--pager" title="Small Winged Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexNardina" class="pagination--pager" title="Carex nardina">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexMicroptera" class="pagination--pager" title="Carex microptera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexNardina" class="pagination--pager" title="Carex nardina">Next</a>
 
 <p>&nbsp;</p>
 

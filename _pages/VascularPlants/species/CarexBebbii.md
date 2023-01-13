@@ -1,5 +1,5 @@
 ---
-title: "Bebb's Sedge"
+title: "Carex bebbii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexBebbii

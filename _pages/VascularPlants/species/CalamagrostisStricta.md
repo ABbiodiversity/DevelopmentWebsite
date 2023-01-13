@@ -1,5 +1,5 @@
 ---
-title: "Narrow Reed Grass"
+title: "Calamagrostis stricta"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CalamagrostisStricta
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisRubescens" class="pagination--pager" title="Calamagrostis rubescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CallaPalustris" class="pagination--pager" title="Water Arum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisRubescens" class="pagination--pager" title="Calamagrostis rubescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CallaPalustris" class="pagination--pager" title="Calla palustris">Next</a>
 
 <p>&nbsp;</p>
 

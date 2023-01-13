@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Arctium" class="pagination--pager" title="Arctium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArctostaphylosUvaUrsi" class="pagination--pager" title="Common Bearberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Arctium" class="pagination--pager" title="Arctium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArctostaphylosUvaUrsi" class="pagination--pager" title="Arctostaphylos uva-ursi">Next</a>
 
 <p>&nbsp;</p>
 

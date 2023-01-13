@@ -1,5 +1,5 @@
 ---
-title: "Dewberry"
+title: "Rubus pubescens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RubusPubescens
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RubusPedatus" class="pagination--pager" title="Dwarf Bramble">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RudbeckiaHirta" class="pagination--pager" title="Rudbeckia hirta">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RubusPedatus" class="pagination--pager" title="Rubus pedatus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RudbeckiaHirta" class="pagination--pager" title="Rudbeckia hirta">Next</a>
 
 <p>&nbsp;</p>
 

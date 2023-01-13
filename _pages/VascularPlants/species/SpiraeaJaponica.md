@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaAlba" class="pagination--pager" title="Spiraea alba">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaLucida" class="pagination--pager" title="White Meadowsweet">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaAlba" class="pagination--pager" title="Spiraea alba">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SpiraeaLucida" class="pagination--pager" title="Spiraea lucida">Next</a>
 
 <p>&nbsp;</p>
 

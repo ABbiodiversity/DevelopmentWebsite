@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Galium" class="pagination--pager" title="Galium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaliumBoreale" class="pagination--pager" title="Northern Bedstraw">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Galium" class="pagination--pager" title="Galium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaliumBoreale" class="pagination--pager" title="Galium boreale">Next</a>
 
 <p>&nbsp;</p>
 

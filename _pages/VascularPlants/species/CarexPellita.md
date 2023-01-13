@@ -1,5 +1,5 @@
 ---
-title: "Woolly Sedge"
+title: "Carex pellita"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexPellita

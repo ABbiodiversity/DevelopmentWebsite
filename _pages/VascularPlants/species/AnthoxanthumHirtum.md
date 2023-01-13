@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Anthoxanthum" class="pagination--pager" title="Anthoxanthum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnticleaElegans" class="pagination--pager" title="White Camas">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Anthoxanthum" class="pagination--pager" title="Anthoxanthum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AnticleaElegans" class="pagination--pager" title="Anticlea elegans">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Fly Honeysuckle"
+title: "Lonicera villosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LoniceraVillosa

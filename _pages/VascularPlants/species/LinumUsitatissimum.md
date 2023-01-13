@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LinumLewisii" class="pagination--pager" title="Wild Blue Flax">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LiparisLoeselii" class="pagination--pager" title="Liparis loeselii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LinumLewisii" class="pagination--pager" title="Linum lewisii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LiparisLoeselii" class="pagination--pager" title="Liparis loeselii">Next</a>
 
 <p>&nbsp;</p>
 

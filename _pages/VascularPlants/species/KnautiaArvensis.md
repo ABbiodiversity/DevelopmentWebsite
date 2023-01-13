@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/KalmiaPolifolia" class="pagination--pager" title="Northern Laurel">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KoeleriaMacrantha" class="pagination--pager" title="June Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/KalmiaPolifolia" class="pagination--pager" title="Kalmia polifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KoeleriaMacrantha" class="pagination--pager" title="Koeleria macrantha">Next</a>
 
 <p>&nbsp;</p>
 

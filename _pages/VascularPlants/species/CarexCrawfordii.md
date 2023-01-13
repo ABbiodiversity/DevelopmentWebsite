@@ -1,5 +1,5 @@
 ---
-title: "Crawford's Sedge"
+title: "Carex crawfordii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexCrawfordii
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexConcinnoides" class="pagination--pager" title="Carex concinnoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexDeflexa" class="pagination--pager" title="Bent Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexConcinnoides" class="pagination--pager" title="Carex concinnoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexDeflexa" class="pagination--pager" title="Carex deflexa">Next</a>
 
 <p>&nbsp;</p>
 

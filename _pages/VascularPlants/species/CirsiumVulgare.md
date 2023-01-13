@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumUndulatum" class="pagination--pager" title="Wavy Leaved Thistle">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ClaytoniaLanceolata" class="pagination--pager" title="Claytonia lanceolata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumUndulatum" class="pagination--pager" title="Cirsium undulatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ClaytoniaLanceolata" class="pagination--pager" title="Claytonia lanceolata">Next</a>
 
 <p>&nbsp;</p>
 

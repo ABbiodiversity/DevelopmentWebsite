@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SedumLanceolatum" class="pagination--pager" title="Sedum lanceolatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SelaginellaDensa" class="pagination--pager" title="Prairie Selaginella">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SedumLanceolatum" class="pagination--pager" title="Sedum lanceolatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SelaginellaDensa" class="pagination--pager" title="Selaginella densa">Next</a>
 
 <p>&nbsp;</p>
 

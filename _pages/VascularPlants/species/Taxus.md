@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TaraxacumOfficinaleErythrospermum" class="pagination--pager" title="Common Dandelion">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TephroserisPalustris" class="pagination--pager" title="Tephroseris palustris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TaraxacumOfficinaleErythrospermum" class="pagination--pager" title="Taraxacum officinale / erythrospermum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TephroserisPalustris" class="pagination--pager" title="Tephroseris palustris">Next</a>
 
 <p>&nbsp;</p>
 

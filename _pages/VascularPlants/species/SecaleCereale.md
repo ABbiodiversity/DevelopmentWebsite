@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ScutellariaGalericulata" class="pagination--pager" title="Marsh Skullcap">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Sedum" class="pagination--pager" title="Sedum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ScutellariaGalericulata" class="pagination--pager" title="Scutellaria galericulata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Sedum" class="pagination--pager" title="Sedum">Next</a>
 
 <p>&nbsp;</p>
 

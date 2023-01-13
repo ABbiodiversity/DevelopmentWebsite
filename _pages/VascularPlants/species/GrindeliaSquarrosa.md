@@ -1,5 +1,5 @@
 ---
-title: "Gumweed"
+title: "Grindelia squarrosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GrindeliaSquarrosa
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GratiolaNeglecta" class="pagination--pager" title="Gratiola neglecta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GutierreziaSarothrae" class="pagination--pager" title="Broomweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GratiolaNeglecta" class="pagination--pager" title="Gratiola neglecta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GutierreziaSarothrae" class="pagination--pager" title="Gutierrezia sarothrae">Next</a>
 
 <p>&nbsp;</p>
 

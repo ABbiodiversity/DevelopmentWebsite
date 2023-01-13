@@ -1,5 +1,5 @@
 ---
-title: "Common Cattail"
+title: "Typha latifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TyphaLatifolia

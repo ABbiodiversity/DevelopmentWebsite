@@ -1,5 +1,5 @@
 ---
-title: "Mud Sedge"
+title: "Carex limosa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexLimosa
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexLeptalea" class="pagination--pager" title="Bristle Stalked Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLivida" class="pagination--pager" title="Carex livida">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexLeptalea" class="pagination--pager" title="Carex leptalea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexLivida" class="pagination--pager" title="Carex livida">Next</a>
 
 <p>&nbsp;</p>
 

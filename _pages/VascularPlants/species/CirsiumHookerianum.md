@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumFoliosum" class="pagination--pager" title="Cirsium foliosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumUndulatum" class="pagination--pager" title="Wavy Leaved Thistle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CirsiumFoliosum" class="pagination--pager" title="Cirsium foliosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CirsiumUndulatum" class="pagination--pager" title="Cirsium undulatum">Next</a>
 
 <p>&nbsp;</p>
 

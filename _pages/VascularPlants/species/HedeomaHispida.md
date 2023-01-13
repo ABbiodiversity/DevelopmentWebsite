@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HalerpestesCymbalaria" class="pagination--pager" title="Seaside Buttercup">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Hedysarum" class="pagination--pager" title="Hedysarum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HalerpestesCymbalaria" class="pagination--pager" title="Halerpestes cymbalaria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Hedysarum" class="pagination--pager" title="Hedysarum">Next</a>
 
 <p>&nbsp;</p>
 

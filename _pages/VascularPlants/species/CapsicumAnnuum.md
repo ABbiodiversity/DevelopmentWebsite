@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CapsellaBursaPastoris" class="pagination--pager" title="Shepherd's Purse">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CaraganaArborescens" class="pagination--pager" title="Caragana arborescens">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CapsellaBursaPastoris" class="pagination--pager" title="Capsella bursa-pastoris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CaraganaArborescens" class="pagination--pager" title="Caragana arborescens">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ProsartesTrachycarpa" class="pagination--pager" title="Fairybells">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Prunus" class="pagination--pager" title="Prunus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ProsartesTrachycarpa" class="pagination--pager" title="Prosartes trachycarpa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Prunus" class="pagination--pager" title="Prunus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Flat Fruited Meadow Rue"
+title: "Thalictrum sparsiflorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ThalictrumSparsiflorum
@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumOccidentale" class="pagination--pager" title="Thalictrum occidentale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumVenulosum" class="pagination--pager" title="Veiny Meadow Rue">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumOccidentale" class="pagination--pager" title="Thalictrum occidentale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ThalictrumVenulosum" class="pagination--pager" title="Thalictrum venulosum">Next</a>
 
 <p>&nbsp;</p>
 

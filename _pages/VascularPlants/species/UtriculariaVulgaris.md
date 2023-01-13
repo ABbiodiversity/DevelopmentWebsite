@@ -1,5 +1,5 @@
 ---
-title: "Common Bladderwort"
+title: "Utricularia vulgaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/UtriculariaVulgaris

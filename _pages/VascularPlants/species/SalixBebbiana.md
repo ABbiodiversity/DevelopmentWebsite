@@ -1,5 +1,5 @@
 ---
-title: "Beaked Willow"
+title: "Salix bebbiana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SalixBebbiana

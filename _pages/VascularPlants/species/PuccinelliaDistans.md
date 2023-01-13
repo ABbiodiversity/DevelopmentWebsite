@@ -1,5 +1,5 @@
 ---
-title: "Slender Salt Meadow Grass"
+title: "Puccinellia distans"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PuccinelliaDistans
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PteridiumAquilinum" class="pagination--pager" title="Pteridium aquilinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaNuttalliana" class="pagination--pager" title="Nuttall's Salt Meadow Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PteridiumAquilinum" class="pagination--pager" title="Pteridium aquilinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaNuttalliana" class="pagination--pager" title="Puccinellia nuttalliana">Next</a>
 
 <p>&nbsp;</p>
 

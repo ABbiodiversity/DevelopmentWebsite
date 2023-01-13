@@ -1,5 +1,5 @@
 ---
-title: "Tall Buttercup"
+title: "Ranunculus acris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RanunculusAcris
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusAbortivus" class="pagination--pager" title="Small Flowered Buttercup">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusArcticus" class="pagination--pager" title="Ranunculus arcticus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusAbortivus" class="pagination--pager" title="Ranunculus abortivus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusArcticus" class="pagination--pager" title="Ranunculus arcticus">Next</a>
 
 <p>&nbsp;</p>
 

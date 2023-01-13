@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoElongata" class="pagination--pager" title="Plantago elongata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlantagoMajor" class="pagination--pager" title="Common Plantain">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoElongata" class="pagination--pager" title="Plantago elongata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlantagoMajor" class="pagination--pager" title="Plantago major">Next</a>
 
 <p>&nbsp;</p>
 

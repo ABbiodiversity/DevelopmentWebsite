@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixSerissima" class="pagination--pager" title="Autumn Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixVestita" class="pagination--pager" title="Salix vestita">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixSerissima" class="pagination--pager" title="Salix serissima">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixVestita" class="pagination--pager" title="Salix vestita">Next</a>
 
 <p>&nbsp;</p>
 

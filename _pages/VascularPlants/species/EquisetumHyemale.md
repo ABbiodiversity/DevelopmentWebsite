@@ -1,5 +1,5 @@
 ---
-title: "Common Scouring Rush"
+title: "Equisetum hyemale"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EquisetumHyemale
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumFluviatile" class="pagination--pager" title="Swamp Horsetail">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumLaevigatum" class="pagination--pager" title="Equisetum laevigatum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EquisetumFluviatile" class="pagination--pager" title="Equisetum fluviatile">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EquisetumLaevigatum" class="pagination--pager" title="Equisetum laevigatum">Next</a>
 
 <p>&nbsp;</p>
 

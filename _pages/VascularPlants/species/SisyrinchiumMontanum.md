@@ -1,5 +1,5 @@
 ---
-title: "Common Blue Eyed Grass"
+title: "Sisyrinchium montanum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SisyrinchiumMontanum

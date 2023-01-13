@@ -1,5 +1,5 @@
 ---
-title: "Hybrid Dwarf Bog Birch"
+title: "Betula x sargentii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BetulaxSargentii

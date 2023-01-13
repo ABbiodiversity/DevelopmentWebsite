@@ -1,5 +1,5 @@
 ---
-title: "Bog Bilberry"
+title: "Vaccinium uliginosum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/VacciniumUliginosum
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumScoparium" class="pagination--pager" title="Vaccinium scoparium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumVitisIdaea" class="pagination--pager" title="Bog Cranberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VacciniumScoparium" class="pagination--pager" title="Vaccinium scoparium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VacciniumVitisIdaea" class="pagination--pager" title="Vaccinium vitis-idaea">Next</a>
 
 <p>&nbsp;</p>
 

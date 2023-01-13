@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuniperusHorizontalis" class="pagination--pager" title="Creeping Juniper">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KalmiaMicrophylla" class="pagination--pager" title="Kalmia microphylla">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuniperusHorizontalis" class="pagination--pager" title="Juniperus horizontalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/KalmiaMicrophylla" class="pagination--pager" title="Kalmia microphylla">Next</a>
 
 <p>&nbsp;</p>
 

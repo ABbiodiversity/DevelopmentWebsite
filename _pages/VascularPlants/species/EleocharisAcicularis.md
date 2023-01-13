@@ -1,5 +1,5 @@
 ---
-title: "Needle Spike Rush"
+title: "Eleocharis acicularis"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EleocharisAcicularis

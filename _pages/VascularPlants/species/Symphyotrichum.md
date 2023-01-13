@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposOccidentalis" class="pagination--pager" title="Buckbrush">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumAscendens" class="pagination--pager" title="Symphyotrichum ascendens">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposOccidentalis" class="pagination--pager" title="Symphoricarpos occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumAscendens" class="pagination--pager" title="Symphyotrichum ascendens">Next</a>
 
 <p>&nbsp;</p>
 

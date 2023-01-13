@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PyrolaChlorantha" class="pagination--pager" title="Greenish Flowered Wintergreen">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PyrolaMinor" class="pagination--pager" title="Lesser Wintergreen">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PyrolaChlorantha" class="pagination--pager" title="Pyrola chlorantha">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PyrolaMinor" class="pagination--pager" title="Pyrola minor">Next</a>
 
 <p>&nbsp;</p>
 

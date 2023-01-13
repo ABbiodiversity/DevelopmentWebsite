@@ -1,5 +1,5 @@
 ---
-title: "Skunk Currant"
+title: "Ribes glandulosum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RibesGlandulosum

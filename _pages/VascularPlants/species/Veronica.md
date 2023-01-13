@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/VerbenaBracteata" class="pagination--pager" title="Verbena bracteata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaAmericana" class="pagination--pager" title="American Brooklime">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VerbenaBracteata" class="pagination--pager" title="Verbena bracteata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaAmericana" class="pagination--pager" title="Veronica americana">Next</a>
 
 <p>&nbsp;</p>
 

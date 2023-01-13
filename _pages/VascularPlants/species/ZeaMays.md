@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/XPascoleymusBowdenii" class="pagination--pager" title="X Pascoleymus bowdenii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ZiziaAptera" class="pagination--pager" title="Heart Leaved Alexanders">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/XPascoleymusBowdenii" class="pagination--pager" title="X Pascoleymus bowdenii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ZiziaAptera" class="pagination--pager" title="Zizia aptera">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronLonchophyllus" class="pagination--pager" title="Erigeron lonchophyllus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronPhiladelphicus" class="pagination--pager" title="Philadelphia Fleabane">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronLonchophyllus" class="pagination--pager" title="Erigeron lonchophyllus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronPhiladelphicus" class="pagination--pager" title="Erigeron philadelphicus">Next</a>
 
 <p>&nbsp;</p>
 

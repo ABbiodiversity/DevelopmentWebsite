@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AdoxaMoschatellina" class="pagination--pager" title="Moschatel">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgastacheFoeniculum" class="pagination--pager" title="Agastache foeniculum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AdoxaMoschatellina" class="pagination--pager" title="Adoxa moschatellina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgastacheFoeniculum" class="pagination--pager" title="Agastache foeniculum">Next</a>
 
 <p>&nbsp;</p>
 

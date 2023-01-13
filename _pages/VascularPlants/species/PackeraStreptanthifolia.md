@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PackeraPaupercula" class="pagination--pager" title="Balsam Groundsel">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PaeoniaOfficinalis" class="pagination--pager" title="Paeonia officinalis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PackeraPaupercula" class="pagination--pager" title="Packera paupercula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PaeoniaOfficinalis" class="pagination--pager" title="Paeonia officinalis">Next</a>
 
 <p>&nbsp;</p>
 

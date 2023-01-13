@@ -1,5 +1,5 @@
 ---
-title: "Hemp Nettle"
+title: "Galeopsis tetrahit"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/GaleopsisTetrahit

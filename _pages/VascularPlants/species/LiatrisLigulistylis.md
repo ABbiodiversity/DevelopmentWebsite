@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LeymusInnovatus" class="pagination--pager" title="Hairy Wild Rye">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LiatrisPunctata" class="pagination--pager" title="Dotted Blazingstar">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LeymusInnovatus" class="pagination--pager" title="Leymus innovatus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LiatrisPunctata" class="pagination--pager" title="Liatris punctata">Next</a>
 
 <p>&nbsp;</p>
 

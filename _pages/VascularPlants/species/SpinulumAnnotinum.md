@@ -1,5 +1,5 @@
 ---
-title: "Stiff Club Moss"
+title: "Spinulum annotinum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SpinulumAnnotinum

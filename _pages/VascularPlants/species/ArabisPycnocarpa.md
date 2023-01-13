@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArabisNuttallii" class="pagination--pager" title="Arabis nuttallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AraliaNudicaulis" class="pagination--pager" title="Wild Sarsaparilla">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArabisNuttallii" class="pagination--pager" title="Arabis nuttallii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AraliaNudicaulis" class="pagination--pager" title="Aralia nudicaulis">Next</a>
 
 <p>&nbsp;</p>
 

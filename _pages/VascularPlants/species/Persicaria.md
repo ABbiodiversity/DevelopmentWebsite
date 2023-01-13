@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PeritomaSerrulata" class="pagination--pager" title="Peritoma serrulata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PersicariaAmphibia" class="pagination--pager" title="Water Smartweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PeritomaSerrulata" class="pagination--pager" title="Peritoma serrulata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PersicariaAmphibia" class="pagination--pager" title="Persicaria amphibia">Next</a>
 
 <p>&nbsp;</p>
 

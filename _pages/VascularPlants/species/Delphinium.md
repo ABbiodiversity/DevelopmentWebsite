@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DasiphoraFruticosa" class="pagination--pager" title="Shrubby Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumBicolor" class="pagination--pager" title="Delphinium bicolor">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DasiphoraFruticosa" class="pagination--pager" title="Dasiphora fruticosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumBicolor" class="pagination--pager" title="Delphinium bicolor">Next</a>
 
 <p>&nbsp;</p>
 

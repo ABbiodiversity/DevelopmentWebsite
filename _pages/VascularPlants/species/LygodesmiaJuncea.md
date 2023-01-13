@@ -1,5 +1,5 @@
 ---
-title: "Skeletonweed"
+title: "Lygodesmia juncea"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LygodesmiaJuncea
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LycopusUniflorus" class="pagination--pager" title="Lycopus uniflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaCiliata" class="pagination--pager" title="Fringed Loosestrife">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LycopusUniflorus" class="pagination--pager" title="Lycopus uniflorus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LysimachiaCiliata" class="pagination--pager" title="Lysimachia ciliata">Next</a>
 
 <p>&nbsp;</p>
 

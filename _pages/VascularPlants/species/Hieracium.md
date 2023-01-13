@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HeucheraRichardsonii" class="pagination--pager" title="Richardson's Alumroot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HieraciumAlbiflorum" class="pagination--pager" title="Hieracium albiflorum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HeucheraRichardsonii" class="pagination--pager" title="Heuchera richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HieraciumAlbiflorum" class="pagination--pager" title="Hieracium albiflorum">Next</a>
 
 <p>&nbsp;</p>
 

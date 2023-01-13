@@ -1,5 +1,5 @@
 ---
-title: "Willows"
+title: "Salix"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Salix

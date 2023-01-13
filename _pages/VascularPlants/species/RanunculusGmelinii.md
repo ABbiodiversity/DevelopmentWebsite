@@ -1,5 +1,5 @@
 ---
-title: "Yellow Water Crowfoot"
+title: "Ranunculus gmelinii"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RanunculusGmelinii

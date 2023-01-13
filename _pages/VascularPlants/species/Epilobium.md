@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EndotropisAlnifolia" class="pagination--pager" title="Alder Leaved Buckthorn">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumBrachycarpum" class="pagination--pager" title="Epilobium brachycarpum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EndotropisAlnifolia" class="pagination--pager" title="Endotropis alnifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumBrachycarpum" class="pagination--pager" title="Epilobium brachycarpum">Next</a>
 
 <p>&nbsp;</p>
 

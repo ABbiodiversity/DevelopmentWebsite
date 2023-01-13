@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FallopiaConvolvulus" class="pagination--pager" title="Black Bindweed">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FestucaBaffinensis" class="pagination--pager" title="Festuca baffinensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FallopiaConvolvulus" class="pagination--pager" title="Fallopia convolvulus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FestucaBaffinensis" class="pagination--pager" title="Festuca baffinensis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotamogetonRichardsonii" class="pagination--pager" title="Potamogeton richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Potentilla" class="pagination--pager" title="Cinquefoils">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotamogetonRichardsonii" class="pagination--pager" title="Potamogeton richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Potentilla" class="pagination--pager" title="Potentilla">Next</a>
 
 <p>&nbsp;</p>
 

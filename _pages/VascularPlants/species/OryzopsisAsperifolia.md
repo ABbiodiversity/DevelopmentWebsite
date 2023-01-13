@@ -1,5 +1,5 @@
 ---
-title: "White Grained Mountain Rice Grass"
+title: "Oryzopsis asperifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OryzopsisAsperifolia
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OrthocarpusLuteus" class="pagination--pager" title="Owl Clover">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Osmorhiza" class="pagination--pager" title="Osmorhiza">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OrthocarpusLuteus" class="pagination--pager" title="Orthocarpus luteus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Osmorhiza" class="pagination--pager" title="Osmorhiza">Next</a>
 
 <p>&nbsp;</p>
 

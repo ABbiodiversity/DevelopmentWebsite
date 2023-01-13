@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaPensylvanica" class="pagination--pager" title="Prairie Cinquefoil">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaSubvahliana" class="pagination--pager" title="Potentilla subvahliana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaPensylvanica" class="pagination--pager" title="Potentilla pensylvanica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaSubvahliana" class="pagination--pager" title="Potentilla subvahliana">Next</a>
 
 <p>&nbsp;</p>
 

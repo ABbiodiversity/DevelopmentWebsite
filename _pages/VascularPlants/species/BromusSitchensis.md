@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusRiparius" class="pagination--pager" title="Meadow Brome">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusSquarrosus" class="pagination--pager" title="Bromus squarrosus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusRiparius" class="pagination--pager" title="Bromus riparius">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusSquarrosus" class="pagination--pager" title="Bromus squarrosus">Next</a>
 
 <p>&nbsp;</p>
 

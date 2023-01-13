@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaIntermedia" class="pagination--pager" title="Utricularia intermedia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaVulgaris" class="pagination--pager" title="Common Bladderwort">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaIntermedia" class="pagination--pager" title="Utricularia intermedia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UtriculariaVulgaris" class="pagination--pager" title="Utricularia vulgaris">Next</a>
 
 <p>&nbsp;</p>
 

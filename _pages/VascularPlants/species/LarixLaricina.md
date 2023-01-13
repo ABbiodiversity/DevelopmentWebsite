@@ -1,5 +1,5 @@
 ---
-title: "Tamarack"
+title: "Larix laricina"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LarixLaricina
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LappulaSquarrosa" class="pagination--pager" title="Bluebur">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LarixLyallii" class="pagination--pager" title="Larix lyallii">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LappulaSquarrosa" class="pagination--pager" title="Lappula squarrosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LarixLyallii" class="pagination--pager" title="Larix lyallii">Next</a>
 
 <p>&nbsp;</p>
 

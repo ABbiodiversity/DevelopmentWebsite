@@ -1,5 +1,5 @@
 ---
-title: "Blue Columbine"
+title: "Aquilegia brevistyla"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AquilegiaBrevistyla

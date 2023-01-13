@@ -1,5 +1,5 @@
 ---
-title: "Scentless Chamomile"
+title: "Tripleurospermum inodorum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/TripleurospermumInodorum

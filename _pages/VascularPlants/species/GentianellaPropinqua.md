@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GentianellaAmarella" class="pagination--pager" title="Felwort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GentianopsisDentosa" class="pagination--pager" title="Gentianopsis dentosa">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GentianellaAmarella" class="pagination--pager" title="Gentianella amarella">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GentianopsisDentosa" class="pagination--pager" title="Gentianopsis dentosa">Next</a>
 
 <p>&nbsp;</p>
 

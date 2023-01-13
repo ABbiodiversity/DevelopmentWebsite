@@ -1,5 +1,5 @@
 ---
-title: "White Sweetclover"
+title: "Melilotus albus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MelilotusAlbus
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Melilotus" class="pagination--pager" title="Melilotus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelilotusOfficinalis" class="pagination--pager" title="Yellow Sweet Clover">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Melilotus" class="pagination--pager" title="Melilotus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MelilotusOfficinalis" class="pagination--pager" title="Melilotus officinalis">Next</a>
 
 <p>&nbsp;</p>
 

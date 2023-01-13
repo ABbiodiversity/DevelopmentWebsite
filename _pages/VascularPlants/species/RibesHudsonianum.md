@@ -1,5 +1,5 @@
 ---
-title: "Northern Black Currant"
+title: "Ribes hudsonianum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/RibesHudsonianum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RibesHirtellumInermeOxyacanthoides" class="pagination--pager" title="Ribes hirtellum/inerme/oxyacanthoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RibesLacustre" class="pagination--pager" title="Bristly Black Currant">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RibesHirtellumInermeOxyacanthoides" class="pagination--pager" title="Ribes hirtellum/inerme/oxyacanthoides">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RibesLacustre" class="pagination--pager" title="Ribes lacustre">Next</a>
 
 <p>&nbsp;</p>
 

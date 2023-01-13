@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexBrunnescens" class="pagination--pager" title="Brownish Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexCanescens" class="pagination--pager" title="Short Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexBrunnescens" class="pagination--pager" title="Carex brunnescens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexCanescens" class="pagination--pager" title="Carex canescens">Next</a>
 
 <p>&nbsp;</p>
 

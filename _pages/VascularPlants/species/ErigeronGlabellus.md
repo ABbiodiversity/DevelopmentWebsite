@@ -1,5 +1,5 @@
 ---
-title: "Smooth Fleabane"
+title: "Erigeron glabellus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErigeronGlabellus

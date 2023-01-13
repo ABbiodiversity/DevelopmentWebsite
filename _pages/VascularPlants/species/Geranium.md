@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GeocaulonLividum" class="pagination--pager" title="Northern Bastard Toadflax">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeraniumBicknellii" class="pagination--pager" title="Bicknell's Geranium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GeocaulonLividum" class="pagination--pager" title="Geocaulon lividum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeraniumBicknellii" class="pagination--pager" title="Geranium bicknellii">Next</a>
 
 <p>&nbsp;</p>
 

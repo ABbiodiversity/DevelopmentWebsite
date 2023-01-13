@@ -1,5 +1,5 @@
 ---
-title: "Balsam Groundsel"
+title: "Packera paupercula"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PackeraPaupercula

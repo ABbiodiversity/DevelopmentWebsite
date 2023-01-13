@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexAurea" class="pagination--pager" title="Golden Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexBebbii" class="pagination--pager" title="Bebb's Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexAurea" class="pagination--pager" title="Carex aurea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexBebbii" class="pagination--pager" title="Carex bebbii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Sisymbrium" class="pagination--pager" title="Sisymbrium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SisyrinchiumMontanum" class="pagination--pager" title="Common Blue Eyed Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Sisymbrium" class="pagination--pager" title="Sisymbrium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SisyrinchiumMontanum" class="pagination--pager" title="Sisyrinchium montanum">Next</a>
 
 <p>&nbsp;</p>
 

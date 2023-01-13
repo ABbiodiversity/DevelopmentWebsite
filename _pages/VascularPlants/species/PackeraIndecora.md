@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PackeraCana" class="pagination--pager" title="Woolly Groundsel">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraPaupercula" class="pagination--pager" title="Balsam Groundsel">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PackeraCana" class="pagination--pager" title="Packera cana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraPaupercula" class="pagination--pager" title="Packera paupercula">Next</a>
 
 <p>&nbsp;</p>
 

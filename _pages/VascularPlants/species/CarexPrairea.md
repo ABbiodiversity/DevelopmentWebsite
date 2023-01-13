@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexPraegracilis" class="pagination--pager" title="Graceful Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPraticola" class="pagination--pager" title="Meadow Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexPraegracilis" class="pagination--pager" title="Carex praegracilis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPraticola" class="pagination--pager" title="Carex praticola">Next</a>
 
 <p>&nbsp;</p>
 

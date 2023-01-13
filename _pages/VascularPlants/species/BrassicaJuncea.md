@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Brassica" class="pagination--pager" title="Brassica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BrassicaNapus" class="pagination--pager" title="Argentine Canola">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Brassica" class="pagination--pager" title="Brassica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BrassicaNapus" class="pagination--pager" title="Brassica napus">Next</a>
 
 <p>&nbsp;</p>
 

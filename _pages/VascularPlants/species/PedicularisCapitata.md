@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisBracteosa" class="pagination--pager" title="Western Lousewort">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisFlammea" class="pagination--pager" title="Pedicularis flammea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PedicularisBracteosa" class="pagination--pager" title="Pedicularis bracteosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PedicularisFlammea" class="pagination--pager" title="Pedicularis flammea">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Woolly Gromwell"
+title: "Lithospermum ruderale"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LithospermumRuderale

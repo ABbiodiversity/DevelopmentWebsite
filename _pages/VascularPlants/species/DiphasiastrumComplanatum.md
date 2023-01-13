@@ -1,5 +1,5 @@
 ---
-title: "Ground Cedar"
+title: "Diphasiastrum complanatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DiphasiastrumComplanatum

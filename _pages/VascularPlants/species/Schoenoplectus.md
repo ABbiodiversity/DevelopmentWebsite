@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SchizachnePurpurascens" class="pagination--pager" title="Purple Oat Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SchoenoplectusAcutusTabernaemontani" class="pagination--pager" title="Schoenoplectus acutus/tabernaemontani">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SchizachnePurpurascens" class="pagination--pager" title="Schizachne purpurascens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SchoenoplectusAcutusTabernaemontani" class="pagination--pager" title="Schoenoplectus acutus/tabernaemontani">Next</a>
 
 <p>&nbsp;</p>
 

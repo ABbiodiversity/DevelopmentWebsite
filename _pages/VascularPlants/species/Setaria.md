@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SenecioVulgaris" class="pagination--pager" title="Common Groundsel">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SetariaPumila" class="pagination--pager" title="Setaria pumila">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SenecioVulgaris" class="pagination--pager" title="Senecio vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SetariaPumila" class="pagination--pager" title="Setaria pumila">Next</a>
 
 <p>&nbsp;</p>
 

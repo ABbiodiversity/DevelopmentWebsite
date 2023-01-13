@@ -1,5 +1,5 @@
 ---
-title: "Marsh Marigold"
+title: "Caltha palustris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CalthaPalustris

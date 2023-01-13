@@ -1,5 +1,5 @@
 ---
-title: "White Cinquefoil"
+title: "Drymocallis arguta"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/DrymocallisArguta

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SolanumTriflorum" class="pagination--pager" title="Wild Tomato">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Solidago" class="pagination--pager" title="Goldenrods">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SolanumTriflorum" class="pagination--pager" title="Solanum triflorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Solidago" class="pagination--pager" title="Solidago">Next</a>
 
 <p>&nbsp;</p>
 

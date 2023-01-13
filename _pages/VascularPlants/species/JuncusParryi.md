@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/JuncusNodosus" class="pagination--pager" title="Juncus nodosus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusTenuis" class="pagination--pager" title="Slender Rush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuncusNodosus" class="pagination--pager" title="Juncus nodosus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuncusTenuis" class="pagination--pager" title="Juncus tenuis">Next</a>
 
 <p>&nbsp;</p>
 

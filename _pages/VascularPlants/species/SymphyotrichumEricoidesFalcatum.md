@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumCiliolatum" class="pagination--pager" title="Lindley's Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumFoliaceum" class="pagination--pager" title="Symphyotrichum foliaceum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumCiliolatum" class="pagination--pager" title="Symphyotrichum ciliolatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumFoliaceum" class="pagination--pager" title="Symphyotrichum foliaceum">Next</a>
 
 <p>&nbsp;</p>
 

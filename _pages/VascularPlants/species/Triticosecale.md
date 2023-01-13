@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TrisetumSpicatum" class="pagination--pager" title="Spike Trisetum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Triticum" class="pagination--pager" title="Wheat">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TrisetumSpicatum" class="pagination--pager" title="Trisetum spicatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Triticum" class="pagination--pager" title="Triticum">Next</a>
 
 <p>&nbsp;</p>
 

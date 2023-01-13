@@ -1,5 +1,5 @@
 ---
-title: "Smooth Blue Aster"
+title: "Symphyotrichum laeve"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SymphyotrichumLaeve
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumFoliaceum" class="pagination--pager" title="Symphyotrichum foliaceum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumLanceolatum" class="pagination--pager" title="Panicled Aster">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumFoliaceum" class="pagination--pager" title="Symphyotrichum foliaceum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumLanceolatum" class="pagination--pager" title="Symphyotrichum lanceolatum">Next</a>
 
 <p>&nbsp;</p>
 

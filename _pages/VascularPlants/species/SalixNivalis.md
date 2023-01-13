@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SalixMyrtillifolia" class="pagination--pager" title="Myrtle Leaved Willow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPedicellaris" class="pagination--pager" title="Bog Willow">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SalixMyrtillifolia" class="pagination--pager" title="Salix myrtillifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SalixPedicellaris" class="pagination--pager" title="Salix pedicellaris">Next</a>
 
 <p>&nbsp;</p>
 

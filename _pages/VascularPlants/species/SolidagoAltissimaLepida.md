@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Solidago" class="pagination--pager" title="Goldenrods">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoGigantea" class="pagination--pager" title="Solidago gigantea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Solidago" class="pagination--pager" title="Solidago">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SolidagoGigantea" class="pagination--pager" title="Solidago gigantea">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Common Mouse Ear Chickweed"
+title: "Cerastium fontanum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CerastiumFontanum

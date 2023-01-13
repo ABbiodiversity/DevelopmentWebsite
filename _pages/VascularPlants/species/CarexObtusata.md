@@ -1,5 +1,5 @@
 ---
-title: "Blunt Sedge"
+title: "Carex obtusata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexObtusata

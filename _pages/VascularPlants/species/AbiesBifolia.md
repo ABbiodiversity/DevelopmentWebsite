@@ -1,5 +1,5 @@
 ---
-title: "Subalpine Fir"
+title: "Abies bifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AbiesBifolia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AbiesBalsamea" class="pagination--pager" title="Balsam Fir">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Acer" class="pagination--pager" title="Acer">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AbiesBalsamea" class="pagination--pager" title="Abies balsamea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Acer" class="pagination--pager" title="Acer">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MonesesUniflora" class="pagination--pager" title="One Flowered Wintergreen">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaAsperifolia" class="pagination--pager" title="Muhlenbergia asperifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MonesesUniflora" class="pagination--pager" title="Moneses uniflora">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MuhlenbergiaAsperifolia" class="pagination--pager" title="Muhlenbergia asperifolia">Next</a>
 
 <p>&nbsp;</p>
 

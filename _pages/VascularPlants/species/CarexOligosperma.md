@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexObtusata" class="pagination--pager" title="Blunt Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPachystachya" class="pagination--pager" title="Carex pachystachya">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexObtusata" class="pagination--pager" title="Carex obtusata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexPachystachya" class="pagination--pager" title="Carex pachystachya">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Alpine Goldenrod"
+title: "Solidago multiradiata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SolidagoMultiradiata

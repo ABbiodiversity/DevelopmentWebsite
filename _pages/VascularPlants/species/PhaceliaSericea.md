@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PhaceliaFranklinii" class="pagination--pager" title="Phacelia franklinii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhalarisArundinacea" class="pagination--pager" title="Reed Canary Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PhaceliaFranklinii" class="pagination--pager" title="Phacelia franklinii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PhalarisArundinacea" class="pagination--pager" title="Phalaris arundinacea">Next</a>
 
 <p>&nbsp;</p>
 

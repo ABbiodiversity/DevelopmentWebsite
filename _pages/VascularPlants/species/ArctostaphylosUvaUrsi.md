@@ -1,5 +1,5 @@
 ---
-title: "Common Bearberry"
+title: "Arctostaphylos uva-ursi"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArctostaphylosUvaUrsi
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Arctostaphylos" class="pagination--pager" title="Arctostaphylos">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArctousRubra" class="pagination--pager" title="Alpine Bearberry">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Arctostaphylos" class="pagination--pager" title="Arctostaphylos">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArctousRubra" class="pagination--pager" title="Arctous rubra">Next</a>
 
 <p>&nbsp;</p>
 

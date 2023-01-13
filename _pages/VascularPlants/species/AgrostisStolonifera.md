@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AgrostisScabra" class="pagination--pager" title="Rough Hair Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlceaRosea" class="pagination--pager" title="Alcea rosea">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AgrostisScabra" class="pagination--pager" title="Agrostis scabra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AlceaRosea" class="pagination--pager" title="Alcea rosea">Next</a>
 
 <p>&nbsp;</p>
 

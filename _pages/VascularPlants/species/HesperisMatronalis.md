@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HeracleumMaximum" class="pagination--pager" title="Cow Parsnip">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HesperostipaComataCurtiseta" class="pagination--pager" title="Hesperostipa comata/curtiseta">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HeracleumMaximum" class="pagination--pager" title="Heracleum maximum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HesperostipaComataCurtiseta" class="pagination--pager" title="Hesperostipa comata/curtiseta">Next</a>
 
 <p>&nbsp;</p>
 

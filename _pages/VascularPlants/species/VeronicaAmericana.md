@@ -1,5 +1,5 @@
 ---
-title: "American Brooklime"
+title: "Veronica americana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/VeronicaAmericana
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Veronica" class="pagination--pager" title="Veronica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaPeregrina" class="pagination--pager" title="Hairy Speedwell">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Veronica" class="pagination--pager" title="Veronica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaPeregrina" class="pagination--pager" title="Veronica peregrina">Next</a>
 
 <p>&nbsp;</p>
 

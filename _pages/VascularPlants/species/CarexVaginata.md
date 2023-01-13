@@ -1,5 +1,5 @@
 ---
-title: "Sheathed Sedge"
+title: "Carex vaginata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CarexVaginata
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexUtriculata" class="pagination--pager" title="Small Bottle Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexViridula" class="pagination--pager" title="Carex viridula">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexUtriculata" class="pagination--pager" title="Carex utriculata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexViridula" class="pagination--pager" title="Carex viridula">Next</a>
 
 <p>&nbsp;</p>
 

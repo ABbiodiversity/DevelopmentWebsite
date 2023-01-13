@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Betula" class="pagination--pager" title="Betula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BetulaOccidentalis" class="pagination--pager" title="Water Birch">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Betula" class="pagination--pager" title="Betula">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BetulaOccidentalis" class="pagination--pager" title="Betula occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

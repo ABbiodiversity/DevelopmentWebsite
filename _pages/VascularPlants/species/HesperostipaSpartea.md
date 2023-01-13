@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/HesperostipaComataCurtiseta" class="pagination--pager" title="Hesperostipa comata/curtiseta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HeterothecaVillosa" class="pagination--pager" title="Golden Aster">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HesperostipaComataCurtiseta" class="pagination--pager" title="Hesperostipa comata/curtiseta">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HeterothecaVillosa" class="pagination--pager" title="Heterotheca villosa">Next</a>
 
 <p>&nbsp;</p>
 

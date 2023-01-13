@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SchoenoplectusPungens" class="pagination--pager" title="Schoenoplectus pungens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ScirpusMicrocarpus" class="pagination--pager" title="Small Fruited Bulrush">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SchoenoplectusPungens" class="pagination--pager" title="Schoenoplectus pungens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ScirpusMicrocarpus" class="pagination--pager" title="Scirpus microcarpus">Next</a>
 
 <p>&nbsp;</p>
 

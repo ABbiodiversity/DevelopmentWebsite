@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/DactylisGlomerata" class="pagination--pager" title="Orchard Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DaleaPurpurea" class="pagination--pager" title="Purple Prairie Clover">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DactylisGlomerata" class="pagination--pager" title="Dactylis glomerata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DaleaPurpurea" class="pagination--pager" title="Dalea purpurea">Next</a>
 
 <p>&nbsp;</p>
 

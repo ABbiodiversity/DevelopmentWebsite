@@ -1,5 +1,5 @@
 ---
-title: "Tartary Buckwheat"
+title: "Fagopyrum tataricum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/FagopyrumTataricum
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/FagopyrumEsculentum" class="pagination--pager" title="Fagopyrum esculentum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FallopiaConvolvulus" class="pagination--pager" title="Black Bindweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/FagopyrumEsculentum" class="pagination--pager" title="Fagopyrum esculentum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/FallopiaConvolvulus" class="pagination--pager" title="Fallopia convolvulus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Tall Lungwort"
+title: "Mertensia paniculata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MertensiaPaniculata

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SphaeralceaCoccinea" class="pagination--pager" title="Scarlet Mallow">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SphenopholisObtusata" class="pagination--pager" title="Sphenopholis obtusata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SphaeralceaCoccinea" class="pagination--pager" title="Sphaeralcea coccinea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SphenopholisObtusata" class="pagination--pager" title="Sphenopholis obtusata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Blunt Leaved Bog Orchid"
+title: "Platanthera obtusata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PlatantheraObtusata
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraDilatata" class="pagination--pager" title="Platanthera dilatata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraOrbiculata" class="pagination--pager" title="Round Leaved Bog Orchid">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraDilatata" class="pagination--pager" title="Platanthera dilatata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraOrbiculata" class="pagination--pager" title="Platanthera orbiculata">Next</a>
 
 <p>&nbsp;</p>
 

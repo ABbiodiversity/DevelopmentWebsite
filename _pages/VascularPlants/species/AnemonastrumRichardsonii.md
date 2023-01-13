@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AnemonastrumCanadense" class="pagination--pager" title="Canada Anemone">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Anemone" class="pagination--pager" title="Anemone">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AnemonastrumCanadense" class="pagination--pager" title="Anemonastrum canadense">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Anemone" class="pagination--pager" title="Anemone">Next</a>
 
 <p>&nbsp;</p>
 

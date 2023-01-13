@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AgrimoniaStriata" class="pagination--pager" title="Agrimony">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Agrostis" class="pagination--pager" title="Agrostis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AgrimoniaStriata" class="pagination--pager" title="Agrimonia striata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Agrostis" class="pagination--pager" title="Agrostis">Next</a>
 
 <p>&nbsp;</p>
 

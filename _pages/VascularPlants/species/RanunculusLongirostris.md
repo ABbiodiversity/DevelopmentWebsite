@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusHyperboreus" class="pagination--pager" title="Ranunculus hyperboreus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusMacounii" class="pagination--pager" title="Macoun's Buttercup">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RanunculusHyperboreus" class="pagination--pager" title="Ranunculus hyperboreus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusMacounii" class="pagination--pager" title="Ranunculus macounii">Next</a>
 
 <p>&nbsp;</p>
 

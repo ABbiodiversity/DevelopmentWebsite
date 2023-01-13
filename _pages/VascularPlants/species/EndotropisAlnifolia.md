@@ -1,5 +1,5 @@
 ---
-title: "Alder Leaved Buckthorn"
+title: "Endotropis alnifolia"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EndotropisAlnifolia
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EmpetrumNigrum" class="pagination--pager" title="Crowberry">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Epilobium" class="pagination--pager" title="Epilobium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EmpetrumNigrum" class="pagination--pager" title="Empetrum nigrum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Epilobium" class="pagination--pager" title="Epilobium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Hooded Ladies' Tresses"
+title: "Spiranthes romanzoffiana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SpiranthesRomanzoffiana

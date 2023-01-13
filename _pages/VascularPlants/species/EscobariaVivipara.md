@@ -1,5 +1,5 @@
 ---
-title: "Ball Cactus"
+title: "Escobaria vivipara"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EscobariaVivipara

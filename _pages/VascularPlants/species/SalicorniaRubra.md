@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SagittariaLatifolia" class="pagination--pager" title="Sagittaria latifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Salix" class="pagination--pager" title="Willows">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SagittariaLatifolia" class="pagination--pager" title="Sagittaria latifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Salix" class="pagination--pager" title="Salix">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Prickly Lettuce"
+title: "Lactuca serriola"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LactucaSerriola

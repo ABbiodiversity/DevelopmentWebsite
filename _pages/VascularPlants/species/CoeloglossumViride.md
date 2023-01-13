@@ -1,5 +1,5 @@
 ---
-title: "Bracted Bog Orchid"
+title: "Coeloglossum viride"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CoeloglossumViride
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ClematisOccidentalis" class="pagination--pager" title="Purple Clematis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CollomiaLinearis" class="pagination--pager" title="Narrow Leaved Collomia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ClematisOccidentalis" class="pagination--pager" title="Clematis occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CollomiaLinearis" class="pagination--pager" title="Collomia linearis">Next</a>
 
 <p>&nbsp;</p>
 

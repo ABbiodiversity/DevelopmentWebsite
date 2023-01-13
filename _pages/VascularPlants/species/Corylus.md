@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CorydalisAurea" class="pagination--pager" title="Corydalis aurea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorylusCornuta" class="pagination--pager" title="Beaked Hazelnut">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CorydalisAurea" class="pagination--pager" title="Corydalis aurea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CorylusCornuta" class="pagination--pager" title="Corylus cornuta">Next</a>
 
 <p>&nbsp;</p>
 

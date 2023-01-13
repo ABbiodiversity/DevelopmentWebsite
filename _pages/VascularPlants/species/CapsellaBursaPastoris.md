@@ -1,5 +1,5 @@
 ---
-title: "Shepherd's Purse"
+title: "Capsella bursa-pastoris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CapsellaBursaPastoris
@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CapnoidesSempervirens" class="pagination--pager" title="Pink Corydalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CapsicumAnnuum" class="pagination--pager" title="Capsicum annuum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CapnoidesSempervirens" class="pagination--pager" title="Capnoides sempervirens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CapsicumAnnuum" class="pagination--pager" title="Capsicum annuum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AbiesBifolia" class="pagination--pager" title="Subalpine Fir">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AcerGlabrum" class="pagination--pager" title="Acer glabrum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AbiesBifolia" class="pagination--pager" title="Abies bifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AcerGlabrum" class="pagination--pager" title="Acer glabrum">Next</a>
 
 <p>&nbsp;</p>
 

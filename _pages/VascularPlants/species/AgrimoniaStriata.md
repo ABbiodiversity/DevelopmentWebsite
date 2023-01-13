@@ -1,5 +1,5 @@
 ---
-title: "Agrimony"
+title: "Agrimonia striata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/AgrimoniaStriata
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AgoserisGlauca" class="pagination--pager" title="Yellow False Dandelion">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgropyronFragileCristatum" class="pagination--pager" title="Agropyron fragile/cristatum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AgoserisGlauca" class="pagination--pager" title="Agoseris glauca">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AgropyronFragileCristatum" class="pagination--pager" title="Agropyron fragile/cristatum">Next</a>
 
 <p>&nbsp;</p>
 

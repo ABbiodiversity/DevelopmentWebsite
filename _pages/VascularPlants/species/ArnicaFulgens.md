@@ -1,5 +1,5 @@
 ---
-title: "Shining Arnica"
+title: "Arnica fulgens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ArnicaFulgens
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaCordifolia" class="pagination--pager" title="Heart-leaved Arnica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaLatifolia" class="pagination--pager" title="Arnica latifolia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ArnicaCordifolia" class="pagination--pager" title="Arnica cordifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ArnicaLatifolia" class="pagination--pager" title="Arnica latifolia">Next</a>
 
 <p>&nbsp;</p>
 

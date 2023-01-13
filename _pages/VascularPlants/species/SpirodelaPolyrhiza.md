@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SpiranthesRomanzoffiana" class="pagination--pager" title="Hooded Ladies' Tresses">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SporobolusCryptandrus" class="pagination--pager" title="Sporobolus cryptandrus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SpiranthesRomanzoffiana" class="pagination--pager" title="Spiranthes romanzoffiana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SporobolusCryptandrus" class="pagination--pager" title="Sporobolus cryptandrus">Next</a>
 
 <p>&nbsp;</p>
 

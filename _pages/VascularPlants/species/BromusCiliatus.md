@@ -1,5 +1,5 @@
 ---
-title: "Fringed Brome"
+title: "Bromus ciliatus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/BromusCiliatus

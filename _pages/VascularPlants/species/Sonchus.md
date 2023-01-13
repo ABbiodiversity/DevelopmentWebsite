@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoRigida" class="pagination--pager" title="Stiff Goldenrod">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SonchusArvensis" class="pagination--pager" title="Perennial Sow Thistle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SolidagoRigida" class="pagination--pager" title="Solidago rigida">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SonchusArvensis" class="pagination--pager" title="Sonchus arvensis">Next</a>
 
 <p>&nbsp;</p>
 

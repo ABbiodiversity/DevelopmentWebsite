@@ -1,5 +1,5 @@
 ---
-title: "One Flowered Wintergreen"
+title: "Moneses uniflora"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/MonesesUniflora
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MonardaFistulosa" class="pagination--pager" title="Wild Bergamot">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MonotropaUniflora" class="pagination--pager" title="Monotropa uniflora">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MonardaFistulosa" class="pagination--pager" title="Monarda fistulosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MonotropaUniflora" class="pagination--pager" title="Monotropa uniflora">Next</a>
 
 <p>&nbsp;</p>
 

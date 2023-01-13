@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MelampyrumLineare" class="pagination--pager" title="Cow Wheat">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Melilotus" class="pagination--pager" title="Melilotus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MelampyrumLineare" class="pagination--pager" title="Melampyrum lineare">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Melilotus" class="pagination--pager" title="Melilotus">Next</a>
 
 <p>&nbsp;</p>
 

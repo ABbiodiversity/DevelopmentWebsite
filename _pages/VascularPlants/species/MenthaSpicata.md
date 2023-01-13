@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/MenthaCanadensis" class="pagination--pager" title="Wild Mint">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MenyanthesTrifoliata" class="pagination--pager" title="Buck Bean">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/MenthaCanadensis" class="pagination--pager" title="Mentha canadensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/MenyanthesTrifoliata" class="pagination--pager" title="Menyanthes trifoliata">Next</a>
 
 <p>&nbsp;</p>
 

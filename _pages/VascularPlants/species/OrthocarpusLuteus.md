@@ -1,5 +1,5 @@
 ---
-title: "Owl Clover"
+title: "Orthocarpus luteus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/OrthocarpusLuteus
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OrthiliaSecunda" class="pagination--pager" title="One-sided Wintergreen">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OryzopsisAsperifolia" class="pagination--pager" title="White Grained Mountain Rice Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OrthiliaSecunda" class="pagination--pager" title="Orthilia secunda">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OryzopsisAsperifolia" class="pagination--pager" title="Oryzopsis asperifolia">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Cut Leaved Ragwort"
+title: "Senecio eremophilus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/SenecioEremophilus

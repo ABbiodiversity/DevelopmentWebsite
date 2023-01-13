@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Rosa" class="pagination--pager" title="Rosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RosaArkansana" class="pagination--pager" title="Prairie Rose">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Rosa" class="pagination--pager" title="Rosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RosaArkansana" class="pagination--pager" title="Rosa arkansana">Next</a>
 
 <p>&nbsp;</p>
 

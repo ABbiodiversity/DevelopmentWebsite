@@ -1,5 +1,5 @@
 ---
-title: "Yellow Hedysarum"
+title: "Hedysarum sulphurescens"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/HedysarumSulphurescens

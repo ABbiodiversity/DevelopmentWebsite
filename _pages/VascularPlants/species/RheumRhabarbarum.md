@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/RatibidaColumnifera" class="pagination--pager" title="Prairie Coneflower">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhinanthusMinor" class="pagination--pager" title="Yellow Rattle">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RatibidaColumnifera" class="pagination--pager" title="Ratibida columnifera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RhinanthusMinor" class="pagination--pager" title="Rhinanthus minor">Next</a>
 
 <p>&nbsp;</p>
 

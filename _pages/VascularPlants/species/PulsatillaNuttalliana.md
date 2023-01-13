@@ -1,5 +1,5 @@
 ---
-title: "Prairie Crocus"
+title: "Pulsatilla nuttalliana"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/PulsatillaNuttalliana
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaNuttalliana" class="pagination--pager" title="Nuttall's Salt Meadow Grass">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaOccidentalis" class="pagination--pager" title="Pulsatilla occidentalis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PuccinelliaNuttalliana" class="pagination--pager" title="Puccinellia nuttalliana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaOccidentalis" class="pagination--pager" title="Pulsatilla occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

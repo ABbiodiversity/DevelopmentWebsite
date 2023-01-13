@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Glyceria" class="pagination--pager" title="Glyceria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaGrandis" class="pagination--pager" title="Common Tall Manna Grass">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Glyceria" class="pagination--pager" title="Glyceria">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GlyceriaGrandis" class="pagination--pager" title="Glyceria grandis">Next</a>
 
 <p>&nbsp;</p>
 

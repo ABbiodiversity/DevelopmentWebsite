@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/StellariaCrassifolia" class="pagination--pager" title="Stellaria crassifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaLongifolia" class="pagination--pager" title="Long Leaved Chickweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/StellariaCrassifolia" class="pagination--pager" title="Stellaria crassifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/StellariaLongifolia" class="pagination--pager" title="Stellaria longifolia">Next</a>
 
 <p>&nbsp;</p>
 

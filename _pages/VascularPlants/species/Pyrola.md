@@ -1,5 +1,5 @@
 ---
-title: "Wintergreens"
+title: "Pyrola"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Pyrola
@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaOccidentalis" class="pagination--pager" title="Pulsatilla occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PyrolaAsarifolia" class="pagination--pager" title="Common Pink Wintergreen">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PulsatillaOccidentalis" class="pagination--pager" title="Pulsatilla occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PyrolaAsarifolia" class="pagination--pager" title="Pyrola asarifolia">Next</a>
 
 <p>&nbsp;</p>
 

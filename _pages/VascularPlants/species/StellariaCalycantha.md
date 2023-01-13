@@ -1,5 +1,5 @@
 ---
-title: "Northern Stitchwort"
+title: "Stellaria calycantha"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/StellariaCalycantha

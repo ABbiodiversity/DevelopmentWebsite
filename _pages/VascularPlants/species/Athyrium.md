@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusVexilliflexus" class="pagination--pager" title="Astragalus vexilliflexus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AthyriumFilixFemina" class="pagination--pager" title="Lady Fern">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AstragalusVexilliflexus" class="pagination--pager" title="Astragalus vexilliflexus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AthyriumFilixFemina" class="pagination--pager" title="Athyrium filix-femina">Next</a>
 
 <p>&nbsp;</p>
 

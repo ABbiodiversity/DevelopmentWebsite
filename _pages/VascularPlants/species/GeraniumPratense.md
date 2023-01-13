@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumBicknellii" class="pagination--pager" title="Bicknell's Geranium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeraniumRichardsonii" class="pagination--pager" title="Wild White Geranium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GeraniumBicknellii" class="pagination--pager" title="Geranium bicknellii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GeraniumRichardsonii" class="pagination--pager" title="Geranium richardsonii">Next</a>
 
 <p>&nbsp;</p>
 

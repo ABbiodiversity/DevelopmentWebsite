@@ -1,5 +1,5 @@
 ---
-title: "Cinquefoils"
+title: "Potentilla"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Potentilla
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotamogetonZosteriformis" class="pagination--pager" title="Potamogeton zosteriformis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaAnserina" class="pagination--pager" title="Silverweed">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotamogetonZosteriformis" class="pagination--pager" title="Potamogeton zosteriformis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotentillaAnserina" class="pagination--pager" title="Potentilla anserina">Next</a>
 
 <p>&nbsp;</p>
 

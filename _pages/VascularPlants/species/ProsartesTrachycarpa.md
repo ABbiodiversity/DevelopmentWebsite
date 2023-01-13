@@ -1,5 +1,5 @@
 ---
-title: "Fairybells"
+title: "Prosartes trachycarpa"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ProsartesTrachycarpa

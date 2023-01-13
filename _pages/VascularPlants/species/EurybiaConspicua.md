@@ -1,5 +1,5 @@
 ---
-title: "Showy Aster"
+title: "Eurybia conspicua"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/EurybiaConspicua

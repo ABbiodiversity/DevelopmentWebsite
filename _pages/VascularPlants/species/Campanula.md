@@ -1,5 +1,5 @@
 ---
-title: "Harebells"
+title: "Campanula"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/Campanula

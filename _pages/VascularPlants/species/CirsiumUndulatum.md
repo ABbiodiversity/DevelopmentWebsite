@@ -1,5 +1,5 @@
 ---
-title: "Wavy Leaved Thistle"
+title: "Cirsium undulatum"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/CirsiumUndulatum

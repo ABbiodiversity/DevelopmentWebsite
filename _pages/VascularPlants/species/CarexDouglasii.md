@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CarexDisperma" class="pagination--pager" title="Two Seeded Sedge">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexDuriuscula" class="pagination--pager" title="Needleleaf Sedge">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CarexDisperma" class="pagination--pager" title="Carex disperma">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CarexDuriuscula" class="pagination--pager" title="Carex duriuscula">Next</a>
 
 <p>&nbsp;</p>
 

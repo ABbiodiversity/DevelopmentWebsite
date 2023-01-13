@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/QuercusAlba" class="pagination--pager" title="Quercus alba">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusAbortivus" class="pagination--pager" title="Small Flowered Buttercup">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/QuercusAlba" class="pagination--pager" title="Quercus alba">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RanunculusAbortivus" class="pagination--pager" title="Ranunculus abortivus">Next</a>
 
 <p>&nbsp;</p>
 

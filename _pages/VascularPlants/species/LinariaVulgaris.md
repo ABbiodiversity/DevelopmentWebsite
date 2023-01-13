@@ -1,5 +1,5 @@
 ---
-title: "Common Toadflax"
+title: "Linaria vulgaris"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LinariaVulgaris
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LinariaDalmatica" class="pagination--pager" title="Linaria dalmatica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinnaeaBorealis" class="pagination--pager" title="Twinflower">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LinariaDalmatica" class="pagination--pager" title="Linaria dalmatica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LinnaeaBorealis" class="pagination--pager" title="Linnaea borealis">Next</a>
 
 <p>&nbsp;</p>
 

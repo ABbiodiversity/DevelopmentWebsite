@@ -1,5 +1,5 @@
 ---
-title: "Philadelphia Fleabane"
+title: "Erigeron philadelphicus"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/ErigeronPhiladelphicus
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronNivalis" class="pagination--pager" title="Erigeron nivalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronPumilus" class="pagination--pager" title="Hairy Fleabane">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ErigeronNivalis" class="pagination--pager" title="Erigeron nivalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronPumilus" class="pagination--pager" title="Erigeron pumilus">Next</a>
 
 <p>&nbsp;</p>
 

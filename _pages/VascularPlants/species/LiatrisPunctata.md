@@ -1,5 +1,5 @@
 ---
-title: "Dotted Blazingstar"
+title: "Liatris punctata"
 layout: single
 classes: wide
 permalink: /VascularPlants/species/LiatrisPunctata
@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LiatrisLigulistylis" class="pagination--pager" title="Liatris ligulistylis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LiliumPhiladelphicum" class="pagination--pager" title="Western Wood Lily">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LiatrisLigulistylis" class="pagination--pager" title="Liatris ligulistylis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LiliumPhiladelphicum" class="pagination--pager" title="Lilium philadelphicum">Next</a>
 
 <p>&nbsp;</p>
 
