@@ -84,14 +84,8 @@ for (taxon in unique(species.lookup$Taxon)) {
     # Identify name
     name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
     
-    # Identify display name (Use common name unless unavailable)
-    display.name <- taxon.subset[taxon.subset$SpeciesID == spp, "CommonName"]
-    
-    if(is.na(display.name)) {
-      
-      display.name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
-      
-    }
+    # Identify display name (Use scientific name)
+    display.name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
     
     # Create the camal case name as the page identifier
     page.identifier <- paste0(toTitleCase(strsplit(x = spp, split = "\\.")[[1]]), collapse = "")
@@ -274,22 +268,12 @@ for (taxon in unique(species.lookup$Taxon)) {
       
     }
     
-    # Identify link names
+    # Identify link names ( Just use scientific names since it is easier that way.)
     name.next <- taxon.subset$SpeciesID[next.index]
-    display.next <- taxon.subset[taxon.subset$SpeciesID == name.next, "CommonName"]
-    if(is.na(display.next)) {
-      
-      display.next <- taxon.subset[taxon.subset$SpeciesID == name.next, "ScientificName"]
-      
-    }
+    display.next <- taxon.subset[taxon.subset$SpeciesID == name.next, "ScientificName"]
     
     name.previous <- taxon.subset$SpeciesID[previous.index]
-    display.previous <- taxon.subset[taxon.subset$SpeciesID == name.previous, "CommonName"]
-    if(is.na(display.previous)) {
-      
-      display.previous <- taxon.subset[taxon.subset$SpeciesID == name.previous, "ScientificName"]
-      
-    }
+    display.previous <- taxon.subset[taxon.subset$SpeciesID == name.previous, "ScientificName"]
     
     # Convert the name.previous and name.next to camal case
     name.previous <- paste0(toTitleCase(strsplit(x = name.previous, split = "\\.")[[1]]), collapse = "")
