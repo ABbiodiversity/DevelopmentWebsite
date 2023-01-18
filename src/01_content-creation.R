@@ -41,10 +41,17 @@ library(tools)
 load("lookup/species-lookup.Rdata")
 
 # Temporary fix species names that end in periods
-species.lookup$SpeciesID[species.lookup$SpeciesID == "Limnozetes.canadensis.s.l."] <- "Limnozetes.canadensis.s.l"
-species.lookup$SpeciesID[species.lookup$SpeciesID == "Hemerocallis.Stella.de.Oro."] <- "Hemerocallis.Stella.de.Oro"
-species.lookup$SpeciesID[species.lookup$SpeciesID == "Eleocharis.palustris.s.l."] <- "Eleocharis.palustris.s.l"
-species.lookup$SpeciesID[species.lookup$SpeciesID == "Chenopodium.other."] <- "Chenopodium.other"
+for (species in species.lookup$SpeciesID) {
+  
+  if (substr(species, nchar(species), nchar(species)) == ".") {
+    
+    species.update <- substr(species, 1, nchar(species)-1)
+    species.lookup$SpeciesID <- gsub(species, species.update, species.lookup$SpeciesID)
+    print(species.update)
+    
+  }
+  
+}
 
 # Identify the folders for the taxonomic groups
 taxon.paths <- drive_ls(path = as_id("1By3V6hOn3nP2lo_GqPNDNplIsltb0a_s"))
