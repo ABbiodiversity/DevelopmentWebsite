@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HygrohypnumLuridum" class="pagination--pager" title="Hygrohypnum luridum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumBambergeri" class="pagination--pager" title="Hypnum bambergeri">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HygrohypnumLuridum" class="pagination--pager" title="Hygrohypnum luridum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HylocomiumSplendens" class="pagination--pager" title="Hylocomium splendens">Next</a>
 
 <p>&nbsp;</p>
 

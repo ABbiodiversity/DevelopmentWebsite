@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaGlaucocephala" class="pagination--pager" title="Scapania glaucocephala">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumSpadiceum" class="pagination--pager" title="Dicranum spadiceum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlatygyriumRepens" class="pagination--pager" title="Platygyrium repens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PogonatumDentatum" class="pagination--pager" title="Pogonatum dentatum">Next</a>
 
 <p>&nbsp;</p>
 

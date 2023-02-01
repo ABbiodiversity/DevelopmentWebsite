@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumUndulatum" class="pagination--pager" title="Dicranum undulatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumCuspidatum" class="pagination--pager" title="Plagiomnium cuspidatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HamatocaulisVernicosus" class="pagination--pager" title="Hamatocaulis vernicosus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HarpanthusDrummondii" class="pagination--pager" title="Harpanthus drummondii">Next</a>
 
 <p>&nbsp;</p>
 

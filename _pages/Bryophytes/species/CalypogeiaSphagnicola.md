@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TimmiaAustriaca" class="pagination--pager" title="Timmia austriaca">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAngustifolium" class="pagination--pager" title="Sphagnum angustifolium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaNeesiana" class="pagination--pager" title="Calypogeia neesiana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSuecica" class="pagination--pager" title="Calypogeia suecica">Next</a>
 
 <p>&nbsp;</p>
 

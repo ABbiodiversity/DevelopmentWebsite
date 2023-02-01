@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/PLSP" class="pagination--pager" title="Spea bombifrons">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/CSFR" class="pagination--pager" title="Rana luteiventris">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/WOFR" class="pagination--pager" title="Rana sylvatica">Next</a>
 
 <p>&nbsp;</p>
 

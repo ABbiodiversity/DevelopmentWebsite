@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/BarbulaConvoluta" class="pagination--pager" title="Barbula convoluta">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaHeterophylla" class="pagination--pager" title="Lophocolea heterophylla">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CeratodonPurpureus" class="pagination--pager" title="Ceratodon purpureus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CinclidiumStygium" class="pagination--pager" title="Cinclidium stygium">Next</a>
 
 <p>&nbsp;</p>
 

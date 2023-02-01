@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaLatifrons" class="pagination--pager" title="Riccardia latifrons">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumRevolutum" class="pagination--pager" title="Hypnum revolutum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumEllipticum" class="pagination--pager" title="Plagiomnium ellipticum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumRostratum" class="pagination--pager" title="Plagiomnium rostratum">Next</a>
 
 <p>&nbsp;</p>
 

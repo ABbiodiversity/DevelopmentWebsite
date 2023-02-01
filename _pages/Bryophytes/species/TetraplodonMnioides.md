@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TayloriaSerrata" class="pagination--pager" title="Tayloria serrata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumDelicatulum" class="pagination--pager" title="Thuidium delicatulum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TetraplodonAngustatus" class="pagination--pager" title="Tetraplodon angustatus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumDelicatulum" class="pagination--pager" title="Thuidium delicatulum">Next</a>
 
 <p>&nbsp;</p>
 

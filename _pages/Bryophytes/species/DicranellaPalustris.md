@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaHeteromalla" class="pagination--pager" title="Dicranella heteromalla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranellaSubulata" class="pagination--pager" title="Dicranella subulata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaHeteromalla" class="pagination--pager" title="Dicranella heteromalla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranellaSchreberiana" class="pagination--pager" title="Dicranella schreberiana">Next</a>
 
 <p>&nbsp;</p>
 

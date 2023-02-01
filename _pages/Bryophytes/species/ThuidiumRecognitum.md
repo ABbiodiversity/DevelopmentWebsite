@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ClimaciumDendroides" class="pagination--pager" title="Climacium dendroides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumScoparium" class="pagination--pager" title="Dicranum scoparium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumDelicatulum" class="pagination--pager" title="Thuidium delicatulum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TimmiaAustriaca" class="pagination--pager" title="Timmia austriaca">Next</a>
 
 <p>&nbsp;</p>
 

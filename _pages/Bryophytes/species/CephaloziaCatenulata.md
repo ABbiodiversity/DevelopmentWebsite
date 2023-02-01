@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaBicuspidata" class="pagination--pager" title="Cephalozia bicuspidata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLacinulata" class="pagination--pager" title="Cephalozia lacinulata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaBicuspidata" class="pagination--pager" title="Cephalozia bicuspidata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaConnivens" class="pagination--pager" title="Cephalozia connivens">Next</a>
 
 <p>&nbsp;</p>
 

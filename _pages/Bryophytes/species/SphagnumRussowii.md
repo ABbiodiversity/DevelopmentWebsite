@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TomentypnumNitens" class="pagination--pager" title="Tomentypnum nitens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHispidulum" class="pagination--pager" title="Campylophyllum hispidulum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumRubellum" class="pagination--pager" title="Sphagnum rubellum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumSquarrosum" class="pagination--pager" title="Sphagnum squarrosum">Next</a>
 
 <p>&nbsp;</p>
 

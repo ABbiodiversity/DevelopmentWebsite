@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumJensenii" class="pagination--pager" title="Polytrichum jensenii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PseudobryumCinclidioides" class="pagination--pager" title="Pseudobryum cinclidioides">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumStrictum" class="pagination--pager" title="Polytrichum strictum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PseudobryumCinclidioides" class="pagination--pager" title="Pseudobryum cinclidioides">Next</a>
 
 <p>&nbsp;</p>
 

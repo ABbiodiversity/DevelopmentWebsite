@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaDegenii" class="pagination--pager" title="Scapania degenii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaPaludicola" class="pagination--pager" title="Scapania paludicola">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaIrrigua" class="pagination--pager" title="Scapania irrigua">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaPaludicola" class="pagination--pager" title="Scapania paludicola">Next</a>
 
 <p>&nbsp;</p>
 

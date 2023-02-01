@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaAlpina" class="pagination--pager" title="Encalypta alpina">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/FissidensSublimbatus" class="pagination--pager" title="Fissidens sublimbatus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaCiliata" class="pagination--pager" title="Encalypta ciliata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaRhaptocarpa" class="pagination--pager" title="Encalypta rhaptocarpa">Next</a>
 
 <p>&nbsp;</p>
 

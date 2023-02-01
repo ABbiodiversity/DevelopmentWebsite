@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumGracile" class="pagination--pager" title="Rhizomnium gracile">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PtiliumCristaCastrensis" class="pagination--pager" title="Ptilium crista-castrensis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SplachnumSphaericum" class="pagination--pager" title="Splachnum sphaericum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SyntrichiaNorvegicaRuralis" class="pagination--pager" title="Syntrichia norvegica/ruralis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaConnivens" class="pagination--pager" title="Cephalozia connivens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaMuelleriana" class="pagination--pager" title="Calypogeia muelleriana">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumLindbergii" class="pagination--pager" title="Hypnum lindbergii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumPlicatulum" class="pagination--pager" title="Hypnum plicatulum">Next</a>
 
 <p>&nbsp;</p>
 

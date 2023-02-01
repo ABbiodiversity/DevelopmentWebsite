@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PogonatumDentatum" class="pagination--pager" title="Pogonatum dentatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaProligera" class="pagination--pager" title="Pohlia proligera">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PogonatumDentatum" class="pagination--pager" title="Pogonatum dentatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaCruda" class="pagination--pager" title="Pohlia cruda">Next</a>
 
 <p>&nbsp;</p>
 

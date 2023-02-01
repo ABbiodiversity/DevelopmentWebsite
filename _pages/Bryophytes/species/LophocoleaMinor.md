@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/BarbulaUnguiculata" class="pagination--pager" title="Barbula unguiculata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbulaConvoluta" class="pagination--pager" title="Barbula convoluta">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaHeterophylla" class="pagination--pager" title="Lophocolea heterophylla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAlpestris" class="pagination--pager" title="Lophozia alpestris">Next</a>
 
 <p>&nbsp;</p>
 

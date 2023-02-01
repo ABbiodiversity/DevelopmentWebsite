@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumScoparium" class="pagination--pager" title="Dicranum scoparium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumEllipticum" class="pagination--pager" title="Plagiomnium ellipticum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CampyliadelphusChrysophyllus" class="pagination--pager" title="Campyliadelphus chrysophyllus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHalleri" class="pagination--pager" title="Campylophyllum halleri">Next</a>
 
 <p>&nbsp;</p>
 

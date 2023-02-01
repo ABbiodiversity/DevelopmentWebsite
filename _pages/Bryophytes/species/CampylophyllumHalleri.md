@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSuecica" class="pagination--pager" title="Calypogeia suecica">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CatoscopiumNigritum" class="pagination--pager" title="Catoscopium nigritum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CampyliumStellatum" class="pagination--pager" title="Campylium stellatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHispidulum" class="pagination--pager" title="Campylophyllum hispidulum">Next</a>
 
 <p>&nbsp;</p>
 

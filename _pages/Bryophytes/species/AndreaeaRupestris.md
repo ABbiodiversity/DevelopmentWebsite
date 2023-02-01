@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AnastrophyllumSphenoloboides" class="pagination--pager" title="Anastrophyllum sphenoloboides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AtrichumSelwynii" class="pagination--pager" title="Atrichum selwynii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/AnastrophyllumSphenoloboides" class="pagination--pager" title="Anastrophyllum sphenoloboides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AneuraPinguis" class="pagination--pager" title="Aneura pinguis">Next</a>
 
 <p>&nbsp;</p>
 

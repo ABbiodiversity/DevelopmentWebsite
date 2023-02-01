@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AndreaeaRupestris" class="pagination--pager" title="Andreaea rupestris">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumAcuminatum" class="pagination--pager" title="Aulacomnium acuminatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/AneuraPinguis" class="pagination--pager" title="Aneura pinguis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumAcuminatum" class="pagination--pager" title="Aulacomnium acuminatum">Next</a>
 
 <p>&nbsp;</p>
 

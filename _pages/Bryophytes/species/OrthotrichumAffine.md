@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/OrthotheciumChryseum" class="pagination--pager" title="Orthothecium chryseum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumLaevigatum" class="pagination--pager" title="Orthotrichum laevigatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/OrthotheciumStrictum" class="pagination--pager" title="Orthothecium strictum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumElegansSpeciosum" class="pagination--pager" title="Orthotrichum elegans/speciosum">Next</a>
 
 <p>&nbsp;</p>
 

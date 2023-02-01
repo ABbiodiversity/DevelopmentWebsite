@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaVentricosa" class="pagination--pager" title="Lophozia ventricosa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LepidoziaReptans" class="pagination--pager" title="Lepidozia reptans">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/FontinalisNeomexicana" class="pagination--pager" title="Fontinalis neomexicana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/GeocalyxGraveolens" class="pagination--pager" title="Geocalyx graveolens">Next</a>
 
 <p>&nbsp;</p>
 

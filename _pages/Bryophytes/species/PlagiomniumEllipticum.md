@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CampyliumStellatum" class="pagination--pager" title="Campylium stellatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaLatifrons" class="pagination--pager" title="Riccardia latifrons">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumDrummondii" class="pagination--pager" title="Plagiomnium drummondii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumMedium" class="pagination--pager" title="Plagiomnium medium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/EntodonSchleicheri" class="pagination--pager" title="Entodon schleicheri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/FissidensOsmundioides" class="pagination--pager" title="Fissidens osmundioides">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/EurhynchiastrumPulchellum" class="pagination--pager" title="Eurhynchiastrum pulchellum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/FissidensOsmundioides" class="pagination--pager" title="Fissidens osmundioides">Next</a>
 
 <p>&nbsp;</p>
 

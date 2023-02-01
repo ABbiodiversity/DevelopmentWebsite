@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumAcuminatum" class="pagination--pager" title="Aulacomnium acuminatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumTurgidum" class="pagination--pager" title="Aulacomnium turgidum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumAcuminatum" class="pagination--pager" title="Aulacomnium acuminatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumPalustre" class="pagination--pager" title="Aulacomnium palustre">Next</a>
 
 <p>&nbsp;</p>
 

@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaLongidens" class="pagination--pager" title="Lophozia longidens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumStrictum" class="pagination--pager" title="Polytrichum strictum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PohliaLongicolla" class="pagination--pager" title="Pohlia longicolla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaProligera" class="pagination--pager" title="Pohlia proligera">Next</a>
 
 <p>&nbsp;</p>
 

@@ -36,7 +36,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaPalmata" class="pagination--pager" title="Riccardia palmata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TetraplodonAngustatus" class="pagination--pager" title="Tetraplodon angustatus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisMuelleriana" class="pagination--pager" title="Isopterygiopsis muelleriana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JaffueliobryumWrightii" class="pagination--pager" title="Jaffueliobryum wrightii">Next</a>
 
 <p>&nbsp;</p>
 

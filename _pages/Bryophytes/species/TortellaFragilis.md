@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TimmiaMegapolitana" class="pagination--pager" title="Timmia megapolitana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaCernua" class="pagination--pager" title="Tortula cernua">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TomentypnumNitens" class="pagination--pager" title="Tomentypnum nitens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortellaTortuosa" class="pagination--pager" title="Tortella tortuosa">Next</a>
 
 <p>&nbsp;</p>
 

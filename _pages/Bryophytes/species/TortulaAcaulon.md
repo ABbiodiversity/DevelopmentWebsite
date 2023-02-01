@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaHeterocolpos" class="pagination--pager" title="Lophozia heterocolpos">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlatygyriumRepens" class="pagination--pager" title="Platygyrium repens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TortellaTortuosa" class="pagination--pager" title="Tortella tortuosa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaCernua" class="pagination--pager" title="Tortula cernua">Next</a>
 
 <p>&nbsp;</p>
 

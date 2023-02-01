@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaIrrigua" class="pagination--pager" title="Scapania irrigua">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaHeterocolpos" class="pagination--pager" title="Lophozia heterocolpos">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumDivinumMedium" class="pagination--pager" title="Sphagnum divinum/medium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFimbriatum" class="pagination--pager" title="Sphagnum fimbriatum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAndersonianum" class="pagination--pager" title="Sphagnum andersonianum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumBalticum" class="pagination--pager" title="Sphagnum balticum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAngustifolium" class="pagination--pager" title="Sphagnum angustifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumBalticum" class="pagination--pager" title="Sphagnum balticum">Next</a>
 
 <p>&nbsp;</p>
 

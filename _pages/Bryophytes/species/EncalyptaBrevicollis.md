@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusSordidus" class="pagination--pager" title="Drepanocladus sordidus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaCiliata" class="pagination--pager" title="Encalypta ciliata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaAlpina" class="pagination--pager" title="Encalypta alpina">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaCiliata" class="pagination--pager" title="Encalypta ciliata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumCompactum" class="pagination--pager" title="Sphagnum compactum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumIsoviitae" class="pagination--pager" title="Sphagnum isoviitae">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFallax" class="pagination--pager" title="Sphagnum fallax">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFuscum" class="pagination--pager" title="Sphagnum fuscum">Next</a>
 
 <p>&nbsp;</p>
 

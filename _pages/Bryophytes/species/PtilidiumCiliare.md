@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumPratense" class="pagination--pager" title="Hypnum pratense">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BlepharostomaTrichophyllum" class="pagination--pager" title="Blepharostoma trichophyllum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PtilidiumCalifornicum" class="pagination--pager" title="Ptilidium californicum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PtilidiumPulcherrimum" class="pagination--pager" title="Ptilidium pulcherrimum">Next</a>
 
 <p>&nbsp;</p>
 

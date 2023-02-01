@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SplachnumSphaericum" class="pagination--pager" title="Splachnum sphaericum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TetraplodonMnioides" class="pagination--pager" title="Tetraplodon mnioides">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SyntrichiaNorvegicaRuralis" class="pagination--pager" title="Syntrichia norvegica/ruralis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TetraphisPellucida" class="pagination--pager" title="Tetraphis pellucida">Next</a>
 
 <p>&nbsp;</p>
 

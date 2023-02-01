@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CinclidiumStygium" class="pagination--pager" title="Cinclidium stygium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ConardiaCompacta" class="pagination--pager" title="Conardia compacta">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CinclidiumStygium" class="pagination--pager" title="Cinclidium stygium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ClimaciumDendroides" class="pagination--pager" title="Climacium dendroides">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SplachnumRubrum" class="pagination--pager" title="Splachnum rubrum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TayloriaSerrata" class="pagination--pager" title="Tayloria serrata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SplachnumRubrum" class="pagination--pager" title="Splachnum rubrum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/StraminergonStramineum" class="pagination--pager" title="Straminergon stramineum">Next</a>
 
 <p>&nbsp;</p>
 

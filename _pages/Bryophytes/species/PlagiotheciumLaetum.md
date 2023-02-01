@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PtychostomumPseudotriquetrum" class="pagination--pager" title="Ptychostomum pseudotriquetrum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbulaUnguiculata" class="pagination--pager" title="Barbula unguiculata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlagiotheciumDenticulatum" class="pagination--pager" title="Plagiothecium denticulatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlatydictyaJungermannioides" class="pagination--pager" title="Platydictya jungermannioides">Next</a>
 
 <p>&nbsp;</p>
 

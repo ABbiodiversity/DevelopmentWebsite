@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MniumThomsonii" class="pagination--pager" title="Mnium thomsonii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MyurellaSibirica" class="pagination--pager" title="Myurella sibirica">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/MniumThomsonii" class="pagination--pager" title="Mnium thomsonii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MyliaAnomala" class="pagination--pager" title="Mylia anomala">Next</a>
 
 <p>&nbsp;</p>
 

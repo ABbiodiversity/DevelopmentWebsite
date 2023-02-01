@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HerzogiellaTurfacea" class="pagination--pager" title="Herzogiella turfacea">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumSquarrosum" class="pagination--pager" title="Sphagnum squarrosum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PhyscomitriumPyriforme" class="pagination--pager" title="Physcomitrium pyriforme">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumCiliare" class="pagination--pager" title="Plagiomnium ciliare">Next</a>
 
 <p>&nbsp;</p>
 

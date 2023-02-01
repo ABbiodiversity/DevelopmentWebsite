@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFuscum" class="pagination--pager" title="Sphagnum fuscum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumBrevifolium" class="pagination--pager" title="Dicranum brevifolium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaBinsteadii" class="pagination--pager" title="Barbilophozia binsteadii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaKunzeana" class="pagination--pager" title="Barbilophozia kunzeana">Next</a>
 
 <p>&nbsp;</p>
 

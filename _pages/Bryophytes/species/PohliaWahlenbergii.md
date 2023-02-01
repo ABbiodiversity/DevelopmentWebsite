@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AneuraPinguis" class="pagination--pager" title="Aneura pinguis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumWulfianum" class="pagination--pager" title="Sphagnum wulfianum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PohliaProligera" class="pagination--pager" title="Pohlia proligera">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumAlpinum" class="pagination--pager" title="Polytrichastrum alpinum">Next</a>
 
 <p>&nbsp;</p>
 

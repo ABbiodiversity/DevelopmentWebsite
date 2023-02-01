@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PohliaProligera" class="pagination--pager" title="Pohlia proligera">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumLongisetum" class="pagination--pager" title="Polytrichastrum longisetum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PohliaWahlenbergii" class="pagination--pager" title="Pohlia wahlenbergii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumLongisetum" class="pagination--pager" title="Polytrichastrum longisetum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaMacounii" class="pagination--pager" title="Cephalozia macounii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CinclidiumStygium" class="pagination--pager" title="Cinclidium stygium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaMacounii" class="pagination--pager" title="Cephalozia macounii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaPleniceps" class="pagination--pager" title="Cephalozia pleniceps">Next</a>
 
 <p>&nbsp;</p>
 

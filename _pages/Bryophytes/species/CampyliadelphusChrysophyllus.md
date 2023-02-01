@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LeptobryumPyriforme" class="pagination--pager" title="Leptobryum pyriforme">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumLindbergii" class="pagination--pager" title="Hypnum lindbergii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSuecica" class="pagination--pager" title="Calypogeia suecica">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampyliumStellatum" class="pagination--pager" title="Campylium stellatum">Next</a>
 
 <p>&nbsp;</p>
 

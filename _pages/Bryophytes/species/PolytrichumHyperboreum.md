@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumSexangulare" class="pagination--pager" title="Polytrichastrum sexangulare">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumJensenii" class="pagination--pager" title="Polytrichum jensenii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumCommune" class="pagination--pager" title="Polytrichum commune">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumJensenii" class="pagination--pager" title="Polytrichum jensenii">Next</a>
 
 <p>&nbsp;</p>
 

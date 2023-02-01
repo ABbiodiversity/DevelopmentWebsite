@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaSchreberiana" class="pagination--pager" title="Dicranella schreberiana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EurhynchiastrumPulchellum" class="pagination--pager" title="Eurhynchiastrum pulchellum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumAffine" class="pagination--pager" title="Orthotrichum affine">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumLaevigatum" class="pagination--pager" title="Orthotrichum laevigatum">Next</a>
 
 <p>&nbsp;</p>
 

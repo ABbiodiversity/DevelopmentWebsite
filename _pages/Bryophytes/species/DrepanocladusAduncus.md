@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DitrichumFlexicaule" class="pagination--pager" title="Ditrichum flexicaule">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SyntrichiaNorvegicaRuralis" class="pagination--pager" title="Syntrichia norvegica/ruralis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DitrichumGracile" class="pagination--pager" title="Ditrichum gracile">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusPolygamus" class="pagination--pager" title="Drepanocladus polygamus">Next</a>
 
 <p>&nbsp;</p>
 

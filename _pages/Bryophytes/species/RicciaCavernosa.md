@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaChamedryfolia" class="pagination--pager" title="Riccardia chamedryfolia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RicciaFluitans" class="pagination--pager" title="Riccia fluitans">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaPalmata" class="pagination--pager" title="Riccardia palmata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RicciaFluitans" class="pagination--pager" title="Riccia fluitans">Next</a>
 
 <p>&nbsp;</p>
 

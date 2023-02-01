@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaMeylanii" class="pagination--pager" title="Calypogeia meylanii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHalleri" class="pagination--pager" title="Campylophyllum halleri">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSphagnicola" class="pagination--pager" title="Calypogeia sphagnicola">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampyliadelphusChrysophyllus" class="pagination--pager" title="Campyliadelphus chrysophyllus">Next</a>
 
 <p>&nbsp;</p>
 

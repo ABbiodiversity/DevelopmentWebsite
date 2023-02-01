@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TortulaTruncata" class="pagination--pager" title="Tortula truncata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TritomariaScitula" class="pagination--pager" title="Tritomaria scitula">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TritomariaExsectiformis" class="pagination--pager" title="Tritomaria exsectiformis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TritomariaScitula" class="pagination--pager" title="Tritomaria scitula">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumCiliare" class="pagination--pager" title="Plagiomnium ciliare">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaKunzeana" class="pagination--pager" title="Barbilophozia kunzeana">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumSexangulare" class="pagination--pager" title="Polytrichastrum sexangulare">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumHyperboreum" class="pagination--pager" title="Polytrichum hyperboreum">Next</a>
 
 <p>&nbsp;</p>
 

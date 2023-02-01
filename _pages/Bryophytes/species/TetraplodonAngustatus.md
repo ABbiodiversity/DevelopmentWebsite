@@ -36,7 +36,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisPulchella" class="pagination--pager" title="Isopterygiopsis pulchella">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/WarnstorfiaFluitans" class="pagination--pager" title="Warnstorfia fluitans">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TetraphisPellucida" class="pagination--pager" title="Tetraphis pellucida">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TetraplodonMnioides" class="pagination--pager" title="Tetraplodon mnioides">Next</a>
 
 <p>&nbsp;</p>
 

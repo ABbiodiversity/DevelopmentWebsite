@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/EntodonCladorrhizans" class="pagination--pager" title="Entodon cladorrhizans">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/FissidensBryoides" class="pagination--pager" title="Fissidens bryoides">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/EntodonCladorrhizans" class="pagination--pager" title="Entodon cladorrhizans">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EurhynchiastrumPulchellum" class="pagination--pager" title="Eurhynchiastrum pulchellum">Next</a>
 
 <p>&nbsp;</p>
 

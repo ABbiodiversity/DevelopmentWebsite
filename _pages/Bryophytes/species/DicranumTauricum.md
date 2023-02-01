@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumPallidisetum" class="pagination--pager" title="Dicranum pallidisetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DidymodonFallax" class="pagination--pager" title="Didymodon fallax">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranumSpadiceum" class="pagination--pager" title="Dicranum spadiceum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumUndulatum" class="pagination--pager" title="Dicranum undulatum">Next</a>
 
 <p>&nbsp;</p>
 

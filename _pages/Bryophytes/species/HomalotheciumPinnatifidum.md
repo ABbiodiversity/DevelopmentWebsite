@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HennediellaHeimii" class="pagination--pager" title="Hennediella heimii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HygrohypnumLuridum" class="pagination--pager" title="Hygrohypnum luridum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HerzogiellaTurfacea" class="pagination--pager" title="Herzogiella turfacea">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HygroamblystegiumVarium" class="pagination--pager" title="Hygroamblystegium varium">Next</a>
 
 <p>&nbsp;</p>
 

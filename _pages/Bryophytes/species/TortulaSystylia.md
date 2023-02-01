@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TortulaLeucostoma" class="pagination--pager" title="Tortula leucostoma">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TrichodonCylindrica" class="pagination--pager" title="Trichodon cylindricus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TortulaNevadensis" class="pagination--pager" title="Tortula nevadensis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaTruncata" class="pagination--pager" title="Tortula truncata">Next</a>
 
 <p>&nbsp;</p>
 

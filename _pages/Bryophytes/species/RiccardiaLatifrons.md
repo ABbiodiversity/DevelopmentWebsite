@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumEllipticum" class="pagination--pager" title="Plagiomnium ellipticum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumMedium" class="pagination--pager" title="Plagiomnium medium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaChamedryfolia" class="pagination--pager" title="Riccardia chamedryfolia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaPalmata" class="pagination--pager" title="Riccardia palmata">Next</a>
 
 <p>&nbsp;</p>
 

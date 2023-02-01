@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScorpidiumScorpioides" class="pagination--pager" title="Scorpidium scorpioides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAnnulatum" class="pagination--pager" title="Sphagnum annulatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ScorpidiumScorpioides" class="pagination--pager" title="Scorpidium scorpioides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAngustifolium" class="pagination--pager" title="Sphagnum angustifolium">Next</a>
 
 <p>&nbsp;</p>
 

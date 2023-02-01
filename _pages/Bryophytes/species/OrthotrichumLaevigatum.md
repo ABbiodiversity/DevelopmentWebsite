@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumAffine" class="pagination--pager" title="Orthotrichum affine">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumPallens" class="pagination--pager" title="Orthotrichum pallens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumElegansSpeciosum" class="pagination--pager" title="Orthotrichum elegans/speciosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumObtusifolium" class="pagination--pager" title="Orthotrichum obtusifolium">Next</a>
 
 <p>&nbsp;</p>
 

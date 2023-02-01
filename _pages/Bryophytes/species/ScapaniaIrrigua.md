@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumGirgensohnii" class="pagination--pager" title="Sphagnum girgensohnii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFallax" class="pagination--pager" title="Sphagnum fallax">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaGlaucocephala" class="pagination--pager" title="Scapania glaucocephala">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaMucronata" class="pagination--pager" title="Scapania mucronata">Next</a>
 
 <p>&nbsp;</p>
 

@@ -36,7 +36,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HamatocaulisVernicosus" class="pagination--pager" title="Hamatocaulis vernicosus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaPalmata" class="pagination--pager" title="Riccardia palmata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusAduncus" class="pagination--pager" title="Drepanocladus aduncus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusSordidus" class="pagination--pager" title="Drepanocladus sordidus">Next</a>
 
 <p>&nbsp;</p>
 

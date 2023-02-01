@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LeskeellaNervosa" class="pagination--pager" title="Leskeella nervosa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAlpestris" class="pagination--pager" title="Lophozia alpestris">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LeskeellaNervosa" class="pagination--pager" title="Leskeella nervosa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaHeterophylla" class="pagination--pager" title="Lophocolea heterophylla">Next</a>
 
 <p>&nbsp;</p>
 

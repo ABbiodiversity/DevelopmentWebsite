@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAlpestris" class="pagination--pager" title="Lophozia alpestris">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaBantriensis" class="pagination--pager" title="Lophozia bantriensis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAscendens" class="pagination--pager" title="Lophozia ascendens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaBantriensis" class="pagination--pager" title="Lophozia bantriensis">Next</a>
 
 <p>&nbsp;</p>
 

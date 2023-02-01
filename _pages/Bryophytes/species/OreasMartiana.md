@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/OncophorusVirens" class="pagination--pager" title="Oncophorus virens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotheciumChryseum" class="pagination--pager" title="Orthothecium chryseum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/OncophorusWahlenbergii" class="pagination--pager" title="Oncophorus wahlenbergii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotheciumChryseum" class="pagination--pager" title="Orthothecium chryseum">Next</a>
 
 <p>&nbsp;</p>
 

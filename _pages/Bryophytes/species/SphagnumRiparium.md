@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumAcutifolium" class="pagination--pager" title="Dicranum acutifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MyliaAnomala" class="pagination--pager" title="Mylia anomala">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumPlatyphyllum" class="pagination--pager" title="Sphagnum platyphyllum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumRubellum" class="pagination--pager" title="Sphagnum rubellum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MyliaAnomala" class="pagination--pager" title="Mylia anomala">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaHatcheri" class="pagination--pager" title="Barbilophozia hatcheri">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFimbriatum" class="pagination--pager" title="Sphagnum fimbriatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumGirgensohnii" class="pagination--pager" title="Sphagnum girgensohnii">Next</a>
 
 <p>&nbsp;</p>
 

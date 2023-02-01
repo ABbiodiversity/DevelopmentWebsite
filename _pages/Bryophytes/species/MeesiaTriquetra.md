@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaWenzelii" class="pagination--pager" title="Lophozia wenzelii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MicrobryumVlassovii" class="pagination--pager" title="Microbryum vlassovii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/MarchantiaPolymorpha" class="pagination--pager" title="Marchantia polymorpha">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MeesiaUliginosa" class="pagination--pager" title="Meesia uliginosa">Next</a>
 
 <p>&nbsp;</p>
 

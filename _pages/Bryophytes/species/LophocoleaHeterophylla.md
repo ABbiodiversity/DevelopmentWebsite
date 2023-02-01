@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ChiloscyphusPallescensPolyanthos" class="pagination--pager" title="Chiloscyphus pallescens/polyanthos">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DistichiumCapillaceum" class="pagination--pager" title="Distichium capillaceum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaBidentata" class="pagination--pager" title="Lophocolea bidentata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaMinor" class="pagination--pager" title="Lophocolea minor">Next</a>
 
 <p>&nbsp;</p>
 

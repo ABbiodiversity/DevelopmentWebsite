@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RhytidiumRugosum" class="pagination--pager" title="Rhytidium rugosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RicciaCavernosa" class="pagination--pager" title="Riccia cavernosa">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/RhytidiumRugosum" class="pagination--pager" title="Rhytidium rugosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaLatifrons" class="pagination--pager" title="Riccardia latifrons">Next</a>
 
 <p>&nbsp;</p>
 

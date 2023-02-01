@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaPleniceps" class="pagination--pager" title="Cephalozia pleniceps">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PylaisiaPolyantha" class="pagination--pager" title="Pylaisia polyantha">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaMuelleriana" class="pagination--pager" title="Calypogeia muelleriana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSphagnicola" class="pagination--pager" title="Calypogeia sphagnicola">Next</a>
 
 <p>&nbsp;</p>
 

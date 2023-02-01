@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/JungermanniaLanceolata" class="pagination--pager" title="Jungermannia lanceolata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LeskeaPolycarpa" class="pagination--pager" title="Leskea polycarpa">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/JungermanniaLanceolata" class="pagination--pager" title="Jungermannia lanceolata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LepidoziaReptans" class="pagination--pager" title="Lepidozia reptans">Next</a>
 
 <p>&nbsp;</p>
 

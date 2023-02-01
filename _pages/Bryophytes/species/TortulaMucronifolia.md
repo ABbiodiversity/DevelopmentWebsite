@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TortulaCernua" class="pagination--pager" title="Tortula cernua">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaNevadensis" class="pagination--pager" title="Tortula nevadensis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TortulaLeucostoma" class="pagination--pager" title="Tortula leucostoma">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaNevadensis" class="pagination--pager" title="Tortula nevadensis">Next</a>
 
 <p>&nbsp;</p>
 

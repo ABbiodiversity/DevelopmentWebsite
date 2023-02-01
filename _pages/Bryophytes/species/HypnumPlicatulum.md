@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumHolmenii" class="pagination--pager" title="Hypnum holmenii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumRecurvatum" class="pagination--pager" title="Hypnum recurvatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumPallescens" class="pagination--pager" title="Hypnum pallescens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumPratense" class="pagination--pager" title="Hypnum pratense">Next</a>
 
 <p>&nbsp;</p>
 

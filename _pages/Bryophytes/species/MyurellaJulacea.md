@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TritomariaExsectiformis" class="pagination--pager" title="Tritomaria exsectiformis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumPratense" class="pagination--pager" title="Hypnum pratense">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/MyliaAnomala" class="pagination--pager" title="Mylia anomala">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MyurellaSibirica" class="pagination--pager" title="Myurella sibirica">Next</a>
 
 <p>&nbsp;</p>
 

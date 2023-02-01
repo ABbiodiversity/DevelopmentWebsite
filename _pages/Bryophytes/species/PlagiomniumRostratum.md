@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PhyscomitriumPyriforme" class="pagination--pager" title="Physcomitrium pyriforme">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PogonatumDentatum" class="pagination--pager" title="Pogonatum dentatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumMedium" class="pagination--pager" title="Plagiomnium medium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiotheciumDenticulatum" class="pagination--pager" title="Plagiothecium denticulatum">Next</a>
 
 <p>&nbsp;</p>
 

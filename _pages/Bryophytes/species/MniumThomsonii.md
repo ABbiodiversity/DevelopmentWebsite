@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MniumMarginatum" class="pagination--pager" title="Mnium marginatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MoerckiaHibernica" class="pagination--pager" title="Moerckia hibernica">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/MniumSpinulosum" class="pagination--pager" title="Mnium spinulosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MoerckiaHibernica" class="pagination--pager" title="Moerckia hibernica">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumTauricum" class="pagination--pager" title="Dicranum tauricum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DidymodonRigidulus" class="pagination--pager" title="Didymodon rigidulus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranumUndulatum" class="pagination--pager" title="Dicranum undulatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DidymodonRigidulus" class="pagination--pager" title="Didymodon rigidulus">Next</a>
 
 <p>&nbsp;</p>
 

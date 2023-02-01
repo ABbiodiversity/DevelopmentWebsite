@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PtilidiumPulcherrimum" class="pagination--pager" title="Ptilidium pulcherrimum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaNutans" class="pagination--pager" title="Pohlia nutans">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaLaxa" class="pagination--pager" title="Lophozia laxa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaLongiflora" class="pagination--pager" title="Lophozia longiflora">Next</a>
 
 <p>&nbsp;</p>
 

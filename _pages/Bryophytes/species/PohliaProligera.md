@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PohliaBulbifera" class="pagination--pager" title="Pohlia bulbifera">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumAlpinum" class="pagination--pager" title="Polytrichastrum alpinum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PohliaNutans" class="pagination--pager" title="Pohlia nutans">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaWahlenbergii" class="pagination--pager" title="Pohlia wahlenbergii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CalliergonCordifolium" class="pagination--pager" title="Calliergon cordifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumElegansSpeciosum" class="pagination--pager" title="Orthotrichum elegans/speciosum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaPalustris" class="pagination--pager" title="Dicranella palustris">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranellaSubulata" class="pagination--pager" title="Dicranella subulata">Next</a>
 
 <p>&nbsp;</p>
 

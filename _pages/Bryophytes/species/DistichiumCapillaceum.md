@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaHeterophylla" class="pagination--pager" title="Lophocolea heterophylla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziellaAll" class="pagination--pager" title="Cephaloziella All">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DiplophyllumTaxifolium" class="pagination--pager" title="Diplophyllum taxifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DistichiumInclinatum" class="pagination--pager" title="Distichium inclinatum">Next</a>
 
 <p>&nbsp;</p>
 

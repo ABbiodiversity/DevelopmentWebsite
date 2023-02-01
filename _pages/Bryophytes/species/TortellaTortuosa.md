@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/BryumAll" class="pagination--pager" title="Bryum All">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CeratodonPurpureus" class="pagination--pager" title="Ceratodon purpureus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TortellaFragilis" class="pagination--pager" title="Tortella fragilis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaAcaulon" class="pagination--pager" title="Tortula acaulon">Next</a>
 
 <p>&nbsp;</p>
 

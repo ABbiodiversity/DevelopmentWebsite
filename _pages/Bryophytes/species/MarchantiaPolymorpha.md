@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SyntrichiaNorvegicaRuralis" class="pagination--pager" title="Syntrichia norvegica/ruralis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PtychostomumPseudotriquetrum" class="pagination--pager" title="Ptychostomum pseudotriquetrum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaWenzelii" class="pagination--pager" title="Lophozia wenzelii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MeesiaTriquetra" class="pagination--pager" title="Meesia triquetra">Next</a>
 
 <p>&nbsp;</p>
 

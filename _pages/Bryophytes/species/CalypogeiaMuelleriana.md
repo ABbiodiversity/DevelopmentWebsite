@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumPallescens" class="pagination--pager" title="Hypnum pallescens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumDivinumMedium" class="pagination--pager" title="Sphagnum divinum/medium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaMeylanii" class="pagination--pager" title="Calypogeia meylanii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaNeesiana" class="pagination--pager" title="Calypogeia neesiana">Next</a>
 
 <p>&nbsp;</p>
 

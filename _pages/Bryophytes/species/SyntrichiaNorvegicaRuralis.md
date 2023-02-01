@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusAduncus" class="pagination--pager" title="Drepanocladus aduncus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MarchantiaPolymorpha" class="pagination--pager" title="Marchantia polymorpha">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/StraminergonStramineum" class="pagination--pager" title="Straminergon stramineum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TayloriaSerrata" class="pagination--pager" title="Tayloria serrata">Next</a>
 
 <p>&nbsp;</p>
 

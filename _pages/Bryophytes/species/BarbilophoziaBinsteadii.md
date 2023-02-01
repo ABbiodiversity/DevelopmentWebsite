@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlatygyriumRepens" class="pagination--pager" title="Platygyrium repens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaAlpina" class="pagination--pager" title="Encalypta alpina">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaBarbata" class="pagination--pager" title="Barbilophozia barbata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaHatcheri" class="pagination--pager" title="Barbilophozia hatcheri">Next</a>
 
 <p>&nbsp;</p>
 

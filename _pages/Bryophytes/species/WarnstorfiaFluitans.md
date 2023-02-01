@@ -36,7 +36,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TetraplodonAngustatus" class="pagination--pager" title="Tetraplodon angustatus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PseudocampyliumRadicale" class="pagination--pager" title="Pseudocampylium radicale">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/UlotaCurvifolia" class="pagination--pager" title="Ulota curvifolia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/WeissiaControversa" class="pagination--pager" title="Weissia controversa">Next</a>
 
 <p>&nbsp;</p>
 

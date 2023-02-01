@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MniumLycopodioides" class="pagination--pager" title="Mnium lycopodioides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MniumThomsonii" class="pagination--pager" title="Mnium thomsonii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/MniumLycopodioides" class="pagination--pager" title="Mnium lycopodioides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MniumSpinulosum" class="pagination--pager" title="Mnium spinulosum">Next</a>
 
 <p>&nbsp;</p>
 

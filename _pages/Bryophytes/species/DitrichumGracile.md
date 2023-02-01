@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DistichiumInclinatum" class="pagination--pager" title="Distichium inclinatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusSordidus" class="pagination--pager" title="Drepanocladus sordidus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DitrichumFlexicaule" class="pagination--pager" title="Ditrichum flexicaule">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusAduncus" class="pagination--pager" title="Drepanocladus aduncus">Next</a>
 
 <p>&nbsp;</p>
 

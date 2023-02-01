@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/GymnocoleaInflata" class="pagination--pager" title="Gymnocolea inflata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HarpanthusDrummondii" class="pagination--pager" title="Harpanthus drummondii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/GymnocoleaInflata" class="pagination--pager" title="Gymnocolea inflata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HamatocaulisVernicosus" class="pagination--pager" title="Hamatocaulis vernicosus">Next</a>
 
 <p>&nbsp;</p>
 

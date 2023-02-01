@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumElongatum" class="pagination--pager" title="Dicranum elongatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/GeocalyxGraveolens" class="pagination--pager" title="Geocalyx graveolens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranumFragilifolium" class="pagination--pager" title="Dicranum fragilifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumGroenlandicum" class="pagination--pager" title="Dicranum groenlandicum">Next</a>
 
 <p>&nbsp;</p>
 

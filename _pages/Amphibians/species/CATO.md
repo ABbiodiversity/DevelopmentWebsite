@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Next</a>
 
 <p>&nbsp;</p>
 

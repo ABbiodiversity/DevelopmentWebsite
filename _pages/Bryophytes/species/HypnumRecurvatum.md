@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumPlicatulum" class="pagination--pager" title="Hypnum plicatulum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumVaucheri" class="pagination--pager" title="Hypnum vaucheri">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumPratense" class="pagination--pager" title="Hypnum pratense">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumRevolutum" class="pagination--pager" title="Hypnum revolutum">Next</a>
 
 <p>&nbsp;</p>
 

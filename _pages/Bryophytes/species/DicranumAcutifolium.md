@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RhytidiadelphusTriquetrus" class="pagination--pager" title="Rhytidiadelphus triquetrus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumRiparium" class="pagination--pager" title="Sphagnum riparium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranoweisiaCrispula" class="pagination--pager" title="Dicranoweisia crispula">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumBonjeanii" class="pagination--pager" title="Dicranum bonjeanii">Next</a>
 
 <p>&nbsp;</p>
 

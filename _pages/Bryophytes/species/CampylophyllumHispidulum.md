@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumRussowii" class="pagination--pager" title="Sphagnum russowii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiotheciumDenticulatum" class="pagination--pager" title="Plagiothecium denticulatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHalleri" class="pagination--pager" title="Campylophyllum halleri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CatoscopiumNigritum" class="pagination--pager" title="Catoscopium nigritum">Next</a>
 
 <p>&nbsp;</p>
 

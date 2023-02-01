@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumOntariense" class="pagination--pager" title="Dicranum ontariense">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumTauricum" class="pagination--pager" title="Dicranum tauricum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranumOntariense" class="pagination--pager" title="Dicranum ontariense">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumPolysetum" class="pagination--pager" title="Dicranum polysetum">Next</a>
 
 <p>&nbsp;</p>
 

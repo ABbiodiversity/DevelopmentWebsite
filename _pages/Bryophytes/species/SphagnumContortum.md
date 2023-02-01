@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PohliaLongicolla" class="pagination--pager" title="Pohlia longicolla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortulaHoppeana" class="pagination--pager" title="Tortula hoppeana">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumCompactum" class="pagination--pager" title="Sphagnum compactum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumDivinumMedium" class="pagination--pager" title="Sphagnum divinum/medium">Next</a>
 
 <p>&nbsp;</p>
 

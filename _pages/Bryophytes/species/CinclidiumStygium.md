@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaMacrostachya" class="pagination--pager" title="Cephalozia macrostachya">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CladopodiellaFluitans" class="pagination--pager" title="Cladopodiella fluitans">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ChiloscyphusPallescensPolyanthos" class="pagination--pager" title="Chiloscyphus pallescens/polyanthos">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CladopodiellaFluitans" class="pagination--pager" title="Cladopodiella fluitans">Next</a>
 
 <p>&nbsp;</p>
 

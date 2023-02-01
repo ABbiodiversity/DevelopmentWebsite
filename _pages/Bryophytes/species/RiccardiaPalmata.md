@@ -36,7 +36,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusPolygamus" class="pagination--pager" title="Drepanocladus polygamus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisPulchella" class="pagination--pager" title="Isopterygiopsis pulchella">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/RiccardiaLatifrons" class="pagination--pager" title="Riccardia latifrons">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RicciaCavernosa" class="pagination--pager" title="Riccia cavernosa">Next</a>
 
 <p>&nbsp;</p>
 

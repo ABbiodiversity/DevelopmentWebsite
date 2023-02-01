@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumDrummondii" class="pagination--pager" title="Plagiomnium drummondii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PleuroziumSchreberi" class="pagination--pager" title="Pleurozium schreberi">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaDegenii" class="pagination--pager" title="Scapania degenii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaIrrigua" class="pagination--pager" title="Scapania irrigua">Next</a>
 
 <p>&nbsp;</p>
 

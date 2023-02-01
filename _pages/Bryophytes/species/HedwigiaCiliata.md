@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HarpanthusDrummondii" class="pagination--pager" title="Harpanthus drummondii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HennediellaHeimii" class="pagination--pager" title="Hennediella heimii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HarpanthusDrummondii" class="pagination--pager" title="Harpanthus drummondii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HelodiumBlandowii" class="pagination--pager" title="Helodium blandowii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MeesiaUliginosa" class="pagination--pager" title="Meesia uliginosa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumUndulatum" class="pagination--pager" title="Dicranum undulatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumBalticum" class="pagination--pager" title="Sphagnum balticum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumCentrale" class="pagination--pager" title="Sphagnum centrale">Next</a>
 
 <p>&nbsp;</p>
 

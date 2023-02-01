@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumJuniperinum" class="pagination--pager" title="Polytrichum juniperinum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AbietinellaAbietina" class="pagination--pager" title="Abietinella abietina">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranumPallidisetum" class="pagination--pager" title="Dicranum pallidisetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumScoparium" class="pagination--pager" title="Dicranum scoparium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DiplophyllumTaxifolium" class="pagination--pager" title="Diplophyllum taxifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DitrichumGracile" class="pagination--pager" title="Ditrichum gracile">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DistichiumCapillaceum" class="pagination--pager" title="Distichium capillaceum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DitrichumFlexicaule" class="pagination--pager" title="Ditrichum flexicaule">Next</a>
 
 <p>&nbsp;</p>
 

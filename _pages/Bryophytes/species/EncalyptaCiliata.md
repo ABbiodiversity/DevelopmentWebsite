@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaBrevicollis" class="pagination--pager" title="Encalypta brevicollis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaRhaptocarpa" class="pagination--pager" title="Encalypta rhaptocarpa">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaBrevicollis" class="pagination--pager" title="Encalypta brevicollis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaProcera" class="pagination--pager" title="Encalypta procera">Next</a>
 
 <p>&nbsp;</p>
 

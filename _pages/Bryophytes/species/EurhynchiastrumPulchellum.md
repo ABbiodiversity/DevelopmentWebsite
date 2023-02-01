@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumElegansSpeciosum" class="pagination--pager" title="Orthotrichum elegans/speciosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HylocomiumSplendens" class="pagination--pager" title="Hylocomium splendens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/EntodonSchleicheri" class="pagination--pager" title="Entodon schleicheri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/FissidensBryoides" class="pagination--pager" title="Fissidens bryoides">Next</a>
 
 <p>&nbsp;</p>
 

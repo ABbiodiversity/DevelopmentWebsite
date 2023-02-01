@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumMedium" class="pagination--pager" title="Plagiomnium medium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BryoerythrophyllumRecurvirostrum" class="pagination--pager" title="Bryoerythrophyllum recurvirostrum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumRecurvatum" class="pagination--pager" title="Hypnum recurvatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumVaucheri" class="pagination--pager" title="Hypnum vaucheri">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAscendens" class="pagination--pager" title="Lophozia ascendens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/StraminergonStramineum" class="pagination--pager" title="Straminergon stramineum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PylaisiaPolyantha" class="pagination--pager" title="Pylaisia polyantha">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumMagnifolium" class="pagination--pager" title="Rhizomnium magnifolium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -29,7 +29,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumRecurvatum" class="pagination--pager" title="Hypnum recurvatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisMuelleriana" class="pagination--pager" title="Isopterygiopsis muelleriana">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumRevolutum" class="pagination--pager" title="Hypnum revolutum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisMuelleriana" class="pagination--pager" title="Isopterygiopsis muelleriana">Next</a>
 
 <p>&nbsp;</p>
 

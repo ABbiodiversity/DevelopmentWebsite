@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/OrthotheciumStrictum" class="pagination--pager" title="Orthothecium strictum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumContortum" class="pagination--pager" title="Sphagnum contortum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PohliaCruda" class="pagination--pager" title="Pohlia cruda">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaNutans" class="pagination--pager" title="Pohlia nutans">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PohliaWahlenbergii" class="pagination--pager" title="Pohlia wahlenbergii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScorpidiumRevolvens" class="pagination--pager" title="Scorpidium revolvens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumWarnstorfii" class="pagination--pager" title="Sphagnum warnstorfii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SplachnumAmpullaceum" class="pagination--pager" title="Splachnum ampullaceum">Next</a>
 
 <p>&nbsp;</p>
 

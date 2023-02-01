@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumDivinumMedium" class="pagination--pager" title="Sphagnum divinum/medium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSphagnicola" class="pagination--pager" title="Calypogeia sphagnicola">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumRecognitum" class="pagination--pager" title="Thuidium recognitum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TimmiaMegapolitana" class="pagination--pager" title="Timmia megapolitana">Next</a>
 
 <p>&nbsp;</p>
 

@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/StraminergonStramineum" class="pagination--pager" title="Straminergon stramineum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalliergonRichardsonii" class="pagination--pager" title="Calliergon richardsonii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PtilidiumPulcherrimum" class="pagination--pager" title="Ptilidium pulcherrimum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PtychostomumPseudotriquetrum" class="pagination--pager" title="Ptychostomum pseudotriquetrum">Next</a>
 
 <p>&nbsp;</p>
 

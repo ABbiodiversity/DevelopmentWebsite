@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaGrandiretis" class="pagination--pager" title="Lophozia grandiretis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaLaxa" class="pagination--pager" title="Lophozia laxa">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaHeterocolpos" class="pagination--pager" title="Lophozia heterocolpos">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaLaxa" class="pagination--pager" title="Lophozia laxa">Next</a>
 
 <p>&nbsp;</p>
 

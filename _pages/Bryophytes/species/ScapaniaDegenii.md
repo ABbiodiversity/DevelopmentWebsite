@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaCuspiduligera" class="pagination--pager" title="Scapania cuspiduligera">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaMucronata" class="pagination--pager" title="Scapania mucronata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaCuspiduligera" class="pagination--pager" title="Scapania cuspiduligera">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaGlaucocephala" class="pagination--pager" title="Scapania glaucocephala">Next</a>
 
 <p>&nbsp;</p>
 

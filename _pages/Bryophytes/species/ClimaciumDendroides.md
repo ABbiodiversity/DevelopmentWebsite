@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziellaAll" class="pagination--pager" title="Cephaloziella All">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumRecognitum" class="pagination--pager" title="Thuidium recognitum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CladopodiellaFluitans" class="pagination--pager" title="Cladopodiella fluitans">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ConardiaCompacta" class="pagination--pager" title="Conardia compacta">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumAndrogynum" class="pagination--pager" title="Aulacomnium androgynum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaAttenuata" class="pagination--pager" title="Barbilophozia attenuata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumPalustre" class="pagination--pager" title="Aulacomnium palustre">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaAttenuata" class="pagination--pager" title="Barbilophozia attenuata">Next</a>
 
 <p>&nbsp;</p>
 

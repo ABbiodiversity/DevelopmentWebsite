@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HomalotheciumPinnatifidum" class="pagination--pager" title="Homalothecium pinnatifidum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HygrohypnumOchraceum" class="pagination--pager" title="Hygrohypnum ochraceum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HygroamblystegiumVarium" class="pagination--pager" title="Hygroamblystegium varium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HygrohypnumOchraceum" class="pagination--pager" title="Hygrohypnum ochraceum">Next</a>
 
 <p>&nbsp;</p>
 

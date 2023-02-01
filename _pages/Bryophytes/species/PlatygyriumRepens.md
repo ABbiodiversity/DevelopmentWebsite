@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TortulaAcaulon" class="pagination--pager" title="Tortula acaulon">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaBinsteadii" class="pagination--pager" title="Barbilophozia binsteadii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlatydictyaJungermannioides" class="pagination--pager" title="Platydictya jungermannioides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PleuroziumSchreberi" class="pagination--pager" title="Pleurozium schreberi">Next</a>
 
 <p>&nbsp;</p>
 

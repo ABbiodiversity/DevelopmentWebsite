@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLunulifolia" class="pagination--pager" title="Cephalozia lunulifolia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MeesiaUliginosa" class="pagination--pager" title="Meesia uliginosa">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumTeres" class="pagination--pager" title="Sphagnum teres">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumWulfianum" class="pagination--pager" title="Sphagnum wulfianum">Next</a>
 
 <p>&nbsp;</p>
 

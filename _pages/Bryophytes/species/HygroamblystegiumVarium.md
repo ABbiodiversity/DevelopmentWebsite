@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumLindbergii" class="pagination--pager" title="Hypnum lindbergii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DitrichumFlexicaule" class="pagination--pager" title="Ditrichum flexicaule">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HomalotheciumPinnatifidum" class="pagination--pager" title="Homalothecium pinnatifidum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HygrohypnumLuridum" class="pagination--pager" title="Hygrohypnum luridum">Next</a>
 
 <p>&nbsp;</p>
 

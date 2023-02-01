@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/BartramiaIthyphylla" class="pagination--pager" title="Bartramia ithyphylla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BryohaplocladiumMicrophyllum" class="pagination--pager" title="Bryohaplocladium microphyllum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BartramiaIthyphylla" class="pagination--pager" title="Bartramia ithyphylla">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BlepharostomaTrichophyllum" class="pagination--pager" title="Blepharostoma trichophyllum">Next</a>
 
 <p>&nbsp;</p>
 

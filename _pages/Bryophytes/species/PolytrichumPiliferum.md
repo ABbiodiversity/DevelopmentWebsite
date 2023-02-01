@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumCuspidatum" class="pagination--pager" title="Plagiomnium cuspidatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaPleniceps" class="pagination--pager" title="Cephalozia pleniceps">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumJuniperinum" class="pagination--pager" title="Polytrichum juniperinum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumStrictum" class="pagination--pager" title="Polytrichum strictum">Next</a>
 
 <p>&nbsp;</p>
 

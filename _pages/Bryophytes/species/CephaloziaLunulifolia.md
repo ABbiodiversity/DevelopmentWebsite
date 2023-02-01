@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumStrictum" class="pagination--pager" title="Polytrichum strictum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumWarnstorfii" class="pagination--pager" title="Sphagnum warnstorfii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLoitlesbergeri" class="pagination--pager" title="Cephalozia loitlesbergeri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaMacounii" class="pagination--pager" title="Cephalozia macounii">Next</a>
 
 <p>&nbsp;</p>
 

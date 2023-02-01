@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TortellaTortuosa" class="pagination--pager" title="Tortella tortuosa">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LeptobryumPyriforme" class="pagination--pager" title="Leptobryum pyriforme">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziellaAll" class="pagination--pager" title="Cephaloziella All">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ChiloscyphusPallescensPolyanthos" class="pagination--pager" title="Chiloscyphus pallescens/polyanthos">Next</a>
 
 <p>&nbsp;</p>
 

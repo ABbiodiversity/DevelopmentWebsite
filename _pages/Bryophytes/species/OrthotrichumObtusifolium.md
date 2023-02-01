@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumPalustre" class="pagination--pager" title="Aulacomnium palustre">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumTeres" class="pagination--pager" title="Sphagnum teres">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumLaevigatum" class="pagination--pager" title="Orthotrichum laevigatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumPallens" class="pagination--pager" title="Orthotrichum pallens">Next</a>
 
 <p>&nbsp;</p>
 

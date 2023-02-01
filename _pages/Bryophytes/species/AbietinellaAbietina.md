@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranumPolysetum" class="pagination--pager" title="Dicranum polysetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TetraphisPellucida" class="pagination--pager" title="Tetraphis pellucida">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/WeissiaPhascopsis" class="pagination--pager" title="Weissia phascopsis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AmblystegiumSerpens" class="pagination--pager" title="Amblystegium serpens">Next</a>
 
 <p>&nbsp;</p>
 

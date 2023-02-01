@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlagiotheciumLaetum" class="pagination--pager" title="Plagiothecium laetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaMinor" class="pagination--pager" title="Lophocolea minor">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BarbulaConvoluta" class="pagination--pager" title="Barbula convoluta">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BartramiaIthyphylla" class="pagination--pager" title="Bartramia ithyphylla">Next</a>
 
 <p>&nbsp;</p>
 

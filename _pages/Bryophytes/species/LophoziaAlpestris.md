@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaBidentata" class="pagination--pager" title="Lophocolea bidentata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaBadensis" class="pagination--pager" title="Lophozia badensis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaMinor" class="pagination--pager" title="Lophocolea minor">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAscendens" class="pagination--pager" title="Lophozia ascendens">Next</a>
 
 <p>&nbsp;</p>
 

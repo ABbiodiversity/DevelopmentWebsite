@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/JamesoniellaAutumnalis" class="pagination--pager" title="Jamesoniella autumnalis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/FunariaHygrometrica" class="pagination--pager" title="Funaria hygrometrica">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaRutheana" class="pagination--pager" title="Lophozia rutheana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaWenzelii" class="pagination--pager" title="Lophozia wenzelii">Next</a>
 
 <p>&nbsp;</p>
 

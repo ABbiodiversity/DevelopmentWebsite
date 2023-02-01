@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaPalustris" class="pagination--pager" title="Dicranella palustris">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranellaVaria" class="pagination--pager" title="Dicranella varia">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaSchreberiana" class="pagination--pager" title="Dicranella schreberiana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranellaVaria" class="pagination--pager" title="Dicranella varia">Next</a>
 
 <p>&nbsp;</p>
 

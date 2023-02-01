@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/JaffueliobryumWrightii" class="pagination--pager" title="Jaffueliobryum wrightii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JungermanniaLanceolata" class="pagination--pager" title="Jungermannia lanceolata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/JamesoniellaAutumnalis" class="pagination--pager" title="Jamesoniella autumnalis">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JungermanniaLanceolata" class="pagination--pager" title="Jungermannia lanceolata">Next</a>
 
 <p>&nbsp;</p>
 

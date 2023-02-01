@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/AnastrophyllumHellerianum" class="pagination--pager" title="Anastrophyllum hellerianum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumGracile" class="pagination--pager" title="Rhizomnium gracile">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAlpestris" class="pagination--pager" title="Lophozia alpestris">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaBadensis" class="pagination--pager" title="Lophozia badensis">Next</a>
 
 <p>&nbsp;</p>
 

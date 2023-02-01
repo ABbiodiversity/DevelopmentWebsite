@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumRecognitum" class="pagination--pager" title="Thuidium recognitum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampyliumStellatum" class="pagination--pager" title="Campylium stellatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranumPolysetum" class="pagination--pager" title="Dicranum polysetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumSpadiceum" class="pagination--pager" title="Dicranum spadiceum">Next</a>
 
 <p>&nbsp;</p>
 

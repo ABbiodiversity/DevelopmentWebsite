@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TortulaSystylia" class="pagination--pager" title="Tortula systylia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BryumAll" class="pagination--pager" title="Bryum All">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TortulaTruncata" class="pagination--pager" title="Tortula truncata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TritomariaExsectiformis" class="pagination--pager" title="Tritomaria exsectiformis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DistichiumCapillaceum" class="pagination--pager" title="Distichium capillaceum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ClimaciumDendroides" class="pagination--pager" title="Climacium dendroides">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaPleniceps" class="pagination--pager" title="Cephalozia pleniceps">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CeratodonPurpureus" class="pagination--pager" title="Ceratodon purpureus">Next</a>
 
 <p>&nbsp;</p>
 

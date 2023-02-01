@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisMuelleriana" class="pagination--pager" title="Isopterygiopsis muelleriana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JungermanniaKarlMeulleri" class="pagination--pager" title="Jungermannia karl-meulleri">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisPulchella" class="pagination--pager" title="Isopterygiopsis pulchella">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JamesoniellaAutumnalis" class="pagination--pager" title="Jamesoniella autumnalis">Next</a>
 
 <p>&nbsp;</p>
 

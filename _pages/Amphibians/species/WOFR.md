@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/CSFR" class="pagination--pager" title="Rana luteiventris">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/NLFR" class="pagination--pager" title="Rana pipiens">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/PLSP" class="pagination--pager" title="Spea bombifrons">Next</a>
 
 <p>&nbsp;</p>
 

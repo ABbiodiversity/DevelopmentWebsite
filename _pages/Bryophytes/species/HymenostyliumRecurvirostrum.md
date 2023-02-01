@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/FissidensSublimbatus" class="pagination--pager" title="Fissidens sublimbatus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MeiotrichumLyalii" class="pagination--pager" title="Meiotrichum lyalii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HylocomiumSplendens" class="pagination--pager" title="Hylocomium splendens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumBambergeri" class="pagination--pager" title="Hypnum bambergeri">Next</a>
 
 <p>&nbsp;</p>
 

@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PterygoneurumSubsessile" class="pagination--pager" title="Pterygoneurum subsessile">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumMagnifolium" class="pagination--pager" title="Rhizomnium magnifolium">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PterygoneurumSubsessile" class="pagination--pager" title="Pterygoneurum subsessile">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PtilidiumCiliare" class="pagination--pager" title="Ptilidium ciliare">Next</a>
 
 <p>&nbsp;</p>
 

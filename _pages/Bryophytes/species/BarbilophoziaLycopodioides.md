@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaBarbata" class="pagination--pager" title="Barbilophozia barbata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaQuadriloba" class="pagination--pager" title="Barbilophozia quadriloba">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaKunzeana" class="pagination--pager" title="Barbilophozia kunzeana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaQuadriloba" class="pagination--pager" title="Barbilophozia quadriloba">Next</a>
 
 <p>&nbsp;</p>
 

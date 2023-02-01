@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumSquarrosum" class="pagination--pager" title="Sphagnum squarrosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaVentricosa" class="pagination--pager" title="Lophozia ventricosa">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/JaffueliobryumWrightii" class="pagination--pager" title="Jaffueliobryum wrightii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JungermanniaKarlMeulleri" class="pagination--pager" title="Jungermannia karl-meulleri">Next</a>
 
 <p>&nbsp;</p>
 

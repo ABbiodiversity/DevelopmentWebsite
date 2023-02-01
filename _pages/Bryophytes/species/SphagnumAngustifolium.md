@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaSphagnicola" class="pagination--pager" title="Calypogeia sphagnicola">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhytidiadelphusTriquetrus" class="pagination--pager" title="Rhytidiadelphus triquetrus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAndersonianum" class="pagination--pager" title="Sphagnum andersonianum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAnnulatum" class="pagination--pager" title="Sphagnum annulatum">Next</a>
 
 <p>&nbsp;</p>
 

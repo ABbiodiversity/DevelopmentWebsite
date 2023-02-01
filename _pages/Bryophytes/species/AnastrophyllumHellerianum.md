@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LepidoziaReptans" class="pagination--pager" title="Lepidozia reptans">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaAscendens" class="pagination--pager" title="Lophozia ascendens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/AmblystegiumSerpens" class="pagination--pager" title="Amblystegium serpens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AnastrophyllumMinutum" class="pagination--pager" title="Anastrophyllum minutum">Next</a>
 
 <p>&nbsp;</p>
 

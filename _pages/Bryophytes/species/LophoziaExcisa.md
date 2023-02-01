@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/GeocalyxGraveolens" class="pagination--pager" title="Geocalyx graveolens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SanioniaUncinata" class="pagination--pager" title="Sanionia uncinata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaCapitata" class="pagination--pager" title="Lophozia capitata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaGillmanii" class="pagination--pager" title="Lophozia gillmanii">Next</a>
 
 <p>&nbsp;</p>
 

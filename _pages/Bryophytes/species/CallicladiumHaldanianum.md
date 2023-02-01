@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/BucklandiellaSudetica" class="pagination--pager" title="Bucklandiella sudetica">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalliergonellaCuspidata" class="pagination--pager" title="Calliergonella cuspidata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BucklandiellaSudetica" class="pagination--pager" title="Bucklandiella sudetica">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CalliergonCordifolium" class="pagination--pager" title="Calliergon cordifolium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophocoleaMinor" class="pagination--pager" title="Lophocolea minor">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ChiloscyphusPallescensPolyanthos" class="pagination--pager" title="Chiloscyphus pallescens/polyanthos">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/BarbilophoziaQuadriloba" class="pagination--pager" title="Barbilophozia quadriloba">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/BarbulaUnguiculata" class="pagination--pager" title="Barbula unguiculata">Next</a>
 
 <p>&nbsp;</p>
 

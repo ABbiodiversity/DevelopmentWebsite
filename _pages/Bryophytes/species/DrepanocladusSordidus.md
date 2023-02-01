@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DitrichumGracile" class="pagination--pager" title="Ditrichum gracile">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaBrevicollis" class="pagination--pager" title="Encalypta brevicollis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DrepanocladusPolygamus" class="pagination--pager" title="Drepanocladus polygamus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/EncalyptaAlpina" class="pagination--pager" title="Encalypta alpina">Next</a>
 
 <p>&nbsp;</p>
 

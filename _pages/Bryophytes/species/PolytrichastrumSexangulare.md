@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumLongisetum" class="pagination--pager" title="Polytrichastrum longisetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumHyperboreum" class="pagination--pager" title="Polytrichum hyperboreum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichastrumLongisetum" class="pagination--pager" title="Polytrichastrum longisetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumCommune" class="pagination--pager" title="Polytrichum commune">Next</a>
 
 <p>&nbsp;</p>
 

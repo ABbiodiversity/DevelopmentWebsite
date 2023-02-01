@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumHyperboreum" class="pagination--pager" title="Polytrichum hyperboreum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PreissiaQuadrata" class="pagination--pager" title="Preissia quadrata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumHyperboreum" class="pagination--pager" title="Polytrichum hyperboreum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PolytrichumJuniperinum" class="pagination--pager" title="Polytrichum juniperinum">Next</a>
 
 <p>&nbsp;</p>
 

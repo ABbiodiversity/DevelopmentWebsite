@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHalleri" class="pagination--pager" title="Campylophyllum halleri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaBicuspidata" class="pagination--pager" title="Cephalozia bicuspidata">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CampylophyllumHispidulum" class="pagination--pager" title="Campylophyllum hispidulum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaBicuspidata" class="pagination--pager" title="Cephalozia bicuspidata">Next</a>
 
 <p>&nbsp;</p>
 

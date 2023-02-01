@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MniumSpinulosum" class="pagination--pager" title="Mnium spinulosum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AulacomniumPalustre" class="pagination--pager" title="Aulacomnium palustre">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumMagnifolium" class="pagination--pager" title="Rhizomnium magnifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhodobryumOntariense" class="pagination--pager" title="Rhodobryum ontariense">Next</a>
 
 <p>&nbsp;</p>
 

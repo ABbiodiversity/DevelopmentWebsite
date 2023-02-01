@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DidymodonRigidulus" class="pagination--pager" title="Didymodon rigidulus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DistichiumInclinatum" class="pagination--pager" title="Distichium inclinatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DidymodonRigidulus" class="pagination--pager" title="Didymodon rigidulus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DistichiumCapillaceum" class="pagination--pager" title="Distichium capillaceum">Next</a>
 
 <p>&nbsp;</p>
 

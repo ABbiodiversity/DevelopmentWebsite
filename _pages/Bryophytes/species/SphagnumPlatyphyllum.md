@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumObtusum" class="pagination--pager" title="Sphagnum obtusum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumRubellum" class="pagination--pager" title="Sphagnum rubellum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumObtusum" class="pagination--pager" title="Sphagnum obtusum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumRiparium" class="pagination--pager" title="Sphagnum riparium">Next</a>
 
 <p>&nbsp;</p>
 

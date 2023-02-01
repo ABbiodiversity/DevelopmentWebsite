@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScorpidiumRevolvens" class="pagination--pager" title="Scorpidium revolvens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/ScapaniaIrrigua" class="pagination--pager" title="Scapania irrigua">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFuscum" class="pagination--pager" title="Sphagnum fuscum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumIsoviitae" class="pagination--pager" title="Sphagnum isoviitae">Next</a>
 
 <p>&nbsp;</p>
 

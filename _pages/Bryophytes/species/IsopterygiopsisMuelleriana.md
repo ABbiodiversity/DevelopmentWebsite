@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumVaucheri" class="pagination--pager" title="Hypnum vaucheri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/JaffueliobryumWrightii" class="pagination--pager" title="Jaffueliobryum wrightii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumVaucheri" class="pagination--pager" title="Hypnum vaucheri">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/IsopterygiopsisPulchella" class="pagination--pager" title="Isopterygiopsis pulchella">Next</a>
 
 <p>&nbsp;</p>
 

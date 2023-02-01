@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumMagnifolium" class="pagination--pager" title="Rhizomnium magnifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhytidiumRugosum" class="pagination--pager" title="Rhytidium rugosum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumPseudopunctatum" class="pagination--pager" title="Rhizomnium pseudopunctatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhytidiadelphusTriquetrus" class="pagination--pager" title="Rhytidiadelphus triquetrus">Next</a>
 
 <p>&nbsp;</p>
 

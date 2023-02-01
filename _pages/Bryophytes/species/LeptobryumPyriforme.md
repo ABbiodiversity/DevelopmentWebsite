@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CeratodonPurpureus" class="pagination--pager" title="Ceratodon purpureus">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CampyliadelphusChrysophyllus" class="pagination--pager" title="Campyliadelphus chrysophyllus">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LepidoziaReptans" class="pagination--pager" title="Lepidozia reptans">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LeptodictyumRiparium" class="pagination--pager" title="Leptodictyum riparium">Next</a>
 
 <p>&nbsp;</p>
 

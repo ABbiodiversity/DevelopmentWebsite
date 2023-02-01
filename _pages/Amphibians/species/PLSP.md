@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/GPTO" class="pagination--pager" title="Anaxyrus cognatus">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/NLFR" class="pagination--pager" title="Rana pipiens">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/WOFR" class="pagination--pager" title="Rana sylvatica">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/GPTO" class="pagination--pager" title="Anaxyrus cognatus">Next</a>
 
 <p>&nbsp;</p>
 

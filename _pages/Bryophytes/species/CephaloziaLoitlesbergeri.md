@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLeucantha" class="pagination--pager" title="Cephalozia leucantha">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaMacounii" class="pagination--pager" title="Cephalozia macounii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLeucantha" class="pagination--pager" title="Cephalozia leucantha">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLunulifolia" class="pagination--pager" title="Cephalozia lunulifolia">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PlatydictyaJungermannioides" class="pagination--pager" title="Platydictya jungermannioides">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PohliaWahlenbergii" class="pagination--pager" title="Pohlia wahlenbergii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/AndreaeaRupestris" class="pagination--pager" title="Andreaea rupestris">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AtrichumSelwynii" class="pagination--pager" title="Atrichum selwynii">Next</a>
 
 <p>&nbsp;</p>
 

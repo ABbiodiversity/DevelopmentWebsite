@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/OreasMartiana" class="pagination--pager" title="Oreas martiana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotrichumAffine" class="pagination--pager" title="Orthotrichum affine">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/OreasMartiana" class="pagination--pager" title="Oreas martiana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/OrthotheciumStrictum" class="pagination--pager" title="Orthothecium strictum">Next</a>
 
 <p>&nbsp;</p>
 

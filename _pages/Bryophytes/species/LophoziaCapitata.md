@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaBicrenata" class="pagination--pager" title="Lophozia bicrenata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaGillmanii" class="pagination--pager" title="Lophozia gillmanii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/LophoziaBicrenata" class="pagination--pager" title="Lophozia bicrenata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/LophoziaExcisa" class="pagination--pager" title="Lophozia excisa">Next</a>
 
 <p>&nbsp;</p>
 

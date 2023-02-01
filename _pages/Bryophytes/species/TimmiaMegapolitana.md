@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ThuidiumDelicatulum" class="pagination--pager" title="Thuidium delicatulum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TortellaFragilis" class="pagination--pager" title="Tortella fragilis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/TimmiaAustriaca" class="pagination--pager" title="Timmia austriaca">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/TomentypnumFalcifolium" class="pagination--pager" title="Tomentypnum falcifolium">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/MyurellaJulacea" class="pagination--pager" title="Myurella julacea">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PtilidiumCiliare" class="pagination--pager" title="Ptilidium ciliare">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumPlicatulum" class="pagination--pager" title="Hypnum plicatulum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumRecurvatum" class="pagination--pager" title="Hypnum recurvatum">Next</a>
 
 <p>&nbsp;</p>
 

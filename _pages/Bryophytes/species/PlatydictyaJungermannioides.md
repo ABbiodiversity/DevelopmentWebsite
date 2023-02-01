@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/PseudocampyliumRadicale" class="pagination--pager" title="Pseudocampylium radicale">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/AneuraPinguis" class="pagination--pager" title="Aneura pinguis">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PlagiotheciumLaetum" class="pagination--pager" title="Plagiothecium laetum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlatygyriumRepens" class="pagination--pager" title="Platygyrium repens">Next</a>
 
 <p>&nbsp;</p>
 

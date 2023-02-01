@@ -64,7 +64,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/CalypogeiaNeesiana" class="pagination--pager" title="Calypogeia neesiana">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/PlagiomniumDrummondii" class="pagination--pager" title="Plagiomnium drummondii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/PtychostomumPseudotriquetrum" class="pagination--pager" title="Ptychostomum pseudotriquetrum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumGracile" class="pagination--pager" title="Rhizomnium gracile">Next</a>
 
 <p>&nbsp;</p>
 

@@ -43,7 +43,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/TomentypnumFalcifolium" class="pagination--pager" title="Tomentypnum falcifolium">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumPallescens" class="pagination--pager" title="Hypnum pallescens">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaCatenulata" class="pagination--pager" title="Cephalozia catenulata">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/CephaloziaLacinulata" class="pagination--pager" title="Cephalozia lacinulata">Next</a>
 
 <p>&nbsp;</p>
 

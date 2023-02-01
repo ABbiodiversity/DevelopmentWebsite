@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaVaria" class="pagination--pager" title="Dicranella varia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumBonjeanii" class="pagination--pager" title="Dicranum bonjeanii">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/DicranellaVaria" class="pagination--pager" title="Dicranella varia">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/DicranumAcutifolium" class="pagination--pager" title="Dicranum acutifolium">Next</a>
 
 <p>&nbsp;</p>
 

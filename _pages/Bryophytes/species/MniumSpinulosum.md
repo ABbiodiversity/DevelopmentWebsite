@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HylocomiumSplendens" class="pagination--pager" title="Hylocomium splendens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/RhizomniumPseudopunctatum" class="pagination--pager" title="Rhizomnium pseudopunctatum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/MniumMarginatum" class="pagination--pager" title="Mnium marginatum">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/MniumThomsonii" class="pagination--pager" title="Mnium thomsonii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -22,7 +22,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/ScorpidiumCossonii" class="pagination--pager" title="Scorpidium cossonii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAndersonianum" class="pagination--pager" title="Sphagnum andersonianum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/ScorpidiumRevolvens" class="pagination--pager" title="Scorpidium revolvens">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumAndersonianum" class="pagination--pager" title="Sphagnum andersonianum">Next</a>
 
 <p>&nbsp;</p>
 

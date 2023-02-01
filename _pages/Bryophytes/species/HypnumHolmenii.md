@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Bryophytes/species/HypnumCupressiforme" class="pagination--pager" title="Hypnum cupressiforme">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumPlicatulum" class="pagination--pager" title="Hypnum plicatulum">Next</a>
+<a href="/DevelopmentWebsite/Bryophytes/species/HypnumCupressiforme" class="pagination--pager" title="Hypnum cupressiforme">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/HypnumLindbergii" class="pagination--pager" title="Hypnum lindbergii">Next</a>
 
 <p>&nbsp;</p>
 
