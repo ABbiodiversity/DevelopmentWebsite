@@ -1,5 +1,5 @@
 ---
-title: "Rana sylvatica"
+title: "Rana sylvatica"
 layout: single
 classes: wide
 permalink: /Amphibians/species/WOFR
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/CSFR" class="pagination--pager" title="Rana luteiventris">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/CSFR" class="pagination--pager" title="Rana luteiventris">Next</a>
 
 <p>&nbsp;</p>
 

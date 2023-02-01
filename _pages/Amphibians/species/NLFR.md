@@ -1,5 +1,5 @@
 ---
-title: "Rana pipiens"
+title: "Rana pipiens"
 layout: single
 classes: wide
 permalink: /Amphibians/species/NLFR
@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/PLSP" class="pagination--pager" title="Spea bombifrons">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/PLSP" class="pagination--pager" title="Spea bombifrons">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Next</a>
 
 <p>&nbsp;</p>
 

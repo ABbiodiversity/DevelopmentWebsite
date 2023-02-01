@@ -1,5 +1,5 @@
 ---
-title: "Anaxyrus cognatus"
+title: "Anaxyrus cognatus"
 layout: single
 classes: wide
 permalink: /Amphibians/species/GPTO
@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/CSFR" class="pagination--pager" title="Rana luteiventris">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/PLSP" class="pagination--pager" title="Spea bombifrons">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/CSFR" class="pagination--pager" title="Rana luteiventris">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/PLSP" class="pagination--pager" title="Spea bombifrons">Next</a>
 
 <p>&nbsp;</p>
 

@@ -4786,23 +4786,24 @@ Bryophytes:
       - title: "Trichodon cylindricus"
         url: /Bryophytes/species/TrichodonCylindrica
 
+
 # Amphibians sidebar 
 Amphibians:
   - title: Species 
     children:
-      - title: "Pseudacris maculata"
+      - title: "Pseudacris maculata"
         url: /Amphibians/species/BCFR
-      - title: "Bufo hemiophrys"
+      - title: "Bufo hemiophrys"
         url: /Amphibians/species/CATO
-      - title: "Bufo boreas"
+      - title: "Bufo boreas"
         url: /Amphibians/species/WETO
-      - title: "Rana sylvatica"
+      - title: "Rana sylvatica"
         url: /Amphibians/species/WOFR
-      - title: "Rana luteiventris"
+      - title: "Rana luteiventris"
         url: /Amphibians/species/CSFR
-      - title: "Anaxyrus cognatus"
+      - title: "Anaxyrus cognatus"
         url: /Amphibians/species/GPTO
-      - title: "Spea bombifrons"
+      - title: "Spea bombifrons"
         url: /Amphibians/species/PLSP
-      - title: "Rana pipiens"
+      - title: "Rana pipiens"
         url: /Amphibians/species/NLFR

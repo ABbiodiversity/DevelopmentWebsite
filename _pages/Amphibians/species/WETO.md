@@ -1,5 +1,5 @@
 ---
-title: "Bufo boreas"
+title: "Bufo boreas"
 layout: single
 classes: wide
 permalink: /Amphibians/species/WETO
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/CATO" class="pagination--pager" title="Bufo hemiophrys">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/WOFR" class="pagination--pager" title="Rana sylvatica">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/CATO" class="pagination--pager" title="Bufo hemiophrys">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/WOFR" class="pagination--pager" title="Rana sylvatica">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Rana luteiventris"
+title: "Rana luteiventris"
 layout: single
 classes: wide
 permalink: /Amphibians/species/CSFR
@@ -15,7 +15,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/WOFR" class="pagination--pager" title="Rana sylvatica">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/GPTO" class="pagination--pager" title="Anaxyrus cognatus">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/WOFR" class="pagination--pager" title="Rana sylvatica">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/GPTO" class="pagination--pager" title="Anaxyrus cognatus">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,7 +1,7 @@
 #
 # Title: Creation of species pages
 # Created: April 25th, 2022
-# Last Updated: January 12th, 2023
+# Last Updated: January 31st, 2023
 # Author: Brandon Allen
 # Objectives: For each species we have data for, we need to create a custom page. This needs to include the following:
 # 1) All necessary figures
@@ -59,7 +59,8 @@ taxon.paths <- drive_ls(path = as_id("1By3V6hOn3nP2lo_GqPNDNplIsltb0a_s"))
 # Update the lookup table so we have the appropriate id for each species
 species.lookup$PathID <- NA
 
-for (taxon in unique(species.lookup$Taxon)) {
+# Ignore habitat elements as the predictions were off
+for (taxon in unique(species.lookup$Taxon)[-6]) {
   
   species.temp <- drive_ls(path = as_id(as.character(taxon.paths[taxon.paths$name == taxon, "id"])))
   

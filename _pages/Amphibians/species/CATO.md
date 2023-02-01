@@ -1,5 +1,5 @@
 ---
-title: "Bufo hemiophrys"
+title: "Bufo hemiophrys"
 layout: single
 classes: wide
 permalink: /Amphibians/species/CATO
@@ -50,7 +50,7 @@ sidebar:
 </a>
 
 
-<a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Next</a>
+<a href="/DevelopmentWebsite/Amphibians/species/BCFR" class="pagination--pager" title="Pseudacris maculata">Previous</a> <a href="/DevelopmentWebsite/Amphibians/species/WETO" class="pagination--pager" title="Bufo boreas">Next</a>
 
 <p>&nbsp;</p>
 
