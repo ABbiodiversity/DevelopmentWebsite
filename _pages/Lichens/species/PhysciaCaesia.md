@@ -29,6 +29,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1VjZQafwpfBqFtJ02Y5VHQ7mRxgq8h3H-">
+<img src="https://drive.google.com/uc?export=view&id=1VjZQafwpfBqFtJ02Y5VHQ7mRxgq8h3H-" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1FPErztayJ9jjwB2MiQLpRyovaBUgBfgL">
+<img src="https://drive.google.com/uc?export=view&id=1FPErztayJ9jjwB2MiQLpRyovaBUgBfgL" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Lichens/species/PhysciaAipoliaAlnophila" class="pagination--pager" title="Physcia aipolia/alnophila">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/PhysciaDimidiata" class="pagination--pager" title="Physcia dimidiata">Next</a>
 
 <p>&nbsp;</p>

@@ -43,6 +43,13 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1dN6WPtPJxgCRGEVwS2ZRCH-_tW8OhfVu">
+<img src="https://drive.google.com/uc?export=view&id=1dN6WPtPJxgCRGEVwS2ZRCH-_tW8OhfVu" height = "500" width = "1000">
+</a>
+
+
 <h2>Prediction Maps</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1YaXl6p9llOnLEb1ELT09tUqzaeq10Kl3">

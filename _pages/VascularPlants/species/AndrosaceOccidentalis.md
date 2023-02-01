@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1rIIjZSEfW3nRqfPNivfrVLyUO1q8B0K8">
+<img src="https://drive.google.com/uc?export=view&id=1rIIjZSEfW3nRqfPNivfrVLyUO1q8B0K8" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1Wq7GR7J-NoqzQwuuC3v62WkpitleBMHB">
+<img src="https://drive.google.com/uc?export=view&id=1Wq7GR7J-NoqzQwuuC3v62WkpitleBMHB" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceChamaejasme" class="pagination--pager" title="Androsace chamaejasme">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AndrosaceSeptentrionalis" class="pagination--pager" title="Androsace septentrionalis">Next</a>
 
 <p>&nbsp;</p>

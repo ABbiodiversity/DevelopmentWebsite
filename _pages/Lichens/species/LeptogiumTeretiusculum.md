@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1s-VdbHRDdh8p7LtjW9yi1DNEGtaTme6B">
+<img src="https://drive.google.com/uc?export=view&id=1s-VdbHRDdh8p7LtjW9yi1DNEGtaTme6B" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1U3Sf1Yc3ib_k3Fntw4PxtSOusvhFUZGR">
+<img src="https://drive.google.com/uc?export=view&id=1U3Sf1Yc3ib_k3Fntw4PxtSOusvhFUZGR" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Lichens/species/LeptogiumTenuissimum" class="pagination--pager" title="Leptogium tenuissimum">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/LethariaColumbiana" class="pagination--pager" title="Letharia columbiana">Next</a>
 
 <p>&nbsp;</p>

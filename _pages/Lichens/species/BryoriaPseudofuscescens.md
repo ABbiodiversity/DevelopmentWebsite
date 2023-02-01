@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1rdExGtzjAvGmby78CY13PVG2uX0_e8CG">
+<img src="https://drive.google.com/uc?export=view&id=1rdExGtzjAvGmby78CY13PVG2uX0_e8CG" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1WWh4IG9oLr5M6z4-myxd1Kc0EoCZFVAJ">
+<img src="https://drive.google.com/uc?export=view&id=1WWh4IG9oLr5M6z4-myxd1Kc0EoCZFVAJ" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Lichens/species/BryoriaPikei" class="pagination--pager" title="Bryoria pikei">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/BryoriaSimplicior" class="pagination--pager" title="Bryoria simplicior">Next</a>
 
 <p>&nbsp;</p>

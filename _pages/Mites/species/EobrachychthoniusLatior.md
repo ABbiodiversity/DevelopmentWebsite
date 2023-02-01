@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=12C1ZtXxM6yKN8sQxpGRmUpXvSQN4hWCX">
+<img src="https://drive.google.com/uc?export=view&id=12C1ZtXxM6yKN8sQxpGRmUpXvSQN4hWCX" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=175vaBMznSaMM58aW2mka6JuHYBSwIXb_">
+<img src="https://drive.google.com/uc?export=view&id=175vaBMznSaMM58aW2mka6JuHYBSwIXb_" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Mites/species/EniochthoniusSp1LML" class="pagination--pager" title="Eniochthonius sp. 1 LML">Previous</a> <a href="/DevelopmentWebsite/Mites/species/EpidamaeusArcticola" class="pagination--pager" title="Epidamaeus arcticola">Next</a>
 
 <p>&nbsp;</p>

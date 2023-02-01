@@ -22,6 +22,13 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1mGWWLy7_MjXYX3U1z3w4rGxW2avuVhuo">
+<img src="https://drive.google.com/uc?export=view&id=1mGWWLy7_MjXYX3U1z3w4rGxW2avuVhuo" height = "500" width = "1000">
+</a>
+
+
 <h2>Soil Use Availability</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1hT3mOt5xCWqEfxRLcpoKAbJqPdMvMwZQ">

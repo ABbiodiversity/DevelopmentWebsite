@@ -29,6 +29,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1jjirjYZ4kK4ch0_wd8yPqcQCDeppCcJG">
+<img src="https://drive.google.com/uc?export=view&id=1jjirjYZ4kK4ch0_wd8yPqcQCDeppCcJG" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1MppVA3RqjL9Z7BluWQ_mJChXSRD5_w9D">
+<img src="https://drive.google.com/uc?export=view&id=1MppVA3RqjL9Z7BluWQ_mJChXSRD5_w9D" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/VascularPlants/species/Packera" class="pagination--pager" title="Packera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraIndecora" class="pagination--pager" title="Packera indecora">Next</a>
 
 <p>&nbsp;</p>

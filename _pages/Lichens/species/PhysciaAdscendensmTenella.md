@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1VRpac_vNdaS9H-kf9_BBAnVA7OZZKj_U">
+<img src="https://drive.google.com/uc?export=view&id=1VRpac_vNdaS9H-kf9_BBAnVA7OZZKj_U" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1T9_ij-qmTOhTonQJsrXLOwGtxe5rfpdn">
+<img src="https://drive.google.com/uc?export=view&id=1T9_ij-qmTOhTonQJsrXLOwGtxe5rfpdn" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Lichens/species/PhysciaAdscendens" class="pagination--pager" title="Physcia adscendens">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/PhysciaAipoliaAlnophila" class="pagination--pager" title="Physcia aipolia/alnophila">Next</a>
 
 <p>&nbsp;</p>

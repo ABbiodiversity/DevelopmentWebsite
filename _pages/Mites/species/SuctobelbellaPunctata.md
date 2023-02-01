@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1eTRnIClSXjA2cff75vHNWrdYGu3leycx">
+<img src="https://drive.google.com/uc?export=view&id=1eTRnIClSXjA2cff75vHNWrdYGu3leycx" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1vGN09qtOBuiVrmUepr-djHwTtxZsY7lT">
+<img src="https://drive.google.com/uc?export=view&id=1vGN09qtOBuiVrmUepr-djHwTtxZsY7lT" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Mites/species/SphaerozetesSp1DEW" class="pagination--pager" title="Sphaerozetes sp. 1 DEW">Previous</a> <a href="/DevelopmentWebsite/Mites/species/SuctobelbellaSp2DEW" class="pagination--pager" title="Suctobelbella sp. 2 DEW">Next</a>
 
 <p>&nbsp;</p>

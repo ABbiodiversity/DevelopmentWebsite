@@ -29,6 +29,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1aLI9ahiENu1yuqD1chEg6Exk7rZOgirR">
+<img src="https://drive.google.com/uc?export=view&id=1aLI9ahiENu1yuqD1chEg6Exk7rZOgirR" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1QmoIwYkTkOucEUYveqz1kgRIZL-SsXJ4">
+<img src="https://drive.google.com/uc?export=view&id=1QmoIwYkTkOucEUYveqz1kgRIZL-SsXJ4" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/VascularPlants/species/LappulaOccidentalis" class="pagination--pager" title="Lappula occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Larix laricina">Next</a>
 
 <p>&nbsp;</p>

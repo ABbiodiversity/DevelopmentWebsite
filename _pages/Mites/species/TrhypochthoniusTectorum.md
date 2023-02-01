@@ -15,10 +15,31 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=15jvSqoZNKL7dx6XZirf49oLp5p3SWbKb">
+<img src="https://drive.google.com/uc?export=view&id=15jvSqoZNKL7dx6XZirf49oLp5p3SWbKb" height = "500" width = "1000">
+</a>
+
+
 <h2>Soil Use Availability</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1NIV9-5dc90JzDSst6YTOfQfsRsRFHJxp">
 <img src="https://drive.google.com/uc?export=view&id=1NIV9-5dc90JzDSst6YTOfQfsRsRFHJxp" height = "500" width = "1000">
+</a>
+
+
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1LgGDRpZ7hJFsXm_l58MwWApEZhrYrKBa">
+<img src="https://drive.google.com/uc?export=view&id=1LgGDRpZ7hJFsXm_l58MwWApEZhrYrKBa" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1rzaBvtDWoaLICim98nhjuBkq4Bm6A8h8">
+<img src="https://drive.google.com/uc?export=view&id=1rzaBvtDWoaLICim98nhjuBkq4Bm6A8h8" height = "500" width = "1000">
 </a>
 
 

@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1m-6Ldz4qSigjy-XW02io7vPgdyvALThK">
+<img src="https://drive.google.com/uc?export=view&id=1m-6Ldz4qSigjy-XW02io7vPgdyvALThK" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=17HpfvT8HbyM-BQ4KiOyB_rfH6xaKYNni">
+<img src="https://drive.google.com/uc?export=view&id=17HpfvT8HbyM-BQ4KiOyB_rfH6xaKYNni" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Lichens/species/CladoniaConiocraea" class="pagination--pager" title="Cladonia coniocraea">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/CladoniaConista" class="pagination--pager" title="Cladonia conista">Next</a>
 
 <p>&nbsp;</p>

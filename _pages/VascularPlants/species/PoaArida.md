@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1t5EZvvSKC1Y_aeNtJGoUWqLMntR04iXn">
+<img src="https://drive.google.com/uc?export=view&id=1t5EZvvSKC1Y_aeNtJGoUWqLMntR04iXn" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1n5jHWKoYqfvI7TiTRSmeiWr1_RyWxslb">
+<img src="https://drive.google.com/uc?export=view&id=1n5jHWKoYqfvI7TiTRSmeiWr1_RyWxslb" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/VascularPlants/species/PoaArctica" class="pagination--pager" title="Poa arctica">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PoaCompressa" class="pagination--pager" title="Poa compressa">Next</a>
 
 <p>&nbsp;</p>

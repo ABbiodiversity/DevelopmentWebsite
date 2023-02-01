@@ -29,6 +29,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=149qYstNU0e7NrXNE3w95O6JL9EGWnwyR">
+<img src="https://drive.google.com/uc?export=view&id=149qYstNU0e7NrXNE3w95O6JL9EGWnwyR" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1SGaHXdd8KAwkEUkIkWMQKf5ZUdWNAhwP">
+<img src="https://drive.google.com/uc?export=view&id=1SGaHXdd8KAwkEUkIkWMQKf5ZUdWNAhwP" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumLaeve" class="pagination--pager" title="Symphyotrichum laeve">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumPuniceum" class="pagination--pager" title="Symphyotrichum puniceum">Next</a>
 
 <p>&nbsp;</p>

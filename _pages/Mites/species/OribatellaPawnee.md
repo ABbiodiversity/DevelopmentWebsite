@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1Q451_SFhpy9Atn7eQwOUJ1vv6uWUVE-k">
+<img src="https://drive.google.com/uc?export=view&id=1Q451_SFhpy9Atn7eQwOUJ1vv6uWUVE-k" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1iZ03pDjKS_3sitVFiMuhtD1S931P7yxR">
+<img src="https://drive.google.com/uc?export=view&id=1iZ03pDjKS_3sitVFiMuhtD1S931P7yxR" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Mites/species/OribatellaJacoti" class="pagination--pager" title="Oribatella jacoti">Previous</a> <a href="/DevelopmentWebsite/Mites/species/OribatellaReticulatoides" class="pagination--pager" title="Oribatella reticulatoides">Next</a>
 
 <p>&nbsp;</p>

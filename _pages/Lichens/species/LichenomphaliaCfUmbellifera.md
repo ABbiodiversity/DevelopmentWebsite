@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1g0ZqpHOYSXT0ut_izvMGtSMG19ptBwow">
+<img src="https://drive.google.com/uc?export=view&id=1g0ZqpHOYSXT0ut_izvMGtSMG19ptBwow" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=16ghAVZ_SqO9Q6QlJtRMUKdVPItjFrpaz">
+<img src="https://drive.google.com/uc?export=view&id=16ghAVZ_SqO9Q6QlJtRMUKdVPItjFrpaz" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Lichens/species/LethariaVulpina" class="pagination--pager" title="Letharia vulpina">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/LichenomphaliaHudsoniana" class="pagination--pager" title="Lichenomphalia hudsoniana">Next</a>
 
 <p>&nbsp;</p>

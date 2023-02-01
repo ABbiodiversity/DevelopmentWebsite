@@ -22,10 +22,24 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1Lty-17B97tRtblXc4EzIpdlJRW0UYjDQ">
+<img src="https://drive.google.com/uc?export=view&id=1Lty-17B97tRtblXc4EzIpdlJRW0UYjDQ" height = "500" width = "1000">
+</a>
+
+
 <h2>Soil Use Availability</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1XfLM1MQuUcztclpiqku01Ha-4h4AGyM3">
 <img src="https://drive.google.com/uc?export=view&id=1XfLM1MQuUcztclpiqku01Ha-4h4AGyM3" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1_q23YBfppscVoAC8ujAnsQn8PNm2O5qu">
+<img src="https://drive.google.com/uc?export=view&id=1_q23YBfppscVoAC8ujAnsQn8PNm2O5qu" height = "500" width = "1000">
 </a>
 
 

@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Prairie Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1FSrZLoCsZiEuYBYjHiGUgxpRd3-UtJ0H">
+<img src="https://drive.google.com/uc?export=view&id=1FSrZLoCsZiEuYBYjHiGUgxpRd3-UtJ0H" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=16UFajiIdkNOXNUSiSbUyx7mmk3imWYhu">
+<img src="https://drive.google.com/uc?export=view&id=16UFajiIdkNOXNUSiSbUyx7mmk3imWYhu" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/VascularPlants/species/SileneConoidea" class="pagination--pager" title="Silene conoidea">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneLatifolia" class="pagination--pager" title="Silene latifolia">Next</a>
 
 <p>&nbsp;</p>

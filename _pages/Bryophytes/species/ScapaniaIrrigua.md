@@ -1,0 +1,29 @@
+---
+title: "Scapania irrigua"
+layout: single
+classes: wide
+permalink: /Bryophytes/species/ScapaniaIrrigua
+author_profile: false
+sidebar:
+  nav: "Bryophytes"
+---
+
+<h2>Detection</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1-4q6DyAh8o9EIA9LGmgdz5vknSOf2eWb">
+<img src="https://drive.google.com/uc?export=view&id=1-4q6DyAh8o9EIA9LGmgdz5vknSOf2eWb" height = "1200" width = "800">
+</a>
+
+
+<h2>Vegetation Use Availability</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1B3OK5CJbdc03BT1rYJq9sJb8rosEwYHs">
+<img src="https://drive.google.com/uc?export=view&id=1B3OK5CJbdc03BT1rYJq9sJb8rosEwYHs" height = "500" width = "1000">
+</a>
+
+
+<a href="/DevelopmentWebsite/Bryophytes/species/SphagnumGirgensohnii" class="pagination--pager" title="Sphagnum girgensohnii">Previous</a> <a href="/DevelopmentWebsite/Bryophytes/species/SphagnumFallax" class="pagination--pager" title="Sphagnum fallax">Next</a>
+
+<p>&nbsp;</p>
+
+{% include comment-section.html %}

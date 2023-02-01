@@ -67,6 +67,7 @@ for (taxon in unique(species.lookup$Taxon)) {
   species.lookup$PathID[match(species.temp$name, species.lookup$SpeciesID, nomatch = 0)] <- species.temp$id
   
   rm(species.temp)
+  print(taxon)
   
 }
 

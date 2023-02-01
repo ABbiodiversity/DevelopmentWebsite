@@ -22,6 +22,20 @@ sidebar:
 </a>
 
 
+<h2>Forested Sector Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=14tDys-E-e5NQlg5X8pa1LL7rPsohNG__">
+<img src="https://drive.google.com/uc?export=view&id=14tDys-E-e5NQlg5X8pa1LL7rPsohNG__" height = "500" width = "1000">
+</a>
+
+
+<h2>Prediction Maps</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1ksfF5G8lA3PaKsiV35pluo7f3mCerDUR">
+<img src="https://drive.google.com/uc?export=view&id=1ksfF5G8lA3PaKsiV35pluo7f3mCerDUR" height = "500" width = "1000">
+</a>
+
+
 <a href="/DevelopmentWebsite/Mites/species/CeratoppiaBipilis" class="pagination--pager" title="Ceratoppia bipilis">Previous</a> <a href="/DevelopmentWebsite/Mites/species/CeratozetesCuspidatus" class="pagination--pager" title="Ceratozetes cuspidatus">Next</a>
 
 <p>&nbsp;</p>
