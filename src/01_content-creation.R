@@ -40,7 +40,7 @@ library(tools)
 # Load species lookup
 load("lookup/species-lookup.Rdata")
 
-# Temporarily remove habitat
+# Temporarily remove habitat elements
 species.lookup <- species.lookup[species.lookup$Taxon != "Habitats", ]
 
 # Temporary fix species names that end in periods
