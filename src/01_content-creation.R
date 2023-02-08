@@ -1,7 +1,7 @@
 #
 # Title: Creation of species pages
 # Created: April 25th, 2022
-# Last Updated: January 31st, 2023
+# Last Updated: February 7th, 2023
 # Author: Brandon Allen
 # Objectives: For each species we have data for, we need to create a custom page. This needs to include the following:
 # 1) All necessary figures
@@ -40,6 +40,9 @@ library(tools)
 # Load species lookup
 load("lookup/species-lookup.Rdata")
 
+# Temporarily remove habitat
+species.lookup <- species.lookup[species.lookup$Taxon != "Habitats", ]
+
 # Temporary fix species names that end in periods
 for (species in species.lookup$SpeciesID) {
   
@@ -60,8 +63,10 @@ taxon.paths <- drive_ls(path = as_id("1By3V6hOn3nP2lo_GqPNDNplIsltb0a_s"))
 species.lookup$PathID <- NA
 
 # Ignore habitat elements as the predictions were off
-for (taxon in unique(species.lookup$Taxon)[-6]) {
+# If we get an alignment error, check species with folders on GoogleDrive versus the species lookup table.
+for (taxon in unique(species.lookup$Taxon)) {
   
+  # Pull the unique path ids for each species folder
   species.temp <- drive_ls(path = as_id(as.character(taxon.paths[taxon.paths$name == taxon, "id"])))
   
   # Merge the ids
@@ -180,7 +185,22 @@ for (taxon in unique(species.lookup$Taxon)) {
       
     }
     
-    # North linear (In the works)
+    # North linear features
+    if("linear-north.jpeg" %in% img.list$name) {
+      
+      new.text <- paste0('<h2>Forested Linear Features Effects</h2>', '\n', '\n',
+                         '<a href="https://drive.google.com/uc?export=view&id=UNIQUEID">', '\n',
+                         '<img src="https://drive.google.com/uc?export=view&id=UNIQUEID" height = "500" width = "500">', '\n',
+                         '</a>', '\n', '\n')
+      
+      new.text <- gsub("UNIQUEID", as.character(img.list[img.list$name == "linear-north.jpeg", "id"]), new.text)
+      
+      write(new.text,
+            file = paste0("_pages/", taxon, "/", "species/", page.identifier, ".md"),
+            append = TRUE)
+      
+      
+    }
     
     # South use-availability
     if("useavail-south.jpeg" %in% img.list$name) {
@@ -231,7 +251,22 @@ for (taxon in unique(species.lookup$Taxon)) {
       
     }
     
-    # South linear (In the works)
+    # South linear
+    if("linear-south.jpeg" %in% img.list$name) {
+      
+      new.text <- paste0('<h2>Prairie Linear Features Effects</h2>', '\n', '\n',
+                         '<a href="https://drive.google.com/uc?export=view&id=UNIQUEID">', '\n',
+                         '<img src="https://drive.google.com/uc?export=view&id=UNIQUEID" height = "500" width = "500">', '\n',
+                         '</a>', '\n', '\n')
+      
+      new.text <- gsub("UNIQUEID", as.character(img.list[img.list$name == "linear-south.jpeg", "id"]), new.text)
+      
+      write(new.text,
+            file = paste0("_pages/", taxon, "/", "species/", page.identifier, ".md"),
+            append = TRUE)
+      
+      
+    }
     
     # Prediction Map
     if("map.jpeg" %in% img.list$name) {

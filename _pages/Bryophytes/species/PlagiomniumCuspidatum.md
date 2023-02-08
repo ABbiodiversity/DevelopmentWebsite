@@ -36,6 +36,13 @@ sidebar:
 </a>
 
 
+<h2>Forested Linear Features Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1HoQC26gga7Fd8BtmasU1G1zXIMkWOMp_">
+<img src="https://drive.google.com/uc?export=view&id=1HoQC26gga7Fd8BtmasU1G1zXIMkWOMp_" height = "500" width = "500">
+</a>
+
+
 <h2>Soil Use Availability</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1gx-z6XeSMZkjzzTxM_aklED9PuRp4Wls">
@@ -54,6 +61,13 @@ sidebar:
 
 <a href="https://drive.google.com/uc?export=view&id=1Cm2QijkQ7zh0PThE1BL_8XJxCu9wk431">
 <img src="https://drive.google.com/uc?export=view&id=1Cm2QijkQ7zh0PThE1BL_8XJxCu9wk431" height = "500" width = "1000">
+</a>
+
+
+<h2>Prairie Linear Features Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1JNrlI6xAiUFyf0AIDPTuz2hAaVXoy97n">
+<img src="https://drive.google.com/uc?export=view&id=1JNrlI6xAiUFyf0AIDPTuz2hAaVXoy97n" height = "500" width = "500">
 </a>
 
 

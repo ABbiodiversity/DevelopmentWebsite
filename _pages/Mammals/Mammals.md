@@ -9,4 +9,5 @@ sidebar:
 
 <h1>Sampling information</h1>
 
-Content is in development.
+ABMI has recently switched from snow track transects to cameras for monitoring
+mammals. These surveys began in 2015 and the results presented here include information up to 2022.

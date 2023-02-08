@@ -8,16 +8,12 @@ main:
     url: /Birds/
   - title: "Bryophytes"
     url: /Bryophytes/
-  - title: "Habitat Elements"
-    url: /Habitats/
   - title: "Lichens"
     url: /Lichens/
   - title: "Mammals"
     url: /Mammals/
   - title: "Mites"
     url: /Mites/
-  - title: "Non-native Plants"
-    url: /NonNativePlants/
   - title: "Vascular Plants"
     url: /VascularPlants/
 
@@ -1755,8 +1751,6 @@ VascularPlants:
         url: /VascularPlants/species/GnaphaliumPalustre
       - title: "Gnaphalium uliginosum"
         url: /VascularPlants/species/GnaphaliumUliginosum
-      - title: "Goodyera"
-        url: /VascularPlants/species/Goodyera
       - title: "Goodyera oblongifolia"
         url: /VascularPlants/species/GoodyeraOblongifolia
       - title: "Goodyera repens"
@@ -4028,7 +4022,6 @@ Lichens:
         url: /Lichens/species/XanthoriaSorediata
       - title: "Xylopsora friesii"
         url: /Lichens/species/XylopsoraFriesii
-
 
 # Bryophytes sidebar 
 Bryophytes:

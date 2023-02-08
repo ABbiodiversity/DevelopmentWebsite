@@ -43,6 +43,13 @@ sidebar:
 </a>
 
 
+<h2>Prairie Linear Features Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=1LwS1WVUEe5HQKLNiG5B8J1Wqsp-W7zOp">
+<img src="https://drive.google.com/uc?export=view&id=1LwS1WVUEe5HQKLNiG5B8J1Wqsp-W7zOp" height = "500" width = "500">
+</a>
+
+
 <h2>Prediction Maps</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1WEXx_s3COYoULCsoY2qN2RMgK9qctZo5">

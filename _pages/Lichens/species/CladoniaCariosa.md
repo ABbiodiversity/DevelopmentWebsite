@@ -36,6 +36,13 @@ sidebar:
 </a>
 
 
+<h2>Forested Linear Features Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=181gE5XHYmoVCf5ZgN5Q7glJtpJkiJ4l9">
+<img src="https://drive.google.com/uc?export=view&id=181gE5XHYmoVCf5ZgN5Q7glJtpJkiJ4l9" height = "500" width = "500">
+</a>
+
+
 <h2>Soil Use Availability</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1B4sjZ8NeBSjYJFSlO63bi2P6G8tvGi8U">

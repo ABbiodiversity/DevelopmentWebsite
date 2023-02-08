@@ -36,6 +36,13 @@ sidebar:
 </a>
 
 
+<h2>Forested Linear Features Effects</h2>
+
+<a href="https://drive.google.com/uc?export=view&id=10YwDbdPd-y22a6czxtlzN2n6-0j7kkeV">
+<img src="https://drive.google.com/uc?export=view&id=10YwDbdPd-y22a6czxtlzN2n6-0j7kkeV" height = "500" width = "500">
+</a>
+
+
 <h2>Prediction Maps</h2>
 
 <a href="https://drive.google.com/uc?export=view&id=1gZc7X08u5j-HcEEyPOyUgE7li6jXsM7o">
