@@ -53,6 +53,16 @@ We would like to hear feedback about sector effects that don't match the coeffic
 <img src="https://drive.google.com/uc?export=view&id=1KEaAHWMaBaerAdRjHoV-mLRccDW1QqOI" height = "500" width = "1000">
 </a>
 
+<h2>Forested and Prairie Linear Features Effects</h2>
+
+If a model was created, we estimate the impacts of linear features on a species relative abundance. Linear features make up a small proportion of the landbase which can make estimating their impacts challenging. In addition, our models don't account for things such as edge effects. In general, these can be interpreted similar to the Forested and Prairie sector effect plots, specifically the under footprint results. 
+
+We would like to hear feedback about linear effects that seem unreasonable based on the ecology of the species. For example, a species with a known negative response to linear features showing a positive response. However, since we are still working how best to report on these features, other figures such as the model coefficients and prediction maps are more important to review.
+
+<a href="https://drive.google.com/uc?export=view&id=1IRcBq__HizPBu8Corbh-o7qZpVM1msby">
+<img src="https://drive.google.com/uc?export=view&id=1IRcBq__HizPBu8Corbh-o7qZpVM1msby" height = "500" width = "500">
+</a>
+
 <h2>Soil use-availability plots</h2>
 
 For species that do not meet our occurrence threshold within the modeling region (50 sites for birds, 20 for all other taxa), we create simple use-availability figures. Because these species are often data deficient, we acknowledge that the use-availability results may change drastically with new data. If a species model is created, we don't expect any comments about these plots since we won't display them. 
