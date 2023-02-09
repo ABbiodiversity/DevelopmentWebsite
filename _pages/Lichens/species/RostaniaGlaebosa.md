@@ -1,5 +1,5 @@
 ---
-title: "Rostania glaebosa"
+title: "Rostania 'rosaeformis' DH"
 layout: single
 classes: wide
 permalink: /Lichens/species/RostaniaGlaebosa

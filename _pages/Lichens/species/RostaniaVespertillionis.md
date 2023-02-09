@@ -1,5 +1,5 @@
 ---
-title: "Rostania vespertillionis"
+title: "Rostania 'glaebosa' DH"
 layout: single
 classes: wide
 permalink: /Lichens/species/RostaniaVespertillionis
