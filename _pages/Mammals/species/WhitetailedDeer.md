@@ -10,61 +10,61 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1b15vdkCPl_7_4AOnaLudgeUiTBS7YcwK">
-<img src="https://drive.google.com/uc?export=view&id=1b15vdkCPl_7_4AOnaLudgeUiTBS7YcwK" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1wWzfJ2gsBryCS3abfeMsCyDKZrmtMyOC">
+<img src="https://drive.google.com/uc?export=view&id=1wWzfJ2gsBryCS3abfeMsCyDKZrmtMyOC" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1j179_dncbTlL4PONZ2KnxlthvFxTWPSh">
-<img src="https://drive.google.com/uc?export=view&id=1j179_dncbTlL4PONZ2KnxlthvFxTWPSh" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1nNMyLP3hJcdlRLkFwLnbv0sBATveWMBE">
+<img src="https://drive.google.com/uc?export=view&id=1nNMyLP3hJcdlRLkFwLnbv0sBATveWMBE" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1fgRRErQTHXTlRQm53zEIeTXHw6Nck4cT">
-<img src="https://drive.google.com/uc?export=view&id=1fgRRErQTHXTlRQm53zEIeTXHw6Nck4cT" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1WzyJca8QfDiYDiqi9Z4epQuHxqY_A5WD">
+<img src="https://drive.google.com/uc?export=view&id=1WzyJca8QfDiYDiqi9Z4epQuHxqY_A5WD" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Lux-MgDJPGjonIpi9P5YiOILn8miv0Pf">
-<img src="https://drive.google.com/uc?export=view&id=1Lux-MgDJPGjonIpi9P5YiOILn8miv0Pf" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1GAKDIYW7sOiuLTs5EcGNGVC1fI2ppqLq">
+<img src="https://drive.google.com/uc?export=view&id=1GAKDIYW7sOiuLTs5EcGNGVC1fI2ppqLq" height = "500" width = "500">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=17SLZF6pfRht-l3t2vRu0GfRTVVAa-X7M">
-<img src="https://drive.google.com/uc?export=view&id=17SLZF6pfRht-l3t2vRu0GfRTVVAa-X7M" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=149tz3_-FlrwcI8YvXfKHYJlMHo_mKnGt">
+<img src="https://drive.google.com/uc?export=view&id=149tz3_-FlrwcI8YvXfKHYJlMHo_mKnGt" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1y1VtBR76oLMq_2316zNPEzZHXEHYePs2">
-<img src="https://drive.google.com/uc?export=view&id=1y1VtBR76oLMq_2316zNPEzZHXEHYePs2" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1xiRsjN5aX2RbVqr9lF1ogUpwLPR6iANe">
+<img src="https://drive.google.com/uc?export=view&id=1xiRsjN5aX2RbVqr9lF1ogUpwLPR6iANe" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1-VY92oaOaZeCJpFcGOk9NM3wl-bITElA">
-<img src="https://drive.google.com/uc?export=view&id=1-VY92oaOaZeCJpFcGOk9NM3wl-bITElA" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1NimSZ0eTsN7SnGHeay1VPBjnoM1-NoQX">
+<img src="https://drive.google.com/uc?export=view&id=1NimSZ0eTsN7SnGHeay1VPBjnoM1-NoQX" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=15EJGKZLhUu-vqSL15m_JC0UIN3e6_CsQ">
-<img src="https://drive.google.com/uc?export=view&id=15EJGKZLhUu-vqSL15m_JC0UIN3e6_CsQ" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1B2rVSE68zb8PNRS37dgktapxCfR2Px-s">
+<img src="https://drive.google.com/uc?export=view&id=1B2rVSE68zb8PNRS37dgktapxCfR2Px-s" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/WeaselsandErmine" class="pagination--pager" title="Mustela">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/WhitetailedJackRabbit" class="pagination--pager" title="Lepus townsendii">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Muledeer" class="pagination--pager" title="Odocoileus hemionus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Muskrat" class="pagination--pager" title="Ondatra zibethicus">Next</a>
 
 <p>&nbsp;</p>
 

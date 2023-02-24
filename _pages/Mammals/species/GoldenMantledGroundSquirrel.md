@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Q5nUMflHYVrIyIuN8NjmkfgGdLDDfeWX">
-<img src="https://drive.google.com/uc?export=view&id=1Q5nUMflHYVrIyIuN8NjmkfgGdLDDfeWX" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1y1VrvsMz9ERp16STtjSTixT6q1-XfQqR">
+<img src="https://drive.google.com/uc?export=view&id=1y1VrvsMz9ERp16STtjSTixT6q1-XfQqR" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Fisher" class="pagination--pager" title="Pekania">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/GrayWolf" class="pagination--pager" title="Canis lupus">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Bison" class="pagination--pager" title="Bison bison">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/WolvesCoyotesandAllies" class="pagination--pager" title="Canidae">Next</a>
 
 <p>&nbsp;</p>
 

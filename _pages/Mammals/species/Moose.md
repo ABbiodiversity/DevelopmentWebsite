@@ -10,61 +10,40 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1h1VmpM5hxhpueZxkbMnnRMmaeispdHyY">
-<img src="https://drive.google.com/uc?export=view&id=1h1VmpM5hxhpueZxkbMnnRMmaeispdHyY" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1X3nHT-kiQ0L3lfw5O2nhdfDLiQ0w28cn">
+<img src="https://drive.google.com/uc?export=view&id=1X3nHT-kiQ0L3lfw5O2nhdfDLiQ0w28cn" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1_-WPkvX-9a7qpn8V-rwPr8zz8RoJInAv">
-<img src="https://drive.google.com/uc?export=view&id=1_-WPkvX-9a7qpn8V-rwPr8zz8RoJInAv" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1qkAQevHf8d0_20aGkDWM84KoWkYCPQZD">
+<img src="https://drive.google.com/uc?export=view&id=1qkAQevHf8d0_20aGkDWM84KoWkYCPQZD" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1c4qOn0tWickiz2NUq6Dgsp3oc1YN4gAR">
-<img src="https://drive.google.com/uc?export=view&id=1c4qOn0tWickiz2NUq6Dgsp3oc1YN4gAR" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1xurB0vNCS4d7yaeSIKNHvSNJ5hKFo_HF">
+<img src="https://drive.google.com/uc?export=view&id=1xurB0vNCS4d7yaeSIKNHvSNJ5hKFo_HF" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1b_Eb6fzJhy02mTj4kTThEYwvYoewJ6iu">
-<img src="https://drive.google.com/uc?export=view&id=1b_Eb6fzJhy02mTj4kTThEYwvYoewJ6iu" height = "500" width = "500">
-</a>
-
-
-<h2>Soil Coefficients</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1UlVSj-C1s8ZzqRvdK7zDRWeQHAGwdgPu">
-<img src="https://drive.google.com/uc?export=view&id=1UlVSj-C1s8ZzqRvdK7zDRWeQHAGwdgPu" height = "500" width = "1000">
-</a>
-
-
-<h2>Prairie Sector Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=113Z5hidsyusay_wXTO7wN2E1VMci_RQB">
-<img src="https://drive.google.com/uc?export=view&id=113Z5hidsyusay_wXTO7wN2E1VMci_RQB" height = "500" width = "1000">
-</a>
-
-
-<h2>Prairie Linear Features Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1DCrk61ucjXKh0CWg7kCPZ5wyQDRh-7kL">
-<img src="https://drive.google.com/uc?export=view&id=1DCrk61ucjXKh0CWg7kCPZ5wyQDRh-7kL" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1uPZkKPeDXX_1xtRREnaUSoKXQlJVe0tI">
+<img src="https://drive.google.com/uc?export=view&id=1uPZkKPeDXX_1xtRREnaUSoKXQlJVe0tI" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ondXlvA_nY08aDRLso2ZhLEhEv5qdiJr">
-<img src="https://drive.google.com/uc?export=view&id=1ondXlvA_nY08aDRLso2ZhLEhEv5qdiJr" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1dadSMTRq6ySeR51iE584rJyCG1glyVsq">
+<img src="https://drive.google.com/uc?export=view&id=1dadSMTRq6ySeR51iE584rJyCG1glyVsq" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Mink" class="pagination--pager" title="Neovison">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Muledeer" class="pagination--pager" title="Odocoileus hemionus">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Redfox" class="pagination--pager" title="Vulpes vulpes">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Pronghorn" class="pagination--pager" title="Antilocapra">Next</a>
 
 <p>&nbsp;</p>
 

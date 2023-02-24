@@ -4803,85 +4803,86 @@ Amphibians:
       - title: "Spea bombifrons"
         url: /Amphibians/species/PLSP
 
+
 # Mammals sidebar 
 Mammals:
   - title: Species 
     children:
-      - title: "Taxidea taxus"
-        url: /Mammals/species/Badger
-      - title: "Castor canadensis"
-        url: /Mammals/species/Beaver
-      - title: "Bison bison"
-        url: /Mammals/species/Bison
-      - title: "Ursus americanus"
-        url: /Mammals/species/BlackBear
-      - title: "Lynx rufus"
-        url: /Mammals/species/Bobcat
-      - title: "Lynx canadensis"
-        url: /Mammals/species/CanadaLynx
-      - title: "Spermophilus columbianus"
-        url: /Mammals/species/ColumbianGroundSquirrel
-      - title: "Puma"
-        url: /Mammals/species/Cougar
-      - title: "Canis latrans"
-        url: /Mammals/species/Coyote
-      - title: "Odocoileus"
-        url: /Mammals/species/Deer
-      - title: "Cervus"
-        url: /Mammals/species/Elk
-      - title: "Pekania"
-        url: /Mammals/species/Fisher
-      - title: "Callospermophilus lateralis"
-        url: /Mammals/species/GoldenMantledGroundSquirrel
-      - title: "Canis lupus"
-        url: /Mammals/species/GrayWolf
-      - title: "Ursus arctos"
-        url: /Mammals/species/Grizzlybear
-      - title: "Marmota monax"
-        url: /Mammals/species/Groundhog
-      - title: "Marmota caligata"
-        url: /Mammals/species/HoaryMarmot
-      - title: "Tamias minimus"
-        url: /Mammals/species/LeastChipmunk
-      - title: "Martes americana"
-        url: /Mammals/species/Marten
-      - title: "Neovison"
-        url: /Mammals/species/Mink
       - title: "Alces"
         url: /Mammals/species/Moose
-      - title: "Odocoileus hemionus"
-        url: /Mammals/species/Muledeer
-      - title: "Ondatra zibethicus"
-        url: /Mammals/species/Muskrat
-      - title: "Glaucomys sabrinus"
-        url: /Mammals/species/NorthernFlyingSquirrel
-      - title: "Erethizon dorsatum"
-        url: /Mammals/species/Porcupine
       - title: "Antilocapra"
         url: /Mammals/species/Pronghorn
-      - title: "Vulpes vulpes"
-        url: /Mammals/species/Redfox
-      - title: "Tamiasciurus"
-        url: /Mammals/species/RedSquirrel
-      - title: "Spermophilus richardsonii"
-        url: /Mammals/species/RichardsonsGroundSquirrel
-      - title: "Lontra canadensis"
-        url: /Mammals/species/RiverOtter
+      - title: "Bison bison"
+        url: /Mammals/species/Bison
+      - title: "Callospermophilus lateralis"
+        url: /Mammals/species/GoldenMantledGroundSquirrel
+      - title: "Canidae"
+        url: /Mammals/species/WolvesCoyotesandAllies
+      - title: "Canis latrans"
+        url: /Mammals/species/Coyote
+      - title: "Canis lupus"
+        url: /Mammals/species/GrayWolf
+      - title: "Castor canadensis"
+        url: /Mammals/species/Beaver
+      - title: "Cervus"
+        url: /Mammals/species/Elk
+      - title: "Erethizon dorsatum"
+        url: /Mammals/species/Porcupine
+      - title: "Glaucomys sabrinus"
+        url: /Mammals/species/NorthernFlyingSquirrel
+      - title: "Gulo gulo"
+        url: /Mammals/species/Wolverine
       - title: "Lepus americanus"
         url: /Mammals/species/SnowshoeHare
+      - title: "Lepus townsendii"
+        url: /Mammals/species/WhitetailedJackRabbit
+      - title: "Lontra canadensis"
+        url: /Mammals/species/RiverOtter
+      - title: "Lynx canadensis"
+        url: /Mammals/species/CanadaLynx
+      - title: "Lynx rufus"
+        url: /Mammals/species/Bobcat
+      - title: "Marmota caligata"
+        url: /Mammals/species/HoaryMarmot
+      - title: "Marmota monax"
+        url: /Mammals/species/Groundhog
+      - title: "Martes americana"
+        url: /Mammals/species/Marten
       - title: "Mephitis mephitis"
         url: /Mammals/species/StripedSkunk
       - title: "Muridae"
         url: /Mammals/species/VolesMiceandAllies
       - title: "Mustela"
         url: /Mammals/species/WeaselsandErmine
+      - title: "Neovison"
+        url: /Mammals/species/Mink
+      - title: "Odocoileus"
+        url: /Mammals/species/Deer
+      - title: "Odocoileus hemionus"
+        url: /Mammals/species/Muledeer
       - title: "Odocoileus virginianus"
         url: /Mammals/species/WhitetailedDeer
-      - title: "Lepus townsendii"
-        url: /Mammals/species/WhitetailedJackRabbit
-      - title: "Gulo gulo"
-        url: /Mammals/species/Wolverine
-      - title: "Canidae"
-        url: /Mammals/species/WolvesCoyotesandAllies
+      - title: "Ondatra zibethicus"
+        url: /Mammals/species/Muskrat
+      - title: "Pekania"
+        url: /Mammals/species/Fisher
+      - title: "Puma"
+        url: /Mammals/species/Cougar
       - title: "Rangifer tarandus caribou"
         url: /Mammals/species/WoodlandCaribou
+      - title: "Spermophilus columbianus"
+        url: /Mammals/species/ColumbianGroundSquirrel
+      - title: "Spermophilus richardsonii"
+        url: /Mammals/species/RichardsonsGroundSquirrel
+      - title: "Tamias minimus"
+        url: /Mammals/species/LeastChipmunk
+      - title: "Tamiasciurus"
+        url: /Mammals/species/RedSquirrel
+      - title: "Taxidea taxus"
+        url: /Mammals/species/Badger
+      - title: "Ursus americanus"
+        url: /Mammals/species/BlackBear
+      - title: "Ursus arctos"
+        url: /Mammals/species/Grizzlybear
+      - title: "Vulpes vulpes"
+        url: /Mammals/species/Redfox

@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1l5SUyJ-7sGKSelUE4vOSIT-tDvf-PJo7">
-<img src="https://drive.google.com/uc?export=view&id=1l5SUyJ-7sGKSelUE4vOSIT-tDvf-PJo7" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1-WcZj5tN2gsKDk2PIg0O9L2LN-3AiWET">
+<img src="https://drive.google.com/uc?export=view&id=1-WcZj5tN2gsKDk2PIg0O9L2LN-3AiWET" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Groundhog" class="pagination--pager" title="Marmota monax">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/LeastChipmunk" class="pagination--pager" title="Tamias minimus">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Bobcat" class="pagination--pager" title="Lynx rufus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Groundhog" class="pagination--pager" title="Marmota monax">Next</a>
 
 <p>&nbsp;</p>
 

@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=14n6f3NZMp4Mxh_ycMzDUCT9-9YziK8D5">
-<img src="https://drive.google.com/uc?export=view&id=14n6f3NZMp4Mxh_ycMzDUCT9-9YziK8D5" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1NvtBolZa5sq-7RFLMbYxqxUQotpOU21L">
+<img src="https://drive.google.com/uc?export=view&id=1NvtBolZa5sq-7RFLMbYxqxUQotpOU21L" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Marten" class="pagination--pager" title="Martes americana">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Moose" class="pagination--pager" title="Alces">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/WeaselsandErmine" class="pagination--pager" title="Mustela">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Deer" class="pagination--pager" title="Odocoileus">Next</a>
 
 <p>&nbsp;</p>
 

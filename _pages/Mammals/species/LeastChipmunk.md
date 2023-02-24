@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1VgKi4kwz87Ri5xnTvR7c6vRAoEE3iWgV">
-<img src="https://drive.google.com/uc?export=view&id=1VgKi4kwz87Ri5xnTvR7c6vRAoEE3iWgV" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1kuGYs5RTBLlVUqNAcWzO0JRr1hCMbB0x">
+<img src="https://drive.google.com/uc?export=view&id=1kuGYs5RTBLlVUqNAcWzO0JRr1hCMbB0x" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/HoaryMarmot" class="pagination--pager" title="Marmota caligata">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Marten" class="pagination--pager" title="Martes americana">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/RichardsonsGroundSquirrel" class="pagination--pager" title="Spermophilus richardsonii">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/RedSquirrel" class="pagination--pager" title="Tamiasciurus">Next</a>
 
 <p>&nbsp;</p>
 

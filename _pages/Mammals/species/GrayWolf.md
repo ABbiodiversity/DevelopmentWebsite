@@ -10,40 +10,40 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1pIQ2_uEN2JvFnD--kXgMGKsEwDDBNtoA">
-<img src="https://drive.google.com/uc?export=view&id=1pIQ2_uEN2JvFnD--kXgMGKsEwDDBNtoA" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1HmBgZTTDeyzanFJYhX8HukfvlGNN5mpv">
+<img src="https://drive.google.com/uc?export=view&id=1HmBgZTTDeyzanFJYhX8HukfvlGNN5mpv" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1OV3sR-F15qPYPLztNkEi6sW21Yxc4-eT">
-<img src="https://drive.google.com/uc?export=view&id=1OV3sR-F15qPYPLztNkEi6sW21Yxc4-eT" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1qoMIEun7yOpmR4nokfJr78ruOcOYjxTj">
+<img src="https://drive.google.com/uc?export=view&id=1qoMIEun7yOpmR4nokfJr78ruOcOYjxTj" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1c1EeQQvUp1w5tWcu21KrqcNKFqjpx6HL">
-<img src="https://drive.google.com/uc?export=view&id=1c1EeQQvUp1w5tWcu21KrqcNKFqjpx6HL" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1dwsxD3phK5ij7OSHChzUU_PNfCxSaEqW">
+<img src="https://drive.google.com/uc?export=view&id=1dwsxD3phK5ij7OSHChzUU_PNfCxSaEqW" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1c7bsvWIaSM2g1seGFXW_SI2kWfRQOnpT">
-<img src="https://drive.google.com/uc?export=view&id=1c7bsvWIaSM2g1seGFXW_SI2kWfRQOnpT" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1e89tgO0CWNyJ3mZBi3HAQwm9vQ7qwzN7">
+<img src="https://drive.google.com/uc?export=view&id=1e89tgO0CWNyJ3mZBi3HAQwm9vQ7qwzN7" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=18ks0mkg8frjLEqFggQUb55I1q2Xw0lJD">
-<img src="https://drive.google.com/uc?export=view&id=18ks0mkg8frjLEqFggQUb55I1q2Xw0lJD" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1z499OW2yQWZiQKjAyraXvEcp8YihmHjA">
+<img src="https://drive.google.com/uc?export=view&id=1z499OW2yQWZiQKjAyraXvEcp8YihmHjA" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/GoldenMantledGroundSquirrel" class="pagination--pager" title="Callospermophilus lateralis">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Grizzlybear" class="pagination--pager" title="Ursus arctos">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Coyote" class="pagination--pager" title="Canis latrans">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Beaver" class="pagination--pager" title="Castor canadensis">Next</a>
 
 <p>&nbsp;</p>
 
