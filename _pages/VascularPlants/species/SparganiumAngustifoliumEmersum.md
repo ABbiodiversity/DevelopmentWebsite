@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1n60fm1kDfQpfPVgJUSkJMue2rQiGeS7_">
-<img src="https://drive.google.com/uc?export=view&id=1n60fm1kDfQpfPVgJUSkJMue2rQiGeS7_" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1-zQqlAHDNZp1ZI6bCBAyEJuGeHpcFMRS">
+<img src="https://drive.google.com/uc?export=view&id=1-zQqlAHDNZp1ZI6bCBAyEJuGeHpcFMRS" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1g3r2dRwmaqVed9AiJ1mxVm9T_ry19vtm">
-<img src="https://drive.google.com/uc?export=view&id=1g3r2dRwmaqVed9AiJ1mxVm9T_ry19vtm" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=17jmqvrDz0TlSahZrjijbTFGmN4RDu3eH">
+<img src="https://drive.google.com/uc?export=view&id=17jmqvrDz0TlSahZrjijbTFGmN4RDu3eH" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Sparganium" class="pagination--pager" title="Sparganium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SparganiumEurycarpum" class="pagination--pager" title="Sparganium eurycarpum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Sorbus scopulina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SparganiumEurycarpum" class="pagination--pager" title="Sparganium eurycarpum">Next</a>
 
 <p>&nbsp;</p>
 

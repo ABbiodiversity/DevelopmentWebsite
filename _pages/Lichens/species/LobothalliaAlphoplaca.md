@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1mFy3ng2NE8qlSmPr9SEu3O5nBQf22jAi">
-<img src="https://drive.google.com/uc?export=view&id=1mFy3ng2NE8qlSmPr9SEu3O5nBQf22jAi" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1haMm_asNldA4QaG88EceoF-yCRBdR35r">
+<img src="https://drive.google.com/uc?export=view&id=1haMm_asNldA4QaG88EceoF-yCRBdR35r" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1fP1oLoBIW0kbzDJzJR7n77ZMtjrSJROr">
-<img src="https://drive.google.com/uc?export=view&id=1fP1oLoBIW0kbzDJzJR7n77ZMtjrSJROr" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1G1nfSyfWJDsjOeFzWyRClwdv0Cp95AaJ">
+<img src="https://drive.google.com/uc?export=view&id=1G1nfSyfWJDsjOeFzWyRClwdv0Cp95AaJ" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1jeDNgxqR8buvjlKKlebQOlaxWKUbzKxP">
-<img src="https://drive.google.com/uc?export=view&id=1jeDNgxqR8buvjlKKlebQOlaxWKUbzKxP" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=16kcQW1yzmpdh__7G5tSFouNa273fEPaG">
+<img src="https://drive.google.com/uc?export=view&id=16kcQW1yzmpdh__7G5tSFouNa273fEPaG" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Eqnq08GAXoViOUTmfVhFjj8Icio8Qj43">
-<img src="https://drive.google.com/uc?export=view&id=1Eqnq08GAXoViOUTmfVhFjj8Icio8Qj43" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1kZSttdy_CLLJMxIbe7BDBGMkGOHg9Nlv">
+<img src="https://drive.google.com/uc?export=view&id=1kZSttdy_CLLJMxIbe7BDBGMkGOHg9Nlv" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Yw8Y-KQdbCjPT3JQXt20XEX_MYVsJW4_">
-<img src="https://drive.google.com/uc?export=view&id=1Yw8Y-KQdbCjPT3JQXt20XEX_MYVsJW4_" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1GH1PZG-4uqtaB7xvwewUSEkqt5LnMvn9">
+<img src="https://drive.google.com/uc?export=view&id=1GH1PZG-4uqtaB7xvwewUSEkqt5LnMvn9" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1jxZ4GPsbZw9UEnel-105iLP-mvYjoYM0">
-<img src="https://drive.google.com/uc?export=view&id=1jxZ4GPsbZw9UEnel-105iLP-mvYjoYM0" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1qAfmE3ZjTvizVYnntmRG8KoQMrrUbHLI">
+<img src="https://drive.google.com/uc?export=view&id=1qAfmE3ZjTvizVYnntmRG8KoQMrrUbHLI" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Lichens/species/LobariaScrobiculata" class="pagination--pager" title="Lobaria scrobiculata">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/MassalongiaCarnosa" class="pagination--pager" title="Massalongia carnosa">Next</a>
+<a href="/DevelopmentWebsite/Lichens/species/LobariaScrobiculata" class="pagination--pager" title="Lobaria scrobiculata">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/MelaneliaDisjuncta" class="pagination--pager" title="Melanelia disjuncta">Next</a>
 
 <p>&nbsp;</p>
 

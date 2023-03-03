@@ -10,47 +10,26 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1WM_DTK8gdc3BLacM1nsrEr3fQQrrsvQg">
-<img src="https://drive.google.com/uc?export=view&id=1WM_DTK8gdc3BLacM1nsrEr3fQQrrsvQg" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=19pkJn5Ra3NVqWPXICSs8dQVuoPKGS2TL">
+<img src="https://drive.google.com/uc?export=view&id=19pkJn5Ra3NVqWPXICSs8dQVuoPKGS2TL" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1cpqPndLCIR87XpiEIw4IS9OfGZr7Y0Q0">
-<img src="https://drive.google.com/uc?export=view&id=1cpqPndLCIR87XpiEIw4IS9OfGZr7Y0Q0" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1XbxuWDJIT2OpoWgB4e1-BVCr2H4tVVmn">
+<img src="https://drive.google.com/uc?export=view&id=1XbxuWDJIT2OpoWgB4e1-BVCr2H4tVVmn" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=12eKhc7LXj7Gv_YL5CPEV9U8AZGHPHSpf">
-<img src="https://drive.google.com/uc?export=view&id=12eKhc7LXj7Gv_YL5CPEV9U8AZGHPHSpf" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1_BByJIN8SaKtusHp3u1nh-TLsJnrD09r">
+<img src="https://drive.google.com/uc?export=view&id=1_BByJIN8SaKtusHp3u1nh-TLsJnrD09r" height = "500" width = "1000">
 </a>
 
 
-<h2>Prairie Sector Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1jjirjYZ4kK4ch0_wd8yPqcQCDeppCcJG">
-<img src="https://drive.google.com/uc?export=view&id=1jjirjYZ4kK4ch0_wd8yPqcQCDeppCcJG" height = "500" width = "1000">
-</a>
-
-
-<h2>Prairie Linear Features Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1L_AUN-Fp5XmtxyrHUfJP3Plvda9cDcvm">
-<img src="https://drive.google.com/uc?export=view&id=1L_AUN-Fp5XmtxyrHUfJP3Plvda9cDcvm" height = "500" width = "500">
-</a>
-
-
-<h2>Prediction Maps</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1MppVA3RqjL9Z7BluWQ_mJChXSRD5_w9D">
-<img src="https://drive.google.com/uc?export=view&id=1MppVA3RqjL9Z7BluWQ_mJChXSRD5_w9D" height = "500" width = "1000">
-</a>
-
-
-<a href="/DevelopmentWebsite/VascularPlants/species/Packera" class="pagination--pager" title="Packera">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraIndecora" class="pagination--pager" title="Packera indecora">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OxytropisSplendens" class="pagination--pager" title="Oxytropis splendens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PackeraIndecora" class="pagination--pager" title="Packera indecora">Next</a>
 
 <p>&nbsp;</p>
 

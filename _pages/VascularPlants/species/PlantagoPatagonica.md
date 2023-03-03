@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1XeicuAJIl-YyttghRr0nDog2DP0dBZvB">
-<img src="https://drive.google.com/uc?export=view&id=1XeicuAJIl-YyttghRr0nDog2DP0dBZvB" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=15PTmOGzl_74a05KGWFVndlSo9YzUvHvB">
+<img src="https://drive.google.com/uc?export=view&id=15PTmOGzl_74a05KGWFVndlSo9YzUvHvB" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1roAAIvTeeDdS0fomkV7HnFjRyEir4xpX">
-<img src="https://drive.google.com/uc?export=view&id=1roAAIvTeeDdS0fomkV7HnFjRyEir4xpX" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=171Ln3jm1LoqwGa7nNZUdnwWZWxmyOxLv">
+<img src="https://drive.google.com/uc?export=view&id=171Ln3jm1LoqwGa7nNZUdnwWZWxmyOxLv" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1HqFGPb69h8CUxPrexKEnly_PI7reIxFb">
-<img src="https://drive.google.com/uc?export=view&id=1HqFGPb69h8CUxPrexKEnly_PI7reIxFb" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1WHLLAG4iYZIdcfJh6LBSNf3xHn5lDzOa">
+<img src="https://drive.google.com/uc?export=view&id=1WHLLAG4iYZIdcfJh6LBSNf3xHn5lDzOa" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1La5wGZpA10NTm2Q0yb5yVumPdv79JMH9">
-<img src="https://drive.google.com/uc?export=view&id=1La5wGZpA10NTm2Q0yb5yVumPdv79JMH9" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Fb817ueEklu7llhHS0toZw1ip9pCpU-1">
+<img src="https://drive.google.com/uc?export=view&id=1Fb817ueEklu7llhHS0toZw1ip9pCpU-1" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=16nLKQGKRNjEf08AxE0kiwYBMDqsWndoZ">
-<img src="https://drive.google.com/uc?export=view&id=16nLKQGKRNjEf08AxE0kiwYBMDqsWndoZ" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=12nxrJf-kZP5Xz8rGN8G3YpaSuAc70SWR">
+<img src="https://drive.google.com/uc?export=view&id=12nxrJf-kZP5Xz8rGN8G3YpaSuAc70SWR" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1PztQiQhymdO-iujXJgK-8DFrxcK3k1cW">
-<img src="https://drive.google.com/uc?export=view&id=1PztQiQhymdO-iujXJgK-8DFrxcK3k1cW" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1J0kLpVovbHmyhvPd8JP3GNT_7DD51GgR">
+<img src="https://drive.google.com/uc?export=view&id=1J0kLpVovbHmyhvPd8JP3GNT_7DD51GgR" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoMajor" class="pagination--pager" title="Plantago major">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Platanthera" class="pagination--pager" title="Platanthera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlantagoMajor" class="pagination--pager" title="Plantago major">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlatantheraAquilonisHuronensis" class="pagination--pager" title="Platanthera aquilonis/huronensis">Next</a>
 
 <p>&nbsp;</p>
 

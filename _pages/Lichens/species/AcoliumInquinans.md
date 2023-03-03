@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1wPFSlzP6maAexCvwy2iBiFKjXiIzr3Jf">
-<img src="https://drive.google.com/uc?export=view&id=1wPFSlzP6maAexCvwy2iBiFKjXiIzr3Jf" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1YXuxJewot7XR45JHOJMv7bHsVQZPbGlV">
+<img src="https://drive.google.com/uc?export=view&id=1YXuxJewot7XR45JHOJMv7bHsVQZPbGlV" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1a-o3ODljFM5x6ZoX7SnFcGo_zNf_bDiM">
-<img src="https://drive.google.com/uc?export=view&id=1a-o3ODljFM5x6ZoX7SnFcGo_zNf_bDiM" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1hw9s9OSdF5YHDYKxAHOYCIhDG3XGuhzS">
+<img src="https://drive.google.com/uc?export=view&id=1hw9s9OSdF5YHDYKxAHOYCIhDG3XGuhzS" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Lichens/species/AcarosporaGlaucocarpa" class="pagination--pager" title="Acarospora glaucocarpa">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/AhtianaSphaerosporella" class="pagination--pager" title="Ahtiana sphaerosporella">Next</a>
+<a href="/DevelopmentWebsite/Lichens/species/XylopsoraFriesii" class="pagination--pager" title="Xylopsora friesii">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/AhtianaSphaerosporella" class="pagination--pager" title="Ahtiana sphaerosporella">Next</a>
 
 <p>&nbsp;</p>
 

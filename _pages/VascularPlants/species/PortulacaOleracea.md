@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1RPIPjL-hasCpyTZ1ysiOHHlRgnxsYfb_">
-<img src="https://drive.google.com/uc?export=view&id=1RPIPjL-hasCpyTZ1ysiOHHlRgnxsYfb_" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1uei7KdS0DgaN9cC2auzJZ1-A6DMEjgOm">
+<img src="https://drive.google.com/uc?export=view&id=1uei7KdS0DgaN9cC2auzJZ1-A6DMEjgOm" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1MQ0DhsuWiYwfi2f52q6YqB4x9CTxTP6P">
-<img src="https://drive.google.com/uc?export=view&id=1MQ0DhsuWiYwfi2f52q6YqB4x9CTxTP6P" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=19MYyWb3ZAKPpXk4naBaOJnFRTgINvlPU">
+<img src="https://drive.google.com/uc?export=view&id=19MYyWb3ZAKPpXk4naBaOJnFRTgINvlPU" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PopulusxJackii" class="pagination--pager" title="Populus x jackii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Potamogeton" class="pagination--pager" title="Potamogeton">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PopulusxJackii" class="pagination--pager" title="Populus x jackii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PotamogetonAlpinus" class="pagination--pager" title="Potamogeton alpinus">Next</a>
 
 <p>&nbsp;</p>
 

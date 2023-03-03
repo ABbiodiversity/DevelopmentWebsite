@@ -1,5 +1,5 @@
 ---
-title: "Ondatra zibethicus"
+title: "Muskrat"
 layout: single
 classes: wide
 permalink: /Mammals/species/Muskrat
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1w2shYWIY71J-70xoGdB9iWgiGmB_vSWM">
-<img src="https://drive.google.com/uc?export=view&id=1w2shYWIY71J-70xoGdB9iWgiGmB_vSWM" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1kvU2QnsaonQzGShjbToRrI8Tf6duLbci">
+<img src="https://drive.google.com/uc?export=view&id=1kvU2QnsaonQzGShjbToRrI8Tf6duLbci" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/WhitetailedDeer" class="pagination--pager" title="Odocoileus virginianus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Fisher" class="pagination--pager" title="Pekania">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Muledeer" class="pagination--pager" title="Odocoileus hemionus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/NorthernFlyingSquirrel" class="pagination--pager" title="Glaucomys sabrinus">Next</a>
 
 <p>&nbsp;</p>
 

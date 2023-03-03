@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1T-wnrWNWPfiGhThZvQYsyYLkMN8pN0Mm">
-<img src="https://drive.google.com/uc?export=view&id=1T-wnrWNWPfiGhThZvQYsyYLkMN8pN0Mm" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1zwQlTA-RvPK9oEzQ9AhTSYJ4JfVz5ryx">
+<img src="https://drive.google.com/uc?export=view&id=1zwQlTA-RvPK9oEzQ9AhTSYJ4JfVz5ryx" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1tmYqkiGwL4IAtn3EzIurb7tmX0iKVLW_">
-<img src="https://drive.google.com/uc?export=view&id=1tmYqkiGwL4IAtn3EzIurb7tmX0iKVLW_" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1yDVbS08Y6J1QVO0AKOtYcpvCDfWSp1N3">
+<img src="https://drive.google.com/uc?export=view&id=1yDVbS08Y6J1QVO0AKOtYcpvCDfWSp1N3" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/OxybasisSalina" class="pagination--pager" title="Oxybasis salina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Oxytropis" class="pagination--pager" title="Oxytropis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/OxybasisSalina" class="pagination--pager" title="Oxybasis salina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/OxytropisBorealis" class="pagination--pager" title="Oxytropis borealis">Next</a>
 
 <p>&nbsp;</p>
 

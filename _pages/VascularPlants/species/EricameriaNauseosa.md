@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ewhF9Db8Y-s8ou3BWPJzVIqmZryvYt5k">
-<img src="https://drive.google.com/uc?export=view&id=1ewhF9Db8Y-s8ou3BWPJzVIqmZryvYt5k" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1xexyqJQ9nIH36_sWgen9zESvI6jzyCwG">
+<img src="https://drive.google.com/uc?export=view&id=1xexyqJQ9nIH36_sWgen9zESvI6jzyCwG" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Ericaceae" class="pagination--pager" title="Ericaceae">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Erigeron" class="pagination--pager" title="Erigeron">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/Ericaceae" class="pagination--pager" title="Ericaceae">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ErigeronAcris" class="pagination--pager" title="Erigeron acris">Next</a>
 
 <p>&nbsp;</p>
 

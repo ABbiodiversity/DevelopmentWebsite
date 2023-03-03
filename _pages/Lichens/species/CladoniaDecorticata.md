@@ -10,26 +10,26 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1FJryZH8kOnhyky2sjNPXuqvjhY67YiPO">
-<img src="https://drive.google.com/uc?export=view&id=1FJryZH8kOnhyky2sjNPXuqvjhY67YiPO" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1YzxXJHDiYCHRC3ww3bGMlAPGmd6YJY_Y">
+<img src="https://drive.google.com/uc?export=view&id=1YzxXJHDiYCHRC3ww3bGMlAPGmd6YJY_Y" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1_0WhBC-ZI-uKrz28tr3oHwtjvJKnHlgS">
-<img src="https://drive.google.com/uc?export=view&id=1_0WhBC-ZI-uKrz28tr3oHwtjvJKnHlgS" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1prWROzCR2H-eX7YXNtLdX-m8jqjxg9Qq">
+<img src="https://drive.google.com/uc?export=view&id=1prWROzCR2H-eX7YXNtLdX-m8jqjxg9Qq" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Mzx9hUvKsp8yZICewZB_leuKFMHwVhri">
-<img src="https://drive.google.com/uc?export=view&id=1Mzx9hUvKsp8yZICewZB_leuKFMHwVhri" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1V0QZHRXO9W15APiKMQm9NS1xPFgArjuD">
+<img src="https://drive.google.com/uc?export=view&id=1V0QZHRXO9W15APiKMQm9NS1xPFgArjuD" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Lichens/species/CladoniaDahliana" class="pagination--pager" title="Cladonia dahliana">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/CladoniaDeformis" class="pagination--pager" title="Cladonia deformis">Next</a>
+<a href="/DevelopmentWebsite/Lichens/species/CladoniaCyanipes" class="pagination--pager" title="Cladonia cyanipes">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/CladoniaDeformis" class="pagination--pager" title="Cladonia deformis">Next</a>
 
 <p>&nbsp;</p>
 

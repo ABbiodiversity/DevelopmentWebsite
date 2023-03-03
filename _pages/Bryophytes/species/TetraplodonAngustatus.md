@@ -10,36 +10,15 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1MJ6jNpSi4krOXK0Wwkoyxx5CGjSQ2Kb6">
-<img src="https://drive.google.com/uc?export=view&id=1MJ6jNpSi4krOXK0Wwkoyxx5CGjSQ2Kb6" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1vuxwpnE77Pqfn5b61bNqKdCv35MNqeS1">
+<img src="https://drive.google.com/uc?export=view&id=1vuxwpnE77Pqfn5b61bNqKdCv35MNqeS1" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1bI1gLIS2vGt0MrUEYmejMyYjY6gXd_9P">
-<img src="https://drive.google.com/uc?export=view&id=1bI1gLIS2vGt0MrUEYmejMyYjY6gXd_9P" height = "500" width = "1000">
-</a>
-
-
-<h2>Forested Sector Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1P_Urt8YBwI6WWeKx1GmYQourpOXYn2zq">
-<img src="https://drive.google.com/uc?export=view&id=1P_Urt8YBwI6WWeKx1GmYQourpOXYn2zq" height = "500" width = "1000">
-</a>
-
-
-<h2>Forested Linear Features Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1zAKPDBZIoKaziktA-HmpC4y-02GvgabO">
-<img src="https://drive.google.com/uc?export=view&id=1zAKPDBZIoKaziktA-HmpC4y-02GvgabO" height = "500" width = "500">
-</a>
-
-
-<h2>Prediction Maps</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1pBIEOL2ezsK2bUCQYCjxW55G7TOBsOJI">
-<img src="https://drive.google.com/uc?export=view&id=1pBIEOL2ezsK2bUCQYCjxW55G7TOBsOJI" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1vxgrsiYBg2UZZxMi6YqlnThUZvwJ8gYv">
+<img src="https://drive.google.com/uc?export=view&id=1vxgrsiYBg2UZZxMi6YqlnThUZvwJ8gYv" height = "500" width = "1000">
 </a>
 
 

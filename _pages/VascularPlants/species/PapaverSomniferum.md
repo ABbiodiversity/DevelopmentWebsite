@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1LlzKPob4W_4oKG7E71Fhu8BAAtiuTlhS">
-<img src="https://drive.google.com/uc?export=view&id=1LlzKPob4W_4oKG7E71Fhu8BAAtiuTlhS" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1-aZ03k3annC7jf70qSom8OpcnH4su27t">
+<img src="https://drive.google.com/uc?export=view&id=1-aZ03k3annC7jf70qSom8OpcnH4su27t" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Papaver" class="pagination--pager" title="Papaver">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Parnassia" class="pagination--pager" title="Parnassia">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PaeoniaOfficinalis" class="pagination--pager" title="Paeonia officinalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ParnassiaFimbriata" class="pagination--pager" title="Parnassia fimbriata">Next</a>
 
 <p>&nbsp;</p>
 

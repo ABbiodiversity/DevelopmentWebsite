@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1d1V2IFI-pppfNUJYftRxALvUmgWX4yYr">
-<img src="https://drive.google.com/uc?export=view&id=1d1V2IFI-pppfNUJYftRxALvUmgWX4yYr" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1AKdvXAeyVjy4_tFcY6mM7F8xbWTpKcOq">
+<img src="https://drive.google.com/uc?export=view&id=1AKdvXAeyVjy4_tFcY6mM7F8xbWTpKcOq" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Q0d33V90d3EHcNO3ckF2D4OLOpB8HUGF">
-<img src="https://drive.google.com/uc?export=view&id=1Q0d33V90d3EHcNO3ckF2D4OLOpB8HUGF" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1oVlmz061zNfI7CJYhbU_pH-_PGaFZ2rH">
+<img src="https://drive.google.com/uc?export=view&id=1oVlmz061zNfI7CJYhbU_pH-_PGaFZ2rH" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Plantago" class="pagination--pager" title="Plantago">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlantagoEriopoda" class="pagination--pager" title="Plantago eriopoda">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PlagiobothrysScouleri" class="pagination--pager" title="Plagiobothrys scouleri">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PlantagoEriopoda" class="pagination--pager" title="Plantago eriopoda">Next</a>
 
 <p>&nbsp;</p>
 

@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1tYai2KkPyPBBtdBQTG_ail4KpFV8V_wz">
-<img src="https://drive.google.com/uc?export=view&id=1tYai2KkPyPBBtdBQTG_ail4KpFV8V_wz" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=173S_lwVbjNNbYlxv92TJJPHa5RrIGV8l">
+<img src="https://drive.google.com/uc?export=view&id=173S_lwVbjNNbYlxv92TJJPHa5RrIGV8l" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Symphyotrichum" class="pagination--pager" title="Symphyotrichum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumBoreale" class="pagination--pager" title="Symphyotrichum boreale">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphoricarposOccidentalis" class="pagination--pager" title="Symphoricarpos occidentalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumBoreale" class="pagination--pager" title="Symphyotrichum boreale">Next</a>
 
 <p>&nbsp;</p>
 

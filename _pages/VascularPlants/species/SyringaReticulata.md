@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Vb6cQwB8_9swS4Dr5kwLMWAexWR_QtP-">
-<img src="https://drive.google.com/uc?export=view&id=1Vb6cQwB8_9swS4Dr5kwLMWAexWR_QtP-" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1CVrt_XZ4ksL3UnDnd-Wwa-_KQ4VX9qD3">
+<img src="https://drive.google.com/uc?export=view&id=1CVrt_XZ4ksL3UnDnd-Wwa-_KQ4VX9qD3" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Syringa" class="pagination--pager" title="Syringa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SyringaVulgaris" class="pagination--pager" title="Syringa vulgaris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SymphyotrichumSectOccidentales" class="pagination--pager" title="Symphyotrichum sect. Occidentales">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SyringaVulgaris" class="pagination--pager" title="Syringa vulgaris">Next</a>
 
 <p>&nbsp;</p>
 

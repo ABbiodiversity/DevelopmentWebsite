@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1tHjp7li2G4lZUKI2Vm-Rfk50uEY23ae5">
-<img src="https://drive.google.com/uc?export=view&id=1tHjp7li2G4lZUKI2Vm-Rfk50uEY23ae5" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1AxuBCejkenT-wNDWtNtw0gR-aSa1ZX0O">
+<img src="https://drive.google.com/uc?export=view&id=1AxuBCejkenT-wNDWtNtw0gR-aSa1ZX0O" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Sorbus" class="pagination--pager" title="Sorbus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Sorbus scopulina">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SorbariaSorbifolia" class="pagination--pager" title="Sorbaria sorbifolia">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SorbusScopulina" class="pagination--pager" title="Sorbus scopulina">Next</a>
 
 <p>&nbsp;</p>
 

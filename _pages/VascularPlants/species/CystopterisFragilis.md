@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1WOF6piXFeOeEwRZ38B6rZnuW04vzwJI3">
-<img src="https://drive.google.com/uc?export=view&id=1WOF6piXFeOeEwRZ38B6rZnuW04vzwJI3" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1cG1vU7boKiLO4lj3DCyKL4Dv-j84y1nw">
+<img src="https://drive.google.com/uc?export=view&id=1cG1vU7boKiLO4lj3DCyKL4Dv-j84y1nw" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1mMQi_KWzmVYukq4AviJfCKeUPazZ8-Zd">
-<img src="https://drive.google.com/uc?export=view&id=1mMQi_KWzmVYukq4AviJfCKeUPazZ8-Zd" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1ddw0Z8nP0tiHAXTFdMtLkrEDDEs1-uyl">
+<img src="https://drive.google.com/uc?export=view&id=1ddw0Z8nP0tiHAXTFdMtLkrEDDEs1-uyl" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Cystopteris" class="pagination--pager" title="Cystopteris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CystopterisMontana" class="pagination--pager" title="Cystopteris montana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CypripediumPasserinum" class="pagination--pager" title="Cypripedium passerinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CystopterisMontana" class="pagination--pager" title="Cystopteris montana">Next</a>
 
 <p>&nbsp;</p>
 

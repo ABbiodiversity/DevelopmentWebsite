@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1XgYme_z32kYmko8CfWS8OBvf9oHV3fqi">
-<img src="https://drive.google.com/uc?export=view&id=1XgYme_z32kYmko8CfWS8OBvf9oHV3fqi" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1KDU8c39jSw6aWSvrGanFycT4P50enDhx">
+<img src="https://drive.google.com/uc?export=view&id=1KDU8c39jSw6aWSvrGanFycT4P50enDhx" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1OCwOgCOfysHB_pvT275t2YIwC-k8XEI7">
-<img src="https://drive.google.com/uc?export=view&id=1OCwOgCOfysHB_pvT275t2YIwC-k8XEI7" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=16oR2_cG1YzyoFtyyf1P1B-V1ay-4UAwV">
+<img src="https://drive.google.com/uc?export=view&id=16oR2_cG1YzyoFtyyf1P1B-V1ay-4UAwV" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1TOH_D5nM6D4ER4Q0gqSwvBM1BOHe8ERO">
-<img src="https://drive.google.com/uc?export=view&id=1TOH_D5nM6D4ER4Q0gqSwvBM1BOHe8ERO" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1c8cfvtP63NUpJs5zL_wU0fZjs7Epk3On">
+<img src="https://drive.google.com/uc?export=view&id=1c8cfvtP63NUpJs5zL_wU0fZjs7Epk3On" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=15BTnBIi1z1BW4AjvC22R86PVEkiPW26q">
-<img src="https://drive.google.com/uc?export=view&id=15BTnBIi1z1BW4AjvC22R86PVEkiPW26q" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1eBXHDp7kbwN5P0yZIcVl6scWSJDE7cbv">
+<img src="https://drive.google.com/uc?export=view&id=1eBXHDp7kbwN5P0yZIcVl6scWSJDE7cbv" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1yz3Kz26cDxZNWwF3IsBkOLD_T73vRO34">
-<img src="https://drive.google.com/uc?export=view&id=1yz3Kz26cDxZNWwF3IsBkOLD_T73vRO34" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1EnjUw9rJx8X7DFbbaOEkD58y350w2yVI">
+<img src="https://drive.google.com/uc?export=view&id=1EnjUw9rJx8X7DFbbaOEkD58y350w2yVI" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=14JU8tLxXb8DVRrpSENiObIWAuFWf4V1E">
-<img src="https://drive.google.com/uc?export=view&id=14JU8tLxXb8DVRrpSENiObIWAuFWf4V1E" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1gSML1WVr9oYf-x8wq3ITtqzHZTq4ObYG">
+<img src="https://drive.google.com/uc?export=view&id=1gSML1WVr9oYf-x8wq3ITtqzHZTq4ObYG" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Gymnocarpium" class="pagination--pager" title="Gymnocarpium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GypsophilaPaniculata" class="pagination--pager" title="Gypsophila paniculata">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GutierreziaSarothrae" class="pagination--pager" title="Gutierrezia sarothrae">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GypsophilaPaniculata" class="pagination--pager" title="Gypsophila paniculata">Next</a>
 
 <p>&nbsp;</p>
 

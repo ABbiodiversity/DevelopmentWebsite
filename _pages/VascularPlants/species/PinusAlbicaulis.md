@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=19eUaOX8E385bK_dMkFoq73K0lSNjJeHj">
-<img src="https://drive.google.com/uc?export=view&id=19eUaOX8E385bK_dMkFoq73K0lSNjJeHj" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1VjWzHTTjWoMhh4J6uhpvfQbhwn6CJjs9">
+<img src="https://drive.google.com/uc?export=view&id=1VjWzHTTjWoMhh4J6uhpvfQbhwn6CJjs9" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Pinus" class="pagination--pager" title="Pinus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusBanksiana" class="pagination--pager" title="Pinus banksiana">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PinguiculaVulgaris" class="pagination--pager" title="Pinguicula vulgaris">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PinusBanksiana" class="pagination--pager" title="Pinus banksiana">Next</a>
 
 <p>&nbsp;</p>
 

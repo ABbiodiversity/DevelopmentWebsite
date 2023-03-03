@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1YMJClj39W-jJfEaQOuUc_I5UNLCGkRBK">
-<img src="https://drive.google.com/uc?export=view&id=1YMJClj39W-jJfEaQOuUc_I5UNLCGkRBK" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1ddGt_BGWe0U81xbIA2V-kdwwF1WK1GPc">
+<img src="https://drive.google.com/uc?export=view&id=1ddGt_BGWe0U81xbIA2V-kdwwF1WK1GPc" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1XnOfcEkQSF3hdnJ94o7lhKN76TsvptCw">
-<img src="https://drive.google.com/uc?export=view&id=1XnOfcEkQSF3hdnJ94o7lhKN76TsvptCw" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1vsoavexPiNJzIA4fQS9pq6WWS53m9yRU">
+<img src="https://drive.google.com/uc?export=view&id=1vsoavexPiNJzIA4fQS9pq6WWS53m9yRU" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Larix laricina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Lathyrus" class="pagination--pager" title="Lathyrus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LarixLaricina" class="pagination--pager" title="Larix laricina">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LathyrusOchroleucus" class="pagination--pager" title="Lathyrus ochroleucus">Next</a>
 
 <p>&nbsp;</p>
 

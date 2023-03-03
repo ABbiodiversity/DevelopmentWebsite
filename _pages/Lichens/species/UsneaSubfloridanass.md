@@ -10,15 +10,15 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1qbOkFnNC5akO2UlsJ9AP8J42rSgpOmle">
-<img src="https://drive.google.com/uc?export=view&id=1qbOkFnNC5akO2UlsJ9AP8J42rSgpOmle" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1vzulIGB4lTajVEEtZxIQDjoPnSGFfVDr">
+<img src="https://drive.google.com/uc?export=view&id=1vzulIGB4lTajVEEtZxIQDjoPnSGFfVDr" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1_T6LSSGnPF_74qiqZN9JPm-9P2Zp2hu1">
-<img src="https://drive.google.com/uc?export=view&id=1_T6LSSGnPF_74qiqZN9JPm-9P2Zp2hu1" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=18-2Gk8ihOA0S9Zc8BFlLInDI_RQicev7">
+<img src="https://drive.google.com/uc?export=view&id=18-2Gk8ihOA0S9Zc8BFlLInDI_RQicev7" height = "500" width = "1000">
 </a>
 
 

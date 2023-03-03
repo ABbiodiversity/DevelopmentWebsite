@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1LxULj8Mb9Y0FqgBA3L3xKcbjIy7H6DcH">
-<img src="https://drive.google.com/uc?export=view&id=1LxULj8Mb9Y0FqgBA3L3xKcbjIy7H6DcH" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=12rPOFooJJ96NPW5xgZZG26HIbVfXvs_i">
+<img src="https://drive.google.com/uc?export=view&id=12rPOFooJJ96NPW5xgZZG26HIbVfXvs_i" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1TQYG0O0SBSWTrLBuiogM-7fIdI33Xmln">
-<img src="https://drive.google.com/uc?export=view&id=1TQYG0O0SBSWTrLBuiogM-7fIdI33Xmln" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1SirQ29kQNHpeOn6sHRmgHHHKk-lHktwm">
+<img src="https://drive.google.com/uc?export=view&id=1SirQ29kQNHpeOn6sHRmgHHHKk-lHktwm" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1SPAu6usPH9ieiVQqZ1TSWr_I6gX8yHfn">
-<img src="https://drive.google.com/uc?export=view&id=1SPAu6usPH9ieiVQqZ1TSWr_I6gX8yHfn" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1v_wjgMWYyRAVyenViMa2IKffznePYMzT">
+<img src="https://drive.google.com/uc?export=view&id=1v_wjgMWYyRAVyenViMa2IKffznePYMzT" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1gz4zIbgDUAjbL0jSpLPQrwT_bppn74AR">
-<img src="https://drive.google.com/uc?export=view&id=1gz4zIbgDUAjbL0jSpLPQrwT_bppn74AR" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1ClVF8a4pPoYO22S_Z0EHga5kc0F9rxLq">
+<img src="https://drive.google.com/uc?export=view&id=1ClVF8a4pPoYO22S_Z0EHga5kc0F9rxLq" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Mpb4UjV0erqr7qoIvs8bq03n0DHzFhMn">
-<img src="https://drive.google.com/uc?export=view&id=1Mpb4UjV0erqr7qoIvs8bq03n0DHzFhMn" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1U33bYESkyFrUyAL4ZzLX8vA7BxJGUlkq">
+<img src="https://drive.google.com/uc?export=view&id=1U33bYESkyFrUyAL4ZzLX8vA7BxJGUlkq" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1b7uoCbMFiBHmIqYDuqbXt7y68FEtnB9V">
-<img src="https://drive.google.com/uc?export=view&id=1b7uoCbMFiBHmIqYDuqbXt7y68FEtnB9V" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1eboSGwTEValKODGm37KJrGutJMykpFEC">
+<img src="https://drive.google.com/uc?export=view&id=1eboSGwTEValKODGm37KJrGutJMykpFEC" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PinusXmurraybanksiana" class="pagination--pager" title="Pinus xmurraybanksiana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Pisum" class="pagination--pager" title="Pisum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PinusXmurraybanksiana" class="pagination--pager" title="Pinus xmurraybanksiana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PisumSativum" class="pagination--pager" title="Pisum sativum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1-wEQaZo0nOpbVwBUm9g04kNjwBDqXLB7">
-<img src="https://drive.google.com/uc?export=view&id=1-wEQaZo0nOpbVwBUm9g04kNjwBDqXLB7" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1_paBqt5VwfQRsW2jCItUOEGVNp-rExL3">
+<img src="https://drive.google.com/uc?export=view&id=1_paBqt5VwfQRsW2jCItUOEGVNp-rExL3" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Juniperus" class="pagination--pager" title="Juniperus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuniperusCommunis" class="pagination--pager" title="Juniperus communis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/JuncusVaseyi" class="pagination--pager" title="Juncus vaseyi">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/JuniperusCommunis" class="pagination--pager" title="Juniperus communis">Next</a>
 
 <p>&nbsp;</p>
 

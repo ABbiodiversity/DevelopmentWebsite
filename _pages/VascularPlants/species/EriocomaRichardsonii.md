@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1HgUmL1G3WdC9mxf9sqPNQpTkvVlt_wpt">
-<img src="https://drive.google.com/uc?export=view&id=1HgUmL1G3WdC9mxf9sqPNQpTkvVlt_wpt" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1mefxCfwmamn4Z4VLwXLfR__KhJv1qSaD">
+<img src="https://drive.google.com/uc?export=view&id=1mefxCfwmamn4Z4VLwXLfR__KhJv1qSaD" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EriocomaNelsonii" class="pagination--pager" title="Eriocoma nelsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Eriogonum" class="pagination--pager" title="Eriogonum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EriocomaNelsonii" class="pagination--pager" title="Eriocoma nelsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EriogonumAndrosaceum" class="pagination--pager" title="Eriogonum androsaceum">Next</a>
 
 <p>&nbsp;</p>
 

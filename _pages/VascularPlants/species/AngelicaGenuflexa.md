@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1t8DKvewsJLA1o0PgCszETNxB01L0ksf5">
-<img src="https://drive.google.com/uc?export=view&id=1t8DKvewsJLA1o0PgCszETNxB01L0ksf5" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1qWnkA6krschYV4Pa1HcActYCOivMseA6">
+<img src="https://drive.google.com/uc?export=view&id=1qWnkA6krschYV4Pa1HcActYCOivMseA6" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1iZ1Cs8qRWppengphCA-QXHqAwu31xKff">
-<img src="https://drive.google.com/uc?export=view&id=1iZ1Cs8qRWppengphCA-QXHqAwu31xKff" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1eslM6OJjdkEXmP92lEt4Db2nHj6lOF0f">
+<img src="https://drive.google.com/uc?export=view&id=1eslM6OJjdkEXmP92lEt4Db2nHj6lOF0f" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/AnethumGraveolens" class="pagination--pager" title="Anethum graveolens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Antennaria" class="pagination--pager" title="Antennaria">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AnethumGraveolens" class="pagination--pager" title="Anethum graveolens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AntennariaAlpina" class="pagination--pager" title="Antennaria alpina">Next</a>
 
 <p>&nbsp;</p>
 

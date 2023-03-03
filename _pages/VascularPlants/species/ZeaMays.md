@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1hWtpyxjFGH-ZBC8qkN-lwyepJYbo2R1v">
-<img src="https://drive.google.com/uc?export=view&id=1hWtpyxjFGH-ZBC8qkN-lwyepJYbo2R1v" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1yopKI1qs4qga8iiwVG6aaxIL1bRdYbD2">
+<img src="https://drive.google.com/uc?export=view&id=1yopKI1qs4qga8iiwVG6aaxIL1bRdYbD2" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1QxIf7KfDSlof8Y3922OuEMknVhiabJbE">
-<img src="https://drive.google.com/uc?export=view&id=1QxIf7KfDSlof8Y3922OuEMknVhiabJbE" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1b8pPw-8OUcgjoQh0IVdgwYbOmJbv2-XP">
+<img src="https://drive.google.com/uc?export=view&id=1b8pPw-8OUcgjoQh0IVdgwYbOmJbv2-XP" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/XPascoleymusBowdenii" class="pagination--pager" title="X Pascoleymus bowdenii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ZiziaAptera" class="pagination--pager" title="Zizia aptera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/XerophyllumTenax" class="pagination--pager" title="Xerophyllum tenax">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ZiziaAptera" class="pagination--pager" title="Zizia aptera">Next</a>
 
 <p>&nbsp;</p>
 

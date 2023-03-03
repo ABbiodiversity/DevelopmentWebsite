@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1CwUUBGGC8jz8kYhVRqNZJMg-PdKPw1H5">
-<img src="https://drive.google.com/uc?export=view&id=1CwUUBGGC8jz8kYhVRqNZJMg-PdKPw1H5" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1gcS-eG0TrBHQ9KonDN20ccaUzT1CK5Fv">
+<img src="https://drive.google.com/uc?export=view&id=1gcS-eG0TrBHQ9KonDN20ccaUzT1CK5Fv" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ElaeagnusCommutata" class="pagination--pager" title="Elaeagnus commutata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Eleocharis" class="pagination--pager" title="Eleocharis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ElaeagnusCommutata" class="pagination--pager" title="Elaeagnus commutata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EleocharisAcicularis" class="pagination--pager" title="Eleocharis acicularis">Next</a>
 
 <p>&nbsp;</p>
 

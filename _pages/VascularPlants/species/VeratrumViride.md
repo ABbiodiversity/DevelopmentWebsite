@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1VXmIYc331jv2Kl4UTiJOfwwVOe4tK6Lp">
-<img src="https://drive.google.com/uc?export=view&id=1VXmIYc331jv2Kl4UTiJOfwwVOe4tK6Lp" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=11NKagSQc_FdQ3jgjYu5rFe6Z26G3iFGB">
+<img src="https://drive.google.com/uc?export=view&id=11NKagSQc_FdQ3jgjYu5rFe6Z26G3iFGB" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1P9eIuzkCsmlpKpC52LL4rRH5XPJQrDD2">
-<img src="https://drive.google.com/uc?export=view&id=1P9eIuzkCsmlpKpC52LL4rRH5XPJQrDD2" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1GUukVczBgxesvzH8_WmktYOocsjv3tyW">
+<img src="https://drive.google.com/uc?export=view&id=1GUukVczBgxesvzH8_WmktYOocsjv3tyW" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ValerianaSitchensis" class="pagination--pager" title="Valeriana sitchensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Verbena" class="pagination--pager" title="Verbena">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ValerianaSitchensis" class="pagination--pager" title="Valeriana sitchensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VerbenaBracteata" class="pagination--pager" title="Verbena bracteata">Next</a>
 
 <p>&nbsp;</p>
 

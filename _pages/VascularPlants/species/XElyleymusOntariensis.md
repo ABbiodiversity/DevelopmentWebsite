@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ib894lZjBx-RbIop3IHk7yFhNHUTz4Jy">
-<img src="https://drive.google.com/uc?export=view&id=1ib894lZjBx-RbIop3IHk7yFhNHUTz4Jy" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1pO2bDfN_yLwH56P9VGW69j9DLtyF_yKU">
+<img src="https://drive.google.com/uc?export=view&id=1pO2bDfN_yLwH56P9VGW69j9DLtyF_yKU" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1KKdg3ZX54gHjTNJX5qUfZODmD2jvGXhA">
-<img src="https://drive.google.com/uc?export=view&id=1KKdg3ZX54gHjTNJX5qUfZODmD2jvGXhA" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1feaqb-_Vv0dFntA0LlpSy_SuV2fCmZDq">
+<img src="https://drive.google.com/uc?export=view&id=1feaqb-_Vv0dFntA0LlpSy_SuV2fCmZDq" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/XElyhordeumMacounii" class="pagination--pager" title="X Elyhordeum macounii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XerophyllumTenax" class="pagination--pager" title="Xerophyllum tenax">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/XanthiumStrumarium" class="pagination--pager" title="Xanthium strumarium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XerophyllumTenax" class="pagination--pager" title="Xerophyllum tenax">Next</a>
 
 <p>&nbsp;</p>
 

@@ -10,61 +10,61 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1lbnKuF-PAIIaU13N86js6M7VE2fBsDzL">
-<img src="https://drive.google.com/uc?export=view&id=1lbnKuF-PAIIaU13N86js6M7VE2fBsDzL" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1ToVh1HODWm5Pyxq0mMvjALTJJoRN9ovq">
+<img src="https://drive.google.com/uc?export=view&id=1ToVh1HODWm5Pyxq0mMvjALTJJoRN9ovq" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1pd9xvaxZRiMKMc7COyBzpXT3jvpb6HII">
-<img src="https://drive.google.com/uc?export=view&id=1pd9xvaxZRiMKMc7COyBzpXT3jvpb6HII" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1mAFqDrAg36X6v-bUA4QopFWE68SOVS4c">
+<img src="https://drive.google.com/uc?export=view&id=1mAFqDrAg36X6v-bUA4QopFWE68SOVS4c" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=159ibusueKSGpqL88pm4p1lqKPRXcbuer">
-<img src="https://drive.google.com/uc?export=view&id=159ibusueKSGpqL88pm4p1lqKPRXcbuer" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1bWG-vyu00FG5q-YipacO8mXJ55OZy3Yj">
+<img src="https://drive.google.com/uc?export=view&id=1bWG-vyu00FG5q-YipacO8mXJ55OZy3Yj" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1rx-A5vfjrrFQCYSLvzjKmztAWz2PRzC9">
-<img src="https://drive.google.com/uc?export=view&id=1rx-A5vfjrrFQCYSLvzjKmztAWz2PRzC9" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1h0HMsjz1hYIsHtY4yTizpvklT8U-xYAf">
+<img src="https://drive.google.com/uc?export=view&id=1h0HMsjz1hYIsHtY4yTizpvklT8U-xYAf" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=13SQ6cHNRbsiRRAIzDBBWK49R2LFoxAY2">
-<img src="https://drive.google.com/uc?export=view&id=13SQ6cHNRbsiRRAIzDBBWK49R2LFoxAY2" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1JBs6WBUzDbe1-znG1qMoqH0EiLBULHRu">
+<img src="https://drive.google.com/uc?export=view&id=1JBs6WBUzDbe1-znG1qMoqH0EiLBULHRu" height = "500" width = "500">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=13hv-UCsPFeZgnNG7GcD0DRpvoFx07ljV">
-<img src="https://drive.google.com/uc?export=view&id=13hv-UCsPFeZgnNG7GcD0DRpvoFx07ljV" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1iuhzP9AKPjcz5Z6cTP9XXSg5n4WU6Ugd">
+<img src="https://drive.google.com/uc?export=view&id=1iuhzP9AKPjcz5Z6cTP9XXSg5n4WU6Ugd" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ZuO9t4KLDvgu6MbsuVJ3p9rlMO5Gu5xx">
-<img src="https://drive.google.com/uc?export=view&id=1ZuO9t4KLDvgu6MbsuVJ3p9rlMO5Gu5xx" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1Ye8FX_mHDfirIjH_59Pk4nrzvSb9uVGs">
+<img src="https://drive.google.com/uc?export=view&id=1Ye8FX_mHDfirIjH_59Pk4nrzvSb9uVGs" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Z9wFnT6tgTV0vpdmbHdfD7PoWFVxCuxp">
-<img src="https://drive.google.com/uc?export=view&id=1Z9wFnT6tgTV0vpdmbHdfD7PoWFVxCuxp" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1XgDsskuz9EAQHxuK6hog167OTy8ohfKB">
+<img src="https://drive.google.com/uc?export=view&id=1XgDsskuz9EAQHxuK6hog167OTy8ohfKB" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/TurritisGlabra" class="pagination--pager" title="Turritis glabra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Ulmus" class="pagination--pager" title="Ulmus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TurritisGlabra" class="pagination--pager" title="Turritis glabra">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/UlmusAmericana" class="pagination--pager" title="Ulmus americana">Next</a>
 
 <p>&nbsp;</p>
 

@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1YBBEE6P86ixgLU_gu3c8VYM3zDG44xVU">
-<img src="https://drive.google.com/uc?export=view&id=1YBBEE6P86ixgLU_gu3c8VYM3zDG44xVU" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1s1Gwl6a3Lpm1VBcHeVBkCDBSrNktDTQr">
+<img src="https://drive.google.com/uc?export=view&id=1s1Gwl6a3Lpm1VBcHeVBkCDBSrNktDTQr" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1bfMxwM97NFgozjJn2ME6xot4PcdJSfkK">
-<img src="https://drive.google.com/uc?export=view&id=1bfMxwM97NFgozjJn2ME6xot4PcdJSfkK" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1nO16qDPcBPFSzHYQZP8sf55tu0KcuFiW">
+<img src="https://drive.google.com/uc?export=view&id=1nO16qDPcBPFSzHYQZP8sf55tu0KcuFiW" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=18Q7-xwIVvDm17IGb4o4AuDMa0d8XPxys">
-<img src="https://drive.google.com/uc?export=view&id=18Q7-xwIVvDm17IGb4o4AuDMa0d8XPxys" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1TLE99GQglZFlBkGhefS1Ugn2rH_DQqlz">
+<img src="https://drive.google.com/uc?export=view&id=1TLE99GQglZFlBkGhefS1Ugn2rH_DQqlz" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1VqQ_jcDTzjvFAVVroDWsoVmqJ40zhGgU">
-<img src="https://drive.google.com/uc?export=view&id=1VqQ_jcDTzjvFAVVroDWsoVmqJ40zhGgU" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1ZWyeDGKN1AN1vsUB7iawewaFahJqv9sd">
+<img src="https://drive.google.com/uc?export=view&id=1ZWyeDGKN1AN1vsUB7iawewaFahJqv9sd" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=17aSk_A77cCRTy17E2H1w2lbDXjMr8wtx">
-<img src="https://drive.google.com/uc?export=view&id=17aSk_A77cCRTy17E2H1w2lbDXjMr8wtx" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1cOh01AeEqEn7UgFKdjphYZt6CGUXTvRh">
+<img src="https://drive.google.com/uc?export=view&id=1cOh01AeEqEn7UgFKdjphYZt6CGUXTvRh" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=17oXuap364j7LCRgAOr8bC-1rORwl8gk6">
-<img src="https://drive.google.com/uc?export=view&id=17oXuap364j7LCRgAOr8bC-1rORwl8gk6" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1nKt3rdcaOpAMthsQXnxYybQ8s3uTg0SA">
+<img src="https://drive.google.com/uc?export=view&id=1nKt3rdcaOpAMthsQXnxYybQ8s3uTg0SA" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/GaillardiaAristata" class="pagination--pager" title="Gaillardia aristata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Galeopsis" class="pagination--pager" title="Galeopsis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/GaillardiaAristata" class="pagination--pager" title="Gaillardia aristata">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/GaleopsisTetrahit" class="pagination--pager" title="Galeopsis tetrahit">Next</a>
 
 <p>&nbsp;</p>
 

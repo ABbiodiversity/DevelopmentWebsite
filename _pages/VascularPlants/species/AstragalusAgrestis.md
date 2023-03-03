@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1kjlmO5hCSjqxn1gmLg_cU-Acz64neBOc">
-<img src="https://drive.google.com/uc?export=view&id=1kjlmO5hCSjqxn1gmLg_cU-Acz64neBOc" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1L8ds3gPE5kvnuSZCAhLTbvveUXlaqN0l">
+<img src="https://drive.google.com/uc?export=view&id=1L8ds3gPE5kvnuSZCAhLTbvveUXlaqN0l" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1n04Hf2Z22H9oamy77QHYmG6JvLBRN4Bn">
-<img src="https://drive.google.com/uc?export=view&id=1n04Hf2Z22H9oamy77QHYmG6JvLBRN4Bn" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1IW4cwpl7KFBdJG0Y0kUDWcl0q3cJVTV3">
+<img src="https://drive.google.com/uc?export=view&id=1IW4cwpl7KFBdJG0Y0kUDWcl0q3cJVTV3" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=117Mcp2YKq7jh2pYxPuauCbl6hv2zKteP">
-<img src="https://drive.google.com/uc?export=view&id=117Mcp2YKq7jh2pYxPuauCbl6hv2zKteP" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1g4H7LdRYYoGSVS11Sknmgum5cuF2YNvU">
+<img src="https://drive.google.com/uc?export=view&id=1g4H7LdRYYoGSVS11Sknmgum5cuF2YNvU" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1VpaR00dvm5LKDwnyRxhfwNfxpUTzA5Fh">
-<img src="https://drive.google.com/uc?export=view&id=1VpaR00dvm5LKDwnyRxhfwNfxpUTzA5Fh" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1hGQX92AcrinNTYqZR5KbSMEIYy6iaVso">
+<img src="https://drive.google.com/uc?export=view&id=1hGQX92AcrinNTYqZR5KbSMEIYy6iaVso" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=19kOxRz3WMCD5L4AW1UKcfMUn0b1AjvYL">
-<img src="https://drive.google.com/uc?export=view&id=19kOxRz3WMCD5L4AW1UKcfMUn0b1AjvYL" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1YkuBbpwJ0QYfjWTtnJFgLROVQQ-wZud6">
+<img src="https://drive.google.com/uc?export=view&id=1YkuBbpwJ0QYfjWTtnJFgLROVQQ-wZud6" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1126flbHUTmrlZbL3FVbvddIcCEELNXOm">
-<img src="https://drive.google.com/uc?export=view&id=1126flbHUTmrlZbL3FVbvddIcCEELNXOm" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1WrX8Ke8sVgakKnY_bClnvamhW1FzMytT">
+<img src="https://drive.google.com/uc?export=view&id=1WrX8Ke8sVgakKnY_bClnvamhW1FzMytT" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Astragalus" class="pagination--pager" title="Astragalus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAlpinus" class="pagination--pager" title="Astragalus alpinus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AsterAlpinus" class="pagination--pager" title="Aster alpinus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAlpinus" class="pagination--pager" title="Astragalus alpinus">Next</a>
 
 <p>&nbsp;</p>
 

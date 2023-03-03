@@ -1,5 +1,5 @@
 ---
-title: "Rangifer tarandus caribou"
+title: "Woodland Caribou"
 layout: single
 classes: wide
 permalink: /Mammals/species/WoodlandCaribou
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=13_CZ3uUh__YeYVDRnKT6ECWkLGFgZSAs">
-<img src="https://drive.google.com/uc?export=view&id=13_CZ3uUh__YeYVDRnKT6ECWkLGFgZSAs" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1JxP1f7glxYXbTdSlJNjtqE-YBlli3eS6">
+<img src="https://drive.google.com/uc?export=view&id=1JxP1f7glxYXbTdSlJNjtqE-YBlli3eS6" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Cougar" class="pagination--pager" title="Puma">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/ColumbianGroundSquirrel" class="pagination--pager" title="Spermophilus columbianus">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/WolvesCoyotesandAllies" class="pagination--pager" title="Canidae">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Badger" class="pagination--pager" title="Taxidea taxus">Next</a>
 
 <p>&nbsp;</p>
 

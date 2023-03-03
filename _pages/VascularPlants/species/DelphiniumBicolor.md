@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1o5noXnk4oZXB2Jmma8itTujPZGRpzLK-">
-<img src="https://drive.google.com/uc?export=view&id=1o5noXnk4oZXB2Jmma8itTujPZGRpzLK-" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1gVGvED04VL77KG0QTeLgcxhVkTYexueq">
+<img src="https://drive.google.com/uc?export=view&id=1gVGvED04VL77KG0QTeLgcxhVkTYexueq" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Delphinium" class="pagination--pager" title="Delphinium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumGlaucum" class="pagination--pager" title="Delphinium glaucum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/DasiphoraFruticosa" class="pagination--pager" title="Dasiphora fruticosa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/DelphiniumGlaucum" class="pagination--pager" title="Delphinium glaucum">Next</a>
 
 <p>&nbsp;</p>
 

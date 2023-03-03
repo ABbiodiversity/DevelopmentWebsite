@@ -1,5 +1,5 @@
 ---
-title: "Odocoileus hemionus"
+title: "Mule Deer"
 layout: single
 classes: wide
 permalink: /Mammals/species/Muledeer
@@ -10,61 +10,61 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Lc7R2dlFftPYm3JAYXtuVaNlaRgdMOAo">
-<img src="https://drive.google.com/uc?export=view&id=1Lc7R2dlFftPYm3JAYXtuVaNlaRgdMOAo" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1wrSPGpgBr6Mg-73LbpdT_8wfQ3ZBn-r1">
+<img src="https://drive.google.com/uc?export=view&id=1wrSPGpgBr6Mg-73LbpdT_8wfQ3ZBn-r1" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Z5uKct0RXB8YFFIFnN7tid6cd4naAdCc">
-<img src="https://drive.google.com/uc?export=view&id=1Z5uKct0RXB8YFFIFnN7tid6cd4naAdCc" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1wJX5xWpDOKkADD-QXGx-iUaviMv7rX3J">
+<img src="https://drive.google.com/uc?export=view&id=1wJX5xWpDOKkADD-QXGx-iUaviMv7rX3J" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1rFLQbbi5uQc7sQfuKcReRkYaNo0LFphj">
-<img src="https://drive.google.com/uc?export=view&id=1rFLQbbi5uQc7sQfuKcReRkYaNo0LFphj" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1tP-9vXsfCzTHYSH76X19v6CUYYUb50XT">
+<img src="https://drive.google.com/uc?export=view&id=1tP-9vXsfCzTHYSH76X19v6CUYYUb50XT" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1IHWJIy3HT_KsLQ4PLxUC7eGyzGjws5Wh">
-<img src="https://drive.google.com/uc?export=view&id=1IHWJIy3HT_KsLQ4PLxUC7eGyzGjws5Wh" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1rZmVSGS3NH3g_Ynt-WY9VFEXXGT_ACft">
+<img src="https://drive.google.com/uc?export=view&id=1rZmVSGS3NH3g_Ynt-WY9VFEXXGT_ACft" height = "500" width = "500">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1y7EcUjSaw3NyjmNd_oL4Jsl093gxRhuu">
-<img src="https://drive.google.com/uc?export=view&id=1y7EcUjSaw3NyjmNd_oL4Jsl093gxRhuu" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1e72Gif5NsqEjjCZvOb5GMp0RQSzfnUpj">
+<img src="https://drive.google.com/uc?export=view&id=1e72Gif5NsqEjjCZvOb5GMp0RQSzfnUpj" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1jLDnyldFhOeOSZwm3im09b69eZ7VmSpY">
-<img src="https://drive.google.com/uc?export=view&id=1jLDnyldFhOeOSZwm3im09b69eZ7VmSpY" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1ni2fAe32hUwZ5fd4QuB4DDIO6TLz2msi">
+<img src="https://drive.google.com/uc?export=view&id=1ni2fAe32hUwZ5fd4QuB4DDIO6TLz2msi" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1J0-AeS3BL6ZhL46r2p4jwJkl3q1sE6XK">
-<img src="https://drive.google.com/uc?export=view&id=1J0-AeS3BL6ZhL46r2p4jwJkl3q1sE6XK" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1fl7T84s5A9kj1EY_3UNVzMyrSjLm0k46">
+<img src="https://drive.google.com/uc?export=view&id=1fl7T84s5A9kj1EY_3UNVzMyrSjLm0k46" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1OxFIbecLN8yNi7mNrUzk-3S_VOoRT9oh">
-<img src="https://drive.google.com/uc?export=view&id=1OxFIbecLN8yNi7mNrUzk-3S_VOoRT9oh" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1lnbq1M7dfNKbqSsYnuyH4S2jbteohzFi">
+<img src="https://drive.google.com/uc?export=view&id=1lnbq1M7dfNKbqSsYnuyH4S2jbteohzFi" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Deer" class="pagination--pager" title="Odocoileus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/WhitetailedDeer" class="pagination--pager" title="Odocoileus virginianus">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Moose" class="pagination--pager" title="Alces alces">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Muskrat" class="pagination--pager" title="Ondatra zibethicus">Next</a>
 
 <p>&nbsp;</p>
 

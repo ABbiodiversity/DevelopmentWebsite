@@ -10,43 +10,43 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1zvMPiYB1b4amyi_Ze0ZvQIx2nLfiTVT6">
-<img src="https://drive.google.com/uc?export=view&id=1zvMPiYB1b4amyi_Ze0ZvQIx2nLfiTVT6" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1Ym0_QyVxXrvAjz_MVqIHtAjkNav1pFaX">
+<img src="https://drive.google.com/uc?export=view&id=1Ym0_QyVxXrvAjz_MVqIHtAjkNav1pFaX" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=171yhKXuHR7xcFAwlWFa85MuN6ySDxKif">
-<img src="https://drive.google.com/uc?export=view&id=171yhKXuHR7xcFAwlWFa85MuN6ySDxKif" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1qFF_CuJ5XnGhB-DSyBL6nTmt1hsjQGCL">
+<img src="https://drive.google.com/uc?export=view&id=1qFF_CuJ5XnGhB-DSyBL6nTmt1hsjQGCL" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1mZpTTJHOt_1nwiIp_EsG_ry2Gcb2z53B">
-<img src="https://drive.google.com/uc?export=view&id=1mZpTTJHOt_1nwiIp_EsG_ry2Gcb2z53B" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=135RMDYM4aFDnhzeem3VZMpGFk9kPwqeQ">
+<img src="https://drive.google.com/uc?export=view&id=135RMDYM4aFDnhzeem3VZMpGFk9kPwqeQ" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1J54LiGTNvqqA7PV4abAKBcl4HQFdDBD-">
-<img src="https://drive.google.com/uc?export=view&id=1J54LiGTNvqqA7PV4abAKBcl4HQFdDBD-" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Qs3vR32pFwg1KoSnPqNGQlTbKfpQ5_Zy">
+<img src="https://drive.google.com/uc?export=view&id=1Qs3vR32pFwg1KoSnPqNGQlTbKfpQ5_Zy" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1iLLFwBG_fNnltxiwxlMxNXPIhMJQmh7J">
-<img src="https://drive.google.com/uc?export=view&id=1iLLFwBG_fNnltxiwxlMxNXPIhMJQmh7J" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1yuotdK7iGc-A2K4SiwFYqVgxu-cpzi4D">
+<img src="https://drive.google.com/uc?export=view&id=1yuotdK7iGc-A2K4SiwFYqVgxu-cpzi4D" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1He3xx3bLe36l_8dKO99qZ4a6SdsdA7sg">
-<img src="https://drive.google.com/uc?export=view&id=1He3xx3bLe36l_8dKO99qZ4a6SdsdA7sg" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1TG5T8C1OdoqJP0ZvYys2IhmZJZcaxVmZ">
+<img src="https://drive.google.com/uc?export=view&id=1TG5T8C1OdoqJP0ZvYys2IhmZJZcaxVmZ" height = "500" width = "1000">
 </a>
 
 

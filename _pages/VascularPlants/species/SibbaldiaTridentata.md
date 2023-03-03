@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1HcrvzPMAadap7kCZbOfDZYRmbOA0jra-">
-<img src="https://drive.google.com/uc?export=view&id=1HcrvzPMAadap7kCZbOfDZYRmbOA0jra-" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1I38lGdmMALWwrpvmYkfVBiRPiaHpbRw2">
+<img src="https://drive.google.com/uc?export=view&id=1I38lGdmMALWwrpvmYkfVBiRPiaHpbRw2" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Jesm3zYEThKMY6rOQA3PtR4gJuFvPoB0">
-<img src="https://drive.google.com/uc?export=view&id=1Jesm3zYEThKMY6rOQA3PtR4gJuFvPoB0" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1LXZrunfT9Rem8bHx1taTUwgXBTQcWFc6">
+<img src="https://drive.google.com/uc?export=view&id=1LXZrunfT9Rem8bHx1taTUwgXBTQcWFc6" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1XxOvZ367mqfi81PtuTEEZXH1eITG7aSh">
-<img src="https://drive.google.com/uc?export=view&id=1XxOvZ367mqfi81PtuTEEZXH1eITG7aSh" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Q6WuosqIkVgJ6Wuy3hmWKb1qg-Ic3rt-">
+<img src="https://drive.google.com/uc?export=view&id=1Q6WuosqIkVgJ6Wuy3hmWKb1qg-Ic3rt-" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1znuhp_T0f_bBQO6pjI5Ee8hu3IsPan2j">
-<img src="https://drive.google.com/uc?export=view&id=1znuhp_T0f_bBQO6pjI5Ee8hu3IsPan2j" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1cmSBX9fF3SKZ1EDH7UVmTdXHs1PUYs1k">
+<img src="https://drive.google.com/uc?export=view&id=1cmSBX9fF3SKZ1EDH7UVmTdXHs1PUYs1k" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1_6hFZeu8FbuEUtvoXsa0gDBWBygjv3wu">
-<img src="https://drive.google.com/uc?export=view&id=1_6hFZeu8FbuEUtvoXsa0gDBWBygjv3wu" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1KAmtBoS-OFcoheL4b7wg4BhXqj_L5bob">
+<img src="https://drive.google.com/uc?export=view&id=1KAmtBoS-OFcoheL4b7wg4BhXqj_L5bob" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=14mCQAJTtl6AzNY2F_N9bJ5pQ_-s0ucme">
-<img src="https://drive.google.com/uc?export=view&id=14mCQAJTtl6AzNY2F_N9bJ5pQ_-s0ucme" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1tid0awqCfK1va-A5tcWpMQhEMKYV4Z4A">
+<img src="https://drive.google.com/uc?export=view&id=1tid0awqCfK1va-A5tcWpMQhEMKYV4Z4A" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SibbaldiaProcumbens" class="pagination--pager" title="Sibbaldia procumbens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Silene" class="pagination--pager" title="Silene">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SibbaldiaProcumbens" class="pagination--pager" title="Sibbaldia procumbens">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SileneAcaulis" class="pagination--pager" title="Silene acaulis">Next</a>
 
 <p>&nbsp;</p>
 

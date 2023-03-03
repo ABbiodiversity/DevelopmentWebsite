@@ -10,26 +10,26 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1T3I18XjaLXVn-0O11UkfhrmGg26eWhlK">
-<img src="https://drive.google.com/uc?export=view&id=1T3I18XjaLXVn-0O11UkfhrmGg26eWhlK" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1tDej6y3J7XDJCTnidfkvMgITKY-_e4r6">
+<img src="https://drive.google.com/uc?export=view&id=1tDej6y3J7XDJCTnidfkvMgITKY-_e4r6" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=14a3ss027ZqWDoESH9CVMJ-FyyZM_xRLe">
-<img src="https://drive.google.com/uc?export=view&id=14a3ss027ZqWDoESH9CVMJ-FyyZM_xRLe" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1xUhytUU-jN_mRJze57H25neKStExVBnl">
+<img src="https://drive.google.com/uc?export=view&id=1xUhytUU-jN_mRJze57H25neKStExVBnl" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1AT47_FYXH9AdStCREeQoJ5MaKpg4RFAj">
-<img src="https://drive.google.com/uc?export=view&id=1AT47_FYXH9AdStCREeQoJ5MaKpg4RFAj" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1D4st6_gNAd53WgdYLz7ZP9arX87SoSHR">
+<img src="https://drive.google.com/uc?export=view&id=1D4st6_gNAd53WgdYLz7ZP9arX87SoSHR" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/SinapisAlba" class="pagination--pager" title="Sinapis alba">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Sisymbrium" class="pagination--pager" title="Sisymbrium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/SinapisAlba" class="pagination--pager" title="Sinapis alba">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/SisymbriumAltissimumLoeselii" class="pagination--pager" title="Sisymbrium altissimum/loeselii">Next</a>
 
 <p>&nbsp;</p>
 

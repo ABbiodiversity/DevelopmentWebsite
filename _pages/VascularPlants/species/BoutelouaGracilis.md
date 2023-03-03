@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1KHv2h_24UAF-cUVh1vDkn_4Koc7LyNue">
-<img src="https://drive.google.com/uc?export=view&id=1KHv2h_24UAF-cUVh1vDkn_4Koc7LyNue" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1kSMuGVu4fsZdo8XW6OA_PbwFtZ42V3bJ">
+<img src="https://drive.google.com/uc?export=view&id=1kSMuGVu4fsZdo8XW6OA_PbwFtZ42V3bJ" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1u9x5Uh0v9PA6oSVVClDGVr-4U92sHxAY">
-<img src="https://drive.google.com/uc?export=view&id=1u9x5Uh0v9PA6oSVVClDGVr-4U92sHxAY" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=15n_NI7dpYiYsbs7RoBhKrjxLRpuxPYOH">
+<img src="https://drive.google.com/uc?export=view&id=15n_NI7dpYiYsbs7RoBhKrjxLRpuxPYOH" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1i9wd0ff121C_w6Mpul-dcLa8eonhuwVG">
-<img src="https://drive.google.com/uc?export=view&id=1i9wd0ff121C_w6Mpul-dcLa8eonhuwVG" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Xd7WI6br3Oi3eV6hFvbtEpIPmux9qSJG">
+<img src="https://drive.google.com/uc?export=view&id=1Xd7WI6br3Oi3eV6hFvbtEpIPmux9qSJG" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1wvuj9gnN4BAIlUy5gae9doh2GCTMQg-m">
-<img src="https://drive.google.com/uc?export=view&id=1wvuj9gnN4BAIlUy5gae9doh2GCTMQg-m" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1PmM-X2RklNTjONsvQPB4FMr3eAGIEMS5">
+<img src="https://drive.google.com/uc?export=view&id=1PmM-X2RklNTjONsvQPB4FMr3eAGIEMS5" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=15W8PiAqgVWBjmwkPlLnKljbr8RD75xbm">
-<img src="https://drive.google.com/uc?export=view&id=15W8PiAqgVWBjmwkPlLnKljbr8RD75xbm" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1JdL4elr_gOkijZUCwn9er5KUNdCCH4wn">
+<img src="https://drive.google.com/uc?export=view&id=1JdL4elr_gOkijZUCwn9er5KUNdCCH4wn" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=18WiY7VDLF7xdnXwC2mzTR0VvdSL8dQUc">
-<img src="https://drive.google.com/uc?export=view&id=18WiY7VDLF7xdnXwC2mzTR0VvdSL8dQUc" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=17dHPcHHPfeED2j814VyvN2kHR74ed2s8">
+<img src="https://drive.google.com/uc?export=view&id=17dHPcHHPfeED2j814VyvN2kHR74ed2s8" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BotrypusVirginianus" class="pagination--pager" title="Botrypus virginianus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Brassica" class="pagination--pager" title="Brassica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BotrypusVirginianus" class="pagination--pager" title="Botrypus virginianus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BrassicaJuncea" class="pagination--pager" title="Brassica juncea">Next</a>
 
 <p>&nbsp;</p>
 

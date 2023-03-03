@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1PZEgArs5xEy9OKzO-U-AoJS_U5WRdrfo">
-<img src="https://drive.google.com/uc?export=view&id=1PZEgArs5xEy9OKzO-U-AoJS_U5WRdrfo" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1v-dWBDVgnR2QR_gYd-2GgX5UrAeI-lVB">
+<img src="https://drive.google.com/uc?export=view&id=1v-dWBDVgnR2QR_gYd-2GgX5UrAeI-lVB" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ur4DUXyt05GUyPWk_R5Q2RfkmXhYYAbI">
-<img src="https://drive.google.com/uc?export=view&id=1ur4DUXyt05GUyPWk_R5Q2RfkmXhYYAbI" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=18KCZAhPKobCfk_FS26278Dhpjr38Qnpk">
+<img src="https://drive.google.com/uc?export=view&id=18KCZAhPKobCfk_FS26278Dhpjr38Qnpk" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Verbena" class="pagination--pager" title="Verbena">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Veronica" class="pagination--pager" title="Veronica">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/VeratrumViride" class="pagination--pager" title="Veratrum viride">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/VeronicaAmericana" class="pagination--pager" title="Veronica americana">Next</a>
 
 <p>&nbsp;</p>
 

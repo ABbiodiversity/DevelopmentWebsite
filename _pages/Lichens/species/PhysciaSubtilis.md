@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1JkPcijXEP9i6MOcioDa5Gymxd-maHwhv">
-<img src="https://drive.google.com/uc?export=view&id=1JkPcijXEP9i6MOcioDa5Gymxd-maHwhv" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1OGmwhHP-hNJWoHM1KcRwGCqsz1ZKSjP6">
+<img src="https://drive.google.com/uc?export=view&id=1OGmwhHP-hNJWoHM1KcRwGCqsz1ZKSjP6" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Lichens/species/PhysciaStellarisGrp" class="pagination--pager" title="Physcia stellaris grp.">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/PhysciellaChloantha" class="pagination--pager" title="Physciella chloantha">Next</a>
+<a href="/DevelopmentWebsite/Lichens/species/PhysciaStellarisGrp" class="pagination--pager" title="Physcia stellaris grp.">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/PhysconiaDetersa" class="pagination--pager" title="Physconia detersa">Next</a>
 
 <p>&nbsp;</p>
 

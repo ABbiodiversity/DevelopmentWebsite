@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1mf-MTk5DB3EewK-xdE0o05HCG4nQ2fN5">
-<img src="https://drive.google.com/uc?export=view&id=1mf-MTk5DB3EewK-xdE0o05HCG4nQ2fN5" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1cGEO8vjYa4_v0Lk3OebdY9kc-qt6fQcu">
+<img src="https://drive.google.com/uc?export=view&id=1cGEO8vjYa4_v0Lk3OebdY9kc-qt6fQcu" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1wRxmgL4MwSaVn-XPCUUYpDAmtMJVuFQZ">
-<img src="https://drive.google.com/uc?export=view&id=1wRxmgL4MwSaVn-XPCUUYpDAmtMJVuFQZ" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1N3e8cKpBbJcg3OCTcCjiKi6v8KwG1Oti">
+<img src="https://drive.google.com/uc?export=view&id=1N3e8cKpBbJcg3OCTcCjiKi6v8KwG1Oti" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Hieracium" class="pagination--pager" title="Hieracium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HieraciumUmbellatum" class="pagination--pager" title="Hieracium umbellatum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/HeucheraRichardsonii" class="pagination--pager" title="Heuchera richardsonii">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/HieraciumUmbellatum" class="pagination--pager" title="Hieracium umbellatum">Next</a>
 
 <p>&nbsp;</p>
 

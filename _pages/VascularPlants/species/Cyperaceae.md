@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1vgbEXTUfxnjQZRC1bXOLODN51-yv9fgt">
-<img src="https://drive.google.com/uc?export=view&id=1vgbEXTUfxnjQZRC1bXOLODN51-yv9fgt" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1mOaprWkpUCMDuimKty-3VU9ao_8VsXtl">
+<img src="https://drive.google.com/uc?export=view&id=1mOaprWkpUCMDuimKty-3VU9ao_8VsXtl" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/CynoglossumOfficinale" class="pagination--pager" title="Cynoglossum officinale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Cypripedium" class="pagination--pager" title="Cypripedium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CynoglossumOfficinale" class="pagination--pager" title="Cynoglossum officinale">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CypripediumAcaule" class="pagination--pager" title="Cypripedium acaule">Next</a>
 
 <p>&nbsp;</p>
 

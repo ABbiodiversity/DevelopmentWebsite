@@ -62,7 +62,7 @@ taxon.paths <- drive_ls(path = as_id("1By3V6hOn3nP2lo_GqPNDNplIsltb0a_s"))
 # Update the lookup table so we have the appropriate id for each species
 species.lookup$PathID <- NA
 
-# Ignore habitat elements as the predictions were off
+# Ignore habitat elements 
 # If we get an alignment error, check species with folders on GoogleDrive versus the species lookup table.
 for (taxon in unique(species.lookup$Taxon)) {
   
@@ -95,14 +95,30 @@ for (taxon in unique(species.lookup$Taxon)) {
     # Identify species
     spp <- taxon.subset$SpeciesID[species]
     
-    # Identify name
-    name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
-    
-    # Identify display name (Use scientific name)
-    display.name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
-    
-    # Create the camal case name as the page identifier
-    page.identifier <- paste0(toTitleCase(strsplit(x = spp, split = "\\.")[[1]]), collapse = "")
+    # If bird or mammal, use common name
+    if(taxon %in% c("Birds", "Mammals")) {
+      
+      # Identify name
+      name <- taxon.subset[taxon.subset$SpeciesID == spp, "SpeciesID"]
+      
+      # Identify display name (Use scientific name)
+      display.name <- taxon.subset[taxon.subset$SpeciesID == spp, "CommonName"]
+      
+      # Create the camal case name as the page identifier
+      page.identifier <- paste0(toTitleCase(strsplit(x = spp, split = "\\.")[[1]]), collapse = "")
+      
+    } else {
+      
+      # Identify name
+      name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
+      
+      # Identify display name (Use scientific name)
+      display.name <- taxon.subset[taxon.subset$SpeciesID == spp, "ScientificName"]
+      
+      # Create the camal case name as the page identifier
+      page.identifier <- paste0(toTitleCase(strsplit(x = spp, split = "\\.")[[1]]), collapse = "")
+      
+    }
 
     # Load the template 
     template  <- readLines("lookup/species-template.md")

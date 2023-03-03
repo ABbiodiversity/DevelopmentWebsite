@@ -1,5 +1,5 @@
 ---
-title: "Glaucomys sabrinus"
+title: "Flying Squirrel"
 layout: single
 classes: wide
 permalink: /Mammals/species/NorthernFlyingSquirrel
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1vq4SfQ0xUb1e7ag2MMpV0H6mFXEn3hKZ">
-<img src="https://drive.google.com/uc?export=view&id=1vq4SfQ0xUb1e7ag2MMpV0H6mFXEn3hKZ" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1N3wCw-YpeftZcKrXIUXrWt-g0HikjBTc">
+<img src="https://drive.google.com/uc?export=view&id=1N3wCw-YpeftZcKrXIUXrWt-g0HikjBTc" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Porcupine" class="pagination--pager" title="Erethizon dorsatum">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Wolverine" class="pagination--pager" title="Gulo gulo">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Muskrat" class="pagination--pager" title="Ondatra zibethicus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Porcupine" class="pagination--pager" title="Erethizon dorsatum">Next</a>
 
 <p>&nbsp;</p>
 

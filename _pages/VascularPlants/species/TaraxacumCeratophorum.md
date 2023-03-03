@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1mzQlY5u6SqT8CccbDLxBowYn8Ky2hAeP">
-<img src="https://drive.google.com/uc?export=view&id=1mzQlY5u6SqT8CccbDLxBowYn8Ky2hAeP" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1mkNrsAZb8toeekJPo4C5UhV3nTWZv9Eq">
+<img src="https://drive.google.com/uc?export=view&id=1mkNrsAZb8toeekJPo4C5UhV3nTWZv9Eq" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1DlTckstU6cl8URMhArpEtwP7BAtVOHIG">
-<img src="https://drive.google.com/uc?export=view&id=1DlTckstU6cl8URMhArpEtwP7BAtVOHIG" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1KmGenIEY_2tQqhR3YuPcuxA2zG_dsnct">
+<img src="https://drive.google.com/uc?export=view&id=1KmGenIEY_2tQqhR3YuPcuxA2zG_dsnct" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Taraxacum" class="pagination--pager" title="Taraxacum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TaraxacumOfficinaleErythrospermum" class="pagination--pager" title="Taraxacum officinale / erythrospermum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TanacetumVulgare" class="pagination--pager" title="Tanacetum vulgare">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TaraxacumOfficinaleErythrospermum" class="pagination--pager" title="Taraxacum officinale / erythrospermum">Next</a>
 
 <p>&nbsp;</p>
 

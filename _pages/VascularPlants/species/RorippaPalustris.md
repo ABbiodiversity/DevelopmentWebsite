@@ -10,61 +10,61 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1oYDWr0zrCakOGFFpMLjrVKBejSX8obak">
-<img src="https://drive.google.com/uc?export=view&id=1oYDWr0zrCakOGFFpMLjrVKBejSX8obak" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=18ktBpXGgFf9cdPxlB5KJ9bbg2NioQRgr">
+<img src="https://drive.google.com/uc?export=view&id=18ktBpXGgFf9cdPxlB5KJ9bbg2NioQRgr" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1KP9sSUim8rD7vkmDOsHLlG2jHv-7hiYo">
-<img src="https://drive.google.com/uc?export=view&id=1KP9sSUim8rD7vkmDOsHLlG2jHv-7hiYo" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1oLHkYIVGmp9JAobFyWw-UV-nbx2YHvY2">
+<img src="https://drive.google.com/uc?export=view&id=1oLHkYIVGmp9JAobFyWw-UV-nbx2YHvY2" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1hsFB2nYuFGyDDWKLCFSqr3rB38Oek192">
-<img src="https://drive.google.com/uc?export=view&id=1hsFB2nYuFGyDDWKLCFSqr3rB38Oek192" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1BiKkj7gE-rn5nLRCHLUGogqqlyISfz4z">
+<img src="https://drive.google.com/uc?export=view&id=1BiKkj7gE-rn5nLRCHLUGogqqlyISfz4z" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1KeuOyOaWwEY41i0CCuYLXA91__MwQXPN">
-<img src="https://drive.google.com/uc?export=view&id=1KeuOyOaWwEY41i0CCuYLXA91__MwQXPN" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Et9IP0rQK1WI-mxO2apRmYhNHS8lFcw2">
+<img src="https://drive.google.com/uc?export=view&id=1Et9IP0rQK1WI-mxO2apRmYhNHS8lFcw2" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=18ogOUPj97F_4CEqphBcWLNrTG0K8ePIk">
-<img src="https://drive.google.com/uc?export=view&id=18ogOUPj97F_4CEqphBcWLNrTG0K8ePIk" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1An2lJqK1NPy91mXIUuUMSeq8JoyuunT8">
+<img src="https://drive.google.com/uc?export=view&id=1An2lJqK1NPy91mXIUuUMSeq8JoyuunT8" height = "500" width = "500">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1hyrzbgEHHlAUsWmHZ-37tBzx_Ifzcryn">
-<img src="https://drive.google.com/uc?export=view&id=1hyrzbgEHHlAUsWmHZ-37tBzx_Ifzcryn" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1_7jvNl3Cw3Dqmx_uP_heiKnneUDyxkKD">
+<img src="https://drive.google.com/uc?export=view&id=1_7jvNl3Cw3Dqmx_uP_heiKnneUDyxkKD" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1OqiH9ROUsR5nUksAQiPfM2zMtw8Xo7cg">
-<img src="https://drive.google.com/uc?export=view&id=1OqiH9ROUsR5nUksAQiPfM2zMtw8Xo7cg" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1vtcso1aPMt_aVi-OH2vX1L-XiMtd-DRB">
+<img src="https://drive.google.com/uc?export=view&id=1vtcso1aPMt_aVi-OH2vX1L-XiMtd-DRB" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1yQ3cPnxGaW7y1IHJLuobGrA4FEzxTo0p">
-<img src="https://drive.google.com/uc?export=view&id=1yQ3cPnxGaW7y1IHJLuobGrA4FEzxTo0p" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1GM5PMyp2FoLud7FaQMPbLRNFblazL7KQ">
+<img src="https://drive.google.com/uc?export=view&id=1GM5PMyp2FoLud7FaQMPbLRNFblazL7KQ" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Rorippa" class="pagination--pager" title="Rorippa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RorippaSylvestris" class="pagination--pager" title="Rorippa sylvestris">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/RibesTriste" class="pagination--pager" title="Ribes triste">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/RorippaSylvestris" class="pagination--pager" title="Rorippa sylvestris">Next</a>
 
 <p>&nbsp;</p>
 

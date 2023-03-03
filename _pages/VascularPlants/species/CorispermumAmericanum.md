@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1pxdmu5guBg0FP5dDiG8rcqpHO4ktu1TV">
-<img src="https://drive.google.com/uc?export=view&id=1pxdmu5guBg0FP5dDiG8rcqpHO4ktu1TV" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1CxsAD1ftP-ULFFwdGCy2fJV2ABi2J4sB">
+<img src="https://drive.google.com/uc?export=view&id=1CxsAD1ftP-ULFFwdGCy2fJV2ABi2J4sB" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Corispermum" class="pagination--pager" title="Corispermum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Cornus" class="pagination--pager" title="Cornus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CoriandrumSativum" class="pagination--pager" title="Coriandrum sativum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Cornus" class="pagination--pager" title="Cornus">Next</a>
 
 <p>&nbsp;</p>
 

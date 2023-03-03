@@ -10,47 +10,47 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=15KAJFY2XZQr5-P2g437PCB2kuqLQW5K1">
-<img src="https://drive.google.com/uc?export=view&id=15KAJFY2XZQr5-P2g437PCB2kuqLQW5K1" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=120jtNYFMiYDb1XA2HWon4Jmv5zxrH22B">
+<img src="https://drive.google.com/uc?export=view&id=120jtNYFMiYDb1XA2HWon4Jmv5zxrH22B" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Gt9lMVGfLj5h8cELpXXKZdgT_8mKaOiM">
-<img src="https://drive.google.com/uc?export=view&id=1Gt9lMVGfLj5h8cELpXXKZdgT_8mKaOiM" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1hPMTAAR3Ch4ElZf-nosIRQ10V2FWdd1Q">
+<img src="https://drive.google.com/uc?export=view&id=1hPMTAAR3Ch4ElZf-nosIRQ10V2FWdd1Q" height = "500" width = "1000">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1NKf6bj04DGDjcWwu4W-AvWO4uDFp41yR">
-<img src="https://drive.google.com/uc?export=view&id=1NKf6bj04DGDjcWwu4W-AvWO4uDFp41yR" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Aqpetr3Pxqtdnofp4QwgCGKI-PcKejSG">
+<img src="https://drive.google.com/uc?export=view&id=1Aqpetr3Pxqtdnofp4QwgCGKI-PcKejSG" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=11Vmb2oCSeEFD3acXZ5YwjPqQg-j_sFNC">
-<img src="https://drive.google.com/uc?export=view&id=11Vmb2oCSeEFD3acXZ5YwjPqQg-j_sFNC" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1H1TsUuQWn_LPta5dH6jA9-B_M_4gweOX">
+<img src="https://drive.google.com/uc?export=view&id=1H1TsUuQWn_LPta5dH6jA9-B_M_4gweOX" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1AwqHdM3Z5Y0S-UxohpHQuMREU0PU59BP">
-<img src="https://drive.google.com/uc?export=view&id=1AwqHdM3Z5Y0S-UxohpHQuMREU0PU59BP" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1XafKv7qQTJLiAk9DiyBRYmf1JDNJQj6A">
+<img src="https://drive.google.com/uc?export=view&id=1XafKv7qQTJLiAk9DiyBRYmf1JDNJQj6A" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1WdV-N52hwJKykDyvJA4lvCKf-wVge5P9">
-<img src="https://drive.google.com/uc?export=view&id=1WdV-N52hwJKykDyvJA4lvCKf-wVge5P9" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1RFhEFyYonY6RfHwn7buvEkpfhTid96Em">
+<img src="https://drive.google.com/uc?export=view&id=1RFhEFyYonY6RfHwn7buvEkpfhTid96Em" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/EmpetrumNigrum" class="pagination--pager" title="Empetrum nigrum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Epilobium" class="pagination--pager" title="Epilobium">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/EmpetrumNigrum" class="pagination--pager" title="Empetrum nigrum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/EpilobiumBrachycarpum" class="pagination--pager" title="Epilobium brachycarpum">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Callospermophilus lateralis"
+title: "Golden-Mantled Ground Squirrel"
 layout: single
 classes: wide
 permalink: /Mammals/species/GoldenMantledGroundSquirrel
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1y1VrvsMz9ERp16STtjSTixT6q1-XfQqR">
-<img src="https://drive.google.com/uc?export=view&id=1y1VrvsMz9ERp16STtjSTixT6q1-XfQqR" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1DriY6u8wGnxP2Kn3hwP906H6j-KTRhpH">
+<img src="https://drive.google.com/uc?export=view&id=1DriY6u8wGnxP2Kn3hwP906H6j-KTRhpH" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/Bison" class="pagination--pager" title="Bison bison">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/WolvesCoyotesandAllies" class="pagination--pager" title="Canidae">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Fisher" class="pagination--pager" title="Pekania pennanti">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/GrayWolf" class="pagination--pager" title="Canis lupus">Next</a>
 
 <p>&nbsp;</p>
 

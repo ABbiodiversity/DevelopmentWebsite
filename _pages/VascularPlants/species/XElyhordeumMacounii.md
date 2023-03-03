@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1btfvlUWjMWfYkAgkv_Iv3-gFSeh-AUG_">
-<img src="https://drive.google.com/uc?export=view&id=1btfvlUWjMWfYkAgkv_Iv3-gFSeh-AUG_" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1cjpguXRiTsahDTmOi1mioozJ7kkZVPox">
+<img src="https://drive.google.com/uc?export=view&id=1cjpguXRiTsahDTmOi1mioozJ7kkZVPox" height = "1200" width = "800">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1y-kA7V2WemzSLt7d8u8ZvDpe2gr9KeHv">
-<img src="https://drive.google.com/uc?export=view&id=1y-kA7V2WemzSLt7d8u8ZvDpe2gr9KeHv" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=10BGNR7xezS_ew2twUXgrFD6Eo-OcdLEp">
+<img src="https://drive.google.com/uc?export=view&id=10BGNR7xezS_ew2twUXgrFD6Eo-OcdLEp" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/XanthiumStrumarium" class="pagination--pager" title="Xanthium strumarium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XElyleymusOntariensis" class="pagination--pager" title="XElyleymus ontariensis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/WoodsiaOregana" class="pagination--pager" title="Woodsia oregana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/XPascoleymusBowdenii" class="pagination--pager" title="X Pascoleymus bowdenii">Next</a>
 
 <p>&nbsp;</p>
 

@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1HJSVfieNLfwovu3KwU34E3NxQ15vF8Jt">
-<img src="https://drive.google.com/uc?export=view&id=1HJSVfieNLfwovu3KwU34E3NxQ15vF8Jt" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1jzbGwL2cjm5PBrmsgmGqam7GpVq_Cxo-">
+<img src="https://drive.google.com/uc?export=view&id=1jzbGwL2cjm5PBrmsgmGqam7GpVq_Cxo-" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Trifolium" class="pagination--pager" title="Trifolium">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumHybridum" class="pagination--pager" title="Trifolium hybridum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/TrichophorumAlpinum" class="pagination--pager" title="Trichophorum alpinum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/TrifoliumHybridum" class="pagination--pager" title="Trifolium hybridum">Next</a>
 
 <p>&nbsp;</p>
 

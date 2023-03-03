@@ -10,54 +10,54 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1PhPiH2lGVJEonRhVw7yGWKoJGCG0-wI6">
-<img src="https://drive.google.com/uc?export=view&id=1PhPiH2lGVJEonRhVw7yGWKoJGCG0-wI6" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1w2DcLEa7e9pmiRQdszariLCzh8yKNgQ4">
+<img src="https://drive.google.com/uc?export=view&id=1w2DcLEa7e9pmiRQdszariLCzh8yKNgQ4" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1nfZtylXRJa3_PgB6mpQUyW_VsdoxYq23">
-<img src="https://drive.google.com/uc?export=view&id=1nfZtylXRJa3_PgB6mpQUyW_VsdoxYq23" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=18H72-NjjWJSgxE1v-5y8Qyt9ZW-ROT41">
+<img src="https://drive.google.com/uc?export=view&id=18H72-NjjWJSgxE1v-5y8Qyt9ZW-ROT41" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1fpgo_e-zH66CDgXyHVLDgqnoaXtwD9_M">
-<img src="https://drive.google.com/uc?export=view&id=1fpgo_e-zH66CDgXyHVLDgqnoaXtwD9_M" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1mBd_KM7godxoVoYS0FR5uW4PcopGfsKK">
+<img src="https://drive.google.com/uc?export=view&id=1mBd_KM7godxoVoYS0FR5uW4PcopGfsKK" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Wzuq7vxHGyUpCGD1lRnTz7-OBDHHI33z">
-<img src="https://drive.google.com/uc?export=view&id=1Wzuq7vxHGyUpCGD1lRnTz7-OBDHHI33z" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1KdcwpeuWP8GWz9Ud3-N-WCAVZTDsmWC5">
+<img src="https://drive.google.com/uc?export=view&id=1KdcwpeuWP8GWz9Ud3-N-WCAVZTDsmWC5" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Sector Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1WMnfydoc00DH9NXAtL38Xf7cB-jrHeAw">
-<img src="https://drive.google.com/uc?export=view&id=1WMnfydoc00DH9NXAtL38Xf7cB-jrHeAw" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1CoGtBVbNzWN8CAkgobo8T4jB75HIf_lR">
+<img src="https://drive.google.com/uc?export=view&id=1CoGtBVbNzWN8CAkgobo8T4jB75HIf_lR" height = "500" width = "1000">
 </a>
 
 
 <h2>Prairie Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ZP5zWPxx0Wvqm3KUcy8t7de0UC1i42u7">
-<img src="https://drive.google.com/uc?export=view&id=1ZP5zWPxx0Wvqm3KUcy8t7de0UC1i42u7" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1_PCy6Lo7OeeuycT6tDSdQ97mMGWI2zrO">
+<img src="https://drive.google.com/uc?export=view&id=1_PCy6Lo7OeeuycT6tDSdQ97mMGWI2zrO" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1GrhqdOMUgAHd2XZWGUly7r18St468fwM">
-<img src="https://drive.google.com/uc?export=view&id=1GrhqdOMUgAHd2XZWGUly7r18St468fwM" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1gPGH8gsTazwHn1P9vE1NaB9JiBlcDkMu">
+<img src="https://drive.google.com/uc?export=view&id=1gPGH8gsTazwHn1P9vE1NaB9JiBlcDkMu" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BrassicaNapus" class="pagination--pager" title="Brassica napus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Bromus" class="pagination--pager" title="Bromus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BrassicaNapus" class="pagination--pager" title="Brassica napus">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BromusCiliatus" class="pagination--pager" title="Bromus ciliatus">Next</a>
 
 <p>&nbsp;</p>
 

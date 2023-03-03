@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=12ostI-ddd0Vg6xLxnLZaoDAmRmmUYM1n">
-<img src="https://drive.google.com/uc?export=view&id=12ostI-ddd0Vg6xLxnLZaoDAmRmmUYM1n" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1N3t_9JaS6G1fkh4OlDiN22Id0FI20d4A">
+<img src="https://drive.google.com/uc?export=view&id=1N3t_9JaS6G1fkh4OlDiN22Id0FI20d4A" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PolemoniumViscosum" class="pagination--pager" title="Polemonium viscosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Polygonum" class="pagination--pager" title="Polygonum">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PolemoniumViscosum" class="pagination--pager" title="Polemonium viscosum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PolygonumAchoreum" class="pagination--pager" title="Polygonum achoreum">Next</a>
 
 <p>&nbsp;</p>
 

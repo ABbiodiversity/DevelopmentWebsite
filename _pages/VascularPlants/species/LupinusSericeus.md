@@ -10,26 +10,26 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ftuSAB9EhVgg2cYHIIjjtEwcQr-1puSt">
-<img src="https://drive.google.com/uc?export=view&id=1ftuSAB9EhVgg2cYHIIjjtEwcQr-1puSt" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=19qf5z6EpqWRT5Scw6aB5Z2lW9lSpoJMJ">
+<img src="https://drive.google.com/uc?export=view&id=19qf5z6EpqWRT5Scw6aB5Z2lW9lSpoJMJ" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1IYhPF60GUhE7QKzx73TsJgsVuZ1Vt4gO">
-<img src="https://drive.google.com/uc?export=view&id=1IYhPF60GUhE7QKzx73TsJgsVuZ1Vt4gO" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=121NfVLFCCAXKt_agpLIE3FuWWKrPQryV">
+<img src="https://drive.google.com/uc?export=view&id=121NfVLFCCAXKt_agpLIE3FuWWKrPQryV" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1svtAW7h0Zkpvg-C8f9rG14ybaJI2ow5I">
-<img src="https://drive.google.com/uc?export=view&id=1svtAW7h0Zkpvg-C8f9rG14ybaJI2ow5I" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1njE8vnqSmEa3V3c8B-YckG15b9gAr2A_">
+<img src="https://drive.google.com/uc?export=view&id=1njE8vnqSmEa3V3c8B-YckG15b9gAr2A_" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/LupinusNootkatensis" class="pagination--pager" title="Lupinus nootkatensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Luzula" class="pagination--pager" title="Luzula">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/LupinusNootkatensis" class="pagination--pager" title="Lupinus nootkatensis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/LuzulaAcuminata" class="pagination--pager" title="Luzula acuminata">Next</a>
 
 <p>&nbsp;</p>
 

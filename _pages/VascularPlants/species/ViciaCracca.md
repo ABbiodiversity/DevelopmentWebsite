@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ebOFIVXiVZiaAOGQ6p73jqoL1wqwNAEt">
-<img src="https://drive.google.com/uc?export=view&id=1ebOFIVXiVZiaAOGQ6p73jqoL1wqwNAEt" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1fqZCGWhbYmDMHFu0DjOgZGvyOUACMsbE">
+<img src="https://drive.google.com/uc?export=view&id=1fqZCGWhbYmDMHFu0DjOgZGvyOUACMsbE" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/ViciaAmericana" class="pagination--pager" title="Vicia americana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Viola" class="pagination--pager" title="Viola">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/ViciaAmericana" class="pagination--pager" title="Vicia americana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/ViolaAdunca" class="pagination--pager" title="Viola adunca">Next</a>
 
 <p>&nbsp;</p>
 

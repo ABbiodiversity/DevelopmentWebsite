@@ -1,5 +1,5 @@
 ---
-title: "Canidae"
+title: "Canids"
 layout: single
 classes: wide
 permalink: /Mammals/species/WolvesCoyotesandAllies
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1l6ZACPz8Z3Fwd_2BHOJbcx_QjGBQy4zl">
-<img src="https://drive.google.com/uc?export=view&id=1l6ZACPz8Z3Fwd_2BHOJbcx_QjGBQy4zl" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1IJutGYsiPBPLFiXI7xjl9kYwntf-BqX9">
+<img src="https://drive.google.com/uc?export=view&id=1IJutGYsiPBPLFiXI7xjl9kYwntf-BqX9" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/GoldenMantledGroundSquirrel" class="pagination--pager" title="Callospermophilus lateralis">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Coyote" class="pagination--pager" title="Canis latrans">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Wolverine" class="pagination--pager" title="Gulo gulo">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/WoodlandCaribou" class="pagination--pager" title="Rangifer tarandus caribou">Next</a>
 
 <p>&nbsp;</p>
 

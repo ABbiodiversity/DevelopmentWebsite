@@ -10,22 +10,22 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1c1iPnlHh1GuTa3rutWYlf5afjEyDE5GV">
-<img src="https://drive.google.com/uc?export=view&id=1c1iPnlHh1GuTa3rutWYlf5afjEyDE5GV" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1g44BlmucrjcW5c3LgYLq9UwDVfswYiEA">
+<img src="https://drive.google.com/uc?export=view&id=1g44BlmucrjcW5c3LgYLq9UwDVfswYiEA" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1MnLdkp4W6e5NOVMIEzzqJ4nHapXXDnyI">
-<img src="https://drive.google.com/uc?export=view&id=1MnLdkp4W6e5NOVMIEzzqJ4nHapXXDnyI" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1Kgl0rRtl8QTyYW9_a3Cp4zofwzZ6mex1">
+<img src="https://drive.google.com/uc?export=view&id=1Kgl0rRtl8QTyYW9_a3Cp4zofwzZ6mex1" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1hyksJbcU6T6mJ8MFCI58YI_RwFhgqW9K">
-<img src="https://drive.google.com/uc?export=view&id=1hyksJbcU6T6mJ8MFCI58YI_RwFhgqW9K" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1LHU4dbicFwbTDCSuQZ8Aivbi4Ef55abc">
+<img src="https://drive.google.com/uc?export=view&id=1LHU4dbicFwbTDCSuQZ8Aivbi4Ef55abc" height = "500" width = "1000">
 </a>
 
 

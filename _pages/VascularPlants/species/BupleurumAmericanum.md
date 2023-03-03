@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1OXVZB-x0fEix00zI96SDx_lDG33vPHIZ">
-<img src="https://drive.google.com/uc?export=view&id=1OXVZB-x0fEix00zI96SDx_lDG33vPHIZ" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1UWoLj0-RlpHO8hMdVnjCWUK2ValaCmSo">
+<img src="https://drive.google.com/uc?export=view&id=1UWoLj0-RlpHO8hMdVnjCWUK2ValaCmSo" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BromusTectorum" class="pagination--pager" title="Bromus tectorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Calamagrostis" class="pagination--pager" title="Calamagrostis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BromusTectorum" class="pagination--pager" title="Bromus tectorum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CalamagrostisCanadensis" class="pagination--pager" title="Calamagrostis canadensis">Next</a>
 
 <p>&nbsp;</p>
 

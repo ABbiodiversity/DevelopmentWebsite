@@ -10,26 +10,26 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1eo1ACpycnlkav8QjRsYUB2g57ox3IVCF">
-<img src="https://drive.google.com/uc?export=view&id=1eo1ACpycnlkav8QjRsYUB2g57ox3IVCF" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1klEyhUhofWpkVIgNjLmWRz3baUUYA6-y">
+<img src="https://drive.google.com/uc?export=view&id=1klEyhUhofWpkVIgNjLmWRz3baUUYA6-y" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=13Ay3dwH-HzDzpnWTP0SjWon0QC8-Uxgv">
-<img src="https://drive.google.com/uc?export=view&id=13Ay3dwH-HzDzpnWTP0SjWon0QC8-Uxgv" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=15WPWN7j6Yb2n8meHBW_9dyjJs9-rLB2E">
+<img src="https://drive.google.com/uc?export=view&id=15WPWN7j6Yb2n8meHBW_9dyjJs9-rLB2E" height = "500" width = "1000">
 </a>
 
 
 <h2>Soil Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1COitqS48JEq4sMQBtc2i7IPL1BZWuORA">
-<img src="https://drive.google.com/uc?export=view&id=1COitqS48JEq4sMQBtc2i7IPL1BZWuORA" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1SlDl-EZ-MwenMCMdDrIpx04eBZ61unJX">
+<img src="https://drive.google.com/uc?export=view&id=1SlDl-EZ-MwenMCMdDrIpx04eBZ61unJX" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/BlitumCapitatum" class="pagination--pager" title="Blitum capitatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Boechera" class="pagination--pager" title="Boechera">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/BlitumCapitatum" class="pagination--pager" title="Blitum capitatum">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/BoecheraGrahamiiCollinsiiRetrofractaPedunculocarpa" class="pagination--pager" title="Boechera grahamii/collinsii/retrofracta/pedunculocarpa">Next</a>
 
 <p>&nbsp;</p>
 

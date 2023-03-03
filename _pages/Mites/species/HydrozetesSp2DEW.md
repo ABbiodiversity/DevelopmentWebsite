@@ -10,36 +10,29 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1ldvuL14RhTys9o5xJ1423S3XoUsmw4bN">
-<img src="https://drive.google.com/uc?export=view&id=1ldvuL14RhTys9o5xJ1423S3XoUsmw4bN" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1_fXdtEeQHhGxAouKCCJiZgC7_3iNYd3T">
+<img src="https://drive.google.com/uc?export=view&id=1_fXdtEeQHhGxAouKCCJiZgC7_3iNYd3T" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Coefficients</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1xCpQPjxEJ_xJJ4UKzX6TlyKfrLfKS4we">
-<img src="https://drive.google.com/uc?export=view&id=1xCpQPjxEJ_xJJ4UKzX6TlyKfrLfKS4we" height = "500" width = "1000">
-</a>
-
-
-<h2>Forested Sector Effects</h2>
-
-<a href="https://drive.google.com/uc?export=view&id=1hF-mYXl4nNkd_p64zU72gZRJCPSj0b3F">
-<img src="https://drive.google.com/uc?export=view&id=1hF-mYXl4nNkd_p64zU72gZRJCPSj0b3F" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1SxHhucp-nHSCAGHAzpYJ3dTOPp13DMv1">
+<img src="https://drive.google.com/uc?export=view&id=1SxHhucp-nHSCAGHAzpYJ3dTOPp13DMv1" height = "500" width = "1000">
 </a>
 
 
 <h2>Forested Linear Features Effects</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1sJ9S-EP5jBTWT0vWu9pJaUtii6SW8Vtv">
-<img src="https://drive.google.com/uc?export=view&id=1sJ9S-EP5jBTWT0vWu9pJaUtii6SW8Vtv" height = "500" width = "500">
+<a href="https://drive.google.com/uc?export=view&id=1fylF18OKkqZyFV10kGG_6-oWlC5NmOsH">
+<img src="https://drive.google.com/uc?export=view&id=1fylF18OKkqZyFV10kGG_6-oWlC5NmOsH" height = "500" width = "500">
 </a>
 
 
 <h2>Prediction Maps</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1p44smKZxuRRmWDcI6n9Z5--fgtwEbsjX">
-<img src="https://drive.google.com/uc?export=view&id=1p44smKZxuRRmWDcI6n9Z5--fgtwEbsjX" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1yCKaDKYKsHdVHixs4RRhH8Kvx7nmztQJ">
+<img src="https://drive.google.com/uc?export=view&id=1yCKaDKYKsHdVHixs4RRhH8Kvx7nmztQJ" height = "500" width = "1000">
 </a>
 
 

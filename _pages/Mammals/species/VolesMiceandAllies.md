@@ -1,5 +1,5 @@
 ---
-title: "Muridae"
+title: "Voles and Mice"
 layout: single
 classes: wide
 permalink: /Mammals/species/VolesMiceandAllies
@@ -10,8 +10,8 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1JXBXlmmsYCf13z8tE6-5sCEcg_5YPxWM">
-<img src="https://drive.google.com/uc?export=view&id=1JXBXlmmsYCf13z8tE6-5sCEcg_5YPxWM" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1PaFkJPPkQGjVumft1UaDxIVHWdfZlWwi">
+<img src="https://drive.google.com/uc?export=view&id=1PaFkJPPkQGjVumft1UaDxIVHWdfZlWwi" height = "1200" width = "800">
 </a>
 
 

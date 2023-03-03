@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=14fSYrV8ZBnYdjc5bTP_RJim0H1a3bwQn">
-<img src="https://drive.google.com/uc?export=view&id=14fSYrV8ZBnYdjc5bTP_RJim0H1a3bwQn" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1joBY7v9p6gjaUzVuSg_qv0eRS3lznAIg">
+<img src="https://drive.google.com/uc?export=view&id=1joBY7v9p6gjaUzVuSg_qv0eRS3lznAIg" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1Le4GkZeH_Rd-LdUtVP5Vqlv_Y3pIaBbS">
-<img src="https://drive.google.com/uc?export=view&id=1Le4GkZeH_Rd-LdUtVP5Vqlv_Y3pIaBbS" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1hb3sX69t9RW7_DkQarfHFOC0SkcSV-7b">
+<img src="https://drive.google.com/uc?export=view&id=1hb3sX69t9RW7_DkQarfHFOC0SkcSV-7b" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Aster" class="pagination--pager" title="Aster">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Astragalus" class="pagination--pager" title="Astragalus">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/AsparagusOfficinalis" class="pagination--pager" title="Asparagus officinalis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/AstragalusAgrestis" class="pagination--pager" title="Astragalus agrestis">Next</a>
 
 <p>&nbsp;</p>
 

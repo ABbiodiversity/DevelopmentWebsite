@@ -1,5 +1,5 @@
 ---
-title: "Castor canadensis"
+title: "Beaver"
 layout: single
 classes: wide
 permalink: /Mammals/species/Beaver
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=16zwP8jq35K5Tq2M6LMwYsjY5TLqClYSK">
-<img src="https://drive.google.com/uc?export=view&id=16zwP8jq35K5Tq2M6LMwYsjY5TLqClYSK" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1mnnM61X2Vp_7Qvoo1q9Qw_DrIsrxPuwg">
+<img src="https://drive.google.com/uc?export=view&id=1mnnM61X2Vp_7Qvoo1q9Qw_DrIsrxPuwg" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Mammals/species/GrayWolf" class="pagination--pager" title="Canis lupus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Elk" class="pagination--pager" title="Cervus">Next</a>
+<a href="/DevelopmentWebsite/Mammals/species/Badger" class="pagination--pager" title="Taxidea taxus">Previous</a> <a href="/DevelopmentWebsite/Mammals/species/Bison" class="pagination--pager" title="Bison bison">Next</a>
 
 <p>&nbsp;</p>
 

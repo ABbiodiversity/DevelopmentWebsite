@@ -10,19 +10,19 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1l205tMHc_0DzDAJFWbuucqarwwxAadcK">
-<img src="https://drive.google.com/uc?export=view&id=1l205tMHc_0DzDAJFWbuucqarwwxAadcK" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1afBjPXlKMgSZ0xx0RzIP1T9ILoh4gRuc">
+<img src="https://drive.google.com/uc?export=view&id=1afBjPXlKMgSZ0xx0RzIP1T9ILoh4gRuc" height = "1200" width = "800">
 </a>
 
 
 <h2>Vegetation Use Availability</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1sVR6UMgicx0VrlPqWyIvthtj848sU_hj">
-<img src="https://drive.google.com/uc?export=view&id=1sVR6UMgicx0VrlPqWyIvthtj848sU_hj" height = "500" width = "1000">
+<a href="https://drive.google.com/uc?export=view&id=1OisGnaO3vg2d4yvjNGkkoyq65M4_HvTY">
+<img src="https://drive.google.com/uc?export=view&id=1OisGnaO3vg2d4yvjNGkkoyq65M4_HvTY" height = "500" width = "1000">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaSubvahliana" class="pagination--pager" title="Potentilla subvahliana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/Primula" class="pagination--pager" title="Primula">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/PotentillaSubvahliana" class="pagination--pager" title="Potentilla subvahliana">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/PrimulaConjugens" class="pagination--pager" title="Primula conjugens">Next</a>
 
 <p>&nbsp;</p>
 

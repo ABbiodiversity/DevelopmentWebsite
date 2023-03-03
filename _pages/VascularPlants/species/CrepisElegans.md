@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1VygMcu4W-DHB8WkIt0Z4jpAp9RwfvfI5">
-<img src="https://drive.google.com/uc?export=view&id=1VygMcu4W-DHB8WkIt0Z4jpAp9RwfvfI5" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1N9TLSLDwdeatga3-C8Z8qE_SXVo1XRYe">
+<img src="https://drive.google.com/uc?export=view&id=1N9TLSLDwdeatga3-C8Z8qE_SXVo1XRYe" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/VascularPlants/species/Crepis" class="pagination--pager" title="Crepis">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CrepisOccidentalis" class="pagination--pager" title="Crepis occidentalis">Next</a>
+<a href="/DevelopmentWebsite/VascularPlants/species/CrataegusChrysocarpa" class="pagination--pager" title="Crataegus chrysocarpa">Previous</a> <a href="/DevelopmentWebsite/VascularPlants/species/CrepisOccidentalis" class="pagination--pager" title="Crepis occidentalis">Next</a>
 
 <p>&nbsp;</p>
 

@@ -1,5 +1,5 @@
 ---
-title: "Rostania 'glaebosa' DH"
+title: "Rostania glaebosa ined. Haughland Spribille"
 layout: single
 classes: wide
 permalink: /Lichens/species/RostaniaVespertillionis
@@ -10,12 +10,12 @@ sidebar:
 
 <h2>Detection</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1tdD0SUMJakxqBkyEYdLhxcGqhDsvA7p6">
-<img src="https://drive.google.com/uc?export=view&id=1tdD0SUMJakxqBkyEYdLhxcGqhDsvA7p6" height = "1200" width = "800">
+<a href="https://drive.google.com/uc?export=view&id=1Cd1Iec7hEswSRaSCD5rTHMBYsQHFcqrU">
+<img src="https://drive.google.com/uc?export=view&id=1Cd1Iec7hEswSRaSCD5rTHMBYsQHFcqrU" height = "1200" width = "800">
 </a>
 
 
-<a href="/DevelopmentWebsite/Lichens/species/RostaniaGlaebosa" class="pagination--pager" title="Rostania glaebosa">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/SarcogyneWheeleri" class="pagination--pager" title="Sarcogyne wheeleri">Next</a>
+<a href="/DevelopmentWebsite/Lichens/species/RhizoplacaSubdiscrepans" class="pagination--pager" title="Rhizoplaca subdiscrepans">Previous</a> <a href="/DevelopmentWebsite/Lichens/species/RostaniaGlaebosa" class="pagination--pager" title="Rostania rosaeformis ined. Haughland.Spribille">Next</a>
 
 <p>&nbsp;</p>
 
